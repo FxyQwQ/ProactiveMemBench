@@ -1,27 +1,31 @@
 {
   "profile": {
     "basic_info": {
-      "name": "林浩然",
+      "name": "Lin Haoran",
       "age": 26,
-      "gender": "男",
-      "occupation": "互联网后端开发工程师",
-      "city": "杭州",
-      "education": "本科（浙江大学，计算机科学与技术）",
-      "income_level": "年薪 35 万 -40 万 RMB"
+      "gender": "Male",
+      "occupation": "Internet Backend Development Engineer",
+      "city": "Hangzhou",
+      "education": "Bachelor's Degree (Zhejiang University, Computer Science and Technology)",
+      "income_level": "Annual salary 350,000 - 400,000 RMB"
     },
     "fitness_background": {
       "main_sports": [
-        "力量训练（健美式分化）",
-        "半程/全程马拉松",
-        "户外骑行"
+        "Strength Training (Bodybuilding Split)",
+        "Half/Full Marathons",
+        "Outdoor Cycling"
       ],
-      "level": "系统训练 3 年，全马 PB 3 小时 45 分，中级健身爱好者",
-      "gym": "公司楼下 500 米处的'超级猩猩'或'乐刻运动'（常去文三路店）",
-      "fitness_history": "大二时因体测不及格且体型消瘦开始接触健身，工作后（3 年前）开始系统化力量与耐力结合训练",
-      "goals": "“打破半马 1 小时 40 分大关”、“深蹲达到 1.5 倍体重”、“保持低体脂的同时增加肌肉线条清晰度”",
+      "level": "3 years of systematic training; Full Marathon PB 3:45; Intermediate fitness enthusiast",
+      "gym": "'Supermonkey' or 'Lefits' located 500 meters below the office (frequently visits the Wensan Road branch)",
+      "fitness_history": "Started fitness during sophomore year due to failing physical tests and being underweight; began systematic combined strength and endurance training after starting work (3 years ago)",
+      "goals": [
+        "Break the 1:40 barrier for the half marathon",
+        "Achieve a squat of 1.5x body weight",
+        "Increase muscle definition while maintaining low body fat"
+      ],
       "records": {
-        "half_marathon_pb": "1 小时 42 分 30 秒",
-        "full_marathon_pb": "3 小时 45 分 12 秒",
+        "half_marathon_pb": "1:42:30",
+        "full_marathon_pb": "3:45:12",
         "bench_press_1rm": "85kg",
         "squat_1rm": "110kg",
         "deadlift_1rm": "140kg"
@@ -29,81 +33,81 @@
     },
     "family_relations": [
       {
-        "relation": "父亲",
-        "name": "林建国",
-        "connection": "传统观念认为运动伤膝盖，常劝阻儿子少跑步，但最近看到儿子马拉松奖牌后态度转为自豪，偶尔会询问营养品是否安全。"
+        "relation": "Father",
+        "name": "Lin Jianguo",
+        "connection": "Holds traditional views that exercise harms the knees and often advises his son to run less. However, after seeing his son's marathon medals, his attitude has shifted to pride, and he occasionally asks if nutritional supplements are safe."
       },
       {
-        "relation": "母亲",
-        "name": "张慧",
-        "connection": "负责后勤支持，每次回家都会特意准备高蛋白菜肴（如炖牛肉、蒸鱼），是浩然健康饮食的主要家庭来源。"
+        "relation": "Mother",
+        "name": "Zhang Hui",
+        "connection": "Handles logistical support; specifically prepares high-protein dishes (such as braised beef and steamed fish) whenever he returns home, serving as the primary source of Haoran's healthy diet within the family."
       }
     ],
     "social_circle": [
       {
-        "name": "陈宇",
-        "role": "同公司前端同事/跑友",
-        "connection": "每周二、四早晨 6:30 相约在公司附近的滨江跑道进行 10 公里 LSD（长距离慢跑）训练，互相监督配速。"
+        "name": "Chen Yu",
+        "role": "Frontend colleague at the same company / Running partner",
+        "connection": "Meets every Tuesday and Thursday at 6:30 AM at the Binjiang track near the office for 10km LSD (Long Slow Distance) runs, mutually monitoring pace."
       },
       {
-        "name": "王强",
-        "role": "健身房认识的私教/朋友",
-        "connection": "虽然不再买课，但两人常交流训练计划和技术动作细节，王强会在浩然冲击大重量时提供保护（Spot）。"
+        "name": "Wang Qiang",
+        "role": "Personal trainer met at the gym / Friend",
+        "connection": "Although no longer purchasing sessions, the two frequently exchange training plans and technical details. Wang Qiang provides spotting support when Haoran attempts heavy lifts."
       }
     ],
     "daily_habits": {
-      "weekday_morning": "06:30 起床，空腹喝一杯黑咖啡，进行 30 分钟有氧或核心激活（视当天训练计划而定）。",
-      "weekday_evening": "19:30 下班后前往健身房，进行 60-90 分钟的力量训练（推/拉/腿分化），结束后补充蛋白粉。",
-      "weekend": "周六上午进行长距离拉练（跑步或骑行），周日下午进行主动恢复（瑜伽或泡沫轴放松）。",
-      "sleep_routine": "严格保证 23:00 前入睡，确保 7.5 小时睡眠以利于肌肉恢复。"
+      "weekday_morning": "Wakes up at 06:30, drinks a cup of black coffee on an empty stomach, and performs 30 minutes of cardio or core activation depending on the day's training plan.",
+      "weekday_evening": "Goes to the gym after work at 19:30 for 60-90 minutes of strength training (Push/Pull/Legs split), followed by protein powder supplementation.",
+      "weekend": "Saturday morning is dedicated to long-distance endurance training (running or cycling); Sunday afternoon is for active recovery (yoga or foam rolling).",
+      "sleep_routine": "Strictly ensures bedtime before 23:00 to guarantee 7.5 hours of sleep for optimal muscle recovery."
     },
     "emotional_mapping": [
       {
-        "trigger": "项目上线前的高压与代码 Bug 引发的焦虑",
-        "emotion": "烦躁、思维混乱",
-        "coping_behavior": "戴上降噪耳机进行高强度间歇跑（HIIT），通过身体的极度疲惫换取大脑的清空与平静。"
+        "trigger": "High pressure before project launches and anxiety caused by code bugs",
+        "emotion": "Irritability, mental confusion",
+        "coping_behavior": "Puts on noise-canceling headphones for high-intensity interval running (HIIT), using extreme physical exhaustion to clear the mind and achieve calmness."
       },
       {
-        "trigger": "达成个人纪录（PR）或完成长距离训练",
-        "emotion": "成就感、掌控感",
-        "coping_behavior": "在朋友圈或运动 APP 社区打卡分享数据，获得社交认同，强化自我效能感。"
+        "trigger": "Achieving a Personal Record (PR) or completing a long-distance training session",
+        "emotion": "Sense of accomplishment, sense of control",
+        "coping_behavior": "Posts data updates on WeChat Moments or sports app communities to gain social validation and reinforce self-efficacy."
       }
     ],
     "life_milestones": [
       {
         "year": 2021,
-        "event": "首次完成杭州马拉松全程",
-        "impact": "从单纯为了减肥转变为享受耐力运动的挑战，确立了“跑者”身份认同。"
+        "event": "Completed the first Hangzhou Marathon",
+        "impact": "Shifted from exercising solely for weight loss to enjoying the challenges of endurance sports, establishing a 'runner' identity."
       },
       {
         "year": 2023,
-        "event": "遭遇右膝髂胫束综合征（ITBS）停训两个月",
-        "impact": "深刻认识到恢复与科学训练的重要性，开始系统学习运动解剖学，不再盲目上大重量。"
+        "event": "Suffered from Iliotibial Band Syndrome (ITBS) in the right knee, resulting in a two-month training hiatus",
+        "impact": "Gained a profound understanding of the importance of recovery and scientific training; began systematically studying sports anatomy and stopped blindly lifting heavy weights."
       }
     ],
     "preferences": {
       "equipment": {
-        "running_shoes": "Nike Vaporfly 3 (比赛用), Asics Kayano 30 (日常训练)",
+        "running_shoes": "Nike Vaporfly 3 (Racing), Asics Kayano 30 (Daily Training)",
         "watch": "Garmin Forerunner 265",
-        "gear": "压缩腿套、骨传导耳机 (Shokz OpenRun)"
+        "gear": "Compression calf sleeves, Bone conduction headphones (Shokz OpenRun)"
       },
       "nutrition": {
-        "staples": "糙米饭、红薯、鸡胸肉、牛肉、深海鱼",
-        "supplements": "乳清蛋白粉 (ON 品牌)、肌酸、复合维生素、电解质泡腾片",
-        "dietary_habit": "工作日自带便当，严格控制油盐，欺骗餐安排在周六晚上。"
+        "staples": "Brown rice, sweet potatoes, chicken breast, beef, deep-sea fish",
+        "supplements": "Whey protein powder (ON brand), Creatine, Multivitamins, Electrolyte effervescent tablets",
+        "dietary_habit": "Brings homemade bento boxes on weekdays with strict control over oil and salt; cheat meals are scheduled for Saturday evenings."
       },
       "recovery": [
-        "使用泡沫轴和筋膜枪放松大腿外侧与小腿",
-        "每周一次运动按摩",
-        "冷热交替浴"
+        "Uses foam rollers and massage guns to relax the outer thighs and calves",
+        "One sports massage session per week",
+        "Contrast baths (hot and cold)"
       ],
       "tracking": {
         "apps": [
-          "Keep (跟练课程)",
-          "Strava (跑步/骑行数据记录与社交)",
-          "MyFitnessPal (热量与宏量营养素计算)"
+          "Keep (Follow-along workout courses)",
+          "Strava (Running/Cycling data logging and social networking)",
+          "MyFitnessPal (Calorie and macronutrient calculation)"
         ],
-        "method": "习惯用 Excel 记录每周力量训练的重量与组数，分析渐进负荷曲线。"
+        "method": "Habituallly uses Excel to record weekly strength training weights and sets to analyze progressive overload curves."
       }
     }
   }

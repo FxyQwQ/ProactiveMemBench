@@ -1,143 +1,143 @@
 {
   "basic_info": {
-    "name": "林晓阳",
+    "name": "Lin Xiaoyang",
     "age": 28,
-    "gender": "女",
-    "occupation": "互联网大厂用户体验研究员 (UX Researcher)",
-    "city": "杭州",
-    "education": "浙江大学 心理学硕士"
+    "gender": "Female",
+    "occupation": "UX Researcher at a Major Internet Company",
+    "city": "Hangzhou",
+    "education": "Master's in Psychology, Zhejiang University"
   },
   "travel_background": {
-    "experience_level": "资深",
+    "experience_level": "Senior",
     "countries_visited": [
-      "日本",
-      "泰国",
-      "越南",
-      "新加坡",
-      "马来西亚",
-      "意大利",
-      "法国",
-      "瑞士",
-      "冰岛",
-      "新西兰"
+      "Japan",
+      "Thailand",
+      "Vietnam",
+      "Singapore",
+      "Malaysia",
+      "Italy",
+      "France",
+      "Switzerland",
+      "Iceland",
+      "New Zealand"
     ],
     "cities_visited": [
-      "京都",
-      "东京",
-      "清迈",
-      "会安",
-      "新加坡市区",
-      "槟城",
-      "罗马",
-      "佛罗伦萨",
-      "巴黎",
-      "因特拉肯",
-      "雷克雅未克",
-      "皇后镇"
+      "Kyoto",
+      "Tokyo",
+      "Chiang Mai",
+      "Hoi An",
+      "Downtown Singapore",
+      "Penang",
+      "Rome",
+      "Florence",
+      "Paris",
+      "Interlaken",
+      "Reykjavik",
+      "Queenstown"
     ],
     "travel_style": [
-      "半自由行（大交通自理，当地拼团或定制）",
-      "人文历史深度游",
-      "自然摄影采风",
-      "城市漫步 (City Walk)"
+      "Semi-independent travel (self-booked long-haul transport, local group tours or customized itineraries)",
+      "In-depth cultural and historical exploration",
+      "Nature photography expeditions",
+      "City Walks"
     ],
-    "annual_trips": "每年 1 次长途出国（10-14 天）+ 1 次国内长线（7 天）+ 4-5 次江浙沪周末短途",
+    "annual_trips": "One long-haul international trip per year (10-14 days) + one domestic long-distance trip (7 days) + 4-5 weekend getaways within the Jiangsu-Zhejiang-Shanghai region",
     "bucket_list": [
-      "挪威峡湾",
-      "秘鲁马丘比丘",
-      "南极",
-      "约旦佩特拉"
+      "Norwegian Fjords",
+      "Machu Picchu, Peru",
+      "Antarctica",
+      "Petra, Jordan"
     ]
   },
   "family": [
     {
-      "relation": "爸爸",
-      "name": "林建国",
-      "travel_connection": "退休中学地理老师，酷爱收集地图和火车时刻表。他是林晓阳的‘历史顾问’，每次晓阳去欧洲前都会和他讨论当地的历史背景。爸爸年轻时因工作受限只去过北京和上海，现在最大的愿望是坐一次青藏铁路，晓阳承诺明年陪他去。"
+      "relation": "Father",
+      "name": "Lin Jianguo",
+      "travel_connection": "A retired middle school geography teacher with a passion for collecting maps and train schedules. He serves as Lin Xiaoyang's 'historical consultant'; before every trip to Europe, she discusses the local historical context with him. Due to work constraints in his youth, he only visited Beijing and Shanghai. His biggest wish now is to take the Qinghai-Tibet Railway, and Xiaoyang has promised to accompany him next year."
     },
     {
-      "relation": "妈妈",
-      "name": "陈秀兰",
-      "travel_connection": "典型的中国式母亲，担心安全和卫生，起初反对女儿独自远行。但在晓阳带她去了一次新加坡（干净、安全、有中文环境）后，态度大幅转变。现在她是晓阳的‘后勤保障部长’，每次旅行前会塞满一背包的感冒药和榨菜。"
+      "relation": "Mother",
+      "name": "Chen Xiulan",
+      "travel_connection": "A typical Chinese mother who worries about safety and hygiene, initially opposing her daughter's solo long-distance travels. However, after Xiaoyang took her to Singapore (clean, safe, and Chinese-speaking), her attitude shifted dramatically. She now acts as Xiaoyang's 'logistics minister,' stuffing a backpack full of cold medicine and pickled vegetables before every trip."
     },
     {
-      "relation": "表妹",
-      "name": "林悦",
-      "travel_connection": "00 后大学生，受晓阳影响开始旅行。两人曾一起去过泰国，但风格冲突（晓阳想看博物馆，表妹只想打卡网红店），导致那次旅行后晓阳决定以后长途旅行尽量找同龄人或独行。"
+      "relation": "Younger Cousin",
+      "name": "Lin Yue",
+      "travel_connection": "A college student born after 2000 who started traveling under Xiaoyang's influence. They once traveled together to Thailand, but their styles clashed (Xiaoyang wanted to visit museums, while her cousin only wanted to check in at influencer spots). After that trip, Xiaoyang decided to seek peers or travel solo for future long-distance journeys."
     }
   ],
   "social_circle": [
     {
-      "relation": "大学室友/闺蜜",
-      "name": "张薇",
-      "travel_connection": "性格互补，张薇擅长做 Excel 行程表和比价，晓阳负责挖掘小众景点和拍照。两人合作完美，共同去过日本关西、意大利和瑞士。是晓阳最稳定的长途旅伴。"
+      "relation": "College Roommate / Best Friend",
+      "name": "Zhang Wei",
+      "travel_connection": "Their personalities complement each other: Zhang Wei excels at creating Excel itineraries and comparing prices, while Xiaoyang is responsible for uncovering hidden gems and taking photos. They make a perfect team and have jointly visited Kansai (Japan), Italy, and Switzerland. She is Xiaoyang's most reliable long-distance travel companion."
     },
     {
-      "relation": "前同事",
-      "name": "阿杰",
-      "travel_connection": "户外狂热分子，程序员。曾邀请晓阳一起去新西兰徒步（Milford Track），那次经历让晓阳爱上了自然风光，但也让晓阳意识到自己体力有限，不适合纯硬核户外，更偏向‘舒适型徒步’。"
+      "relation": "Former Colleague",
+      "name": "Ah Jie",
+      "travel_connection": "An outdoor enthusiast and programmer. He once invited Xiaoyang to hike the Milford Track in New Zealand. That experience made Xiaoyang fall in love with natural scenery but also realize her physical limits; she is not suited for hardcore outdoor activities and prefers 'comfortable hiking' instead."
     },
     {
-      "relation": "摄影圈网友",
-      "name": "老 K",
-      "travel_connection": "在冰岛极光团认识的上海大叔，专业摄影师。两人没有一起长途旅行过，但经常交流摄影地点和参数，老 K 推荐了很多冷门的拍摄机位给晓阳。"
+      "relation": "Photography Community Friend",
+      "name": "Lao K",
+      "travel_connection": "A professional photographer from Shanghai whom she met on an Aurora tour in Iceland. Although they haven't traveled long-distance together, they frequently exchange tips on photography locations and camera settings. Lao K has recommended many obscure shooting spots to Xiaoyang."
     }
   ],
   "daily_habits": [
     {
-      "time_pattern": "通勤地铁上（早晚各 40 分钟）",
-      "activity": "浏览小红书、Instagram 或马蜂窝，收藏潜在的旅行目的地图片，整理灵感板。"
+      "time_pattern": "During commute on the subway (40 minutes each way, morning and evening)",
+      "activity": "Browsing Xiaohongshu, Instagram, or Mafengwo to save images of potential travel destinations and organize inspiration boards."
     },
     {
-      "time_pattern": "每周三晚上",
-      "activity": "学习一门新语言的基础会话（目前在学习基础意大利语，复习日语），使用多邻国或看剧。"
+      "time_pattern": "Every Wednesday evening",
+      "activity": "Learning basic conversation in a new language (currently studying basic Italian and reviewing Japanese) using Duolingo or by watching TV dramas."
     },
     {
-      "time_pattern": "每月最后一个周末",
-      "activity": "整理当月拍摄的照片，进行调色和归档，挑选 9 张发朋友圈或写一篇简短的游记博客。"
+      "time_pattern": "The last weekend of every month",
+      "activity": "Organizing photos taken during the month, color grading and archiving them, selecting nine to post on WeChat Moments, or writing a short travel blog post."
     },
     {
-      "time_pattern": "周五晚上",
-      "activity": "查看机票价格波动，关注特价机票公众号，为下一次旅行做预算规划。"
+      "time_pattern": "Friday evening",
+      "activity": "Monitoring flight price fluctuations, following official accounts for discounted airfares, and budget planning for the next trip."
     }
   ],
   "emotion_travel_map": [
     {
-      "emotion": "工作压力大/焦虑",
-      "behavior": "倾向于去海边或安静的古镇（如大理、镰仓），不需要密集行程，只想发呆、喝咖啡、听海浪声，通过‘慢’来治愈。"
+      "emotion": "High work stress / Anxiety",
+      "behavior": "Tends to visit seaside locations or quiet ancient towns (e.g., Dali, Kamakura). Prefers no dense itinerary; just wants to zone out, drink coffee, and listen to the waves, healing through 'slowness'."
     },
     {
-      "emotion": "感到迷茫/缺乏灵感",
-      "behavior": "选择去人文气息浓厚的城市（如京都、罗马、西安），参观博物馆、教堂或古迹，通过与历史的对话寻找方向。"
+      "emotion": "Feeling lost / Lacking inspiration",
+      "behavior": "Chooses cities rich in culture and history (e.g., Kyoto, Rome, Xi'an). Visits museums, churches, or ancient sites, seeking direction through dialogue with history."
     },
     {
-      "emotion": "兴奋/庆祝（如升职、完成大项目）",
-      "behavior": "选择挑战性高或风景壮丽的地方（如冰岛、新西兰、川西），尝试跳伞、冰川徒步等刺激活动，释放能量。"
+      "emotion": "Excitement / Celebration (e.g., promotion, completing a major project)",
+      "behavior": "Selects challenging or scenically magnificent places (e.g., Iceland, New Zealand, Western Sichuan). Tries thrilling activities like skydiving or glacier hiking to release energy."
     },
     {
-      "emotion": "孤独/想家",
-      "behavior": "选择美食丰富且烟火气重的地方（如成都、长沙、槟城），通过味蕾的满足和热闹的夜市人群获得慰藉。"
+      "emotion": "Loneliness / Homesickness",
+      "behavior": "Chooses places with rich cuisine and a vibrant atmosphere (e.g., Chengdu, Changsha, Penang). Finds comfort through satisfying flavors and the bustling crowds of night markets."
     }
   ],
   "life_events": [
     {
-      "time": "2018 年（硕士毕业前夕）",
-      "event": "用奖学金和兼职收入完成了第一次独自出国旅行——日本关西独行 10 天。这次经历让她学会了如何独自处理突发状况（如错过列车），确立了‘独立旅行’的自信。"
+      "time": "2018 (Just before graduating with a master's degree)",
+      "event": "Completed her first solo international trip—a 10-day solo journey through Kansai, Japan—funded by scholarships and part-time income. This experience taught her how to handle emergencies alone (such as missing a train) and established her confidence in 'independent travel'."
     },
     {
-      "time": "2021 年（工作第三年，遭遇职业瓶颈期）",
-      "event": "辞职 gap 了两个月，独自前往冰岛环岛自驾。在极致的孤独和壮丽的自然中重新思考职业规划，回国后决定从产品运营转岗为用户研究，找到了更热爱的工作方向。"
+      "time": "2021 (Third year of work, encountering a career bottleneck)",
+      "event": "Resigned and took a two-month gap, driving solo around Iceland. Amidst extreme solitude and magnificent nature, she re-evaluated her career path. Upon returning, she decided to transition from product operations to user research, finding a career direction she is more passionate about."
     },
     {
-      "time": "2023 年",
-      "event": "第一次带父母出国，精心策划了新加坡 5 日游。看到父母在环球影城像孩子一样开心，她深刻体会到旅行不仅是自我探索，也是连接亲情的纽带，从此将‘家庭友好型’纳入旅行考量。"
+      "time": "2023",
+      "event": "Took her parents abroad for the first time, meticulously planning a 5-day trip to Singapore. Seeing her parents as happy as children at Universal Studios, she deeply realized that travel is not just about self-exploration but also a bond connecting family. Since then, she has included 'family-friendly' considerations in her travel planning."
     }
   ],
   "preferences": {
-    "accommodation": "偏好有设计感的精品民宿或位置便利的三星级以上酒店。拒绝嘈杂的青年旅舍多人间，但喜欢有公共交流空间的青旅大厅。重视卫生条件和床品质量。",
-    "transport": "长途首选飞机（偏好靠窗位），欧洲/日本境内偏爱火车（享受沿途风景），城市内喜欢步行或公共交通，偶尔租车自驾但不开夜车。",
-    "food": "拒绝游客团餐。喜欢在当地人聚集的苍蝇馆子、早市或夜市觅食。对咖啡和甜点有研究，每到一个城市必探店 2-3 家特色咖啡馆。",
-    "photography": "装备：Sony A7C II + 20-70mm 镜头 + 大疆 Pocket 3。风格：偏好自然光，喜欢捕捉街头人文瞬间和宏大的风景，不喜欢过度磨皮的人像照。",
-    "souvenirs": "不买义乌小商品。只收集冰箱贴（每个城市一个）、当地特色的明信片（会寄给自己或朋友）、以及有实用价值的餐具或布艺品。"
+    "accommodation": "Prefers boutique homestays with unique design or convenient 3-star+ hotels. Rejects noisy dormitory rooms in hostels but enjoys hostel lobbies with public social spaces. Places high importance on hygiene and bedding quality.",
+    "transport": "Prefers flying for long distances (window seat preferred). Favors trains for travel within Europe and Japan to enjoy the scenery. Prefers walking or public transport within cities. Occasionally rents a car for self-driving but avoids driving at night.",
+    "food": "Rejects tourist group meals. Enjoys hunting for food at local eateries ('fly restaurants'), morning markets, or night markets where locals gather. Knowledgeable about coffee and desserts; must visit 2-3 specialty cafes in every city.",
+    "photography": "Gear: Sony A7C II + 20-70mm lens + DJI Pocket 3. Style: Prefers natural light, capturing street human moments and grand landscapes. Dislikes overly retouched portraits.",
+    "souvenirs": "Does not buy mass-produced trinkets. Only collects fridge magnets (one per city), locally characteristic postcards (sent to herself or friends), and practical tableware or textile items."
   }
 }

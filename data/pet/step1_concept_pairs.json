@@ -1,531 +1,531 @@
 [
   {
     "id": "time_01",
-    "type": "时间触发器",
-    "natural_expression": "每天早上 7:30，林晓被麻薯踩醒后，第一时间清理猫砂盆并给自动喂食器添加渴望干粮。",
+    "type": "Time Trigger",
+    "natural_expression": "Every morning at 7:30, after being woken up by Mochi stepping on her, Lin Xiao immediately cleans the litter box and refills the automatic feeder with Orijen dry food.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "自动喂食器",
-      "渴望 (Orijen)"
+      "Lin Xiao",
+      "Mochi",
+      "Automatic Feeder",
+      "Orijen"
     ]
   },
   {
     "id": "time_02",
-    "type": "时间触发器",
-    "natural_expression": "每晚 20:00 下班回到家，林晓会用带羽毛的电动钓鱼竿陪麻薯玩 20 分钟，随后喂它吃小李子罐头。",
+    "type": "Time Trigger",
+    "natural_expression": "Every evening at 20:00 upon returning home from work, Lin Xiao plays with Mochi for 20 minutes using an electric fishing rod toy with feathers, then feeds it Leonardo canned food.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "电动钓鱼竿",
-      "小李子"
+      "Lin Xiao",
+      "Mochi",
+      "Electric Fishing Rod Toy",
+      "Leonardo"
     ]
   },
   {
     "id": "time_03",
-    "type": "时间触发器",
-    "natural_expression": "每周六上午，林晓会对余杭区未来科技城的出租屋进行深度吸尘清理猫毛，并清洗麻薯的猫窝。",
+    "type": "Time Trigger",
+    "natural_expression": "Every Saturday morning, Lin Xiao thoroughly vacuums the rental apartment in Future Sci-Tech City, Yuhang District, to remove cat hair and washes Mochi's cat bed.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "出租屋",
-      "猫窝"
+      "Lin Xiao",
+      "Mochi",
+      "Rental Apartment",
+      "Cat Bed"
     ]
   },
   {
     "id": "time_04",
-    "type": "时间触发器",
-    "natural_expression": "每两周的一个周末，林晓会在家使用进口沐浴露给麻薯洗澡，并仔细梳理它的银渐层毛发。",
+    "type": "Time Trigger",
+    "natural_expression": "Every other weekend, Lin Xiao bathes Mochi at home using imported pet shampoo and carefully grooms its silver shaded fur.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "进口沐浴露"
+      "Lin Xiao",
+      "Mochi",
+      "Imported Pet Shampoo"
     ]
   },
   {
     "id": "time_05",
-    "type": "时间触发器",
-    "natural_expression": "每季度末，林晓会带麻薯去宠物店进行专业去油护理和指甲打磨，以维持它的皮肤健康。",
+    "type": "Time Trigger",
+    "natural_expression": "At the end of each quarter, Lin Xiao takes Mochi to the pet store for professional degreasing treatment and nail filing to maintain its skin health.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "宠物店"
+      "Lin Xiao",
+      "Mochi",
+      "Pet Store"
     ]
   },
   {
     "id": "time_06",
-    "type": "时间触发器",
-    "natural_expression": "周末闲暇时，林晓常和同事陈晨相约，带着麻薯和金毛去杭州的宠物友好公园聚会。",
+    "type": "Time Trigger",
+    "natural_expression": "On weekends during their free time, Lin Xiao often meets up with her colleague Chen Chen, bringing Mochi and the Golden Retriever to gather at a pet-friendly park in Hangzhou.",
     "involved_entities": [
-      "林晓",
-      "陈晨",
-      "麻薯",
-      "杭州宠物友好公园"
+      "Lin Xiao",
+      "Chen Chen",
+      "Mochi",
+      "Hangzhou Pet-Friendly Park"
     ]
   },
   {
     "id": "time_07",
-    "type": "时间触发器",
-    "natural_expression": "每年定期，林晓会带麻薯前往转塘附近的安安宠医找张医生进行全面体检和疫苗接种。",
+    "type": "Time Trigger",
+    "natural_expression": "Annually, Lin Xiao takes Mochi to An'an Pet Clinic near Zhuantang for a comprehensive check-up and vaccinations with Dr. Zhang.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "张医生",
-      "安安宠医"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang",
+      "An'an Pet Clinic"
     ]
   },
   {
     "id": "time_08",
-    "type": "情感触发器",
-    "natural_expression": "深夜加班感到孤独时，麻薯会跳到键盘旁蹭林晓的手背，陪伴她度过杭州夜晚的工作时光。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When feeling lonely during late-night overtime work, Mochi jumps beside the keyboard to nuzzle Lin Xiao's hand, keeping her company through her work nights in Hangzhou.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "键盘"
+      "Lin Xiao",
+      "Mochi",
+      "Keyboard"
     ]
   },
   {
     "id": "time_09",
-    "type": "实体触发器",
-    "natural_expression": "每次与母亲视频通话时，林母总会询问麻薯的近况，并提到刚邮寄了自制的鸡肉干零食。",
+    "type": "Entity Trigger",
+    "natural_expression": "During every video call with her mother, Lin's mom always asks about Mochi's well-being and mentions that she has just mailed some homemade chicken jerky treats.",
     "involved_entities": [
-      "林晓",
-      "林母",
-      "麻薯",
-      "自制鸡肉干"
+      "Lin Xiao",
+      "Lin's Mom",
+      "Mochi",
+      "Homemade Chicken Jerky"
     ]
   },
   {
     "id": "time_10",
-    "type": "实体触发器",
-    "natural_expression": "收到父亲偷偷转账备注‘给猫买暖气’时，林晓知道这是沉默寡言的父亲对麻薯默默的关心。",
+    "type": "Entity Trigger",
+    "natural_expression": "Upon receiving a silent money transfer from her father with the note 'Buy heating for the cat,' Lin Xiao knows this is her taciturn father's quiet way of showing care for Mochi.",
     "involved_entities": [
-      "林晓",
-      "林父",
-      "麻薯"
+      "Lin Xiao",
+      "Lin's Dad",
+      "Mochi"
     ]
   },
   {
     "id": "time_11",
-    "type": "时间触发器",
-    "natural_expression": "每年冬天，林晓都会回忆起 2021 年那个寒冷的夜晚，她在公司楼下纸箱里发现并收养瑟瑟发抖的小麻薯的日子。",
+    "type": "Time Trigger",
+    "natural_expression": "Every winter, Lin Xiao recalls that cold night in 2021 when she found and adopted a shivering little Mochi in a cardboard box downstairs from her office.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "公司楼下"
+      "Lin Xiao",
+      "Mochi",
+      "Downstairs from the office"
     ]
   },
   {
     "id": "time_12",
-    "type": "行为模式触发器",
-    "natural_expression": "自从 2023 年麻薯误食塑料绳后，林晓养成了每天出门前严格收纳家中所有细小物品的习惯，以防意外再次发生。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Since Mochi accidentally ingested a plastic string in 2023, Lin Xiao has developed a habit of strictly storing away all small household items before leaving home every day to prevent another accident.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "细小物品"
+      "Lin Xiao",
+      "Mochi",
+      "Small items"
     ]
   },
   {
     "id": "emotion_01",
-    "type": "情感触发器",
-    "natural_expression": "作为 UI/UX 设计师工作压力大时，林晓回到家一言不发直接抱起麻薯窝在沙发上，猫咪的呼噜声让她在 10 分钟内焦虑消散。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When stressed from her work as a UI/UX designer, Lin Xiao returns home without saying a word, picks up Mochi, and curls up on the sofa; the cat's purring dissipates her anxiety within 10 minutes.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "沙发",
-      "呼噜声"
+      "Lin Xiao",
+      "Mochi",
+      "Sofa",
+      "Purring sound"
     ]
   },
   {
     "id": "emotion_02",
-    "type": "情感触发器",
-    "natural_expression": "深夜在杭州余杭区的出租屋加班感到孤独时，麻薯主动跳到显示器旁用头蹭林晓的手背，让她觉得不是一个人在战斗。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When feeling lonely while working late at night in her rental apartment in Yuhang District, Hangzhou, Mochi voluntarily jumps beside the monitor and rubs its head against Lin Xiao's hand, making her feel she is not fighting alone.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "显示器",
-      "出租屋"
+      "Lin Xiao",
+      "Mochi",
+      "Monitor",
+      "Rental apartment"
     ]
   },
   {
     "id": "emotion_03",
-    "type": "情感触发器",
-    "natural_expression": "听到开‘小李子’罐头的声音，原本在睡梦中高冷傲娇的麻薯会瞬间惊醒并飞奔过来，这种反差让林晓感到被需要的快乐。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Upon hearing the sound of a 'Xiao Li Zi' can being opened, Mochi, who is usually aloof and tsundere even in sleep, instantly wakes up and dashes over; this contrast brings Lin Xiao the joy of feeling needed.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "小李子罐头"
+      "Lin Xiao",
+      "Mochi",
+      "Xiao Li Zi canned food"
     ]
   },
   {
     "id": "emotion_04",
-    "type": "情感触发器",
-    "natural_expression": "当麻薯再次趴在键盘上‘监督’林晓做设计稿时，她虽然无奈无法打字，却因猫咪强烈的占有欲而感到温暖好笑。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When Mochi lies on the keyboard again to 'supervise' Lin Xiao as she works on her design drafts, she feels helplessly unable to type, yet warmed and amused by the cat's intense possessiveness.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "设计稿"
+      "Lin Xiao",
+      "Mochi",
+      "keyboard",
+      "design drafts"
     ]
   },
   {
     "id": "emotion_05",
-    "type": "情感触发器",
-    "natural_expression": "收到母亲邮寄的自制鸡肉干并听到视频里询问麻薯情况时，林晓感受到母亲从反对到接纳的温情转变。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Upon receiving homemade chicken jerky mailed by her mother and hearing her ask about Mochi during their video call, Lin Xiao feels the warm shift in her mother's attitude from opposition to acceptance.",
     "involved_entities": [
-      "林晓",
-      "林母",
-      "麻薯",
-      "自制鸡肉干"
+      "Lin Xiao",
+      "Lin's Mother",
+      "Mochi",
+      "homemade chicken jerky"
     ]
   },
   {
     "id": "emotion_06",
-    "type": "情感触发器",
-    "natural_expression": "看到父亲转账备注‘给猫买暖气’时，林晓读懂了沉默寡言的父亲对麻薯笨拙却深沉的关爱，内心充满感动。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Seeing the transfer note from her father reading 'for buying a heater for the cat,' Lin Xiao understands her taciturn father's clumsy yet profound love for Mochi, filling her heart with emotion.",
     "involved_entities": [
-      "林晓",
-      "林父",
-      "麻薯"
+      "Lin Xiao",
+      "Lin's Father",
+      "Mochi"
     ]
   },
   {
     "id": "emotion_07",
-    "type": "情感触发器",
-    "natural_expression": "每当看到地上有细小物品，林晓就会瞬间紧张并立刻收纳，2023 年麻薯误食塑料绳导致肠梗阻的惊险记忆让她不敢松懈。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Whenever Lin Xiao spots small objects on the floor, she instantly becomes tense and puts them away immediately; the harrowing memory of Mochi swallowing a plastic string and suffering an intestinal obstruction in 2023 keeps her from letting her guard down.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "细小物品",
-      "塑料绳"
+      "Lin Xiao",
+      "Mochi",
+      "small objects",
+      "plastic string"
     ]
   },
   {
     "id": "emotion_08",
-    "type": "情感触发器",
-    "natural_expression": "周末在宠物友好公园与闺蜜陈晨交换麻薯和金毛的照片时，林晓在分享养宠点滴中获得了强烈的共鸣和放松。",
+    "type": "Emotional Trigger",
+    "natural_expression": "While exchanging photos of Mochi and a Golden Retriever with her best friend Chen Chen at a pet-friendly park on the weekend, Lin Xiao finds strong resonance and relaxation in sharing the little moments of pet ownership.",
     "involved_entities": [
-      "林晓",
-      "陈晨",
-      "麻薯",
-      "金毛"
+      "Lin Xiao",
+      "Chen Chen",
+      "Mochi",
+      "Golden Retriever"
     ]
   },
   {
     "id": "emotion_09",
-    "type": "情感触发器",
-    "natural_expression": "在安安宠医看到张医生耐心对待麻薯时，林晓因拥有值得信赖的朋友般的专业医生而感到安心和踏实。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Seeing Dr. Zhang patiently treat Mochi at An'an Pet Clinic, Lin Xiao felt reassured and grounded to have a professional veterinarian who feels like a trustworthy friend.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "张医生",
-      "安安宠医"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang",
+      "An'an Pet Clinic"
     ]
   },
   {
     "id": "emotion_10",
-    "type": "情感触发器",
-    "natural_expression": "看着如今健康粘人的银渐层麻薯，林晓常感激 2021 年冬天那个加班夜晚的决定，庆幸自己给了这个小生命一个家。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Looking at Mochi, now a healthy and affectionate silver-shaded cat, Lin Xiao often feels grateful for the decision made on that overtime night in the winter of 2021, rejoicing that she gave this little life a home.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "2021 年冬天"
+      "Lin Xiao",
+      "Mochi",
+      "Winter 2021"
     ]
   },
   {
     "id": "emotion_11",
-    "type": "情感触发器",
-    "natural_expression": "搬入未来科技城新居时，看到麻薯在封闭阳台安全地晒太阳，林晓为当初优先选择‘宠物友好’房源的决定感到欣慰。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When moving into her new home in Future Sci-Tech City, seeing Mochi safely basking in the sun on the enclosed balcony, Lin Xiao felt comforted by her earlier decision to prioritize 'pet-friendly' housing.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "封闭阳台",
-      "未来科技城"
+      "Lin Xiao",
+      "Mochi",
+      "Enclosed Balcony",
+      "Future Sci-Tech City"
     ]
   },
   {
     "id": "emotion_12",
-    "type": "情感触发器",
-    "natural_expression": "每周六深度吸尘后，看着干净的房间和梳理得蓬松柔顺的麻薯，林晓在劳动中获得了治愈和秩序感。",
+    "type": "Emotional Trigger",
+    "natural_expression": "After deep vacuuming every Saturday, looking at the clean room and Mochi, whose fur is now fluffy and smooth from grooming, Lin Xiao finds healing and a sense of order in her labor.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "吸尘器",
-      "猫毛"
+      "Lin Xiao",
+      "Mochi",
+      "Vacuum Cleaner",
+      "Cat Hair"
     ]
   },
   {
     "id": "behavior_01",
-    "type": "行为模式触发器",
-    "natural_expression": "每天出门去余杭区未来科技城的公司前，林晓都会特意检查阳台锁扣是否紧闭，并轻声对麻薯说‘乖乖看家’，这是自 2023 年意外后养成的安全习惯。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Every day before leaving for her company in Future Sci-Tech City, Yuhang District, Lin Xiao makes a point to check that the balcony latch is securely closed and softly tells Mochi, 'Be good and watch the house,' a safety habit formed since the accident in 2023.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "阳台锁扣",
-      "公司"
+      "Lin Xiao",
+      "Mochi",
+      "Balcony Latch",
+      "Company"
     ]
   },
   {
     "id": "behavior_02",
-    "type": "行为模式触发器",
-    "natural_expression": "看到银渐层麻薯在阳光下蜷缩成‘麻薯团’睡觉时，林晓会立刻掏出手机拍下照片，作为日后发给母亲或陈晨的‘今日份可爱’素材。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "When Lin Xiao sees Mochi, the silver-shaded cat, curled up like a 'mochi ball' sleeping in the sunlight, she immediately pulls out her phone to take a photo, saving it as 'today's dose of cuteness' to send to her mother or Chen Chen later.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "手机",
-      "林母"
+      "Lin Xiao",
+      "Mochi",
+      "Phone",
+      "Lin's Mother"
     ]
   },
   {
     "id": "behavior_03",
-    "type": "行为模式触发器",
-    "natural_expression": "准备晚餐时，林晓会用特有的轻柔语调呼唤‘麻薯，开饭啦’，听到声音的高冷猫咪会瞬间从房间任何角落冲向她脚边。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "While preparing dinner, Lin Xiao calls out in her uniquely gentle tone, 'Mochi, dinner time!' Upon hearing this, the aloof cat instantly dashes from any corner of the room to her feet.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "晚餐"
+      "Lin Xiao",
+      "Mochi",
+      "Dinner"
     ]
   },
   {
     "id": "behavior_04",
-    "type": "行为模式触发器",
-    "natural_expression": "当林晓打开电脑开始绘制 UI 设计稿时，麻薯总会精准地跳上键盘区域趴下，林晓便习惯性地用左手单手操作鼠标，右手轻抚猫背继续工作。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Whenever Lin Xiao opens her computer to start drafting UI designs, Mochi always jumps precisely onto the keyboard area and lies down. Lin Xiao then habitually operates the mouse with her left hand while gently stroking the cat's back with her right, continuing her work.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "UI 设计稿"
+      "Lin Xiao",
+      "Mochi",
+      "Keyboard",
+      "UI Design Drafts"
     ]
   },
   {
     "id": "behavior_05",
-    "type": "行为模式触发器",
-    "natural_expression": "每次拆开‘帕特’生骨肉冻干或‘小李子’罐头后，林晓会立即将包装封口并锁进高处柜子，防止误食塑料包装的悲剧重演。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Every time she opens a package of 'Partners' raw freeze-dried food or 'Leonardo' canned food, Lin Xiao immediately seals the packaging and locks it in a high cabinet to prevent a recurrence of the tragedy where plastic wrapping was accidentally eaten.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "帕特冻干",
-      "高处柜子"
+      "Lin Xiao",
+      "Mochi",
+      "Partners Freeze-Dried Food",
+      "High Cabinet"
     ]
   },
   {
     "id": "behavior_06",
-    "type": "行为模式触发器",
-    "natural_expression": "每晚 20:00 推开出租屋家门的那一刻，林晓会先放下包，蹲下身等待麻薯前来蹭腿闻味，完成这套固定的‘回家仪式’后才去换鞋。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Every night at 20:00, the moment Lin Xiao pushes open the door to her rental apartment, she first puts down her bag and crouches down, waiting for Mochi to come over and rub against her legs to sniff her scent. Only after completing this fixed 'homecoming ritual' does she proceed to change her shoes.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "出租屋"
+      "Lin Xiao",
+      "Mochi",
+      "Rental Apartment"
     ]
   },
   {
     "id": "behavior_07",
-    "type": "行为模式触发器",
-    "natural_expression": "发现麻薯对昂贵的电动老鼠失去兴趣后，林晓习惯每周将瓦楞纸猫抓板和羽毛钓鱼竿轮换摆放，以重新激发这只英国短毛猫的捕猎欲望。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Noticing that Mochi had lost interest in the expensive electric mouse, Lin Xiao makes it a weekly habit to rotate the placement of the corrugated cardboard scratcher and the feather fishing rod toy to rekindle the British Shorthair's hunting instincts.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "瓦楞纸猫抓板",
-      "羽毛钓鱼竿"
+      "Lin Xiao",
+      "Mochi",
+      "Corrugated Cardboard Scratcher",
+      "Feather Fishing Rod Toy"
     ]
   },
   {
     "id": "behavior_08",
-    "type": "行为模式触发器",
-    "natural_expression": "每日梳毛时，林晓会特意拨开银渐层厚厚的底绒检查皮肤状况，确认没有类似当年猫藓的红斑后，才安心地继续梳理。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "During daily grooming, Lin Xiao carefully parts the Silver Shaded cat's thick undercoat to inspect the skin, only continuing with the brushing once confirmed that there are no red patches similar to the ringworm from years past.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "梳子",
-      "皮肤"
+      "Lin Xiao",
+      "Mochi",
+      "Comb",
+      "Skin"
     ]
   },
   {
     "id": "behavior_09",
-    "type": "时间触发器",
-    "natural_expression": "周末与陈晨在宠物公园聚会时，林晓习惯性地先让麻薯和金毛互相嗅闻，随后立刻举起手机记录两只宠物互动的画面发朋友圈。",
+    "type": "Time Trigger",
+    "natural_expression": "When meeting Chen Chen at the pet park on weekends, Lin Xiao habitually lets Mochi and the Golden Retriever sniff each other first, then immediately raises their phone to capture the interaction between the two pets for posting on WeChat Moments.",
     "involved_entities": [
-      "林晓",
-      "陈晨",
-      "麻薯",
-      "金毛"
+      "Lin Xiao",
+      "Chen Chen",
+      "Mochi",
+      "Golden Retriever"
     ]
   },
   {
     "id": "behavior_10",
-    "type": "情感触发器",
-    "natural_expression": "一旦感到设计项目进度焦虑，林晓会下意识地将脸埋进麻薯柔软的腹部深吸一口气，利用猫咪特有的味道和体温快速平复心情。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Whenever feeling anxious about design project deadlines, Lin Xiao subconsciously buries their face in Mochi's soft belly and takes a deep breath, using the cat's unique scent and body warmth to quickly calm down.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "设计项目"
+      "Lin Xiao",
+      "Mochi",
+      "Design Project"
     ]
   },
   {
     "id": "behavior_11",
-    "type": "行为模式触发器",
-    "natural_expression": "每次在安安宠医体检结束，林晓都会习惯性地拿出笔记本，详细记录张医生关于麻薯体重和牙齿的每一项建议，以便回家执行。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "After every check-up at An'an Pet Hospital, Lin Xiao habitually takes out a notebook to meticulously record every recommendation Dr. Zhang makes regarding Mochi's weight and dental care, ensuring they can be implemented at home.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "张医生",
-      "笔记本"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang",
+      "Notebook"
     ]
   },
   {
     "id": "behavior_12",
-    "type": "时间触发器",
-    "natural_expression": "睡前林晓会检查自动喂食器的余粮和水位，并确认麻薯的猫窝放置在远离窗户的安静角落，确保它在杭州的夜晚睡得安稳。",
+    "type": "Time Trigger",
+    "natural_expression": "Before bed, Lin Xiao checks the remaining food and water levels in the automatic feeder, and ensures Mochi's cat bed is placed in a quiet corner away from the window, guaranteeing a peaceful night's sleep in Hangzhou.",
     "involved_entities": [
-      "林晓",
-      "麻薯",
-      "自动喂食器",
-      "猫窝"
+      "Lin Xiao",
+      "Mochi",
+      "Automatic Feeder",
+      "Cat Bed"
     ]
   },
   {
     "id": "multihop_01",
-    "type": "多跳触发器",
-    "natural_expression": "鉴于麻薯 2023 年曾因误食异物导致肠梗阻，林晓在选择‘渴望’干粮时格外谨慎，并严格遵循张医生在安安宠医提出的‘少食多餐’建议，通过自动喂食器精准控制每顿的份量以防消化负担。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Given that Mochi suffered an intestinal obstruction in 2023 due to ingesting a foreign object, Lin Xiao is exceptionally cautious when selecting 'Orijen' dry food. She strictly follows Dr. Zhang's 'small, frequent meals' recommendation from An'an Pet Clinic, using the automatic feeder to precisely control portion sizes and prevent digestive strain.",
     "involved_entities": [
-      "麻薯",
-      "肠梗阻病史",
-      "渴望 (Orijen)",
-      "张医生",
-      "自动喂食器"
+      "Mochi",
+      "History of Intestinal Obstruction",
+      "Orijen",
+      "Dr. Zhang",
+      "Automatic Feeder"
     ]
   },
   {
     "id": "multihop_02",
-    "type": "多跳触发器",
-    "natural_expression": "回想起麻薯收养初期严重的猫藓病史，林晓在每周六使用进口沐浴露洗澡后，会特意拨开银渐层的底绒仔细检查皮肤，确认无红斑后再将清洗过的猫窝放回封闭阳台晒太阳消毒。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Recalling Mochi's severe history of ringworm during the early adoption period, Lin Xiao parts the silver-shaded undercoat to carefully inspect the skin every Saturday after bathing with imported shampoo. Only after confirming there are no red patches does she return the washed cat bed to the enclosed balcony for sun disinfection.",
     "involved_entities": [
-      "麻薯",
-      "猫藓病史",
-      "进口沐浴露",
-      "皮肤检查",
-      "封闭阳台"
+      "Mochi",
+      "History of Ringworm",
+      "Imported Shampoo",
+      "Skin Inspection",
+      "Enclosed Balcony"
     ]
   },
   {
     "id": "multihop_03",
-    "type": "多跳触发器",
-    "natural_expression": "当 UI 设计稿修改导致林晓焦虑时，麻薯趴在键盘上的‘监督’行为不仅打断了她的负面思绪，更让她联想到 2021 年那个寒冷夜晚的相遇，从而在抚摸猫背的过程中迅速平复心情并重新投入工作。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "When revisions to the UI design drafts cause Lin Xiao anxiety, Mochi's act of lying on the keyboard to 'supervise' not only interrupts her negative thoughts but also reminds her of their meeting on that cold night in 2021. Consequently, stroking the cat's back quickly calms her, allowing her to refocus on work.",
     "involved_entities": [
-      "林晓",
-      "UI 设计稿",
-      "键盘",
-      "2021 年收养经历",
-      "焦虑平复"
+      "Lin Xiao",
+      "UI Design Drafts",
+      "Keyboard",
+      "2021 Adoption Experience",
+      "Anxiety Relief"
     ]
   },
   {
     "id": "multihop_04",
-    "type": "多跳触发器",
-    "natural_expression": "林母从最初反对养猫到如今定期邮寄自制鸡肉干，这一转变源于林晓持续发送麻薯在余杭出租屋的可爱视频，特别是那次麻薯误食危机后林晓展现出的责任感，彻底打消了母亲的卫生顾虑。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Lin's mother has transformed from initially opposing cat ownership to regularly mailing homemade chicken jerky. This change stems from Lin Xiao consistently sending cute videos of Mochi in their Yuhang rental apartment; particularly after the ingestion crisis, Lin Xiao's demonstrated sense of responsibility completely alleviated her mother's hygiene concerns.",
     "involved_entities": [
-      "林母",
-      "自制鸡肉干",
-      "麻薯视频",
-      "误食危机",
-      "责任感"
+      "Lin's Mother",
+      "Homemade Chicken Jerky",
+      "Mochi Videos",
+      "Ingestion Crisis",
+      "Sense of Responsibility"
     ]
   },
   {
     "id": "multihop_05",
-    "type": "多跳触发器",
+    "type": "Multi-hop Trigger",
     "industry": "social_interaction",
-    "natural_expression": "在与陈晨相约去杭州宠物友好公园前，林晓会先检查麻薯的指甲长度，这是因为 2023 年肠梗阻事件让她意识到户外环境复杂，必须确保爱宠在社交玩耍时不会因抓挠误吞异物或受伤。",
+    "natural_expression": "Before meeting Chen Chen at the pet-friendly park in Hangzhou, Lin Xiao always checks Mochi's nail length. This habit stems from a 2023 intestinal obstruction incident, which made her realize that outdoor environments are complex; she must ensure her beloved pet won't accidentally ingest foreign objects or get injured while playing socially.",
     "involved_entities": [
-      "林晓",
-      "陈晨",
-      "宠物友好公园",
-      "指甲修剪",
-      "2023 年意外"
+      "Lin Xiao",
+      "Chen Chen",
+      "Pet-friendly Park",
+      "Nail Trimming",
+      "2023 Accident"
     ]
   },
   {
     "id": "multihop_06",
-    "type": "多跳触发器",
-    "natural_expression": "发现麻薯对昂贵电动老鼠兴趣缺缺后，林晓结合其‘英国短毛猫’的捕猎天性，特意选购了瓦楞纸猫抓板和羽毛钓鱼竿，并在每周六深度吸尘后轮换摆放，成功激发了这只曾患猫藓小猫的活力。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "After noticing Mochi's lack of interest in the expensive electric mouse, Lin Xiao leveraged its British Shorthair hunting instincts to purchase corrugated cardboard scratchers and feather fishing rod toys. By rotating these items every Saturday after a deep vacuuming session, she successfully rekindled the vitality of this kitten, which had previously suffered from ringworm.",
     "involved_entities": [
-      "麻薯",
-      "电动老鼠",
-      "瓦楞纸猫抓板",
-      "英国短毛猫",
-      "深度吸尘"
+      "Mochi",
+      "Electric Mouse",
+      "Corrugated Cardboard Scratcher",
+      "British Shorthair",
+      "Deep Vacuuming"
     ]
   },
   {
     "id": "multihop_07",
-    "type": "多跳触发器",
-    "natural_expression": "2022 年搬家时林晓优先选择‘封闭阳台’房源的决定，在麻薯误食塑料绳康复后显得尤为正确，如今她每天出门前双重检查阳台锁扣，确保这只喜欢趴窗边的银渐层在杭州高层中绝对安全。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Lin Xiao's decision in 2022 to prioritize apartments with enclosed balconies during her move proved especially wise after Mochi recovered from accidentally ingesting a plastic string. Nowadays, she double-checks the balcony latches before leaving home every day, ensuring absolute safety for this Silver Shaded cat that loves lounging by the window in their high-rise building in Hangzhou.",
     "involved_entities": [
-      "林晓",
-      "封闭阳台",
-      "2023 年误食事件",
-      "阳台锁扣",
-      "银渐层"
+      "Lin Xiao",
+      "Enclosed Balcony",
+      "2023 Ingestion Incident",
+      "Balcony Latch",
+      "Silver Shaded"
     ]
   },
   {
     "id": "multihop_08",
-    "type": "多跳触发器",
-    "natural_expression": "基于张医生在麻薯猫藓治疗期间的耐心指导，林晓不仅每季度带它去安安宠医做专业去油，还养成了记录医嘱的习惯，甚至将这种专业护理知识分享给了同样养宠的闺蜜陈晨。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Inspired by Dr. Zhang's patient guidance during Mochi's ringworm treatment, Lin Xiao not only takes the cat to An'an Pet Hospital every quarter for professional degreasing but has also developed the habit of recording medical instructions. She even shared this professional care knowledge with her best friend Chen Chen, who is also a pet owner.",
     "involved_entities": [
-      "张医生",
-      "猫藓治疗",
-      "安安宠医",
-      "专业去油",
-      "陈晨"
+      "Dr. Zhang",
+      "Ringworm Treatment",
+      "An'an Pet Hospital",
+      "Professional Degreasing",
+      "Chen Chen"
     ]
   },
   {
     "id": "multihop_09",
-    "type": "多跳触发器",
-    "natural_expression": "父亲转账备注‘给猫买暖气’的笨拙关爱，让林晓在寒冬为麻薯铺设温暖猫窝时倍感温馨，她随即拍下麻薯在暖气旁熟睡的照片发给父亲，完成了父女间无需多言的情感闭环。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The clumsy yet loving care shown by her father, who transferred money with the note 'Buy a heater for the cat,' made Lin Xiao feel incredibly warm while setting up a cozy cat bed for Mochi during the cold winter. She immediately took a photo of Mochi sleeping soundly next to the heater and sent it to her father, completing an emotional loop between father and daughter that needed no words.",
     "involved_entities": [
-      "林父",
-      "给猫买暖气",
-      "猫窝",
-      "麻薯",
-      "照片反馈"
+      "Lin's Father",
+      "Buy a Heater for the Cat",
+      "Cat Bed",
+      "Mochi",
+      "Photo Feedback"
     ]
   },
   {
     "id": "multihop_10",
-    "type": "多跳触发器",
-    "natural_expression": "自从麻薯因误食塑料包装引发肠梗阻，林晓在选购‘帕特’生骨肉冻干时，不仅关注营养成分，更会在开封后立即将包装锁进高处柜子，这一习惯直接源于对那次急诊深夜的恐惧记忆。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Ever since Mochi suffered an intestinal obstruction after accidentally eating plastic packaging, Lin Xiao not only checks nutritional content when purchasing 'Pat' raw meat freeze-dried food, but also immediately locks the opened packaging in a high cabinet—a habit born directly from the fear of that late-night emergency visit.",
     "involved_entities": [
-      "帕特冻干",
-      "塑料包装",
-      "肠梗阻",
-      "高处柜子",
-      "急诊记忆"
+      "Pat Freeze-dried Food",
+      "Plastic Packaging",
+      "Intestinal Obstruction",
+      "High Cabinet",
+      "Emergency Memory"
     ]
   },
   {
     "id": "multihop_11",
-    "type": "多跳触发器",
-    "natural_expression": "每晚 20:00 下班回家的‘逗猫棒 - 罐头 - 梳毛’三部曲，不仅是麻薯的日常期待，更是林晓作为 UI 设计师释放一天工作压力的仪式，猫咪的呼噜声让她能迅速从职场焦虑切换到居家放松模式。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The nightly 8:00 PM routine of 'cat teaser - canned food - grooming' is not only what Mochi looks forward to every day, but also a ritual for Lin Xiao, a UI designer, to release the stress of the workday; the cat's purring allows her to quickly switch from workplace anxiety to a relaxed home mode.",
     "involved_entities": [
-      "20:00 下班",
-      "逗猫棒",
-      "小李子罐头",
-      "UI 设计师压力",
-      "呼噜声"
+      "8:00 PM After Work",
+      "Cat Teaser",
+      "Xiao Li Canned Food",
+      "UI Designer Stress",
+      "Purring Sound"
     ]
   },
   {
     "id": "multihop_12",
-    "type": "多跳触发器",
-    "natural_expression": "看着如今健康粘人、会在键盘上‘监督’工作的麻薯，林晓常感激 2021 年冬天那个加班夜晚的善举，正是当初在垃圾桶旁抱起瑟瑟发抖小猫的决定，换来了现在全家（包括父母）的幸福陪伴。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Looking at Mochi now—healthy, affectionate, and 'supervising' work from the keyboard—Lin Xiao often feels grateful for the act of kindness on that overtime night in the winter of 2021; it was the decision to pick up the shivering kitten beside the trash bin that brought the current happiness and companionship to the whole family, including her parents.",
     "involved_entities": [
-      "麻薯",
-      "2021 年冬天",
-      "加班夜晚",
-      "键盘监督",
-      "家庭幸福"
+      "Mochi",
+      "Winter 2021",
+      "Overtime Night",
+      "Keyboard Supervision",
+      "Family Happiness"
     ]
   }
 ]

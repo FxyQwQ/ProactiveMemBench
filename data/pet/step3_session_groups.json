@@ -8,8 +8,8 @@
         "behavior_12",
         "multihop_01"
       ],
-      "session_theme": "自动化喂养与健康隐患",
-      "conversation_seed": "林晓检查自动喂食器，想起麻薯的肠梗阻病史，确认渴望猫粮的安全性。"
+      "session_theme": "Automated Feeding and Hidden Health Risks",
+      "conversation_seed": "Lin Xiao checks the automatic feeder, recalls Mochi's history of intestinal obstruction, and verifies the safety of Orijen cat food."
     },
     {
       "session_id": 2,
@@ -19,8 +19,8 @@
         "behavior_07",
         "multihop_06"
       ],
-      "session_theme": "玩具轮换与深度清洁",
-      "conversation_seed": "小李子拿出电动钓鱼竿，林晓顺势更换瓦楞纸抓板，讨论英国短毛猫的吸尘需求。"
+      "session_theme": "Toy Rotation and Deep Cleaning",
+      "conversation_seed": "Xiao Li brings out the electric fishing rod toy; Lin Xiao takes the opportunity to replace the corrugated cardboard scratcher, discussing the vacuuming needs of British Shorthairs."
     },
     {
       "session_id": 3,
@@ -30,8 +30,8 @@
         "emotion_02",
         "behavior_06"
       ],
-      "session_theme": "出租屋的归家仪式感",
-      "conversation_seed": "回到出租屋，麻薯在猫窝旁迎接，林晓在显示器前感到工作陪伴的温馨。"
+      "session_theme": "The Ritual of Coming Home to a Rental",
+      "conversation_seed": "Returning to the rental, Mochi waits by the cat bed to greet Lin Xiao, who feels a warm sense of companionship while working in front of the monitor."
     },
     {
       "session_id": 4,
@@ -41,8 +41,8 @@
         "behavior_08",
         "multihop_02"
       ],
-      "session_theme": "沐浴护理与皮肤预防",
-      "conversation_seed": "双周一次的进口沐浴露时间，林晓仔细检查皮肤，回顾猫藓病史与封闭阳台的重要性。"
+      "session_theme": "Bathing Care and Skin Prevention",
+      "conversation_seed": "It's time for the bi-weekly bath with imported shampoo; Lin Xiao carefully inspects the skin, reviewing the history of ringworm and the importance of an enclosed balcony."
     },
     {
       "session_id": 5,
@@ -52,8 +52,8 @@
         "time_07",
         "emotion_09"
       ],
-      "session_theme": "季度体检与专业信任",
-      "conversation_seed": "季度宠物店之行转为安安宠医的体检，张医生的专业让林晓倍感安心。"
+      "session_theme": "Quarterly Check-ups and Professional Trust",
+      "conversation_seed": "The quarterly trip to the pet store turns into a check-up at An'an Pet Hospital, where Dr. Zhang's professionalism makes Lin Xiao feel reassured."
     },
     {
       "session_id": 6,
@@ -63,8 +63,8 @@
         "behavior_09",
         "multihop_05"
       ],
-      "session_theme": "公园社交与安全链条",
-      "conversation_seed": "杭州宠物友好公园偶遇陈晨和金毛，分享视频时谈起指甲修剪和过往意外。"
+      "session_theme": "Park Socializing and Safety Chains",
+      "conversation_seed": "At a pet-friendly park in Hangzhou, they run into Chen Chen and a Golden Retriever; while sharing videos, they discuss nail trimming and past accidents."
     },
     {
       "session_id": 7,
@@ -74,8 +74,8 @@
         "emotion_01",
         "multihop_03"
       ],
-      "session_theme": "键盘旁的焦虑平复",
-      "conversation_seed": "加班夜，麻薯在键盘边的呼噜声成为林晓最好的情绪支撑，抚平了设计稿带来的焦虑。"
+      "session_theme": "Soothing Anxiety by the Keyboard",
+      "conversation_seed": "During a late-night overtime shift, Mochi's purring beside the keyboard becomes Lin Xiao's best emotional support, easing the anxiety caused by design drafts."
     },
     {
       "session_id": 8,
@@ -85,8 +85,8 @@
         "emotion_05",
         "multihop_04"
       ],
-      "session_theme": "母爱与自制零食",
-      "conversation_seed": "林母送来自制鸡肉干，视频通话中谈起曾经误食危机带来的责任感转变。"
+      "session_theme": "Maternal Love and Homemade Treats",
+      "conversation_seed": "Lin's mother brings homemade chicken jerky; during a video call, they discuss how a past ingestion crisis transformed their sense of responsibility."
     },
     {
       "session_id": 9,
@@ -96,8 +96,8 @@
         "emotion_06",
         "multihop_09"
       ],
-      "session_theme": "沉默父爱与暖气关怀",
-      "conversation_seed": "林父虽话少却给猫买了新猫窝和暖气，照片反馈中流露无声的关爱。"
+      "session_theme": "Silent Paternal Love and Warmth Care",
+      "conversation_seed": "Though Lin's father speaks little, he bought a new cat bed and a heater for the cat; photos shared in the group reveal his silent affection."
     },
     {
       "session_id": 10,
@@ -107,8 +107,8 @@
         "behavior_03",
         "multihop_11"
       ],
-      "session_theme": "下班后的晚餐召唤",
-      "conversation_seed": "公司楼下的年度纪念，林晓赶回家用小李子罐头回应麻薯的晚餐呼唤，缓解设计师压力。"
+      "session_theme": "The Dinner Call After Work",
+      "conversation_seed": "On the annual anniversary downstairs from the office, Lin Xiao rushes home to answer Mochi's dinner call with a can of Xiao Li Zi, relieving the pressure of being a designer."
     },
     {
       "session_id": 11,
@@ -118,8 +118,8 @@
         "emotion_07",
         "behavior_01"
       ],
-      "session_theme": "细小物品与离家锁扣",
-      "conversation_seed": "林晓出门前反复检查阳台锁扣和细小物品，对肠梗阻的健康焦虑转化为严格的预防行为。"
+      "session_theme": "Small Objects and Departure Locks",
+      "conversation_seed": "Before leaving, Lin Xiao repeatedly checks the balcony locks and small items, transforming health anxiety about intestinal obstruction into strict preventive behavior."
     },
     {
       "session_id": 12,
@@ -129,8 +129,8 @@
         "behavior_05",
         "multihop_10"
       ],
-      "session_theme": "零食存储与品牌安全",
-      "conversation_seed": "喂食joy时刻，林晓将帕特冻干锁进高处柜子，想起塑料包装引发的急诊记忆。"
+      "session_theme": "Treat Storage and Brand Safety",
+      "conversation_seed": "During a joyful feeding moment, Lin Xiao locks the Partner freeze-dried treats in a high cabinet, recalling the emergency room visit triggered by plastic packaging."
     },
     {
       "session_id": 13,
@@ -140,8 +140,8 @@
         "behavior_04",
         "multihop_12"
       ],
-      "session_theme": "职业幽默与收养感恩",
-      "conversation_seed": "对着 UI 设计稿调侃麻薯的监工行为，感慨 2021 年那个加班夜晚的收养决定带来如今幸福。"
+      "session_theme": "Professional Humor and Gratitude for Adoption",
+      "conversation_seed": "Joking about Mochi's supervisory behavior while looking at UI design drafts, Lin Xiao reflects on how the adoption decision made during an overtime night in 2021 has brought happiness today."
     },
     {
       "session_id": 14,
@@ -151,8 +151,8 @@
         "emotion_10",
         "behavior_02"
       ],
-      "session_theme": "社交纽带与睡眠记录",
-      "conversation_seed": "陈晨来访，大家翻看手机里麻薯的睡眠视频，感恩 2021 年冬天开始的陪伴。"
+      "session_theme": "Social Bonds and Sleep Records",
+      "conversation_seed": "Chen Chen visits, and everyone flips through sleep videos of Mochi on their phones, expressing gratitude for the companionship that began in the winter of 2021."
     },
     {
       "session_id": 15,
@@ -162,8 +162,8 @@
         "behavior_10",
         "multihop_07"
       ],
-      "session_theme": "居住安全与寻求安慰",
-      "conversation_seed": "面对新项目压力，林晓在封闭阳台找到安全感，回顾 2023 年误食事件后加固的锁扣。"
+      "session_theme": "Living Safety and Seeking Comfort",
+      "conversation_seed": "Facing pressure from a new project, Lin Xiao finds a sense of security on the enclosed balcony, reviewing the reinforced locks installed after the 2023 ingestion incident."
     },
     {
       "session_id": 16,
@@ -173,8 +173,8 @@
         "behavior_11",
         "multihop_08"
       ],
-      "session_theme": "梳毛满足与兽医沟通",
-      "conversation_seed": "吸尘器清理猫毛带来满足感，林晓在笔记本上记录与张医生关于去油和猫藓治疗的沟通细节。"
+      "session_theme": "Grooming Satisfaction and Vet Communication",
+      "conversation_seed": "Vacuuming up cat fur brings a sense of satisfaction; Lin Xiao notes details in a notebook regarding discussions with Dr. Zhang about degreasing and ringworm treatment."
     },
     {
       "session_id": 17,
@@ -184,8 +184,8 @@
         "emotion_04",
         "behavior_06"
       ],
-      "session_theme": "日常护理中的职业解压",
-      "conversation_seed": "双周沐浴日，林晓一边给麻薯洗澡一边吐槽设计稿，回家的问候 routine 治愈了职场幽默感。"
+      "session_theme": "Professional Stress Relief Through Daily Care",
+      "conversation_seed": "On the bi-weekly bath day, Lin Xiao bathes Mochi while venting about design drafts; the routine of being greeted upon returning home heals their workplace humor."
     },
     {
       "session_id": 18,
@@ -195,8 +195,8 @@
         "emotion_10",
         "behavior_12"
       ],
-      "session_theme": "猫窝里的感恩之夜",
-      "conversation_seed": "在出租屋的猫窝旁，林晓感叹 2021 年的选择，自动喂食器保障了夜晚的安全。"
+      "session_theme": "A Night of Gratitude by the Cat Bed",
+      "conversation_seed": "Beside the cat bed in the rental, Lin Xiao reflects on the choice made in 2021, noting how the automatic feeder ensures safety throughout the night."
     },
     {
       "session_id": 19,
@@ -206,8 +206,8 @@
         "emotion_05",
         "behavior_08"
       ],
-      "session_theme": "周年纪念与健康监测",
-      "conversation_seed": "公司楼下的周年纪念日，林晓带着自制鸡肉干的温暖，回家为麻薯做细致的皮肤检查。"
+      "session_theme": "Anniversary Celebration and Health Monitoring",
+      "conversation_seed": "On the anniversary downstairs from the office, Lin Xiao carries the warmth of homemade chicken jerky home to perform a detailed skin check on Mochi."
     },
     {
       "session_id": 20,
@@ -217,8 +217,8 @@
         "emotion_08",
         "multihop_04"
       ],
-      "session_theme": "家庭互动与社交分享",
-      "conversation_seed": "林母再次送来鸡肉干，林晓将这份家庭温暖转化为与陈晨社交时的自信，分享麻薯的成长视频。"
+      "session_theme": "Family Interaction and Social Sharing",
+      "conversation_seed": "Lin's mother brings chicken jerky again; Lin Xiao transforms this family warmth into confidence while socializing with Chen Chen, sharing videos of Mochi's growth."
     }
   ]
 }

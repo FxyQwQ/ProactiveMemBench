@@ -3,9 +3,9 @@
     "pair_a_id": "behavior_01",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "麻薯",
-      "林晓",
-      "封闭阳台"
+      "Mochi",
+      "Lin Xiao",
+      "enclosed balcony"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -14,14 +14,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两段描述均围绕林晓对麻薯的精细化照料展开，前者侧重日常出门前的安全检查（防意外），后者侧重洗澡后的健康检查与环境消毒（防病），共同构建了‘自 2023 年意外后’形成的严密防护闭环，逻辑紧密。"
+    "association_path": "Both descriptions revolve around Lin Xiao's meticulous care for Mochi. The former focuses on safety checks before leaving home to prevent accidents, while the latter emphasizes health inspections and environmental disinfection after bathing to prevent illness. Together, they form a tight protective loop established 'since the 2023 accident,' demonstrating strong logical coherence."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -30,14 +30,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均为林晓照顾麻薯的具体行为模式，一个是周期性的清洁护理（每两周），一个是每日的安全惯例，虽频率不同但共同体现了主人的责任感，话题连贯。"
+    "association_path": "Both represent specific caregiving patterns by Lin Xiao for Mochi: one is periodic grooming (every two weeks), and the other is a daily safety routine. Although the frequencies differ, both reflect the owner's sense of responsibility, ensuring topic continuity."
   },
   {
     "pair_a_id": "emotion_04",
     "pair_b_id": "emotion_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -46,14 +46,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两段均描写林晓因麻薯而产生的情感波动，前者是当下的互动温情（无奈又温暖），后者是家庭关系因猫而缓和的感动，情感基调一致，适合在分享养宠心路历程时连续提及。"
+    "association_path": "Both passages depict emotional fluctuations Lin Xiao experiences due to Mochi. The former captures the warmth of current interactions (a mix of helplessness and affection), while the latter describes the moving realization that family relationships have eased because of the cat. With a consistent emotional tone, they are well-suited to be mentioned consecutively when sharing the journey of pet ownership."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "emotion_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -62,14 +62,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "从周六固定的清洁劳作（时间/行为）自然过渡到对当初收养决定的感恩（情感/回忆），体现了‘付出与回报’的心理逻辑，清洁行为强化了主人对猫咪健康的重视，呼应了庆幸给它一个家的主题。"
+    "association_path": "This transitions naturally from the fixed Saturday cleaning routine (time/behavior) to gratitude for the initial decision to adopt (emotion/memory). It reflects the psychological logic of 'effort and reward': the act of cleaning reinforces the owner's commitment to the cat's health, echoing the theme of being fortunate to have given it a home."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "麻薯",
-      "林晓"
+      "Mochi",
+      "Lin Xiao"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -78,14 +78,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "具体的洗澡护理行为（time_04）是麻薯如今‘健康粘人’状态（multihop_12）的成因之一，两者构成因果支撑关系，从日常细节引申到对当初善举的宏观感激，叙事流畅。"
+    "association_path": "The specific bathing and care routine (time_04) is one of the causes behind Mochi's current 'healthy and affectionate' state (multihop_12). These two form a causal support relationship, flowing smoothly from daily details to a broader appreciation of the original act of kindness."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "emotion_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -94,14 +94,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.6,
-    "association_path": "两段情感均源于对麻薯安全的极度关注：父亲买暖气是防冷，林晓收细小物品是防误食（呼应 2023 年肠梗阻意外）。两者共同揭示了‘意外创伤后’家庭全员对猫咪安全的高度敏感，内在逻辑极强。"
+    "association_path": "Both emotional responses stem from extreme concern for Mochi's safety: the father buying a heater prevents cold, while Lin Xiao putting away small items prevents accidental ingestion (echoing the 2023 intestinal obstruction incident). Together, they reveal the family's heightened sensitivity to the cat's safety 'after the traumatic accident,' demonstrating a very strong internal logic."
   },
   {
     "pair_a_id": "time_09",
     "pair_b_id": "emotion_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -110,14 +110,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两段分别描述了林晓与母亲、与闺蜜关于麻薯的社交互动，展现了麻薯作为情感纽带连接不同人际关系的功能，话题从家庭亲情自然扩展到朋友共鸣，适合在讲述‘养宠社交’时连续出现。"
+    "association_path": "These passages describe Lin Xiao's social interactions regarding Mochi with her mother and her best friend, respectively. They showcase Mochi's role as an emotional bond connecting different relationships. The topic naturally expands from family affection to friendship resonance, making them suitable for consecutive appearance when discussing 'pet-related socialization'."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "emotion_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -126,14 +126,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "从回忆最初收养的起源（time_11）到讲述家人从反对到接纳的转变（emotion_05），构成了完整的‘收养故事线’，时间轴上从过去延伸至现在，情感上从个人善举扩展到家庭融合。"
+    "association_path": "Moving from recalling the origins of the adoption (time_11) to describing the family's shift from opposition to acceptance (emotion_05) creates a complete 'adoption storyline.' The timeline extends from the past to the present, while the emotion expands from a personal act of kindness to family integration."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -142,14 +142,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "前者是对专业医疗支持的安心（外部保障），后者是日常生活中的主动防范（内部习惯），两者共同构成了林晓保障麻薯安全的双重防线，逻辑上互为补充。"
+    "association_path": "The former expresses relief regarding professional medical support (external assurance), while the latter represents proactive prevention in daily life (internal habit). Together, they form a dual defense line for Lin Xiao to ensure Mochi's safety, logically complementing each other."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -158,14 +158,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "一段是定期的洗澡护理行为，另一段是父亲转账的特定事件，虽然主角都是林晓和麻薯，但一个是常规维护，一个是家庭情感事件，直接语义关联较弱，需通过‘全方位关爱’这一宽泛主题强行连接。"
+    "association_path": "One passage describes a regular bathing routine, while the other details a specific event of the father transferring money. Although both involve Lin Xiao and Mochi, one is routine maintenance and the other is a family emotional event. The direct semantic connection is weak, requiring a forced link through the broad theme of 'comprehensive care'."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -174,14 +174,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "共享人物与宠物实体，但场景从周末户外社交切换至日常室内喂食，话题连贯性一般。"
+    "association_path": "Shares human and pet entities, but the scene shifts from a weekend outdoor social gathering to a routine indoor feeding, resulting in moderate topic coherence."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "emotion_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -190,13 +190,13 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "均围绕林晓与麻薯的日常互动，从洗澡护理自然过渡到工作陪伴，体现人宠亲密关系。"
+    "association_path": "Both revolve around daily interactions between Lin Xiao and Mochi, naturally transitioning from bathing care to work companionship, reflecting a close human-pet bond."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "multihop_06",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -205,14 +205,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.75,
-    "association_path": "仅共享宠物实体，前者为喂食行为，后者为玩具选购与健康管理，逻辑关联较弱。"
+    "association_path": "Shares only the pet entity; the former describes feeding behavior, while the latter covers toy selection and health management, resulting in a weak logical connection."
   },
   {
     "pair_a_id": "multihop_02",
     "pair_b_id": "multihop_08",
     "shared_entities": [
-      "麻薯",
-      "猫藓"
+      "Mochi",
+      "Feline Ringworm"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -221,14 +221,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 5.0,
-    "association_path": "高度关联，前者描述家庭护理细节，后者延伸至兽医治疗及知识分享，共同构建完整的猫藓康复叙事链。"
+    "association_path": "Highly correlated; the former details home care procedures, while the latter extends to veterinary treatment and knowledge sharing, together constructing a complete narrative chain of recovery from feline ringworm."
   },
   {
     "pair_a_id": "behavior_07",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -237,14 +237,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "共享主人与宠物，但话题从激发捕猎天性的玩具轮换跳跃至父女情感互动，语境转换较大。"
+    "association_path": "Shares the owner and pet, but the topic jumps from rotating toys to stimulate hunting instincts to father-daughter emotional interactions, representing a significant context shift."
   },
   {
     "pair_a_id": "emotion_11",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -253,13 +253,13 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "均涉及林晓对麻薯的关爱情感，但前者聚焦居住决策的欣慰，后者侧重父女亲情，主题侧重不同。"
+    "association_path": "Both involve Lin Xiao's affection for Mochi, but the former focuses on satisfaction regarding housing decisions, while the latter emphasizes father-daughter familial love, differing in thematic focus."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "multihop_06",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -268,14 +268,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.75,
-    "association_path": "仅共享宠物实体，前者关于防误食的安全习惯，后者关于玩具与活力激发，缺乏直接因果或场景联系。"
+    "association_path": "Shares only the pet entity; the former concerns safety habits to prevent accidental ingestion, while the latter relates to toys and stimulating vitality, lacking direct causal or situational links."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -284,14 +284,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "前者回忆收养起源，后者描述基于过往病史（猫藓）的日常检查，形成从过去到现在的护理逻辑闭环。"
+    "association_path": "The former recalls the origins of adoption, while the latter describes routine check-ups based on past medical history (feline ringworm), forming a logical care loop from past to present."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -300,14 +300,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "均源于对过往危机的反思，前者感慨收养决定，后者详述因误食事故引发的具体防范行为，情感与行动呼应。"
+    "association_path": "Both stem from reflection on past crises; the former expresses gratitude for the adoption decision, while the latter details specific preventive actions triggered by an accidental ingestion incident, creating a resonance between emotion and action."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -316,14 +316,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "共享人物与宠物，但场景从周末朋友聚会切换至工作日出门前的安全检查，话题跳跃明显。"
+    "association_path": "Shares the human and pet entities, but the scene shifts from a weekend gathering with friends to a pre-departure safety check on a weekday, resulting in a noticeable topic jump."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "time_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -332,14 +332,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均围绕林晓对麻薯的照料及家庭成员（母亲）对麻薯的关注展开，体现了人宠互动与家庭情感的交织。"
+    "association_path": "Both revolve around Lin Xiao's care for Mochi and the attention given to Mochi by a family member (her mother), reflecting the interweaving of human-pet interaction and family affection."
   },
   {
     "pair_a_id": "emotion_04",
     "pair_b_id": "behavior_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -348,14 +348,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "分别描述了工作时的互动和回家时的仪式，共同构建了林晓与麻薯之间深厚的情感纽带和日常依赖关系。"
+    "association_path": "These describe interactions during work hours and rituals upon returning home, respectively, jointly constructing the deep emotional bond and daily dependency between Lin Xiao and Mochi."
   },
   {
     "pair_a_id": "emotion_05",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -364,16 +364,16 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "虽都涉及林晓对麻薯的关爱，但前者侧重家庭关系转变的情感体验，后者侧重具体的健康护理行为，主题关联度中等。"
+    "association_path": "While both involve Lin Xiao's care for Mochi, the former focuses on the emotional experience of shifting family dynamics, whereas the latter emphasizes specific health care behaviors, resulting in a moderate thematic connection."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "UI 设计稿"
+      "Lin Xiao",
+      "Mochi",
+      "keyboard",
+      "UI design draft"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -382,14 +382,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 5.0,
-    "association_path": "高度重合，pair_b 直接延伸了 pair_a 中麻薯趴键盘的场景，进一步阐述了该行为对林晓情绪调节的深层意义。"
+    "association_path": "Highly overlapping; pair_b directly extends the scenario in pair_a where Mochi lies on the keyboard, further elaborating on the deeper significance of this behavior for Lin Xiao's emotional regulation."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "emotion_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -398,14 +398,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "均体现林晓为麻薯提供良好生活环境的努力，但一个是定期护理行为，一个是居住选择的情感反馈，场景跨度较大。"
+    "association_path": "Both reflect Lin Xiao's efforts to provide a good living environment for Mochi; however, one describes a routine care activity, while the other represents an emotional response regarding housing choices, indicating a significant contextual gap."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -414,14 +414,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "同属日常照料行为范畴，分别针对饮食召唤和玩具轮换，共同展现了林晓对麻薯生活习性的细致观察与照顾。"
+    "association_path": "Both fall under the category of daily care behaviors, addressing feeding calls and toy rotation respectively, collectively demonstrating Lin Xiao's meticulous observation and care for Mochi's habits."
   },
   {
     "pair_a_id": "emotion_12",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -430,14 +430,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "核心主题一致，均强调林晓在与麻薯的互动（清洁或晚间仪式）中获得心理治愈和压力释放。"
+    "association_path": "The core themes are consistent, both emphasizing the psychological healing and stress relief Lin Xiao gains through interactions with Mochi, whether during grooming or evening rituals."
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "emotion_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -446,14 +446,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "分别从父亲的爱和猫咪的陪伴两个角度，描绘了麻薯作为情感寄托，帮助林晓抵御孤独、感受温暖的场景。"
+    "association_path": "From the perspectives of a father's love and a cat's companionship respectively, these depict scenarios where Mochi serves as an emotional anchor, helping Lin Xiao ward off loneliness and feel warmth."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -462,14 +462,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "共享主体为人和猫，但内容分别为具体的清洁家务和接收长辈关爱，事件性质差异较大，逻辑连接较弱。"
+    "association_path": "While sharing the same subjects (human and cat), the content differs significantly between specific cleaning chores and receiving affection from elders; the nature of the events varies greatly, resulting in a weak logical connection."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -478,14 +478,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "均体现了林晓基于过往经验（意外或猫藓）形成的特定安全检查习惯，反映了对麻薯高度的责任感和预防意识。"
+    "association_path": "Both reflect specific safety check habits formed by Lin Xiao based on past experiences (accidents or ringworm), demonstrating a high sense of responsibility and preventive awareness towards Mochi."
   },
   {
     "pair_a_id": "emotion_01",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -494,14 +494,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "情感因果链：pair_a 描述麻薯当前缓解焦虑的功能，pair_b 追溯这一关系的起源（2021 年收养），解释了为何麻薯对林晓如此重要，构成完整的情感闭环。"
+    "association_path": "Emotional Causal Chain: Pair A describes Mochi's current role in alleviating anxiety, while Pair B traces the origin of this relationship (adoption in 2021), explaining why Mochi is so important to Lin Xiao, thus forming a complete emotional loop."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "emotion_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -510,14 +510,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "场景并列：两者均描述林晓与麻薯的日常互动，但 pair_a 侧重清洁维护（周六），pair_b 侧重工作陪伴（键盘监督），缺乏直接的时间或因果逻辑连接。"
+    "association_path": "Parallel Scenes: Both describe daily interactions between Lin Xiao and Mochi; however, Pair A focuses on cleaning and maintenance (Saturdays), while Pair B emphasizes work companionship (keyboard supervision). There is no direct temporal or causal logical connection."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -526,14 +526,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.4,
-    "association_path": "主题弱相关：两者都涉及养猫生活，但 pair_a 聚焦社交共鸣（公园/闺蜜），pair_b 聚焦玩具轮换策略，实体交集少且语境跨度大。"
+    "association_path": "Weak Thematic Relevance: Both involve cat ownership life, but Pair A focuses on social resonance (park/best friend), while Pair B centers on toy rotation strategies. There is minimal entity overlap and a large contextual gap."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "emotion_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -542,14 +542,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "行为动机链：pair_b 提到的‘误食危机’是 pair_a 中‘仔细梳理/使用进口沐浴露’等精细化护理行为的潜在心理动因，体现了从惊险记忆到谨慎呵护的逻辑转化。"
+    "association_path": "Behavioral Motivation Chain: The 'accidental ingestion crisis' mentioned in Pair B serves as the underlying psychological driver for the meticulous care behaviors in Pair A (such as 'careful grooming' and 'using imported shampoo'), reflecting a logical transition from a traumatic memory to cautious nurturing."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "behavior_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -558,14 +558,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.3,
-    "association_path": "信任延伸：pair_a 建立了对专业医疗的信任感，pair_b 展示了日常生活中的细致照顾，两者共同构建了‘全方位守护’的形象，但无直接事件触发关系。"
+    "association_path": "Extension of Trust: Pair A establishes trust in professional medical care, while Pair B demonstrates meticulous care in daily life. Together, they build an image of 'comprehensive protection,' though there is no direct event triggering this relationship."
   },
   {
     "pair_a_id": "behavior_08",
     "pair_b_id": "multihop_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -574,15 +574,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.1,
-    "association_path": "健康与认可链：pair_a 中林晓对皮肤/猫藓的细致检查体现了高度责任感，这正是 pair_b 中林母态度转变（从反对到支持）的关键证据（‘展现出的责任感’）。"
+    "association_path": "Health and Recognition Chain: Lin Xiao's meticulous checks for skin issues and ringworm in Pair A demonstrate a high sense of responsibility, which serves as the key evidence for the change in her mother's attitude in Pair B (from opposition to support, specifically regarding the 'demonstrated responsibility')."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "behavior_06",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "出租屋"
+      "Lin Xiao",
+      "Mochi",
+      "Rental Apartment"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -591,14 +591,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.9,
-    "association_path": "时空闭环：pair_a 是出门前的安全确认与告别，pair_b 是回家后的固定仪式，两者在时间轴上首尾呼应，完整描述了林晓每日往返公司与家的生活节奏。"
+    "association_path": "Spatiotemporal Loop: Pair A depicts safety checks and farewells before leaving home, while Pair B shows a fixed ritual upon returning. These two events bookend the timeline, completely describing Lin Xiao's daily rhythm of commuting between her office and home."
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "time_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -607,16 +607,16 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.3,
-    "association_path": "多方关注：pair_a 是线下的专业医疗维护，pair_b 是线上的家庭情感维系，两者展示了麻薯在不同社会关系网（医生 vs 家人）中受到的关注，属于平行叙事。"
+    "association_path": "Multi-party Attention: Pair A represents offline professional medical maintenance, while Pair B represents online family emotional bonding. Together, they show the attention Mochi receives within different social networks (veterinarian vs. family), constituting a parallel narrative."
   },
   {
     "pair_a_id": "emotion_04",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "设计稿"
+      "Lin Xiao",
+      "Mochi",
+      "Keyboard",
+      "Design Drafts"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -625,14 +625,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.9,
-    "association_path": "深度解析：pair_b 几乎是对 pair_a 现象的深度心理剖析和背景补充，解释了‘无奈’背后的‘温暖’来源以及‘平复心情’的具体机制（联想收养经历），逻辑紧密。"
+    "association_path": "In-depth Analysis: Pair B serves as an almost complete psychological dissection and background supplement to the phenomenon in Pair A, explaining the source of 'warmth' behind the 'helplessness' and the specific mechanism for 'calming emotions' (associating with the adoption experience), demonstrating tight logic."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "emotion_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -641,14 +641,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.3,
-    "association_path": "情感叠加：两者分别描述了来自父亲（亲情）和张医生（专业友情）的关爱，共同烘托林晓因麻薯而获得的广泛社会支持网络，属于情感维度的并列补充。"
+    "association_path": "Emotional Layering: The two pairs describe care received from her father (familial love) and Dr. Zhang (professional friendship), respectively. Together, they highlight the extensive social support network Lin Xiao has gained through Mochi, serving as parallel supplements in the emotional dimension."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -657,15 +657,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均描述林晓为适应麻薯的存在而调整自身行为（工作姿势 vs 出行准备），体现了人宠互动的深度融入，虽场景不同但核心逻辑一致。"
+    "association_path": "Both describe Lin Xiao adjusting her own behavior to accommodate Mochi's presence (work posture vs. travel preparations), reflecting the deep integration of human-pet interaction. Although the scenarios differ, the core logic remains consistent."
   },
   {
     "pair_a_id": "multihop_07",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "误食/肠梗阻事件"
+      "Lin Xiao",
+      "Mochi",
+      "Foreign body ingestion/intestinal obstruction incident"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -674,15 +674,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.6,
-    "association_path": "强因果关联。两者均直接源于‘麻薯误食异物导致肠梗阻’这一核心创伤事件，分别展示了该事件对‘居住环境选择’和‘物品收纳习惯’的深远影响。"
+    "association_path": "Strong causal link. Both stem directly from the core traumatic event of 'Mochi ingesting a foreign object causing an intestinal obstruction,' demonstrating its profound impact on 'housing choices' and 'item storage habits,' respectively."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "杭州"
+      "Lin Xiao",
+      "Mochi",
+      "Hangzhou"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -691,14 +691,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "弱关联。仅共享人物和地点背景。前者是社交娱乐场景，后者是居家安全防护，两者在叙事流中可并列存在，但无直接逻辑推导关系。"
+    "association_path": "Weak association. They share only the background of characters and location. The former is a social entertainment scenario, while the latter concerns home safety protection. They can coexist in the narrative flow but lack a direct logical derivation."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "emotion_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -707,14 +707,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "行为与情感的互补。前者是因恐惧意外而产生的防御性行为（收纳），后者是日常维护带来的治愈感（清洁），共同构成了林晓养宠生活的心理闭环。"
+    "association_path": "Complementary behavior and emotion. The former is a defensive behavior (storage) driven by fear of accidents, while the latter is the healing sensation (cleaning) derived from daily maintenance. Together, they form a psychological closed loop in Lin Xiao's pet-owning life."
   },
   {
     "pair_a_id": "behavior_09",
     "pair_b_id": "behavior_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -723,14 +723,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "并列的行为模式。两者都展示了林晓作为主人的细致习惯（记录互动 vs 记录医嘱），体现了其性格的一致性，但场景（公园 vs 医院）和目的不同。"
+    "association_path": "Parallel behavioral patterns. Both showcase Lin Xiao's meticulous habits as an owner (recording interactions vs. recording medical instructions), reflecting consistency in her personality, though the scenarios (park vs. hospital) and purposes differ."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "emotion_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -739,14 +739,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "情感共鸣。前者是麻薯给予林晓的陪伴（缓解孤独），后者是林晓感知到他人对麻薯的爱（感动），两者共同强化了麻薯作为家庭情感纽带的角色。"
+    "association_path": "Emotional resonance. The former depicts the companionship Mochi provides Lin Xiao (alleviating loneliness), while the latter shows Lin Xiao being moved by others' love for Mochi. Together, they reinforce Mochi's role as an emotional bond within the family."
   },
   {
     "pair_a_id": "emotion_04",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -755,14 +755,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "对比张力。前者展现人宠互动的温馨趣味（键盘占位），后者展现基于病史的严谨照护（饮食控制），展示了养宠生活中感性与理性并存的侧面。"
+    "association_path": "Contrasting tension. The former showcases the warmth and fun of human-pet interaction (keyboard hogging), while the latter demonstrates rigorous care based on medical history (dietary control), illustrating the coexistence of sensibility and rationality in pet ownership."
   },
   {
     "pair_a_id": "multihop_05",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -771,15 +771,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "时间线呼应。前者是基于过去创伤（2023 意外）的当前预防措施，后者是对过去善举（2021 救助）的当前感恩，共同构建了完整的‘救助 - 成长 - 守护’叙事弧光。"
+    "association_path": "Timeline resonance. The former represents current preventive measures based on past trauma (the 2023 accident), while the latter expresses current gratitude for a past good deed (the 2021 rescue). Together, they construct a complete narrative arc of 'rescue - growth - guardianship'."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "晚餐/罐头"
+      "Lin Xiao",
+      "Mochi",
+      "Dinner/Canned food"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -788,15 +788,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.6,
-    "association_path": "高度连贯的日常流程。前者是喂食前的呼唤仪式，后者是下班后的喂食及互动流程，两者在时间线和行为逻辑上紧密衔接，共同描绘了傍晚的养宠日常。"
+    "association_path": "Highly coherent daily routine. The former is the calling ritual before feeding, while the latter is the feeding and interaction process after work. They are closely linked in timeline and behavioral logic, jointly depicting the evening routine of pet ownership."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "食物"
+      "Lin Xiao",
+      "Mochi",
+      "Food"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -805,14 +805,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "行为与背景的深层联系。前者是表面的喂食互动，后者解释了该互动背后的严格约束（因肠梗阻病史而控制的饮食），揭示了温馨日常下的谨慎底色。"
+    "association_path": "Deep connection between behavior and context. The former is the surface-level feeding interaction, while the latter explains the strict constraints behind it (dietary control due to history of intestinal obstruction), revealing the cautious undertone beneath the warm daily life."
   },
   {
     "pair_a_id": "emotion_04",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -821,14 +821,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两者均描绘了林晓与麻薯在日常生活中的亲密互动：前者是工作时的陪伴，后者是进食时的响应，共同构建了人宠和谐共处的温馨场景。"
+    "association_path": "Both depict the intimate daily interactions between Lin Xiao and Mochi: the former shows companionship during work, while the latter captures a response during feeding, together creating a heartwarming scene of harmonious human-pet coexistence."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "behavior_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -837,14 +837,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "虽然主角相同，但前者侧重社交情感共鸣，后者侧重居家安全行为，两者在主题和情境上关联较弱，仅通过‘养宠责任’这一抽象概念连接。"
+    "association_path": "Although the protagonists are the same, the former focuses on social emotional resonance while the latter emphasizes home safety behaviors. The connection between them in terms of theme and context is weak, linked only by the abstract concept of 'pet ownership responsibility'."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -853,15 +853,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "从日常的喂食互动延伸到深度的健康护理，体现了林晓对麻薯从生活照顾到医疗关注的全面责任感，逻辑连贯。"
+    "association_path": "Extending from daily feeding interactions to in-depth health care, this reflects Lin Xiao's comprehensive sense of responsibility toward Mochi, ranging from daily care to medical attention, with coherent logic."
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "陈晨"
+      "Lin Xiao",
+      "Mochi",
+      "Chen Chen"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -870,14 +870,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "两者都涉及林晓对麻薯的关爱（父亲的支持 vs 主人的预防），但一个是情感接收，一个是行动执行，且‘陈晨’在 B 段仅为背景人物，核心事件关联度一般。"
+    "association_path": "Both involve Lin Xiao's care for Mochi (father's support vs. owner's prevention), but one represents receiving emotion while the other represents executing action. Furthermore, 'Chen Chen' serves merely as a background character in segment B, resulting in only a moderate connection to the core event."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -886,13 +886,13 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "分别展示了周期性的专业护理和每日的喂食互动，共同构成了麻薯日常生活的时间线，体现了主人不同维度的照顾。"
+    "association_path": "These respectively showcase periodic professional grooming and daily feeding interactions, together forming the timeline of Mochi's daily life and reflecting the owner's care across different dimensions."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -901,15 +901,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.2,
-    "association_path": "情感与事实的强因果关联：A 段感慨当初收养决定的正确性，B 段详细描述了收养初期克服猫藓困难的护理过程，B 是 A 情感产生的具体依据。"
+    "association_path": "A strong causal link between emotion and fact: Segment A reflects on the correctness of the initial adoption decision, while Segment B details the nursing process undertaken to overcome ringworm difficulties during the early adoption period. Segment B serves as the concrete basis for the emotions expressed in Segment A."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "multihop_08",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "陈晨"
+      "Lin Xiao",
+      "Mochi",
+      "Chen Chen"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -918,14 +918,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均源于麻薯的健康危机（肠梗阻与猫藓），展示了林晓如何将创伤记忆转化为长期的谨慎行为和知识分享，体现了成长与责任。"
+    "association_path": "Both stem from health crises involving Mochi (intestinal obstruction and ringworm), demonstrating how Lin Xiao transformed traumatic memories into long-term cautious behaviors and knowledge sharing, reflecting personal growth and responsibility."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -934,14 +934,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是工作场景的趣味互动，后者是饮食管理的严肃措施，虽都体现主人对猫的适应，但情境和目的差异较大，直接关联性较弱。"
+    "association_path": "The former depicts a playful interaction in a work setting, while the latter describes serious dietary management measures. Although both reflect the owner's adaptation to the cat, the contexts and purposes differ significantly, resulting in a weak direct connection."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -950,14 +950,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "通过‘爱’的不同表现形式连接：A 段是父辈含蓄的物质支持，B 段是主人因恐惧而形成的严格安全习惯，共同反映了多方对麻薯生命的重视。"
+    "association_path": "Connected through different manifestations of 'love': Segment A features the subtle material support from the older generation, while Segment B shows strict safety habits formed by the owner out of fear. Together, they reflect the high value placed on Mochi's life by multiple parties."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -966,14 +966,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.6,
-    "association_path": "极强的因果链条：A 段的心理阴影（误食塑料绳）直接导致了 B 段的具体居住选择（封闭阳台）和日常行为（检查锁扣），逻辑紧密。"
+    "association_path": "An extremely strong causal chain: The psychological trauma in Segment A (accidental ingestion of a plastic string) directly led to the specific housing choice in Segment B (enclosed balcony) and daily behaviors (checking latches), demonstrating tight logical coherence."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -982,14 +982,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "两者均描述林晓与麻薯的互动行为，但场景截然不同（工作干扰 vs 社交聚会），缺乏直接因果或时间连续性，仅通过共同人物和宠物维持弱关联。"
+    "association_path": "Both describe interactions between Lin Xiao and Mochi, but the scenarios are vastly different (work disruption vs. social gathering). They lack direct causality or temporal continuity, maintaining only a weak connection through the shared human and pet."
   },
   {
     "pair_a_id": "emotion_01",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -998,17 +998,17 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "从情感依赖（焦虑消散）自然过渡到具体照料行为（检查皮肤），体现了林晓对麻薯健康的高度关注，逻辑上构成‘心理慰藉 - 生理呵护’的闭环。"
+    "association_path": "Naturally transitions from emotional dependence (dissipation of anxiety) to specific caregiving behavior (checking skin), reflecting Lin Xiao's high level of concern for Mochi's health. Logically, this forms a closed loop of 'psychological comfort - physical care'."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "呼噜声",
-      "UI 设计师压力"
+      "Lin Xiao",
+      "Mochi",
+      "keyboard",
+      "purring sound",
+      "UI designer stress"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -1017,14 +1017,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "高度一致。Pair_a 描述工作时麻薯趴键盘的具体场景，Pair_b 将该行为上升为下班后的解压仪式，两者在‘键盘互动’与‘缓解设计压力’的主题上完美呼应。"
+    "association_path": "Highly consistent. Pair_a describes the specific scenario of Mochi lying on the keyboard during work, while Pair_b elevates this behavior into a post-work decompression ritual. The two perfectly resonate on the themes of 'keyboard interaction' and 'alleviating design stress'."
   },
   {
     "pair_a_id": "emotion_03",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1033,14 +1033,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.9,
-    "association_path": "Pair_a 聚焦喂食时的即时快乐，Pair_b 回顾收养历史与长期幸福。虽主体相同，但时间跨度和情感维度（瞬间反差 vs 长期感恩）差异较大，关联较松散。"
+    "association_path": "Pair_a focuses on the immediate joy during feeding, while Pair_b reviews the adoption history and long-term happiness. Although the subjects are the same, the differences in time span and emotional dimensions (instant contrast vs. long-term gratitude) are significant, resulting in a loose connection."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1049,14 +1049,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "均为周期性照料行为（周六清洁 vs 外出前检查），体现责任感，但缺乏具体事件或因果链条连接，属于平行的日常惯例描述。"
+    "association_path": "Both describe periodic caregiving behaviors (Saturday cleaning vs. pre-outing checks) that reflect a sense of responsibility. However, they lack connection through specific events or causal chains, belonging instead to parallel descriptions of daily routines."
   },
   {
     "pair_a_id": "emotion_03",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1065,14 +1065,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.6,
-    "association_path": "从‘对食物的热情’延伸到‘对玩具的兴趣管理’，共同构建了林晓如何维持麻薯生活热情的叙事，逻辑连贯，展现了主人对宠物心理的细腻把握。"
+    "association_path": "Extends from 'enthusiasm for food' to 'interest management regarding toys,' jointly constructing a narrative of how Lin Xiao maintains Mochi's zest for life. The logic is coherent, demonstrating the owner's nuanced understanding of the pet's psychology."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1081,14 +1081,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "对比了独处（深夜加班陪伴）与群处（周末公园社交）两种状态下的麻薯行为，虽场景不同，但共同突出了麻薯在不同环境下对林晓的陪伴作用。"
+    "association_path": "Contrasts Mochi's behavior in two states: solitude (companionship during late-night overtime) and socialization (weekend park gatherings). Although the scenarios differ, both highlight Mochi's role in accompanying Lin Xiao across different environments."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "emotion_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1097,14 +1097,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "Pair_a 描述当前的社交活动，Pair_b 回溯过去的收养决定。两者通过‘现在的幸福’与‘过去的善举’形成隐含的因果对照，但文本间无直接衔接词。"
+    "association_path": "Pair_a describes current social activities, while Pair_b looks back on the past adoption decision. The two form an implicit causal contrast between 'present happiness' and 'past kindness,' though there are no direct transitional words linking the texts."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "emotion_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1113,16 +1113,16 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.1,
-    "association_path": "关联度低。Pair_a 是关于安全焦虑的负面记忆（肠梗阻），Pair_b 是关于社交共鸣的正面情绪。虽都涉及麻薯，但情感基调相反且无逻辑递进。"
+    "association_path": "Low relevance. Pair_a concerns a negative memory of safety anxiety (intestinal obstruction), while Pair_b relates to positive emotions of social resonance. Although both involve Mochi, the emotional tones are opposite, and there is no logical progression."
   },
   {
     "pair_a_id": "emotion_11",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "焦虑"
+      "Lin Xiao",
+      "Mochi",
+      "keyboard",
+      "anxiety"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1131,14 +1131,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.9,
-    "association_path": "紧密围绕‘居住环境/工作场景’与‘焦虑平复’。Pair_a 强调物理空间（阳台）带来的安心，Pair_b 强调工作互动（键盘）带来的心理治愈，共同构建了麻薯作为林晓精神支柱的完整画像。"
+    "association_path": "Closely revolves around 'living environment/work scenario' and 'anxiety alleviation.' Pair_a emphasizes the sense of security brought by the physical space (balcony), while Pair_b highlights the psychological healing derived from work interaction (keyboard). Together, they construct a complete portrait of Mochi as Lin Xiao's spiritual pillar."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "emotion_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1147,14 +1147,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两段文本均围绕林晓照顾银渐层麻薯的日常与情感展开，前者描述具体的洗澡梳理行为，后者升华至对收养决定的感激，共同构建了‘精心照顾 - 情感回馈’的完整叙事闭环。"
+    "association_path": "Both texts revolve around Lin Xiao's daily care and emotional bond with Mochi, the silver-shaded cat. The former describes specific bathing and grooming actions, while the latter elevates this to gratitude for the adoption decision, together constructing a complete narrative loop of 'meticulous care - emotional reward'."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1163,15 +1163,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "两者均涉及林晓与麻薯的互动，但侧重点不同：前者是情感慰藉（加班时的陪伴），后者是预防性护理（外出前的检查）。虽主体一致，但场景和逻辑关联较弱，属于同一人物背景下的不同生活切片。"
+    "association_path": "Both involve interactions between Lin Xiao and Mochi but focus on different aspects: the former highlights emotional comfort (companionship during overtime work), while the latter focuses on preventive care (pre-departure checks). Although the subjects are the same, the scenes and logical connections are weak, representing different slices of life within the same character's background."
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "进口沐浴露"
+      "Lin Xiao",
+      "Mochi",
+      "imported pet shampoo"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1180,14 +1180,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两段文本通过‘进口沐浴露’和‘林晓照顾麻薯’这一核心行为紧密连接。前者描述晚间娱乐与喂食，后者描述周末洗澡与皮肤检查，共同展现了林晓对麻薯全方位、高频次的精细化养护流程。"
+    "association_path": "The two texts are closely linked through the core actions of using 'imported pet shampoo' and 'Lin Xiao caring for Mochi.' The former describes evening entertainment and feeding, while the latter details weekend bathing and skin checks, jointly showcasing Lin Xiao's comprehensive, high-frequency, and meticulous care routine for Mochi."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1196,14 +1196,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "前者描述麻薯在出租屋提供的情感支持，后者描述林晓为保障麻薯安全（特别是针对误食史）而选择封闭阳台房源的决策。两者共同体现了‘相依为命’的关系深度：麻薯治愈林晓，林晓全力守护麻薯的安全。"
+    "association_path": "The former describes the emotional support Mochi provides in the rental apartment, while the latter details Lin Xiao's decision to choose a property with an enclosed balcony to ensure Mochi's safety, particularly given its history of accidental ingestion. Together, they reflect the depth of their 'mutual dependence' relationship: Mochi heals Lin Xiao, while Lin Xiao dedicates herself to safeguarding Mochi."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "time_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1212,14 +1212,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "仅共享‘林晓’和‘麻薯’两个实体。前者是关于专业宠物护理的时间安排，后者是家庭亲情互动的场景。两者在语义主题（专业护理 vs 家庭社交）和情境上缺乏直接逻辑联系，关联性较低。"
+    "association_path": "They share only two entities: 'Lin Xiao' and 'Mochi.' The former concerns scheduling for professional pet care, while the latter depicts a scene of family interaction. There is a lack of direct logical connection between them in terms of semantic themes (professional care vs. family socializing) and context, resulting in low relevance."
   },
   {
     "pair_a_id": "behavior_10",
     "pair_b_id": "behavior_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1228,15 +1228,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "两者均描述林晓应对压力或关注健康的具体行为模式。前者是即时的情绪调节（吸猫），后者是长期的健康管理（记录医嘱）。虽都体现责任感，但一个是心理层面，一个是执行层面，逻辑链条较为松散。"
+    "association_path": "Both describe specific behavioral patterns of Lin Xiao coping with stress or managing health. The former represents immediate emotional regulation ('cat therapy'), while the latter involves long-term health management (recording veterinary instructions). Although both demonstrate a sense of responsibility, one operates on a psychological level and the other on an execution level, resulting in a relatively loose logical chain."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "张医生"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1245,14 +1245,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "前者表达对兽医张医生的信任与安心，后者回顾收养初心及现在的幸福。两者结合展示了麻薯健康成长的两个关键支柱：专业的医疗支持（张医生）和主人的爱与坚持（收养决定），共同指向‘健康粘人’的现状。"
+    "association_path": "The former expresses trust and reassurance in the veterinarian, Dr. Zhang, while the latter reflects on the original intention behind the adoption and current happiness. Combined, they highlight two key pillars supporting Mochi's healthy growth: professional medical support (Dr. Zhang) and the owner's love and persistence (the adoption decision), both pointing toward Mochi's current state of being 'healthy and affectionate'."
   },
   {
     "pair_a_id": "behavior_11",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1261,15 +1261,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "前者记录医嘱以执行健康管理，后者描述日常仪式以释放工作压力。两者共同构成了林晓作为主人的‘责任 - 治愈’双向循环：通过专业护理确保麻薯健康，再通过麻薯的陪伴治愈自己的职场焦虑。"
+    "association_path": "The former records veterinary instructions to implement health management, while the latter describes a daily ritual to relieve work stress. Together, they form a 'responsibility-healing' bidirectional cycle for Lin Xiao as an owner: ensuring Mochi's health through professional care, and then healing her own workplace anxiety through Mochi's companionship."
   },
   {
     "pair_a_id": "multihop_04",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "误食危机/事件"
+      "Lin Xiao",
+      "Mochi",
+      "accidental ingestion incident"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1278,15 +1278,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两段文本通过‘麻薯误食事件’这一关键转折点强关联。前者讲述该事件如何改变了林母的态度（展现责任感），后者讲述该事件如何验证了林晓租房决策的正确性（封闭阳台）。共同证明了此次危机是林晓养猫历程中的重要成长节点。"
+    "association_path": "The two texts are strongly linked through the pivotal 'Mochi accidental ingestion incident.' The former explains how this event changed Lin Mother's attitude (demonstrating responsibility), while the latter illustrates how it validated Lin Xiao's decision to rent a property with an enclosed balcony. Together, they prove that this crisis was a significant growth milestone in Lin Xiao's journey as a cat owner."
   },
   {
     "pair_a_id": "emotion_11",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "封闭阳台"
+      "Lin Xiao",
+      "Mochi",
+      "enclosed balcony"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1295,14 +1295,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "共享‘封闭阳台’这一特定场景实体。前者表达对该环境安全性的欣慰（宏观决策），后者描述在该环境中具体的玩具轮换行为（微观互动）。关联在于环境提供了安全基础，主人在此基础上丰富宠物生活，但逻辑紧密度一般。"
+    "association_path": "They share the specific situational entity 'enclosed balcony.' The former expresses relief regarding the safety of this environment (a macro-level decision), while the latter describes specific toy-rotation behaviors within this setting (micro-level interaction). The connection lies in the environment providing a safe foundation upon which the owner enriches the pet's life, though the logical tightness is moderate."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1311,14 +1311,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两句话均描述了林晓因麻薯 2023 年误食异物（塑料绳/塑料包装）导致健康危机后，产生的具体防御性行为改变（收纳细小物品/锁好包装），因果逻辑高度一致，构成了完整的‘创伤事件 - 行为修正’叙事闭环。"
+    "association_path": "Both sentences describe specific defensive behavioral changes Lin Xiao adopted after Mochi's 2023 health crisis caused by ingesting foreign objects (plastic string/plastic packaging). These changes include storing small items and locking away packaging. The causal logic is highly consistent, forming a complete narrative loop of 'traumatic event - behavioral correction'."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "time_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1327,13 +1327,13 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "两者均涉及林晓对麻薯的日常照料习惯，但侧重点不同：前者是定期的清洁维护（吸尘、洗窝），后者是基于特定创伤事件的预防性收纳。虽同属养宠日常，但缺乏直接的因果或强语义递进关系。"
+    "association_path": "Both involve Lin Xiao's daily care routines for Mochi, but with different focuses: the former concerns regular cleaning maintenance (vacuuming, washing the bed), while the latter involves preventive storage based on a specific traumatic event. Although both fall under daily pet care, they lack a direct causal or strong semantic progressive relationship."
   },
   {
     "pair_a_id": "multihop_01",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -1342,14 +1342,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者聚焦于麻薯的医疗病史引发的饮食管理（理性、谨慎），后者聚焦于父亲通过猫表达的情感关怀（感性、温馨）。虽然主角都有麻薯和林晓，但主题维度（医疗 vs 亲情）跨度较大，关联性较弱。"
+    "association_path": "The former focuses on dietary management driven by Mochi's medical history (rational and cautious), while the latter highlights the emotional care expressed by the father through the cat (emotional and warm). Although both feature Mochi and Lin Xiao, the thematic dimensions (medical vs. familial love) differ significantly, resulting in a weak association."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1358,13 +1358,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者描述定期的专业宠物护理行为，后者描述家庭内部的情感互动事件。两者在时间、地点、人物关系（宠物店 vs 父亲）及事件性质上均无直接联系，仅共享基础人物实体。"
+    "association_path": "The former describes regular professional pet care activities, while the latter depicts an emotional interaction event within the family. There is no direct connection between the two in terms of time, location, interpersonal relationships (pet store vs. father), or the nature of the events; they only share basic character entities."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -1373,14 +1373,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者是社交场景下的情感共鸣（与闺蜜分享），后者是医疗背景下的严谨喂养策略。两者分别处于‘社交娱乐’和‘医疗护理’两个截然不同的语义场，缺乏逻辑衔接。"
+    "association_path": "The former represents emotional resonance in a social setting (sharing with a best friend), while the latter involves a rigorous feeding strategy in a medical context. They belong to two entirely different semantic fields ('social entertainment' vs. 'medical care') and lack logical connectivity."
   },
   {
     "pair_a_id": "multihop_05",
     "pair_b_id": "multihop_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1389,14 +1389,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均体现了林晓基于对麻薯特性的深入了解（过往病史或品种天性）而采取的精细化照料行为。前者是为了户外安全修剪指甲，后者是为了激发天性选购玩具，共同构建了‘科学养宠’的人物画像，逻辑连贯。"
+    "association_path": "Both reflect refined care behaviors adopted by Lin Xiao based on her deep understanding of Mochi's characteristics (past medical history or breed instincts). The former involves trimming nails for outdoor safety, while the latter involves selecting toys to stimulate natural instincts. Together, they construct a character profile of 'scientific pet ownership' with coherent logic."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1405,13 +1405,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者是林晓对父爱的内心感悟（家庭维度），后者是林晓在社交场合的行为记录（社交维度）。虽然都涉及林晓和麻薯，但情感流向和行为场景完全不同，无直接关联。"
+    "association_path": "The former is Lin Xiao's internal realization regarding paternal love (family dimension), while the latter is a record of Lin Xiao's behavior in a social setting (social dimension). Although both involve Lin Xiao and Mochi, the emotional flow and behavioral contexts are completely different, with no direct association."
   },
   {
     "pair_a_id": "behavior_08",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -1420,14 +1420,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均紧密围绕麻薯 2023 年的健康危机展开。前者是因曾患猫藓而进行的皮肤检查，后者是因曾患肠梗阻而进行的饮食控制。它们共同佐证了林晓‘一朝被蛇咬，十年怕井绳’的谨慎养宠态度，主题高度相关。"
+    "association_path": "Both closely revolve around Mochi's 2023 health crisis. The former involves a skin examination due to a previous case of ringworm, while the latter involves dietary control following a past intestinal obstruction. Together, they corroborate Lin Xiao's cautious approach to pet care, akin to the saying 'once bitten, twice shy,' demonstrating a highly relevant theme."
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "time_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1436,14 +1436,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是晚间固定的互动喂食流程，后者是出门前的安全收纳习惯。两者都是林晓的日常例行公事，但一个是主动互动，一个是被动防御，场景和目的不同，关联性一般。"
+    "association_path": "The former describes a fixed evening routine of interactive feeding, while the latter depicts a safety storage habit before leaving the house. Both are part of Lin Xiao's daily routines, but one is an active interaction and the other a passive defense; thus, the scenes and purposes differ, resulting in a moderate association."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1452,15 +1452,15 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者描述与同事的户外社交活动，后者描述接收父亲转账的私人情感时刻。两者在时间、空间和人际关系网络上均无交集，仅共享基础实体，语义关联度低。"
+    "association_path": "The former describes an outdoor social activity with colleagues, while the latter depicts a private emotional moment of receiving a money transfer from her father. The two have no overlap in time, space, or interpersonal networks; they only share basic entities, resulting in low semantic relevance."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "银渐层"
+      "Lin Xiao",
+      "Mochi",
+      "Silver Shaded"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1469,14 +1469,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "时间线递进与因果强化：从 2021 年收养决定（emotion_10）自然过渡到 2022 年基于宠物安全考虑的搬家决策（multihop_07），体现了主人对宠物责任感的深化。"
+    "association_path": "Timeline progression and causal reinforcement: Naturally transitions from the adoption decision in 2021 (emotion_10) to the moving decision in 2022 based on pet safety concerns (multihop_07), reflecting the deepening sense of responsibility the owner feels toward their pet."
   },
   {
     "pair_a_id": "emotion_05",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1485,14 +1485,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "情感主题呼应：两者均围绕‘家庭接纳’与‘收养带来的幸福’，pair_b 是对 pair_a 中父母态度转变的宏观总结与升华。"
+    "association_path": "Emotional theme resonance: Both revolve around 'family acceptance' and 'the happiness brought by adoption.' Pair_b serves as a macro-level summary and elevation of the parents' change in attitude described in pair_a."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "time_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1501,14 +1501,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "日常routine 并列：从工作日早晨的独自照料（time_01）扩展到周末的社交聚会（time_06），展示了养猫生活的不同侧面，但缺乏深层因果。"
+    "association_path": "Parallel daily routines: Expands from solitary care on weekday mornings (time_01) to social gatherings on weekends (time_06), showcasing different facets of cat ownership, though lacking deep causal connections."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "emotion_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1517,15 +1517,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "行为与情感互补：定期护理（time_05）体现长期责任，即时安抚（emotion_01）体现情感依赖，共同构成人宠关系的全貌。"
+    "association_path": "Behavioral and emotional complementarity: Regular grooming (time_05) demonstrates long-term responsibility, while immediate comforting (emotion_01) reflects emotional dependence; together, they form a complete picture of the human-pet relationship."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "焦虑"
+      "Lin Xiao",
+      "Mochi",
+      "Anxiety"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1534,14 +1534,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "创伤记忆与应对机制：pair_a 描述因误食事件产生的警惕行为，pair_b 展示在焦虑时通过回忆收养初心和猫咪互动来平复心情，两者均涉及心理调节。"
+    "association_path": "Traumatic memory and coping mechanisms: Pair_a describes vigilant behavior stemming from an accidental ingestion incident, while pair_b shows how recalling the original intention of adoption and interacting with the cat helps soothe anxiety. Both involve psychological regulation."
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "emotion_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1550,14 +1550,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.5,
-    "association_path": "家庭情感拼图：分别描述父亲（time_10）和母亲（emotion_05）对猫的态度转变，合起来完整展现了原生家庭从反对到全面接纳的过程。"
+    "association_path": "Family emotional puzzle: Describes the father's (time_10) and mother's (emotion_05) changing attitudes toward the cat respectively. Together, they fully illustrate the process of the birth family shifting from opposition to complete acceptance."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1566,16 +1566,16 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "关爱表现形式：父亲的经济支持（emotion_06）与主人的日常细致护理（behavior_08）并行，体现多方对宠物健康的关注。"
+    "association_path": "Expressions of care: The father's financial support (emotion_06) runs parallel to the owner's detailed daily care (behavior_08), reflecting multi-party attention to the pet's health."
   },
   {
     "pair_a_id": "multihop_03",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘",
-      "2021 年"
+      "Lin Xiao",
+      "Mochi",
+      "Keyboard",
+      "2021"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1584,14 +1584,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "核心叙事闭环：两者高度重合，均聚焦于'2021 年收养’与‘键盘监督’这一特定场景，pair_b 更侧重于该场景带来的长远家庭幸福，是对 pair_a 即时情绪平复的延伸。"
+    "association_path": "Core narrative closure: Both highly overlap, focusing on the specific scenario of 'adoption in 2021' and 'keyboard supervision.' Pair_b emphasizes the long-term family happiness resulting from this scene, extending beyond the immediate emotional soothing described in pair_a."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1600,14 +1600,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "孤独与焦虑的治愈：从深夜加班的孤独感（emotion_02）到项目进度的焦虑感（behavior_10），展示了猫咪在不同压力场景下对主人的慰藉作用。"
+    "association_path": "Healing loneliness and anxiety: From the loneliness of late-night overtime work (emotion_02) to the anxiety over project progress (behavior_10), this shows the cat's comforting role for the owner under different stress scenarios."
   },
   {
     "pair_a_id": "behavior_12",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1616,14 +1616,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "生活场景切换：从睡前的安全确认（behavior_12）到工作时的焦虑平复（multihop_03），展示了主人在不同时间段对宠物的关注点变化。"
+    "association_path": "Life scene transition: Shifts from safety checks before sleep (behavior_12) to anxiety relief during work (multihop_03), demonstrating how the owner's focus on the pet changes across different times of the day."
   },
   {
     "pair_a_id": "behavior_08",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1632,14 +1632,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均描述林晓与麻薯之间的深度互动：前者是日常护理中的健康检查，后者是情绪焦虑时的寻求慰藉，共同体现了人猫之间紧密的依赖关系和情感纽带。"
+    "association_path": "Both describe deep interactions between Lin Xiao and Mochi: the former involves a health check during daily care, while the latter depicts seeking comfort during moments of anxiety. Together, they illustrate the tight dependency and emotional bond between human and cat."
   },
   {
     "pair_a_id": "time_09",
     "pair_b_id": "emotion_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1648,13 +1648,13 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.5,
-    "association_path": "两者分别描述了母亲和父亲对麻薯的关爱行为（寄零食、转账买暖气），共同构成了家庭长辈对林晓养猫这一生活方式从接纳到主动关爱的完整情感图景。"
+    "association_path": "These respectively describe acts of care from Lin Xiao's mother and father toward Mochi (sending snacks and transferring money for a heater). Together, they form a complete emotional picture of how the older generation progressed from accepting to actively supporting Lin Xiao's lifestyle of cat ownership."
   },
   {
     "pair_a_id": "multihop_04",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1663,14 +1663,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "前者讲述林母态度转变的因果历程，后者描述林晓下班后的减压仪式。虽然都涉及麻薯和林晓的生活，但侧重点分别为家庭关系演变和个人职场解压，场景和逻辑关联度较弱。"
+    "association_path": "The former recounts the causal journey of Lin Xiao's mother changing her attitude, while the latter describes Lin Xiao's post-work decompression ritual. Although both involve Mochi and Lin Xiao's life, their focuses differ—one on the evolution of family relationships and the other on personal stress relief from work—resulting in weak contextual and logical connections."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "behavior_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1679,14 +1679,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是季度性的专业护理，后者是日常工作的陪伴场景。两者仅共享人物和宠物实体，但在时间频率、具体行为和语境上缺乏直接的逻辑递进或因果联系。"
+    "association_path": "The former refers to quarterly professional grooming, while the latter depicts a daily companionship scenario during work. They share only the human and pet entities but lack direct logical progression or causal links in terms of frequency, specific actions, or context."
   },
   {
     "pair_a_id": "emotion_03",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1695,14 +1695,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者分别展示了麻薯对食物的本能反应和林晓对麻薯健康的细致关怀，共同描绘了日常喂养与护理中双向的情感流动和生活细节。"
+    "association_path": "These respectively showcase Mochi's instinctive reaction to food and Lin Xiao's meticulous care for Mochi's health, jointly portraying the bidirectional emotional flow and life details inherent in daily feeding and nursing routines."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1711,14 +1711,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是双周一次的洗澡护理，后者是每日下班后的互动仪式。虽然都包含“梳毛”或清洁元素，但一个是深度清洁任务，一个是日常减压流程，场景切换较大。"
+    "association_path": "The former is a bi-weekly bathing and grooming session, while the latter is a daily post-work interaction ritual. Although both include elements of 'brushing' or cleaning, one is a deep-cleaning task and the other a routine stress-relief process, representing a significant shift in scenario."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1727,14 +1727,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均围绕林晓为保障麻薯安全所采取的措施展开：前者是信赖专业医疗资源带来的安心，后者是居住环境改造（封闭阳台）带来的安全感，共同体现主人的责任感。"
+    "association_path": "Both revolve around measures Lin Xiao has taken to ensure Mochi's safety: the former reflects the peace of mind gained from trusting professional medical resources, while the latter stems from the sense of security provided by home modifications (enclosing the balcony). Together, they highlight the owner's sense of responsibility."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1743,14 +1743,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均源于过去的健康危机（误食塑料绳、猫藓），转化为当下的预防性行为（收纳细小物品、检查皮肤），共同展示了林晓因过往教训而形成的精细化养育习惯。"
+    "association_path": "Both originate from past health crises (ingesting plastic string and ringworm), which have evolved into current preventive behaviors (storing small items and checking skin). Together, they demonstrate the refined parenting habits Lin Xiao developed based on past lessons."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "time_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1759,14 +1759,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "前者描述周末的社交娱乐活动，后者描述日常的安全防范习惯。虽然都涉及麻薯，但场景一外一内，一松一紧，缺乏直接的语义连贯性或逻辑推导关系。"
+    "association_path": "The former describes weekend social and entertainment activities, while the latter depicts daily safety prevention habits. Although both involve Mochi, the scenarios contrast (outdoor vs. indoor, relaxed vs. vigilant) and lack direct semantic coherence or logical derivation."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "emotion_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1775,14 +1775,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是周末的户外社交场景，后者是工作日的室内独处解压场景。两者展示了林晓与麻薯互动的不同侧面（社交 vs 私密），但在叙事流上缺乏直接的过渡逻辑。"
+    "association_path": "The former is a weekend outdoor social scenario, while the latter is a weekday indoor solitary decompression scene. These showcase different facets of Lin Xiao's interactions with Mochi (social vs. private) but lack a direct transitional logic in the narrative flow."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1791,15 +1791,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "两者均围绕林晓对麻薯的深层情感投入展开，前者是创伤后的警惕（负面驱动），后者是亲情互动的温馨（正面驱动），共同构建了人物对宠物‘如家人般’的关怀形象。"
+    "association_path": "Both revolve around Lin Xiao's deep emotional investment in Mochi. The former reflects post-traumatic vigilance (driven by negative experiences), while the latter captures the warmth of familial interaction (driven by positive experiences). Together, they construct an image of the owner caring for their pet 'like family'."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "emotion_01",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "猫窝"
+      "Lin Xiao",
+      "Mochi",
+      "cat bed"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1808,14 +1808,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "高度连贯的生活场景：周六的深度清洁（time_03）维护了麻薯的居住环境，直接支撑了工作日回家后麻薯能提供高质量治愈（emotion_01）的前提，体现了‘照料 - 回馈’的因果闭环。"
+    "association_path": "A highly coherent life scenario: The deep cleaning on Saturday (time_03) maintains Mochi's living environment, directly supporting the premise that Mochi can provide high-quality healing upon Lin Xiao's return from work on weekdays (emotion_01). This exemplifies a 'care-and-reward' causal loop."
   },
   {
     "pair_a_id": "behavior_02",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1824,16 +1824,16 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "从‘记录可爱瞬间’的行为（behavior_02）自然过渡到‘回顾病史并细致检查’的深层照料（multihop_02），展现了主人对宠物从表面喜爱到健康负责的全面关注。"
+    "association_path": "A natural transition from the behavior of 'recording cute moments' (behavior_02) to the deeper care of 'reviewing medical history and conducting meticulous checks' (multihop_02), demonstrating the owner's comprehensive attention shifting from superficial affection to health responsibility."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "张医生",
-      "安安宠医"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang",
+      "An'an Pet Hospital"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -1842,14 +1842,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "极强的实体重叠与逻辑因果：因为信任张医生（emotion_09），所以严格执行其针对麻薯肠梗阻病史提出的饮食建议（multihop_01），构成了完整的医疗信任与执行链条。"
+    "association_path": "Strong entity overlap and logical causality: Because of the trust in Dr. Zhang (emotion_09), Lin Xiao strictly follows the dietary recommendations proposed for Mochi's history of intestinal obstruction (multihop_01), forming a complete chain of medical trust and execution."
   },
   {
     "pair_a_id": "emotion_05",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1858,15 +1858,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "情感维度的互补：前者体现家庭关系因宠物而缓和（外部情感支持），后者体现宠物直接缓解工作压力（内部生理/心理调节），共同说明麻薯是林晓的核心情感支柱。"
+    "association_path": "Complementarity in emotional dimensions: The former reflects how family relationships are eased by the pet (external emotional support), while the latter shows the pet directly alleviating work stress (internal physiological/psychological regulation). Together, they illustrate that Mochi is Lin Xiao's core emotional pillar."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "2023 年意外"
+      "Lin Xiao",
+      "Mochi",
+      "2023 Accident"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -1875,13 +1875,13 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "核心动机一致：两个行为（检查阳台锁扣、修剪指甲）均直接源于'2023 年意外/肠梗阻’这一共同创伤记忆，展示了该事件对林晓日常安全习惯的全面重塑。"
+    "association_path": "Consistent core motivation: Both behaviors (checking balcony latches and trimming nails) stem directly from the shared traumatic memory of the '2023 Accident/Intestinal Obstruction,' demonstrating how this event has comprehensively reshaped Lin Xiao's daily safety habits."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "multihop_06",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -1890,14 +1890,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.5,
-    "association_path": "关联较弱：前者聚焦于医患信任关系，后者聚焦于根据品种天性调整玩具策略。虽同属照料范畴，但缺乏直接的事件或逻辑因果联系，仅通过‘麻薯’这一实体弱连接。"
+    "association_path": "Weak association: The former focuses on the doctor-patient trust relationship, while the latter focuses on adjusting toy strategies based on breed instincts. Although both fall under the category of care, they lack direct event or logical causal links, connected only weakly through the entity 'Mochi'."
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1906,14 +1906,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "时间尺度上的对照：一个是年度定期体检（time_07），一个是每日出门前的安全检查（behavior_01）。虽都体现责任感，但场景跨度大，缺乏即时对话流的连贯性。"
+    "association_path": "Contrast in time scales: One is an annual routine check-up (time_07), and the other is a daily safety check before going out (behavior_01). While both reflect a sense of responsibility, the large gap in scenarios lacks the immediacy required for coherent dialogue flow."
   },
   {
     "pair_a_id": "emotion_07",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1922,14 +1922,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "压力应对机制的对比：前者是因创伤记忆产生的焦虑触发点（看到细小物品紧张），后者是主动建立的解压仪式（下班后互动），共同描绘了林晓在职场压力与宠物安全焦虑间的平衡状态。"
+    "association_path": "Contrast in stress coping mechanisms: The former is an anxiety trigger stemming from traumatic memories (nervousness upon seeing small objects), while the latter is a proactively established decompression ritual (interaction after work). Together, they depict Lin Xiao's balanced state between workplace stress and pet safety anxiety."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1938,14 +1938,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "场景切换：从周末的户外社交聚会（time_06）切换到工作日的居家放松仪式（multihop_11）。虽展示了生活的不同侧面，但缺乏具体的逻辑推导或实体强关联，属于并列的生活片段。"
+    "association_path": "Scene transition: Shifting from a weekend outdoor social gathering (time_06) to a weekday home relaxation ritual (multihop_11). While this showcases different facets of life, it lacks specific logical deduction or strong entity associations, representing merely parallel life snippets."
   },
   {
     "pair_a_id": "behavior_08",
     "pair_b_id": "behavior_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1954,14 +1954,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两个行为均描述林晓对麻薯的日常精细化照料（健康检查与生活起居），场景互补，共同构建了负责任的宠物主人形象。"
+    "association_path": "Both behaviors describe Lin Xiao's detailed daily care for Mochi, covering health checks and daily living. The scenarios complement each other, jointly constructing the image of a responsible pet owner."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1970,14 +1970,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "前者为回忆收养起源，后者为当前社交互动，虽主体一致但时间跨度与情境差异较大，关联主要基于人物关系的延续。"
+    "association_path": "The former recalls the origin of the adoption, while the latter depicts current social interactions. Although the subjects are the same, the significant time span and contextual differences mean the connection relies primarily on the continuity of their relationship."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -1986,14 +1986,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均体现麻薯作为情感纽带连接林晓与家庭成员（自我陪伴 vs 父亲关怀），主题上形成‘孤独被治愈’与‘亲情通过猫传递’的呼应。"
+    "association_path": "Both entries highlight Mochi as an emotional bond connecting Lin Xiao with family members (self-companionship vs. fatherly care). Thematically, they resonate by contrasting 'loneliness being healed' with 'family love transmitted through the cat'."
   },
   {
     "pair_a_id": "time_09",
     "pair_b_id": "behavior_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2002,14 +2002,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.1,
-    "association_path": "分别展示家庭内部（母亲）和专业外部（医生）对麻薯健康的关注，林晓在两者中均扮演执行者与记录者的角色，体现全方位的关爱。"
+    "association_path": "These entries respectively showcase concern for Mochi's health from within the family (mother) and from professional external sources (veterinarian). In both scenarios, Lin Xiao plays the role of executor and recorder, reflecting comprehensive care."
   },
   {
     "pair_a_id": "time_09",
     "pair_b_id": "emotion_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2018,15 +2018,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.3,
-    "association_path": "前者侧重家庭互动与物质投喂，后者侧重个人劳动后的心理治愈，关联点在于麻薯都是林晓获得正向反馈的核心对象。"
+    "association_path": "The former focuses on family interaction and material feeding, while the latter emphasizes psychological healing after personal labor. The connection lies in Mochi being the core object through which Lin Xiao receives positive feedback in both cases."
   },
   {
     "pair_a_id": "emotion_01",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "键盘"
+      "Lin Xiao",
+      "Mochi",
+      "Keyboard"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2035,14 +2035,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.9,
-    "association_path": "高度重合，后者几乎是前者的深度扩展版，具体化了‘工作压力 - 猫咪互动 - 焦虑平复’的因果链条，并增加了回忆维度。"
+    "association_path": "There is a high degree of overlap; the latter is essentially an in-depth expansion of the former. It concretizes the causal chain of 'work stress - cat interaction - anxiety relief' and adds a dimension of reminiscence."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "behavior_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2051,14 +2051,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "前者描述深夜加班时的即时情感慰藉，后者描述白天的记录分享行为，虽都涉及人猫互动，但情感浓度与行为目的不同。"
+    "association_path": "The former describes immediate emotional comfort during late-night overtime work, while the latter depicts daytime recording and sharing behaviors. Although both involve human-cat interaction, the emotional intensity and behavioral purposes differ."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2067,14 +2067,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.1,
-    "association_path": "前者聚焦父女亲情通过猫的表达，后者聚焦工作焦虑通过猫的缓解，仅在‘猫是情绪调节器’这一宏观功能上存在弱关联。"
+    "association_path": "The former focuses on the expression of father-daughter affection through the cat, while the latter focuses on the alleviation of work anxiety through the cat. They share only a weak connection at the macro level where 'the cat serves as an emotional regulator'."
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2083,14 +2083,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "分别从医疗健康（定期体检）和行为 enrichment（玩具轮换）两个专业维度展示科学养猫的理念，逻辑互补。"
+    "association_path": "These entries demonstrate the concept of scientific cat ownership from two professional dimensions: medical health (regular check-ups) and behavioral enrichment (toy rotation), offering logical complementarity."
   },
   {
     "pair_a_id": "behavior_12",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2099,14 +2099,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.7,
-    "association_path": "前者是具体的睡前照料动作，后者是对这一系列照料行为背后初心（收养决定）的升华与感恩，形成了从‘行’到‘心’的完整闭环。"
+    "association_path": "The former describes specific bedtime care actions, while the latter sublimates and expresses gratitude for the original intention behind this series of care behaviors (the decision to adopt), forming a complete loop from 'action' to 'heart'."
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "behavior_05",
     "shared_entities": [
-      "林晓",
-      "小李子"
+      "Lin Xiao",
+      "Xiao Lizi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2115,14 +2115,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.5,
-    "association_path": "通过共同实体‘小李子’罐头建立强关联：Pair A 描述喂食该罐头的日常，Pair B 描述喂食后处理该罐头包装的安全行为，构成完整的因果链条。"
+    "association_path": "Establishes a strong association through the shared entity 'Xiao Lizi' canned food: Pair A describes the daily routine of feeding this canned food, while Pair B details the safe handling of the packaging after feeding, forming a complete causal chain."
   },
   {
     "pair_a_id": "emotion_11",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2131,14 +2131,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "仅共享人物与宠物实体。Pair A 聚焦居住决策的欣慰感，Pair B 聚焦喂食互动的行为，场景与主题跨度较大，逻辑连接较弱。"
+    "association_path": "Shares only human and pet entities. Pair A focuses on the sense of relief regarding housing decisions, while Pair B centers on feeding interactions. The significant gap in setting and theme results in a weak logical connection."
   },
   {
     "pair_a_id": "behavior_10",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2147,13 +2147,13 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "共享人物与宠物。Pair A 展示宠物对主人的情绪疗愈，Pair B 展示主人对宠物的安全防护，共同构建了‘人宠相依’的深层情感逻辑。"
+    "association_path": "Shares human and pet entities. Pair A showcases the pet's emotional healing effect on the owner, while Pair B demonstrates the owner's safety precautions for the pet, jointly constructing a deep emotional logic of 'mutual dependence between human and pet'."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "multihop_05",
     "shared_entities": [
-      "林晓"
+      "Lin Xiao"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -2162,14 +2162,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.5,
-    "association_path": "仅共享人物‘林晓’。Pair A 回顾收养起源，Pair B 描述基于过往意外（2023 年）的户外安全措施，时间线与事件焦点不一致，关联度一般。"
+    "association_path": "Shares only the human entity 'Lin Xiao'. Pair A reviews the origins of adoption, while Pair B describes outdoor safety measures based on a past incident (2023). The misalignment in timeline and event focus results in a moderate level of association."
   },
   {
     "pair_a_id": "behavior_04",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2178,16 +2178,16 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "共享人物与宠物。Pair A 描述工作时的陪伴干扰，Pair B 描述居家环境的安全改造，虽同属生活场景但缺乏直接的事件或逻辑触发点。"
+    "association_path": "Shares human and pet entities. Pair A describes companionship becoming a distraction during work, while Pair B details safety modifications to the home environment. Although both belong to daily life scenarios, they lack a direct event or logical trigger point."
   },
   {
     "pair_a_id": "emotion_09",
     "pair_b_id": "multihop_08",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "张医生",
-      "安安宠医"
+      "Lin Xiao",
+      "Mochi",
+      "Dr. Zhang",
+      "An'an Pet Hospital"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2196,14 +2196,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "高度重叠的实体（医生、医院、宠物）。Pair A 表达对医生的信任感，Pair B 详细描述基于该信任产生的长期护理行为及知识分享，逻辑紧密连贯。"
+    "association_path": "Highly overlapping entities (veterinarian, hospital, pet). Pair A expresses trust in the veterinarian, while Pair B details long-term care behaviors and knowledge sharing stemming from that trust, resulting in a tightly coherent logical flow."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2212,14 +2212,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "共享人物与宠物。Pair A 描述深夜工作时的陪伴，Pair B 描述出门前的安全叮嘱，共同体现了主人在不同时间段对宠物的依赖与责任感。"
+    "association_path": "Shares human and pet entities. Pair A describes companionship during late-night work, while Pair B outlines safety instructions before going out. Together, they reflect the owner's reliance on and sense of responsibility toward the pet across different times of day."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "emotion_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2228,14 +2228,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "共享人物与宠物。Pair A 描述晨间照料，Pair B 描述深夜情感支持，通过‘早晚’时间对比展现人宠关系的全天候陪伴特性。"
+    "association_path": "Shares human and pet entities. Pair A describes morning care routines, while Pair B depicts late-night emotional support. The contrast between 'morning and evening' highlights the round-the-clock companionship characteristic of the human-pet relationship."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "emotion_08",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2244,14 +2244,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "共享人物与宠物。Pair A 是独处时的工作陪伴，Pair B 是社交时的互动分享，场景转换较大，仅通过‘麻薯’这一核心话题维持弱关联。"
+    "association_path": "Shares human and pet entities. Pair A involves companionship while working alone, whereas Pair B concerns interactive sharing during social gatherings. The significant shift in setting results in a weak association maintained solely through 'Mochi' as the core topic."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2260,14 +2260,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "共享人物与宠物。Pair A 聚焦第三方（父亲）的情感投射，Pair B 聚焦日常的喂食互动，两者在情感来源和行为主体上缺乏直接逻辑交集。"
+    "association_path": "Shares human and pet entities. Pair A focuses on emotional projection by a third party (the father), while Pair B centers on daily feeding interactions. There is a lack of direct logical intersection between the sources of emotion and the actors involved."
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "time_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2276,14 +2276,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两句话均围绕林晓对麻薯的关爱展开，前者是日常陪伴，后者是父亲通过林晓传递的关爱，情感基调一致，人物与宠物关系紧密。"
+    "association_path": "Both sentences revolve around Lin Xiao's care for Mochi; the former depicts daily companionship, while the latter conveys affection from her father through Lin Xiao. The emotional tone is consistent, reflecting a close bond between the human and the pet."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2292,14 +2292,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "虽然都涉及林晓和麻薯，但前者是社交放松场景，后者是创伤后的应激行为与喂养习惯，话题跨度较大，缺乏直接逻辑衔接。"
+    "association_path": "Although both involve Lin Xiao and Mochi, the former describes a social relaxation scenario, whereas the latter focuses on stress responses and feeding habits following trauma. The topic shift is significant, lacking direct logical continuity."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2308,14 +2308,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者描述晨间照料 routine，后者描述因父爱引发的温馨互动，虽无直接因果，但共同构建了人宠和谐生活的不同侧面。"
+    "association_path": "The former describes a morning care routine, while the latter depicts a heartwarming interaction triggered by paternal love. Although there is no direct causality, together they construct different facets of a harmonious life between human and pet."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "behavior_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2324,14 +2324,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是宏观的情感回顾（收养决定），后者是微观的工作陪伴细节，两者在时间维度上形成呼应，体现长期的陪伴关系。"
+    "association_path": "The former is a macro-level emotional reflection on the decision to adopt, while the latter provides micro-level details of companionship during work. They resonate across different time dimensions, illustrating a long-term bonding relationship."
   },
   {
     "pair_a_id": "time_08",
     "pair_b_id": "emotion_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2340,14 +2340,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "前者是深夜陪伴场景，后者是因过往意外产生的警惕心理，两者共同反映了林晓在照顾麻薯过程中的情感依赖与责任感。"
+    "association_path": "The former portrays a late-night companionship scene, while the latter reflects vigilance stemming from a past accident. Together, they highlight Lin Xiao's emotional dependence and sense of responsibility in caring for Mochi."
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "time_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2356,14 +2356,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.2,
-    "association_path": "前者是定期体检，后者是日常防误食习惯，两者均源于对麻薯健康的重视，且后者明确提到了 2023 年的误食事件，与医疗背景高度相关。"
+    "association_path": "The former refers to regular health check-ups, while the latter describes daily habits to prevent accidental ingestion. Both stem from a strong emphasis on Mochi's health, with the latter explicitly referencing an ingestion incident in 2023, making it highly relevant to the medical context."
   },
   {
     "pair_a_id": "emotion_12",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2372,13 +2372,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "前者是清洁劳动带来的治愈感，后者是父女间关于宠物的情感交流，除主角相同外，场景与主题关联度较低。"
+    "association_path": "The former describes the healing sensation derived from cleaning chores, while the latter focuses on emotional exchanges between father and daughter regarding the pet. Apart from sharing the same protagonist, the scenes and themes have low relevance."
   },
   {
     "pair_a_id": "multihop_06",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2387,14 +2387,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "前者讨论玩具选择与天性激发，后者讨论父爱表达与保暖，两者仅在“为猫好”这一宽泛动机上有微弱联系，具体语境差异大。"
+    "association_path": "The former discusses toy selection and stimulating natural instincts, while the latter addresses expressions of paternal love and keeping warm. They share only a faint connection in the broad motivation of 'doing what's best for the cat,' with significant differences in specific contexts."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2403,14 +2403,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "前者是季度专业护理，后者是每日下班后的解压仪式，分别代表了不同频率的照料行为，共同体现了主人对宠物身心健康的关注。"
+    "association_path": "The former involves quarterly professional grooming, while the latter describes a daily decompression ritual after work. Representing caregiving behaviors at different frequencies, they collectively demonstrate the owner's attention to the pet's physical and mental well-being."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2419,15 +2419,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者均聚焦于林晓通过麻薯获得情绪价值：前者是通过社交分享获得共鸣，后者是通过肢体接触缓解焦虑，主题高度一致（宠物治愈主人）。"
+    "association_path": "Both focus on the emotional value Lin Xiao derives from Mochi: the former achieves resonance through social sharing, while the latter alleviates anxiety through physical contact. The themes are highly consistent, centering on the pet healing the owner."
   },
   {
     "pair_a_id": "behavior_12",
     "pair_b_id": "multihop_01",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "自动喂食器"
+      "Lin Xiao",
+      "Mochi",
+      "automatic feeder"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2436,14 +2436,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两句话均描述林晓针对麻薯的健康与安全（睡眠环境 vs 饮食控制）所采取的具体照料行为，且都明确提到了‘自动喂食器’这一共同实体，构成了完整的日常护理场景。"
+    "association_path": "Both sentences describe specific care actions taken by Lin Xiao for Mochi's health and safety (sleeping environment vs. dietary control), and both explicitly mention the 'automatic feeder' as a shared entity, forming a complete daily care scenario."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2452,14 +2452,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "两者仅共享人物与宠物关系。前者描述深夜独处时的情感慰藉，后者描述周末社交时的记录行为，场景（室内加班 vs 户外聚会）与情感基调（孤独治愈 vs 社交分享）差异较大，关联性较弱。"
+    "association_path": "The two only share the human-pet relationship. The former describes emotional comfort during late-night solitude, while the latter depicts a recording behavior during weekend socializing. The settings (working overtime indoors vs. outdoor gathering) and emotional tones (lonely healing vs. social sharing) differ significantly, resulting in a weak association."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2468,14 +2468,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.0,
-    "association_path": "虽然都涉及麻薯的健康维护，但前者是定期的常规美容护理，后者是针对特定误食创伤的应激性存储习惯。两者在时间频率、具体动作及核心动机上缺乏直接逻辑衔接。"
+    "association_path": "Although both involve maintaining Mochi's health, the former refers to regular routine grooming, while the latter concerns a stress-induced storage habit triggered by a specific ingestion incident. There is no direct logical connection between them in terms of frequency, specific actions, or core motivation."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "emotion_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2484,14 +2484,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "两者均体现林晓与麻薯的深厚情感，但侧重点不同：前者是对过去收养时刻的年度回忆，后者是当下通过劳动获得秩序感的即时情绪。时间维度（年度回忆 vs 每周例行）跨度较大。"
+    "association_path": "Both reflect the deep bond between Lin Xiao and Mochi, but with different focuses: the former is an annual recollection of the past adoption moment, while the latter is an immediate emotion derived from gaining a sense of order through labor. The time dimensions (annual memory vs. weekly routine) span a significant gap."
   },
   {
     "pair_a_id": "emotion_05",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2500,14 +2500,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.6,
-    "association_path": "两句话共同构建了‘父母对麻薯态度转变’的完整叙事弧光。前者讲述母亲从反对到接纳（寄鸡肉干），后者讲述父亲笨拙的关爱（买暖气），共同反映了家庭因猫而凝聚的主题。"
+    "association_path": "Together, the two sentences construct a complete narrative arc regarding the 'parents' changing attitude toward Mochi.' The former tells of the mother's shift from opposition to acceptance (sending dried chicken), while the latter depicts the father's clumsy affection (buying a heater), jointly reflecting the theme of family unity brought about by the cat."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "behavior_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2516,14 +2516,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.5,
-    "association_path": "两者均为林晓出于对麻薯安全的极度重视而养成的强制性习惯。前者防坠楼（检查阳台），后者防误食（锁包装），共同体现了‘创伤后应激’下的精细化照料逻辑。"
+    "association_path": "Both are mandatory habits formed by Lin Xiao due to extreme concern for Mochi's safety. The former prevents falls (checking the balcony), while the latter prevents accidental ingestion (locking packaging), jointly illustrating a logic of meticulous care under 'post-traumatic stress.'"
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "multihop_04",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2532,14 +2532,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "前者是具体的医疗行为（找张医生体检），后者是家庭关系变化的因果解释（母亲态度转变）。虽然都涉及麻薯的健康背景，但叙述焦点完全不在同一维度。"
+    "association_path": "The former describes a specific medical action (visiting Dr. Zhang for a check-up), while the latter provides a causal explanation for changes in family dynamics (the mother's shift in attitude). Although both relate to Mochi's health background, their narrative focuses are entirely on different dimensions."
   },
   {
     "pair_a_id": "multihop_07",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2548,14 +2548,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "两者通过‘时间线’紧密相连。前者描述 2022-2023 年因误食事件后的安全改造措施，后者回溯 2021 年的收养初心并展望当下的幸福。共同构成了从‘善举’到‘责任’再到‘回报’的完整故事链。"
+    "association_path": "The two are closely linked through a 'timeline.' The former describes safety modifications made between 2022 and 2023 following an ingestion incident, while the latter looks back at the original intention behind the 2021 adoption and reflects on current happiness. Together, they form a complete story chain from 'kind act' to 'responsibility' to 'reward.'"
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "multihop_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -2564,13 +2564,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "前者聚焦父女情感互动（转账买暖气），后者聚焦具体的皮肤病护理流程（洗澡检查）。除人物关系外，事件内容与逻辑无直接关联。"
+    "association_path": "The former focuses on the emotional interaction between father and daughter (transferring money to buy a heater), while the latter centers on a specific skincare routine for dermatitis (bathing and inspection). Apart from the shared human relationships, the event content and logic have no direct connection."
   },
   {
     "pair_a_id": "multihop_06",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2579,14 +2579,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.6,
-    "association_path": "前者描述针对猫藓康复期的玩具适配与活力激发，后者是对收养至今整体幸福状态的感慨。虽有因果隐含（因为照顾得好所以现在健康），但缺乏直接的实体或事件重叠。"
+    "association_path": "The former describes toy adaptation and vitality stimulation tailored to the recovery period from feline ringworm, while the latter expresses reflection on the overall state of happiness since adoption. Although there is an implied causality (good care leads to current health), there is a lack of direct overlap in entities or events."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "time_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2595,14 +2595,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均描述林晓与麻薯在特定时间节点（季度护理 vs 年度回忆）的互动，共同构建了人宠长期陪伴的时间线叙事。"
+    "association_path": "Both describe interactions between Lin Xiao and Mochi at specific points in time (quarterly care vs. annual reminiscence), jointly constructing a timeline narrative of their long-term companionship."
   },
   {
     "pair_a_id": "time_07",
     "pair_b_id": "multihop_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2611,14 +2611,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "虽共享核心人物与宠物，但前者侧重医疗常规，后者侧重家庭情感互动，场景跨度较大，逻辑连接较弱。"
+    "association_path": "Although they share the core human and pet characters, the former focuses on medical routines while the latter emphasizes emotional family interactions; the significant gap in scenarios results in a weaker logical connection."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2627,14 +2627,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "均描述林晓照顾麻薯的日常行为习惯（安全防护 vs 娱乐互动），共同刻画了主人细致入微的养育形象。"
+    "association_path": "Both describe Lin Xiao's daily caregiving habits for Mochi (safety protection vs. recreational interaction), jointly portraying the owner as a meticulous and attentive caregiver."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "behavior_01",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2643,14 +2643,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.75,
-    "association_path": "高度关联。两者均源于'2023 年意外’这一共同背景，分别描述了由此产生的不同维度的安全习惯（收纳细小物品 vs 检查阳台锁扣），因果逻辑紧密。"
+    "association_path": "Highly correlated. Both stem from the shared background of the '2023 accident,' describing different dimensions of safety habits that resulted from it (storing small items vs. checking balcony latches), demonstrating a tight causal logic."
   },
   {
     "pair_a_id": "emotion_06",
     "pair_b_id": "behavior_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2659,15 +2659,15 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.5,
-    "association_path": "前者聚焦父女情感与猫的关系，后者聚焦猫的玩具偏好管理，主题差异明显，缺乏直接语境衔接。"
+    "association_path": "The former focuses on the emotional relationship between the father, daughter, and the cat, while the latter centers on managing the cat's toy preferences. The themes differ significantly, lacking direct contextual衔接."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "multihop_03",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "2021 年收养经历"
+      "Lin Xiao",
+      "Mochi",
+      "2021 Adoption Experience"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -2676,14 +2676,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 5.0,
-    "association_path": "极强关联。pair_b 明确引用了 pair_a 中的'2021 年寒冷夜晚相遇’事件作为情感锚点，解释了猫的行为如何触发主人的回忆与情绪平复。"
+    "association_path": "Extremely strong correlation. Pair_b explicitly references the 'meeting on a cold night in 2021' event from pair_a as an emotional anchor, explaining how the cat's behavior triggered the owner's memories and emotional calm."
   },
   {
     "pair_a_id": "emotion_02",
     "pair_b_id": "behavior_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2692,14 +2692,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.25,
-    "association_path": "形成完整的日夜照料闭环：前者描述深夜加班时猫的情感支持，后者描述睡前主人为猫做的安全确认，体现双向依赖。"
+    "association_path": "Forms a complete day-and-night caregiving loop: the former describes the cat's emotional support during late-night overtime work, while the latter describes the owner's safety checks for the cat before bed, reflecting mutual dependence."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "emotion_11",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2708,14 +2708,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "前者描述因误食事件养成的收纳习惯，后者描述因重视宠物安全而选择封闭阳台的欣慰，共同反映了主人对宠物安全隐患的高度警惕。"
+    "association_path": "The former describes storage habits developed due to an accidental ingestion incident, while the latter describes the relief felt from choosing to enclose the balcony due to a focus on pet safety; together, they reflect the owner's high vigilance regarding pet safety hazards."
   },
   {
     "pair_a_id": "time_12",
     "pair_b_id": "emotion_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2724,14 +2724,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "共享人物与宠物，但前者侧重物理安全措施（防误食），后者侧重情感陪伴（抗孤独），场景与主题关联度一般。"
+    "association_path": "While sharing the same human and pet characters, the former focuses on physical safety measures (preventing accidental ingestion), whereas the latter emphasizes emotional companionship (combating loneliness); the connection between scenarios and themes is moderate."
   },
   {
     "pair_a_id": "time_09",
     "pair_b_id": "multihop_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2740,14 +2740,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.25,
-    "association_path": "前者涉及母亲对猫的关爱（食物），后者涉及住房安全决策（阳台），虽都体现对猫的重视，但具体事件线索无直接交集。"
+    "association_path": "The former involves the mother's care for the cat (food), while the latter concerns housing safety decisions (balcony). Although both demonstrate care for the cat, there is no direct intersection in the specific event details."
   },
   {
     "pair_a_id": "behavior_05",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2756,15 +2756,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两个行为均描述了林晓与麻薯之间的深度互动：前者是林晓为保护麻薯安全而采取的防御性行为（防误食），后者是林晓在压力下从麻薯处寻求情感慰藉的依赖性行为。两者共同构建了‘人与宠物相互守护’的情感闭环。"
+    "association_path": "Both behaviors describe deep interactions between Lin Xiao and Mochi: the former is a defensive action taken by Lin Xiao to protect Mochi's safety (preventing accidental ingestion), while the latter is a dependent behavior where Lin Xiao seeks emotional comfort from Mochi under stress. Together, they construct an emotional loop of 'mutual guardianship between human and pet'."
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "time_11",
     "shared_entities": [
-      "林晓",
-      "林父",
-      "麻薯"
+      "Lin Xiao",
+      "Lin's Father",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2773,14 +2773,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "时间维度上的因果与情感呼应。Pair_b 回顾了麻薯被收养的起源（寒冷的夜晚），Pair_a 展示了父亲因知晓这段历史（或单纯关爱麻薯）而在冬天提供物质支持（买暖气）。两者通过‘冬天’、‘寒冷/温暖’及‘对麻薯的爱’紧密连接，形成完整的家庭温情叙事。"
+    "association_path": "A causal and emotional resonance across the time dimension. Pair_b recalls the origin of Mochi's adoption (a cold night), while Pair_a shows the father providing material support (buying a heater) in winter due to knowing this history (or simply out of love for Mochi). The two are tightly connected through 'winter,' 'cold/warmth,' and 'love for Mochi,' forming a complete narrative of family warmth."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2789,14 +2789,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "两者均为林晓与麻薯的日常互动场景，但侧重点不同。Pair_a 侧重于生理需求（喂食）引发的条件反射式互动，Pair_b 侧重于心理需求（焦虑）引发的情感疗愈互动。虽主体一致，但情境跨度较大，关联性中等。"
+    "association_path": "Both represent daily interaction scenarios between Lin Xiao and Mochi, but with different focuses. Pair_a emphasizes conditioned reflex interactions triggered by physiological needs (feeding), whereas Pair_b focuses on emotional healing interactions triggered by psychological needs (anxiety). Although the subjects are the same, the situational gap is significant, resulting in a moderate association."
   },
   {
     "pair_a_id": "time_11",
     "pair_b_id": "behavior_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2805,13 +2805,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.5,
-    "association_path": "Pair_a 是宏观的时间记忆（收养日），Pair_b 是微观的日常行为（喂晚餐）。虽然都涉及林晓和麻薯，但缺乏直接的事件逻辑联系或情感递进关系，属于同一故事背景下的松散片段。"
+    "association_path": "Pair_a represents a macro-level temporal memory (adoption day), while Pair_b depicts a micro-level daily behavior (feeding dinner). Although both involve Lin Xiao and Mochi, they lack direct event-based logical connections or progressive emotional relationships, belonging instead to loose fragments within the same story background."
   },
   {
     "pair_a_id": "emotion_05",
     "pair_b_id": "multihop_06",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2820,14 +2820,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.5,
-    "association_path": "两者均围绕‘如何更好地照顾麻薯’展开。Pair_a 是家庭情感层面（母亲接纳），Pair_b 是科学养育层面（根据天性选玩具）。共享实体仅为麻薯，林晓在 Pair_b 中未显式提及（虽隐含），逻辑连接较弱，属于不同维度的养宠记录。"
+    "association_path": "Both revolve around 'how to better care for Mochi.' Pair_a operates on the level of family emotion (mother's acceptance), while Pair_b focuses on the scientific aspect of raising pets (choosing toys based on natural instincts). With only Mochi as a shared entity and Lin Xiao not explicitly mentioned in Pair_b (though implied), the logical connection is weak, representing pet-care records from different dimensions."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "behavior_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2836,15 +2836,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.2,
-    "association_path": "两者展示了林晓养宠生活的不同侧面：Pair_a 是社交场景下的分享与共鸣，Pair_b 是私密空间内的仪式感与依恋。共同点是麻薯作为林晓情感生活的核心，但场景切换较大，连贯性一般。"
+    "association_path": "These two showcase different facets of Lin Xiao's life as a pet owner: Pair_a involves sharing and resonance in a social setting, while Pair_b highlights ritual and attachment in a private space. The commonality lies in Mochi being central to Lin Xiao's emotional life, but the significant scene shift results in only average coherence."
   },
   {
     "pair_a_id": "emotion_01",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "呼噜声"
+      "Lin Xiao",
+      "Mochi",
+      "Purring Sound"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -2853,14 +2853,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 5.0,
-    "association_path": "高度强关联。Pair_a 描述了‘压力->抱猫->呼噜声->焦虑消散’的即时反应，Pair_b 则将这一过程系统化、仪式化（下班三部曲），并明确指出了‘呼噜声’作为切换职场与居家模式的关键触发点。两者在因果逻辑、情感机制和实体重叠上完全一致。"
+    "association_path": "Highly strong association. Pair_a describes the immediate reaction of 'stress -> hugging the cat -> purring sound -> anxiety dissipation,' while Pair_b systematizes and ritualizes this process (the 'after-work trilogy'), explicitly identifying the 'purring sound' as the key trigger for switching between work and home modes. The two are completely consistent in causal logic, emotional mechanisms, and entity overlap."
   },
   {
     "pair_a_id": "behavior_08",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2869,14 +2869,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.5,
-    "association_path": "两者均为林晓照顾麻薯的具体行为，但领域完全不同。Pair_a 是健康护理（检查皮肤/猫藓），Pair_b 是社交娱乐（公园聚会/拍照）。除主体相同外，缺乏深层语义联系。"
+    "association_path": "Both are specific behaviors of Lin Xiao caring for Mochi, but they belong to entirely different domains. Pair_a concerns health care (checking skin/cat ringworm), while Pair_b relates to social entertainment (park gatherings/taking photos). Apart from sharing the same subjects, they lack deep semantic connections."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "time_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -2885,13 +2885,13 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.5,
-    "association_path": "两者分别描述了林晓日常生活的两个独立时间点：早晨的例行公事（喂食/铲屎）和与母亲的通讯时刻。虽然都涉及麻薯的近况关注，但事件本身无直接逻辑推导关系。"
+    "association_path": "These two describe independent time points in Lin Xiao's daily life: morning routines (feeding/scooping litter) and moments of communication with her mother. Although both involve concern for Mochi's well-being, the events themselves have no direct logical derivational relationship."
   },
   {
     "pair_a_id": "multihop_01",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2900,14 +2900,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "两者均体现了林晓作为主人的精细化管理。Pair_a 针对‘饮食健康’（基于病史的少食多餐），Pair_b 针对‘心理健康’（基于压力的解压仪式）。虽然共享实体较少，但深层逻辑都是‘基于麻薯特定需求（病史/性格）的定制化照顾’，具有一定的主题一致性。"
+    "association_path": "Both reflect Lin Xiao's refined management as an owner. Pair_a addresses 'dietary health' (small, frequent meals based on medical history), while Pair_b targets 'mental health' (stress-relief rituals based on pressure). Although few entities are shared, the underlying logic in both is 'customized care based on Mochi's specific needs (medical history/personality),' demonstrating a certain degree of thematic consistency."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "emotion_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2916,14 +2916,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.1,
-    "association_path": "通过共同实体‘林晓’和‘麻薯’连接，前者描述清洁猫毛的日常，后者解释因误食史导致的对细小物品的紧张，两者共同构建了主人对宠物安全与卫生的高度关注逻辑。"
+    "association_path": "Connected through the shared entities 'Lin Xiao' and 'Mochi.' The former describes the daily routine of cleaning cat hair, while the latter explains the anxiety toward small objects stemming from a past ingestion incident. Together, they construct a logical framework highlighting the owner's heightened concern for pet safety and hygiene."
   },
   {
     "pair_a_id": "time_04",
     "pair_b_id": "behavior_06",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2932,14 +2932,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "仅共享人物与宠物实体，分别描述洗澡护理和回家仪式两个独立的生活片段，缺乏深层因果或情境互补，关联性较弱。"
+    "association_path": "Shares only the human and pet entities, describing two independent life snippets: bathing care and a homecoming ritual. Lacking deep causal links or contextual complementarity, the association is relatively weak."
   },
   {
     "pair_a_id": "behavior_01",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2948,14 +2948,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "共享实体外，前者体现预防意外的安全习惯（源于 2023 年意外），后者体现利用宠物缓解焦虑，共同反映了‘意外创伤’对主人行为模式和心理依赖的深远影响。"
+    "association_path": "Beyond sharing entities, the former reflects safety habits developed to prevent accidents (stemming from a 2023 incident), while the latter demonstrates using the pet to alleviate anxiety. Together, they reflect the profound impact of 'traumatic accidents' on the owner's behavioral patterns and psychological dependence."
   },
   {
     "pair_a_id": "time_06",
     "pair_b_id": "time_07",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2964,14 +2964,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "均为带宠物外出的时间性描述（社交聚会 vs 医疗体检），场景和目的不同，仅存在基础的主题一致性。"
+    "association_path": "Both are temporal descriptions involving taking the pet out (a social gathering vs. a medical checkup). With different scenarios and purposes, they share only basic thematic consistency."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "time_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2980,14 +2980,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.8,
-    "association_path": "前者是家庭内部深度清洁，后者是外部专业护理，两者在‘维持宠物健康与环境卫生’这一目标上形成互补，构成完整的养护闭环。"
+    "association_path": "The former involves deep cleaning within the home, while the latter entails external professional care. They complement each other in the goal of 'maintaining pet health and environmental hygiene,' forming a complete care loop."
   },
   {
     "pair_a_id": "emotion_12",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -2996,14 +2996,14 @@
       "conversation_coherence": 2
     },
     "overall_score": 2.2,
-    "association_path": "虽然都涉及周末和麻薯，但前者侧重劳动后的内心治愈感，后者侧重社交场景下的记录行为，情感维度与行为场景割裂，关联度低。"
+    "association_path": "Although both involve the weekend and Mochi, the former focuses on the inner sense of healing after labor, while the latter emphasizes recording behavior in a social setting. The disconnect between the emotional dimension and the behavioral scenario results in low relevance."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "emotion_03",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -3012,15 +3012,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.2,
-    "association_path": "通过‘喂食’这一核心行为紧密连接，前者是早晨添加干粮的日常，后者是听到罐头声音的反应，共同展现了人宠之间基于食物互动的亲密关系与情感反馈。"
+    "association_path": "Closely connected through the core behavior of 'feeding.' The former describes the morning routine of adding dry food, while the latter captures the reaction to the sound of a can being opened. Together, they showcase the intimate relationship and emotional feedback between human and pet based on food interactions."
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "multihop_11",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "小李子"
+      "Lin Xiao",
+      "Mochi",
+      "Xiao Lizi"
     ],
     "scores": {
       "entity_overlap": 3,
@@ -3029,13 +3029,13 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "高度重合，pair_b 实际上是对 pair_a 中'20:00 下班后玩耍喂食’这一行为的深度解读，将具体动作升华为缓解职场压力的仪式感，逻辑极其紧密。"
+    "association_path": "Highly overlapping; pair_b essentially provides a deep interpretation of the 'playing and feeding after work at 20:00' behavior in pair_a. It elevates specific actions into a ritual for alleviating workplace stress, demonstrating an extremely tight logical connection."
   },
   {
     "pair_a_id": "multihop_10",
     "pair_b_id": "multihop_12",
     "shared_entities": [
-      "麻薯"
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 1,
@@ -3044,14 +3044,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.5,
-    "association_path": "通过‘麻薯’的生命历程连接，前者详述因误食导致的创伤后应激行为（锁柜子），后者回顾收养起源与现状幸福，两者共同构成了‘从危机到珍惜’的完整情感叙事弧光。"
+    "association_path": "Connected through Mochi's life journey. The former details post-traumatic stress behaviors (locking cabinets) caused by an ingestion incident, while the latter reviews the origins of adoption and current happiness. Together, they form a complete emotional narrative arc from 'crisis to cherishing.'"
   },
   {
     "pair_a_id": "behavior_02",
     "pair_b_id": "behavior_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mochi"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -3060,14 +3060,14 @@
       "conversation_coherence": 3
     },
     "overall_score": 3.0,
-    "association_path": "共享实体，但行为指向完全不同：一个是分享可爱的社交行为，一个是防止误食的安全行为，仅在‘主人对宠物的关注’这一宽泛主题下相关。"
+    "association_path": "While sharing entities, the behaviors point in completely different directions: one is a social act of sharing cuteness, and the other is a safety measure to prevent ingestion. They are related only under the broad theme of 'the owner's attention to the pet.'"
   },
   {
     "pair_a_id": "time_02",
     "pair_b_id": "emotion_02",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -3076,14 +3076,14 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两者均描述林晓与麻薯在出租屋场景下的深度情感互动，前者是日常陪伴，后者是情感慰藉，共同构建了人宠相依的生活图景。"
+    "association_path": "Both describe deep emotional interactions between Lin Xiao and Mashu in their rental apartment; the former depicts daily companionship, while the latter offers emotional comfort, together painting a picture of a life where human and pet rely on each other."
   },
   {
     "pair_a_id": "time_10",
     "pair_b_id": "behavior_10",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -3092,13 +3092,13 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者分别展示了父亲和林晓本人对麻薯的关爱，以及麻薯对林晓的情绪治愈作用，体现了双向的情感流动和家庭温暖。"
+    "association_path": "These respectively showcase the care given to Mashu by both her father and Lin Xiao herself, as well as Mashu's role in healing Lin Xiao's emotions, reflecting a bidirectional flow of affection and family warmth."
   },
   {
     "pair_a_id": "emotion_08",
     "pair_b_id": "multihop_04",
     "shared_entities": [
-      "麻薯"
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -3107,15 +3107,15 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "两者均涉及麻薯作为社交或家庭关系缓和的媒介，前者是朋友间的共鸣，后者是母女关系的破冰，主题上有关联但具体情境跨度较大。"
+    "association_path": "Both involve Mashu acting as a medium to ease social or family relationships; the former resonates between friends, while the latter breaks the ice between mother and daughter. Although thematically linked, the specific contexts differ significantly."
   },
   {
     "pair_a_id": "time_05",
     "pair_b_id": "behavior_08",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "皮肤"
+      "Lin Xiao",
+      "Mashu",
+      "skin"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -3124,13 +3124,13 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两者紧密围绕麻薯的皮肤健康管理，从季度专业护理到日常梳毛检查，构成了完整的健康维护逻辑链条。"
+    "association_path": "Both closely revolve around managing Mashu's skin health, ranging from quarterly professional care to daily brushing and inspections, forming a complete logical chain for health maintenance."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "multihop_04",
     "shared_entities": [
-      "麻薯"
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -3139,13 +3139,13 @@
       "conversation_coherence": 3
     },
     "overall_score": 2.8,
-    "association_path": "前者是林晓对收养决定的内心独白，后者是母亲态度转变的过程，两者通过麻薯这一核心纽带连接，反映了养猫对家庭关系的深远影响。"
+    "association_path": "The former is Lin Xiao's inner monologue regarding her decision to adopt, while the latter describes her mother's change of attitude. Connected by the central bond of Mashu, both reflect the profound impact of cat ownership on family dynamics."
   },
   {
     "pair_a_id": "multihop_08",
     "pair_b_id": "multihop_10",
     "shared_entities": [
-      "麻薯"
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 2,
@@ -3154,15 +3154,15 @@
       "conversation_coherence": 4
     },
     "overall_score": 3.5,
-    "association_path": "两者均源于麻薯过往的医疗危机（猫藓与误食），展示了林晓如何将痛苦经历转化为长期的专业护理习惯和安全防范措施。"
+    "association_path": "Both stem from Mashu's past medical crises (ringworm and accidental ingestion), demonstrating how Lin Xiao transformed these painful experiences into long-term professional care routines and safety precautions."
   },
   {
     "pair_a_id": "time_03",
     "pair_b_id": "behavior_06",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "出租屋"
+      "Lin Xiao",
+      "Mashu",
+      "rental apartment"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -3171,15 +3171,15 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.9,
-    "association_path": "两者均发生在余杭出租屋，分别描述了周末的深度清洁和每晚的回家仪式，共同勾勒出林晓与麻薯在特定空间内的规律生活轨迹。"
+    "association_path": "Both take place in the Yuhang rental apartment; one describes a deep cleaning session on weekends, and the other depicts the nightly homecoming ritual, together outlining the regular life trajectory of Lin Xiao and Mashu within this specific space."
   },
   {
     "pair_a_id": "emotion_10",
     "pair_b_id": "behavior_09",
     "shared_entities": [
-      "林晓",
-      "麻薯",
-      "陈晨"
+      "Lin Xiao",
+      "Mashu",
+      "Chen Chen"
     ],
     "scores": {
       "entity_overlap": 5,
@@ -3188,14 +3188,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.2,
-    "association_path": "前者是对过去决定的感恩，后者是当下与朋友分享养宠快乐的行為，体现了林晓对麻薯持续的爱意及社交分享欲。"
+    "association_path": "The former expresses gratitude for a past decision, while the latter shows the current act of sharing the joy of pet ownership with friends, reflecting Lin Xiao's enduring love for Mashu and her desire to share socially."
   },
   {
     "pair_a_id": "behavior_03",
     "pair_b_id": "behavior_05",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -3204,14 +3204,14 @@
       "conversation_coherence": 4
     },
     "overall_score": 4.0,
-    "association_path": "两者均为林晓照顾麻薯的具体行为，前者是日常喂食互动，后者是基于过往教训的安全喂食习惯，展现了细致入微的养育方式。"
+    "association_path": "Both are specific actions by Lin Xiao to care for Mashu; the former involves daily feeding interactions, while the latter establishes safe feeding habits based on past lessons, showcasing a meticulous approach to raising her pet."
   },
   {
     "pair_a_id": "time_01",
     "pair_b_id": "time_12",
     "shared_entities": [
-      "林晓",
-      "麻薯"
+      "Lin Xiao",
+      "Mashu"
     ],
     "scores": {
       "entity_overlap": 4,
@@ -3220,6 +3220,6 @@
       "conversation_coherence": 5
     },
     "overall_score": 4.8,
-    "association_path": "两者通过“误食”这一关键事件强关联，前者是日常晨间护理，后者是因过往误食事故而养成的每日安全检查习惯，因果逻辑清晰。"
+    "association_path": "Both are strongly linked by the key event of 'accidental ingestion'; the former describes routine morning care, while the latter details a daily safety check habit developed due to past ingestion incidents, presenting a clear causal logic."
   }
 ]

@@ -1,1426 +1,1426 @@
 [
   {
     "id": "q_001",
-    "trigger_type": "时间相关记忆联想",
-    "question": "突然想起 2021 年冬天那个寒冷的夜晚了。",
-    "trigger_concept": "2021 年冬天",
+    "trigger_type": "Time-related memory association",
+    "question": "Suddenly reminded of that cold night in the winter of 2021.",
+    "trigger_concept": "Winter 2021",
     "candidate_set": [
       {
-        "concept": "公司楼下",
-        "reason": "用户是在 2021 年冬天加班回家时，在公司楼下的垃圾桶旁发现麻薯的。"
+        "concept": "Downstairs from the office",
+        "reason": "The user found Mochi next to a trash bin downstairs from their office while heading home after working late in the winter of 2021."
       },
       {
-        "concept": "猫藓治疗",
-        "reason": "麻薯被收养初期（2021 年冬）患有严重的猫藓，经过两个月治疗才痊愈。"
+        "concept": "Ringworm treatment",
+        "reason": "When Mochi was first adopted in the winter of 2021, he suffered from severe ringworm and required two months of treatment to fully recover."
       },
       {
-        "concept": "纸箱",
-        "reason": "当时麻薯是被遗弃在纸箱里的，这是收养故事的关键细节。"
+        "concept": "Cardboard box",
+        "reason": "At the time, Mochi had been abandoned inside a cardboard box, which is a key detail of the adoption story."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从特定的收养时间点触发，联想到当时的地点、宠物健康状况及具体场景物品。"
+    "reasoning": "Triggered by the specific adoption timeframe, associating it with the location, the pet's health condition, and specific items from the scene."
   },
   {
     "id": "q_002",
-    "trigger_type": "时间相关记忆联想",
-    "question": "脑海里又浮现出 2023 年那次让麻薯受苦的经历。",
-    "trigger_concept": "2023 年意外",
+    "trigger_type": "Time-related memory association",
+    "question": "The memory of that ordeal Mochi went through in 2023 keeps coming back.",
+    "trigger_concept": "2023 accident",
     "candidate_set": [
       {
-        "concept": "塑料绳",
-        "reason": "2023 年麻薯误食的具体异物是塑料绳，导致了肠梗阻。"
+        "concept": "Plastic string",
+        "reason": "In 2023, the specific foreign object Mochi accidentally ingested was a plastic string, which caused an intestinal obstruction."
       },
       {
-        "concept": "急诊记忆",
-        "reason": "那次意外发生在深夜，林晓带麻薯去了急诊，是她意识到宠物是家人的转折点。"
+        "concept": "Emergency room memory",
+        "reason": "That accident happened late at night; Lin Xiao took Mochi to the emergency room, marking the turning point where she realized pets are family."
       },
       {
-        "concept": "细小物品",
-        "reason": "此次事件后，林晓开始严格收纳家中所有细小物品以防再次误食。"
+        "concept": "Small items",
+        "reason": "After this incident, Lin Xiao began strictly storing all small household items to prevent accidental ingestion from happening again."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从年份和负面事件触发，联想到致病源、就医场景及随后的行为改变。"
+    "reasoning": "Triggered by the year and a negative event, associating it with the cause of illness, the medical scenario, and subsequent behavioral changes."
   },
   {
     "id": "q_003",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每天晚上 8 点下班回到家，第一件事通常是先换衣服。",
-    "trigger_concept": "20:00 下班",
+    "trigger_type": "Time-related memory association",
+    "question": "Every day at 8 PM when I get home from work, the first thing I usually do is change my clothes.",
+    "trigger_concept": "Off work at 20:00",
     "candidate_set": [
       {
-        "concept": "逗猫棒",
-        "reason": "林晓的习惯是回家后先用逗猫棒陪玩 20 分钟消耗麻薯精力。"
+        "concept": "Cat wand",
+        "reason": "Lin Xiao's habit is to play with Mochi using a cat wand for 20 minutes immediately after getting home to burn off his energy."
       },
       {
-        "concept": "小李子罐头",
-        "reason": "陪玩结束后，她会喂一顿主食罐头，小李子是她偏爱的品牌之一。"
+        "concept": "Leonardo canned food",
+        "reason": "After playtime ends, she feeds him a meal of wet food; Leonardo is one of her preferred brands."
       },
       {
-        "concept": "梳子",
-        "reason": "喂食的同时，她会顺便给麻薯梳毛清理浮毛。"
+        "concept": "Comb",
+        "reason": "While feeding him, she also takes the opportunity to comb Mochi and remove loose fur."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从固定的晚间时间点触发，联想到该时间段内连续发生的三个具体互动行为及物品。"
+    "reasoning": "Triggered by a fixed evening time, associating it with three specific interactive behaviors and items that occur consecutively during that period."
   },
   {
     "id": "q_004",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每周六上午的大扫除时间，主要都在做深度吸尘。",
-    "trigger_concept": "深度吸尘",
+    "trigger_type": "Time-related memory association",
+    "question": "During the big cleaning session every Saturday morning, I mainly focus on deep vacuuming.",
+    "trigger_concept": "Deep vacuuming",
     "candidate_set": [
       {
-        "concept": "猫毛",
-        "reason": "深度吸尘的主要目的是清理麻薯掉落的猫毛。"
+        "concept": "Cat hair",
+        "reason": "The primary purpose of deep vacuuming is to clean up the cat hair shed by Mochi."
       },
       {
-        "concept": "猫窝",
-        "reason": "周六上午的例行公事包括清洗猫窝和毯子。"
+        "concept": "Cat bed",
+        "reason": "The Saturday morning routine includes washing the cat bed and blankets."
       },
       {
-        "concept": "指甲修剪",
-        "reason": "周六上午也是检查并修剪麻薯指甲长度的固定时间。"
+        "concept": "Nail trimming",
+        "reason": "Saturday morning is also the fixed time for checking and trimming Mochi's nails."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从周常清洁时间触发，联想到清洁对象、清洗物品及同期进行的护理项目。"
+    "reasoning": "Triggered by the weekly cleaning schedule, associating it with the cleaning target, items to be washed, and grooming tasks performed simultaneously."
   },
   {
     "id": "q_005",
-    "trigger_type": "时间相关记忆联想",
-    "question": "还记得第一次搬家时，为了麻薯特意选了个带大阳台的房子。",
-    "trigger_concept": "第一次搬家",
+    "trigger_type": "Time-related memory association",
+    "question": "I still remember that during our first move, we specifically chose a house with a large balcony for Mochi's sake.",
+    "trigger_concept": "First move",
     "candidate_set": [
       {
-        "concept": "封闭阳台",
-        "reason": "2022 年换房时，封闭阳台是林晓优先考虑的关键条件之一。"
+        "concept": "Enclosed balcony",
+        "reason": "When moving in 2022, having an enclosed balcony was one of the key conditions Lin Xiao prioritized."
       },
       {
-        "concept": "费洛蒙喷雾",
-        "reason": "为了防止麻薯应激，搬家时专门使用了费洛蒙喷雾辅助适应。"
+        "concept": "Pheromone spray",
+        "reason": "To prevent Mochi from experiencing stress during the move, pheromone spray was specifically used to help him adapt."
       },
       {
-        "concept": "责任感",
-        "reason": "这次搬家全程陪伴的经历体现了林晓将宠物视为家人的责任感。"
+        "concept": "Sense of responsibility",
+        "reason": "The experience of accompanying Mochi throughout the entire moving process reflects Lin Xiao's sense of responsibility in treating her pet as family."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从搬家里程碑事件触发，联想到房屋特征、辅助工具及情感层面的变化。"
+    "reasoning": "Triggered by the milestone event of moving, associating it with housing features, auxiliary tools, and emotional shifts."
   },
   {
     "id": "q_006",
-    "trigger_type": "时间相关记忆联想",
-    "question": "在那些深夜加班感到孤独的时刻，麻薯总会默默陪在身边。",
-    "trigger_concept": "加班夜晚",
+    "trigger_type": "Time-related memory association",
+    "question": "During those late nights working overtime when I felt lonely, Mochi would always silently stay by my side.",
+    "trigger_concept": "Overtime nights",
     "candidate_set": [
       {
-        "concept": "键盘",
-        "reason": "麻薯喜欢趴在键盘上‘监督’工作，或在深夜加班时跳到桌面上。"
+        "concept": "Keyboard",
+        "reason": "Mochi likes to lie on the keyboard to 'supervise' work or jump onto the desk during late-night overtime sessions."
       },
       {
-        "concept": "显示器",
-        "reason": "麻薯常趴在显示器旁，用头蹭林晓的手背提供陪伴。"
+        "concept": "Monitor",
+        "reason": "Mochi often rests beside the monitor, rubbing its head against Lin Xiao's hand to provide companionship."
       },
       {
-        "concept": "焦虑平复",
-        "reason": "这种陪伴行为能让林晓在 10 分钟内显著平复工作压力和孤独感。"
+        "concept": "Anxiety relief",
+        "reason": "This companionship significantly reduces Lin Xiao's work stress and feelings of loneliness within 10 minutes."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从特定工作场景时间触发，联想到宠物的具体互动位置及带来的情绪价值。"
+    "reasoning": "Triggered by a specific work scenario and time, associating the pet's specific interaction locations and the emotional value they bring."
   },
   {
     "id": "q_007",
-    "trigger_type": "时间相关记忆联想",
-    "question": "林母现在每次视频通话必问的话题都是照片反馈。",
-    "trigger_concept": "照片反馈",
+    "trigger_type": "Time-related memory association",
+    "question": "Now, the topic Lin's mother always asks about during every video call is feedback on the photos.",
+    "trigger_concept": "Photo feedback",
     "candidate_set": [
       {
-        "concept": "自制鸡肉干",
-        "reason": "林母态度软化后，偶尔会邮寄自制的鸡肉干给麻薯当零食。"
+        "concept": "Homemade chicken jerky",
+        "reason": "After Lin's mother softened her attitude, she occasionally mails homemade chicken jerky as snacks for Mochi."
       },
       {
-        "concept": "麻薯视频",
-        "reason": "林母态度的转变始于看到林晓发的麻薯视频。"
+        "concept": "Mochi videos",
+        "reason": "The shift in Lin's mother's attitude began after seeing the videos of Mochi that Lin Xiao sent."
       },
       {
-        "concept": "林母",
-        "reason": "从反对到关心，林母是家庭关系中态度变化最明显的成员。"
+        "concept": "Lin's mother",
+        "reason": "Changing from opposition to care, Lin's mother is the family member whose attitude has shifted most noticeably."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从当前的沟通习惯触发，联想到过去态度转变的契机及现在的物质支持。"
+    "reasoning": "Triggered by current communication habits, associating the past turning point in attitude and current material support."
   },
   {
     "id": "q_008",
-    "trigger_type": "时间相关记忆联想",
-    "question": "林父虽然话不多，但他曾给猫买暖气的事真让人感动。",
-    "trigger_concept": "给猫买暖气",
+    "trigger_type": "Time-related memory association",
+    "question": "Although Lin's father doesn't say much, the fact that he once bought a heater for the cat is truly touching.",
+    "trigger_concept": "Buying a heater for the cat",
     "candidate_set": [
       {
-        "concept": "转账",
-        "reason": "林父偷偷给林晓转账，备注却是‘给猫买暖气’。"
+        "concept": "Bank transfer",
+        "reason": "Lin's father secretly transferred money to Lin Xiao, with the note 'For buying a heater for the cat'."
       },
       {
-        "concept": "屏幕",
-        "reason": "林父视频时只敢隔着屏幕看猫，不太懂如何互动。"
+        "concept": "Screen",
+        "reason": "During video calls, Lin's father only dares to look at the cat through the screen, not quite knowing how to interact."
       },
       {
-        "concept": "沉默寡言",
-        "reason": "这是林父的性格特征，与他默默支持的行为形成对比。"
+        "concept": "Taciturn",
+        "reason": "This is a personality trait of Lin's father, contrasting with his silent support."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从父亲的特定行为触发，联想到行为的具体形式、互动局限及性格背景。"
+    "reasoning": "Triggered by the father's specific behavior, associating the concrete form of the action, interaction limitations, and personality background."
   },
   {
     "id": "q_009",
-    "trigger_type": "时间相关记忆联想",
-    "question": "和陈晨周末聚会常去的地方就是那个宠物友好公园。",
-    "trigger_concept": "宠物友好公园",
+    "trigger_type": "Time-related memory association",
+    "question": "The place Chen Chen and I often go to for weekend gatherings is that pet-friendly park.",
+    "trigger_concept": "Pet-friendly park",
     "candidate_set": [
       {
-        "concept": "金毛",
-        "reason": "陈晨养的是一只金毛，是聚会时的另一位主角。"
+        "concept": "Golden Retriever",
+        "reason": "Chen Chen owns a Golden Retriever, who is another main character during our gatherings."
       },
       {
-        "concept": "杭州宠物友好公园",
-        "reason": "两人常相约去杭州具体的宠物友好公园聚会。"
+        "concept": "Hangzhou Pet-Friendly Park",
+        "reason": "The two of us often arrange to meet at a specific pet-friendly park in Hangzhou for gatherings."
       },
       {
-        "concept": "宠物用品",
-        "reason": "她们在聚会时常互相推荐靠谱的宠物用品。"
+        "concept": "Pet supplies",
+        "reason": "During our gatherings, we often recommend reliable pet supplies to each other."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从社交活动场景触发，联想到朋友的宠物类型、具体地点及交流内容。"
+    "reasoning": "Triggered by a social activity scenario, associating the friend's pet type, specific location, and conversation topics."
   },
   {
     "id": "q_010",
-    "trigger_type": "时间相关记忆联想",
-    "question": "张医生除了看病，平时也会在社群里和林晓互动。",
-    "trigger_concept": "张医生",
+    "trigger_type": "Time-related memory association",
+    "question": "Besides treating patients, Dr. Zhang also interacts with Lin Xiao in the community group regularly.",
+    "trigger_concept": "Dr. Zhang",
     "candidate_set": [
       {
-        "concept": "朋友圈",
-        "reason": "张医生常会在朋友圈评论林晓分享的养猫日常。"
+        "concept": "Moments",
+        "reason": "Dr. Zhang often comments on the cat-raising daily life that Lin Xiao shares on Moments."
       },
       {
-        "concept": "安安宠医",
-        "reason": "这是张医生所在的医院，也是林晓非常信任的医疗机构。"
+        "concept": "An'an Pet Hospital",
+        "reason": "This is the hospital where Dr. Zhang works and a medical institution that Lin Xiao trusts deeply."
       },
       {
-        "concept": "疫苗",
-        "reason": "麻薯的每次体检和疫苗都由张医生负责，是主要的医患连接点。"
+        "concept": "Vaccines",
+        "reason": "Dr. Zhang is responsible for every check-up and vaccination for Mochi, serving as the primary connection point between doctor and patient."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从人物关系触发，联想到非诊疗时间的互动渠道、工作地点及核心服务内容。"
+    "reasoning": "Triggered by interpersonal relationships, associating interaction channels outside of consultation hours, workplace, and core service content."
   },
   {
     "id": "q_011",
-    "trigger_type": "时间相关记忆联想",
-    "question": "麻薯对那种昂贵的电动老鼠玩具反而完全不感兴趣。",
-    "trigger_concept": "电动老鼠",
+    "trigger_type": "Time-related memory association",
+    "question": "Mochi showed absolutely no interest in that expensive electric mouse toy.",
+    "trigger_concept": "Electric mouse",
     "candidate_set": [
       {
-        "concept": "瓦楞纸猫抓板",
-        "reason": "相比于昂贵玩具，麻薯更爱简单的瓦楞纸猫抓板。"
+        "concept": "Corrugated cardboard scratcher",
+        "reason": "Compared to expensive toys, Mochi prefers simple corrugated cardboard scratchers."
       },
       {
-        "concept": "羽毛钓鱼竿",
-        "reason": "带羽毛的电动钓鱼竿是麻薯最爱的玩具之一。"
+        "concept": "Feather fishing rod toy",
+        "reason": "The electric fishing rod with feathers is one of Mochi's favorite toys."
       },
       {
-        "concept": " preferences",
-        "reason": "这反映了麻薯独特的喜好，即偏爱简单或互动性强的玩具而非单纯昂贵的电子产品。"
+        "concept": "Preferences",
+        "reason": "This reflects Mochi's unique preferences, favoring simple or highly interactive toys over merely expensive electronic ones."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从负面偏好触发，联想到正面偏好的具体物品及背后的喜好逻辑。"
+    "reasoning": "Triggered by a negative preference, leading to associations with specific items of positive preference and the underlying logic of those preferences."
   },
   {
     "id": "q_012",
-    "trigger_type": "时间相关记忆联想",
-    "question": "2023 年那次误食危机后，林晓赶紧给麻薯买了份保障。",
-    "trigger_concept": "误食危机",
+    "trigger_type": "Time-related memory association",
+    "question": "After the accidental ingestion crisis in 2023, Lin Xiao immediately purchased coverage for Mochi.",
+    "trigger_concept": "Accidental ingestion crisis",
     "candidate_set": [
       {
-        "concept": "宠物医疗保险",
-        "reason": "误食事件促使林晓购买了宠物医疗保险以应对未来风险。"
+        "concept": "Pet health insurance",
+        "reason": "The ingestion incident prompted Lin Xiao to purchase pet health insurance to mitigate future risks."
       },
       {
-        "concept": "宠物急救知识",
-        "reason": "经历危机后，林晓开始主动学习宠物急救知识。"
+        "concept": "Pet first aid knowledge",
+        "reason": "Following the crisis, Lin Xiao proactively began learning pet first aid knowledge."
       },
       {
-        "concept": "肠梗阻病史",
-        "reason": "购买保险和学习知识的直接原因是麻薯曾患有的肠梗阻病史。"
+        "concept": "History of intestinal obstruction",
+        "reason": "The direct reasons for purchasing insurance and learning new skills were Mochi's prior history of intestinal obstruction."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从危机事件触发，联想到事后的防御性措施（保险、知识）及具体的病史名称。"
+    "reasoning": "Triggered by a crisis event, leading to associations with subsequent defensive measures (insurance, knowledge) and the specific name of the medical history."
   },
   {
     "id": "q_013",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每天早上 7:30 叫醒林晓的‘闹钟’其实是那个自动喂食器。",
-    "trigger_concept": "自动喂食器",
+    "trigger_type": "Time-related memory association",
+    "question": "The 'alarm clock' that wakes Lin Xiao up every morning at 7:30 is actually the automatic feeder.",
+    "trigger_concept": "Automatic feeder",
     "candidate_set": [
       {
-        "concept": "麻薯",
-        "reason": "实际上是麻薯踩醒林晓，它才是真实的‘闹钟’。"
+        "concept": "Mochi",
+        "reason": "Actually, it is Mochi stepping on Lin Xiao to wake him up; he is the real 'alarm clock'."
       },
       {
-        "concept": "猫砂盆",
-        "reason": "醒来后的第一个动作通常是清理猫砂盆。"
+        "concept": "Litter box",
+        "reason": "The first action after waking up is usually cleaning the litter box."
       },
       {
-        "concept": "新鲜饮用水",
-        "reason": "晨间例行公事还包括更换新鲜饮用水。"
+        "concept": "Fresh drinking water",
+        "reason": "The morning routine also includes replacing the fresh drinking water."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从晨间设备和时间触发，联想到实际的唤醒者及随后的清洁、喂食动作。"
+    "reasoning": "Triggered by morning equipment and time, leading to associations with the actual awakener and subsequent cleaning and feeding actions."
   },
   {
     "id": "q_014",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每季度去宠物店主要就是为了做专业去油这项护理。",
-    "trigger_concept": "专业去油",
+    "trigger_type": "Time-related memory association",
+    "question": "The main reason for visiting the pet store every quarter is specifically for the professional degreasing treatment.",
+    "trigger_concept": "Professional degreasing",
     "candidate_set": [
       {
-        "concept": "指甲打磨",
-        "reason": "每季度去宠物店除了去油，还会进行专业的指甲打磨。"
+        "concept": "Nail grinding",
+        "reason": "During quarterly visits to the pet store, professional nail grinding is performed in addition to degreasing."
       },
       {
-        "concept": "进口沐浴露",
-        "reason": "与之对比，林晓每两周在家自行洗澡时使用的是进口沐浴露。"
+        "concept": "Imported shampoo",
+        "reason": "In contrast, when Lin Xiao bathes Mochi at home every two weeks, he uses imported shampoo."
       },
       {
-        "concept": "银渐层",
-        "reason": "作为银渐层品种，尾巴容易出油，因此‘去油’是特定的护理需求。"
+        "concept": "Silver shaded British Shorthair",
+        "reason": "As a Silver shaded British Shorthair, the tail is prone to becoming oily, making 'degreasing' a specific grooming requirement."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从周期性专业护理触发，联想到同期的其他项目、家庭护理对比及品种特性。"
+    "reasoning": "Triggered by periodic professional grooming, leading to associations with other services performed at the same time, comparisons with home care, and breed-specific characteristics."
   },
   {
     "id": "q_015",
-    "trigger_type": "时间相关记忆联想",
-    "question": "麻薯刚到家时患有的皮肤病是猫藓。",
-    "trigger_concept": "猫藓病史",
+    "trigger_type": "Time-related memory association",
+    "question": "The skin disease Mochi suffered from when first arriving home was ringworm.",
+    "trigger_concept": "History of ringworm",
     "candidate_set": [
       {
-        "concept": "耳螨",
-        "reason": "收养初期麻薯同时患有严重的猫藓和耳螨。"
+        "concept": "Ear mites",
+        "reason": "During the initial adoption period, Mochi suffered from both severe ringworm and ear mites."
       },
       {
-        "concept": "药物治疗",
-        "reason": "这两种病经过两个月的药物治疗才痊愈。"
+        "concept": "Medication treatment",
+        "reason": "Both conditions were cured after two months of medication treatment."
       },
       {
-        "concept": "2021 年收养经历",
-        "reason": "这些健康问题发生在 2021 年刚被收养的那个冬天。"
+        "concept": "2021 adoption experience",
+        "reason": "These health issues occurred during the winter of 2021, right after adoption."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从特定病史触发，联想到并发的另一种疾病、治疗方式及发生的时间背景。"
+    "reasoning": "Triggered by a specific medical history, leading to associations with a concurrent disease, the treatment method, and the temporal context in which it occurred."
   },
   {
     "id": "q_016",
-    "trigger_type": "时间相关记忆联想",
-    "question": "林晓工作压力大时，抱着麻薯一会儿心情就能平复下来。",
-    "trigger_concept": "焦虑平复",
+    "trigger_type": "Time-related memory association",
+    "question": "When Lin Xiao is under high stress, holding Mochi for a while quickly calms her down.",
+    "trigger_concept": "Anxiety relief",
     "candidate_set": [
       {
-        "concept": "呼噜声",
-        "reason": "林晓通过感受猫咪的呼噜声和体温来平复情绪。"
+        "concept": "Purring sound",
+        "reason": "Lin Xiao calms her emotions by feeling the cat's purring and body warmth."
       },
       {
-        "concept": "沙发",
-        "reason": "她通常直接抱起麻薯窝在沙发上进行自我疗愈。"
+        "concept": "Sofa",
+        "reason": "She usually picks up Mochi and curls up on the sofa for self-soothing."
       },
       {
-        "concept": "10 分钟",
-        "reason": "数据显示通常在 10 分钟内情绪能得到显著平复。"
+        "concept": "10 minutes",
+        "reason": "Data shows that emotions typically stabilize significantly within 10 minutes."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从情绪调节结果触发，联想到具体的感官体验、地点及量化时间。"
+    "reasoning": "Triggered by the outcome of emotional regulation, leading to associations with specific sensory experiences, locations, and quantified time."
   },
   {
     "id": "q_017",
-    "trigger_type": "时间相关记忆联想",
-    "question": "麻薯一听到小李子罐头的声音就会瞬间从睡梦中惊醒。",
-    "trigger_concept": "小李子罐头",
+    "trigger_type": "Time-related memory association",
+    "question": "Mochi instantly wakes up from sleep as soon as he hears the sound of a Lizzy can being opened.",
+    "trigger_concept": "Lizzy canned food",
     "candidate_set": [
       {
-        "concept": "开罐头声音",
-        "reason": "麻薯对开罐头的声音极度敏感，会瞬间惊醒。"
+        "concept": "Sound of opening a can",
+        "reason": "Mochi is extremely sensitive to the sound of a can being opened and wakes up instantly."
       },
       {
-        "concept": "占有欲",
-        "reason": "这种反应体现了麻薯对林晓及食物的强烈占有欲。"
+        "concept": "Possessiveness",
+        "reason": "This reaction reflects Mochi's strong possessiveness toward Lin Xiao and his food."
       },
       {
-        "concept": "帕特冻干",
-        "reason": "除了小李子罐头，帕特冻干也是林晓常备的零食，可能引发类似反应。"
+        "concept": "Part freeze-dried treats",
+        "reason": "Besides Lizzy canned food, Part freeze-dried treats are also a staple snack for Lin Xiao and may trigger a similar reaction."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从特定食物品牌触发，联想到触发反应的听觉信号、性格特征及其他同类食物。"
+    "reasoning": "Triggered by a specific food brand, leading to associations with the auditory signal that causes the reaction, personality traits, and other similar foods."
   },
   {
     "id": "q_018",
-    "trigger_type": "时间相关记忆联想",
-    "question": "2022 年换房那次，林晓请了好几天假全程陪着猫。",
-    "trigger_concept": "第一次搬家",
+    "trigger_type": "Time-related memory association",
+    "question": "During the move in 2022, Lin Xiao took several days off to stay with the cat the entire time.",
+    "trigger_concept": "First move",
     "candidate_set": [
       {
-        "concept": "两天",
-        "reason": "为了不让麻薯应激，林晓专门请假两天全程陪伴。"
+        "concept": "Two days",
+        "reason": "To prevent Mochi from experiencing stress, Lin Xiao specifically took two days off to accompany him throughout the process."
       },
       {
-        "concept": "宠物友好",
-        "reason": "这是当时选房的首要条件之一，与封闭阳台并列。"
+        "concept": "Pet-friendly",
+        "reason": "This was one of the primary criteria for selecting the house at the time, alongside having an enclosed balcony."
       },
       {
-        "concept": "未来科技城",
-        "reason": "新房子位于余杭区未来科技城附近，是搬家的目的地。"
+        "concept": "Future Sci-Tech City",
+        "reason": "The new house is located near Future Sci-Tech City in Yuhang District, which was the destination of the move."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从搬家事件触发，联想到具体的时间投入、选房标准及地理位置。"
+    "reasoning": "Triggered by the moving event, leading to associations with the specific time commitment, house selection criteria, and geographical location."
   },
   {
     "id": "q_019",
-    "trigger_type": "时间相关记忆联想",
-    "question": "林晓给猫选主食时，除了渴望还会考虑其他品牌。",
-    "trigger_concept": "渴望 (Orijen)",
+    "trigger_type": "Time-related memory association",
+    "question": "When choosing staple food for the cat, Lin Xiao considers brands other than Orijen.",
+    "trigger_concept": "Orijen",
     "candidate_set": [
       {
-        "concept": "爱肯拿 (Acien)",
-        "reason": "爱肯拿是林晓偏好的另一个主食品牌，常与渴望并列提及。"
+        "concept": "Acana",
+        "reason": "Acana is another staple food brand preferred by Lin Xiao, often mentioned alongside Orijen."
       },
       {
-        "concept": "主食",
-        "reason": "这两个品牌主要被用作麻薯的主食，区别于零食。"
+        "concept": "Staple food",
+        "reason": "These two brands are primarily used as Mochi's staple food, distinct from snacks."
       },
       {
-        "concept": "收入水平",
-        "reason": "选择这些进口高端品牌与林晓月收入 18k-22k 的经济能力相符。"
+        "concept": "Income level",
+        "reason": "Choosing these high-end imported brands aligns with Lin Xiao's monthly income of 18k-22k RMB."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从已知品牌触发，联想到并列的另一品牌、食物类别及背后的经济支撑。"
+    "reasoning": "Triggered by a known brand, leading to associations with a parallel brand, the food category, and the underlying financial support."
   },
   {
     "id": "q_020",
-    "trigger_type": "时间相关记忆联想",
-    "question": "麻薯这只英国短毛猫对陌生人的态度总是很谨慎。",
-    "trigger_concept": "英国短毛猫",
+    "trigger_type": "Time-related memory association",
+    "question": "Mochi, this British Shorthair cat, is always very cautious around strangers.",
+    "trigger_concept": "British Shorthair",
     "candidate_set": [
       {
-        "concept": "警惕",
-        "reason": "麻薯虽然品种是英短，但对陌生人表现出警惕的态度。"
+        "concept": "Vigilant",
+        "reason": "Although Mochi is a British Shorthair, he displays a vigilant attitude toward strangers."
       },
       {
-        "concept": "粘人",
-        "reason": "与对陌生人的警惕相反，它对林晓实则极度粘人。"
+        "concept": "Clingy",
+        "reason": "In contrast to his vigilance toward strangers, he is extremely clingy with Lin Xiao."
       },
       {
-        "concept": "高冷傲娇",
-        "reason": "这是麻薯的外表特征，与其内心的粘人形成反差萌。"
+        "concept": "Aloof and tsundere",
+        "reason": "This describes Mochi's outward appearance, which forms a charming contrast with his clingy inner nature."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从品种标签触发，联想到该具体个体的性格反差（对外警惕、对内粘人、外表高冷）。"
+    "reasoning": "Triggered by the breed label, leading to associations with this specific individual's personality contrasts (vigilant outwardly, clingy inwardly, and aloof in appearance)."
   },
   {
     "id": "q_021",
-    "trigger_type": "多跳记忆联想",
-    "question": "最近加班到深夜，麻薯又趴在键盘上了。",
-    "trigger_concept": "加班夜晚",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "I've been working late overtime recently, and Mochi is lying on my keyboard again.",
+    "trigger_concept": "Late-night Overtime",
     "candidate_set": [
       {
-        "concept": "2021 年收养经历",
-        "reason": "从深夜加班的孤独感联想到当初在寒冷冬夜公司楼下发现被遗弃的麻薯的场景，形成情感闭环。"
+        "concept": "2021 Adoption Experience",
+        "reason": "The loneliness of working late at night evokes memories of finding Mochi abandoned downstairs at the company on a cold winter night, creating an emotional loop."
       },
       {
-        "concept": "焦虑平复",
-        "reason": "用户习惯在压力大时通过抚摸麻薯听呼噜声来平复情绪，这是特定的情感应对机制。"
+        "concept": "Anxiety Relief",
+        "reason": "The user has a habit of calming down by petting Mochi and listening to its purring when under stress; this is a specific emotional coping mechanism."
       },
       {
-        "concept": "公司楼下",
-        "reason": "触发对初次相遇地点的记忆，那是所有故事的起点，与当前的‘公司’场景形成时空呼应。"
+        "concept": "Downstairs at the Company",
+        "reason": "Triggers memories of the location where they first met, the starting point of all their stories, creating a spatial and temporal resonance with the current 'company' setting."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "用户提到加班和猫在键盘上，模型需联想到初次相遇的寒冷冬夜（对比现在的陪伴）、特定的解压方式以及相遇的具体地点。"
+    "reasoning": "The user mentions working overtime and the cat being on the keyboard. The model needs to associate this with the cold winter night of their first meeting (contrasting with current companionship), specific stress-relief methods, and the exact location where they met."
   },
   {
     "id": "q_022",
-    "trigger_type": "多跳记忆联想",
-    "question": "我想给麻薯买点新零食，它最近好像对干粮不太感兴趣。",
-    "trigger_concept": "小李子罐头",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "I want to buy some new treats for Mochi; it seems less interested in dry food lately.",
+    "trigger_concept": "Leonardo Canned Food",
     "candidate_set": [
       {
-        "concept": "自制鸡肉干",
-        "reason": "联想到林母因态度软化而定期邮寄的爱心零食，这是家庭关系改善的见证。"
+        "concept": "Homemade Chicken Jerky",
+        "reason": "Evokes memories of the loving snacks regularly mailed by Lin's mother after her attitude softened, serving as proof of improved family relations."
       },
       {
-        "concept": "帕特冻干",
-        "reason": "用户偏好的另一款特定品牌零食，属于日常饮食偏好记忆。"
+        "concept": "Part Freeze-dried Food",
+        "reason": "Another specific brand of treats preferred by the user, belonging to memories of daily dietary preferences."
       },
       {
-        "concept": "2023 年误食事件",
-        "reason": "提醒用户在选择零食或喂食时需警惕细小包装或异物，源于曾经的肠梗阻危机教训。"
+        "concept": "2023 Ingestion Incident",
+        "reason": "Reminds the user to be wary of small packaging or foreign objects when choosing treats or feeding, a lesson learned from a past intestinal obstruction crisis."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从买零食的需求，跳跃到家人寄来的特产、用户偏好的其他品牌，以及因过往病史需要特别注意的喂食安全意识。"
+    "reasoning": "From the need to buy treats, the association jumps to specialty foods sent by family, other brands preferred by the user, and the feeding safety awareness required due to past medical history."
   },
   {
     "id": "q_023",
-    "trigger_type": "多跳记忆联想",
-    "question": "周末打算带麻薯去宠物友好公园透透气。",
-    "trigger_concept": "宠物友好公园",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "I plan to take Mochi to a pet-friendly park this weekend to get some fresh air.",
+    "trigger_concept": "Pet-friendly Park",
     "candidate_set": [
       {
-        "concept": "陈晨",
-        "reason": "联想到常一起相约去公园聚会的闺蜜，她是社交圈中唯一的共同养宠好友。"
+        "concept": "Chen Chen",
+        "reason": "Evokes memories of the best friend often invited to gather at the park; she is the only pet-owning friend in the social circle."
       },
       {
-        "concept": "金毛",
-        "reason": "陈晨养的宠物，是周末聚会时的常见伙伴，构成社交场景的一部分。"
+        "concept": "Golden Retriever",
+        "reason": "Chen Chen's pet, a common companion during weekend gatherings, forming part of the social scene."
       },
       {
-        "concept": "2022 年搬家",
-        "reason": "联想到当初为了宠物友好环境特意寻找带封闭阳台房子的经历，体现对户外/安全环境的重视。"
+        "concept": "2022 Move",
+        "reason": "Recalls the experience of specifically looking for a house with an enclosed balcony for a pet-friendly environment back then, reflecting the importance placed on outdoor/safe environments."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从外出需求联想到特定的社交伙伴（陈晨及其金毛），以及过去为了宠物生活质量而做出的重大居住决策。"
+    "reasoning": "From the need to go out, the association links to specific social partners (Chen Chen and her Golden Retriever) and major past housing decisions made to improve the pet's quality of life."
   },
   {
     "id": "q_024",
-    "trigger_type": "多跳记忆联想",
-    "question": "麻薯的指甲好像又长了，得找个时间处理一下。",
-    "trigger_concept": "指甲修剪",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Mochi's nails seem to have grown again; I need to find time to trim them.",
+    "trigger_concept": "Nail Trimming",
     "candidate_set": [
       {
-        "concept": "张医生",
-        "reason": "联想到信任的宠物医生，他不仅负责医疗，也提供专业护理建议，甚至可能在朋友圈互动过相关话题。"
+        "concept": "Dr. Zhang",
+        "reason": "Evokes memories of a trusted veterinarian who not only handles medical care but also provides professional grooming advice, and may have interacted on related topics via social media."
       },
       {
-        "concept": "宠物店",
-        "reason": "用户有每季度去宠物店进行专业去油和打磨指甲的习惯，是定期护理场所。"
+        "concept": "Pet Grooming Shop",
+        "reason": "The user has a habit of visiting the pet shop every quarter for professional degreasing and nail filing; it is the regular care location."
       },
       {
-        "concept": "沙发",
-        "reason": "如果指甲过长，可能会抓坏用户常用来抱猫减压的沙发，关联到生活场景的潜在风险。"
+        "concept": "Sofa",
+        "reason": "If the nails grow too long, they might scratch the sofa that the user often uses to hold the cat for stress relief, linking to potential risks in the living environment."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从修剪指甲的动作，联想到专业的医疗服务提供者（张医生）、定期去的护理场所（宠物店）以及不修剪可能造成的家居后果（沙发）。"
+    "reasoning": "From the action of trimming nails, the association links to the professional service provider (Dr. Zhang), the regular care location (pet shop), and the potential household consequences of not trimming (the sofa)."
   },
   {
     "id": "q_025",
-    "trigger_type": "多跳记忆联想",
-    "question": "看着麻薯现在的样子，真不敢相信它以前病得那么重。",
-    "trigger_concept": "猫藓病史",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Looking at Mochi now, I can't believe it was ever so seriously ill.",
+    "trigger_concept": "History of Ringworm",
     "candidate_set": [
       {
-        "concept": "2021 年冬天",
-        "reason": "追溯到生病的时间点，正是收养初期的那个寒冷冬天，环境恶劣导致免疫力低下。"
+        "concept": "Winter 2021",
+        "reason": "Traces back to the time of illness, precisely that cold winter during the early adoption period when harsh conditions led to low immunity."
       },
       {
-        "concept": "耳螨",
-        "reason": "与猫藓同时期的另一种疾病，是收养初期健康危机的完整记忆拼图。"
+        "concept": "Ear Mites",
+        "reason": "Another disease concurrent with ringworm, completing the puzzle of health crises during the early adoption period."
       },
       {
-        "concept": "林母",
-        "reason": "联想到母亲态度的转变，从最初因卫生问题反对养猫，到看到猫咪康复视频后软化并寄送零食。"
+        "concept": "Lin's Mother",
+        "reason": "Evokes memories of the mother's change in attitude, from initially opposing cat ownership due to hygiene concerns to softening after seeing videos of the cat's recovery and sending snacks."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从感慨病情康复，跳跃回具体的发病季节、并发疾病，以及这一过程如何改变了家庭成员（母亲）的态度。"
+    "reasoning": "From the sentiment of recovery, the association jumps back to the specific season of onset, concurrent diseases, and how this process changed the attitude of a family member (the mother)."
   },
   {
     "id": "q_026",
-    "trigger_type": "多跳记忆联想",
-    "question": "家里地上全是毛，看来又要大扫除了。",
-    "trigger_concept": "深度吸尘",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The floor is covered in fur again; looks like it's time for a major cleanup.",
+    "trigger_concept": "Deep Vacuuming",
     "candidate_set": [
       {
-        "concept": "每周六上午",
-        "reason": "联想到用户固定的清洁时间表，这是雷打不动的日常习惯。"
+        "concept": "Saturday mornings",
+        "reason": "Recalls the user's fixed cleaning schedule, an unshakeable daily routine."
       },
       {
-        "concept": "英国短毛猫",
-        "reason": "麻薯的品种特性决定了其掉毛量，是产生猫毛的根本原因。"
+        "concept": "British Shorthair",
+        "reason": "Mochi's breed characteristics determine the amount of shedding, which is the root cause of the cat hair."
       },
       {
-        "concept": "猫窝",
-        "reason": "深度清洁的重点对象之一，通常需要每周清洗，与吸尘同步进行。"
+        "concept": "Cat bed",
+        "reason": "One of the key targets for deep cleaning, typically requiring weekly washing synchronized with vacuuming."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从清理猫毛的现状，联想到固定的执行时间、品种导致的生理特性以及具体的清洁对象。"
+    "reasoning": "From the current situation of cleaning up cat hair, it associates with the fixed execution time, the physiological traits caused by the breed, and the specific cleaning objects."
   },
   {
     "id": "q_027",
-    "trigger_type": "多跳记忆联想",
-    "question": "刚才收拾桌子，发现少了一根塑料绳，吓死我了。",
-    "trigger_concept": "塑料绳",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "I was just clearing the table and noticed a piece of plastic string was missing; it scared me to death.",
+    "trigger_concept": "Plastic string",
     "candidate_set": [
       {
-        "concept": "2023 年误食事件",
-        "reason": "直接触发对那次导致肠梗阻的惊险回忆，是用户心中最大的阴影。"
+        "concept": "2023 Ingestion Incident",
+        "reason": "Directly triggers the thrilling memory of that incident which led to an intestinal obstruction, representing the user's biggest trauma."
       },
       {
-        "concept": "急诊记忆",
-        "reason": "联想到那晚在医院催吐输液的焦急时刻，深刻意识到宠物是家人的转折点。"
+        "concept": "Emergency Room Memory",
+        "reason": "Recalls the anxious moments of induced vomiting and IV fluids at the hospital that night, a turning point where the user deeply realized the pet is family."
       },
       {
-        "concept": "细小物品",
-        "reason": "联想到此后养成的严格收纳习惯，家中所有细小物品都必须藏好。"
+        "concept": "Small items",
+        "reason": "Recalls the strict storage habits formed since then, where all small items in the house must be hidden away."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从发现危险物品（塑料绳），直接跳跃到具体的历史事故（2023 误食）、当时的紧急医疗场景以及由此形成的长期行为习惯。"
+    "reasoning": "From discovering a dangerous item (plastic string), it jumps directly to a specific historical accident (2023 ingestion), the emergency medical scene at the time, and the long-term behavioral habits formed as a result."
   },
   {
     "id": "q_028",
-    "trigger_type": "多跳记忆联想",
-    "question": "我爸最近打电话来，居然主动问起麻薯的冬天保暖问题。",
-    "trigger_concept": "林父",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "My dad called recently and actually took the initiative to ask about Mochi's winter warmth.",
+    "trigger_concept": "Father Lin",
     "candidate_set": [
       {
-        "concept": "给猫买暖气",
-        "reason": "联想到父亲曾经偷偷转账备注的特殊款项，体现沉默父爱的细节。"
+        "concept": "Buying a heater for the cat",
+        "reason": "Recalls the special transfer note from the father who secretly sent money, reflecting the details of his silent fatherly love."
       },
       {
-        "concept": "视频通话",
-        "reason": "父亲不善言辞，只敢隔着屏幕看猫的互动方式。"
+        "concept": "Video call",
+        "reason": "The father is not good with words and only dares to interact with the cat through the screen."
       },
       {
-        "concept": "2021 年收养经历",
-        "reason": "对比父亲现在关心保暖与当初刚收养时家人的陌生感，体现时间跨度的变化。"
+        "concept": "2021 Adoption Experience",
+        "reason": "Contrasts the father's current concern for warmth with the family's initial strangeness when the cat was first adopted, reflecting changes over time."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从父亲询问保暖，联想到他过去具体的资金支持行为（买暖气）、独特的互动方式（隔屏看）以及长期的态度转变过程。"
+    "reasoning": "From the father asking about warmth, it associates with his past specific financial support behavior (buying a heater), his unique way of interacting (watching through the screen), and the long-term process of attitude change."
   },
   {
     "id": "q_029",
-    "trigger_type": "多跳记忆联想",
-    "question": "麻薯最近对那个新买的电动老鼠玩具完全不感兴趣。",
-    "trigger_concept": "电动老鼠",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Mochi has shown absolutely no interest in that new electric mouse toy recently.",
+    "trigger_concept": "Electric mouse",
     "candidate_set": [
       {
-        "concept": "瓦楞纸猫抓板",
-        "reason": "联想到麻薯真正喜爱的玩具类型，与昂贵的电动玩具形成鲜明对比。"
+        "concept": "Corrugated cardboard cat scratcher",
+        "reason": "Recalls the type of toy Mochi truly loves, forming a sharp contrast with the expensive electric toy."
       },
       {
-        "concept": "羽毛钓鱼竿",
-        "reason": "另一款麻薯最爱的互动玩具，是每晚 20:00 固定游戏时间的道具。"
+        "concept": "Feather fishing rod toy",
+        "reason": "Another interactive toy Mochi loves most, serving as the prop for the fixed playtime every night at 20:00."
       },
       {
-        "concept": "20:00 下班",
-        "reason": "联想到每天回家后固定的陪玩时间段，这是建立亲密关系的关键时刻。"
+        "concept": "Off work at 20:00",
+        "reason": "Recalls the fixed playtime period every day after returning home, which is a key moment for building intimacy."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从对某玩具的排斥，联想到用户观察到的真实偏好（纸抓板、钓鱼竿）以及这些偏好发生的具体日常时间场景。"
+    "reasoning": "From the rejection of a certain toy, it associates with the real preferences observed by the user (cardboard scratcher, fishing rod toy) and the specific daily time scenarios where these preferences occur."
   },
   {
     "id": "q_030",
-    "trigger_type": "多跳记忆联想",
-    "question": "这周末要去转塘那边办点事，顺便看看麻薯的医生朋友。",
-    "trigger_concept": "安安宠医",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "I need to run some errands over in Zhuantang this weekend and might as well visit Mochi's doctor friend.",
+    "trigger_concept": "An'an Pet Hospital",
     "candidate_set": [
       {
-        "concept": "张医生",
-        "reason": "具体的医生姓名，不仅是医患更是朋友，朋友圈有点赞互动。"
+        "concept": "Dr. Zhang",
+        "reason": "The specific name of the doctor; they are not just doctor and patient but also friends, with likes and interactions on social media."
       },
       {
-        "concept": "疫苗",
-        "reason": "张医生负责的具体医疗项目，是定期前往医院的主要原因之一。"
+        "concept": "Vaccines",
+        "reason": "The specific medical project handled by Dr. Zhang, which is one of the main reasons for regular hospital visits."
       },
       {
-        "concept": "皮肤检查",
-        "reason": "鉴于麻薯曾有猫藓病史，每次体检时皮肤检查是重点关注项目。"
+        "concept": "Skin examination",
+        "reason": "Given Mochi's history of ringworm, skin examination is a key focus during every check-up."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从去医院的行为，联想到具体的医生名字、常规医疗项目（疫苗）以及针对病史的特殊检查项目。"
+    "reasoning": "From the act of going to the hospital, it associates with the specific doctor's name, routine medical projects (vaccines), and special examination items targeted at medical history."
   },
   {
     "id": "q_031",
-    "trigger_type": "多跳记忆联想",
-    "question": "我妈刚寄来一包吃的，说是特意给麻薯做的。",
-    "trigger_concept": "自制鸡肉干",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "My mom just sent a package of food, saying it was specially made for Mochi.",
+    "trigger_concept": "Homemade Chicken Jerky",
     "candidate_set": [
       {
-        "concept": "林母",
-        "reason": "寄送者的身份，代表家庭关系的缓和与接纳。"
+        "concept": "Lin's Mother",
+        "reason": "The identity of the sender, representing a thawing and acceptance in the family relationship."
       },
       {
-        "concept": "照片反馈",
-        "reason": "联想到母亲态度软化的契机，是因为看到了林晓发的麻薯视频/照片。"
+        "concept": "Photo Feedback",
+        "reason": "Recalls the turning point in the mother's softening attitude, which was triggered by seeing the videos or photos of Mochi that Lin Xiao sent."
       },
       {
-        "concept": "过敏",
-        "reason": "回顾母亲起初反对养猫的核心理由（担心卫生和过敏），对比现在的关爱。"
+        "concept": "Allergies",
+        "reason": "Reviews the mother's initial core reason for opposing cat ownership (concerns about hygiene and allergies) and contrasts it with her current care."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从收到礼物，联想到送礼人（母亲）、态度转变的触发点（照片/视频）以及最初反对的理由（过敏），构成完整的情感叙事。"
+    "reasoning": "From receiving a gift, this associates to the giver (mother), the trigger for the change in attitude (photos/videos), and the initial reason for opposition (allergies), forming a complete emotional narrative."
   },
   {
     "id": "q_032",
-    "trigger_type": "多跳记忆联想",
-    "question": "又要给麻薯洗澡了，希望它这次能乖一点。",
-    "trigger_concept": "进口沐浴露",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Time to bathe Mochi again; hope he behaves better this time.",
+    "trigger_concept": "Imported Shampoo",
     "candidate_set": [
       {
-        "concept": "每两周",
-        "reason": "用户在家自行洗澡的固定频率，是日常生活节奏的一部分。"
+        "concept": "Every Two Weeks",
+        "reason": "The fixed frequency for home bathing, forming part of the daily life rhythm."
       },
       {
-        "concept": "专业去油",
-        "reason": "联想到每季度去宠物店做的深层护理，与家庭洗澡形成互补。"
+        "concept": "Professional Degreasing",
+        "reason": "Recalls the deep cleaning treatment done at the pet groomer every quarter, which complements the home baths."
       },
       {
-        "concept": "银渐层",
-        "reason": "麻薯的毛色品种，银渐层容易显脏且需要特殊护理以保持毛色光亮。"
+        "concept": "Silver Shaded",
+        "reason": "Mochi's coat color and breed; Silver Shaded cats tend to show dirt easily and require special care to maintain a glossy coat."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从洗澡行为，联想到家庭护理的频率、专业护理的补充项目以及品种特有的护理需求。"
+    "reasoning": "From the act of bathing, this associates to the frequency of home care, supplementary professional grooming services, and breed-specific care needs."
   },
   {
     "id": "q_033",
-    "trigger_type": "多跳记忆联想",
-    "question": "看着窗外的未来科技城，想起刚把麻薯接回家那会儿。",
-    "trigger_concept": "未来科技城",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Looking out the window at Future Sci-Tech City, I'm reminded of when I first brought Mochi home.",
+    "trigger_concept": "Future Sci-Tech City",
     "candidate_set": [
       {
-        "concept": "2021 年冬天",
-        "reason": "明确的时间锚点，那是收养发生的季节，与现在的季节或心境形成对比。"
+        "concept": "Winter 2021",
+        "reason": "A clear time anchor marking the season of adoption, creating a contrast with the current season or state of mind."
       },
       {
-        "concept": "纸箱",
-        "reason": "当初发现麻薯时的具体容器，是悲惨身世的象征，也是故事的开始。"
+        "concept": "Cardboard Box",
+        "reason": "The specific container Mochi was found in originally; a symbol of his tragic past and the beginning of the story."
       },
       {
-        "concept": "费洛蒙喷雾",
-        "reason": "联想到后来搬家时为了减少应激使用的辅助工具，体现对猫心理状态的持续关注。"
+        "concept": "Pheromone Spray",
+        "reason": "Recalls the auxiliary tools used later during the move to reduce stress, reflecting continuous attention to the cat's psychological state."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从地理位置引发回忆，跳跃到具体的时间（2021 冬）、关键道具（纸箱）以及后续生活中为猫安全感所做的努力（费洛蒙）。"
+    "reasoning": "Triggered by the location, memories jump to a specific time (Winter 2021), a key prop (the cardboard box), and subsequent efforts made to ensure the cat's sense of security (pheromones)."
   },
   {
     "id": "q_034",
-    "trigger_type": "多跳记忆联想",
-    "question": "陈晨说她们家金毛最近换毛也很厉害。",
-    "trigger_concept": "金毛",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Chen Chen mentioned that her family's Golden Retriever is shedding heavily lately too.",
+    "trigger_concept": "Golden Retriever",
     "candidate_set": [
       {
-        "concept": "陈晨",
-        "reason": "对话的发起者，既是同事也是闺蜜，共同的养宠话题是友谊的纽带。"
+        "concept": "Chen Chen",
+        "reason": "The initiator of the conversation; she is both a colleague and a best friend, with shared pet topics serving as the bond of their friendship."
       },
       {
-        "concept": "午休",
-        "reason": "两人交换宠物照片、交流养宠经验的固定社交时间。"
+        "concept": "Lunch Break",
+        "reason": "The fixed social time when the two exchange pet photos and discuss pet care experiences."
       },
       {
-        "concept": "宠物用品",
-        "reason": "两人互相推荐靠谱物品的行为模式，是社交互动的具体内容。"
+        "concept": "Pet Supplies",
+        "reason": "The pattern of mutually recommending reliable items, which constitutes the specific content of their social interaction."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从朋友宠物的状况，联想到朋友本人、两人固定的交流时间段以及交流的具体内容（推荐用品）。"
+    "reasoning": "From the condition of a friend's pet, this associates to the friend herself, the fixed time slot for their exchanges, and the specific content of those conversations (recommending supplies)."
   },
   {
     "id": "q_035",
-    "trigger_type": "多跳记忆联想",
-    "question": "麻薯刚才突然从睡梦中惊醒，竖着耳朵听。",
-    "trigger_concept": "开罐头声音",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Mochi suddenly woke up from his sleep just now, ears perked up and listening.",
+    "trigger_concept": "Sound of Opening a Can",
     "candidate_set": [
       {
-        "concept": "渴望 (Orijen)",
-        "reason": "用户常备的主粮品牌，虽然这里是罐头，但体现了对高品质食物的关注。"
+        "concept": "Orijen",
+        "reason": "The user's regularly stocked staple food brand; although this refers to canned food, it reflects an attention to high-quality diet."
       },
       {
-        "concept": "小李子罐头",
-        "reason": "麻薯最爱的零食罐头品牌，最可能触发这种条件反射的声音来源。"
+        "concept": "Leonardo Canned Food",
+        "reason": "Mochi's favorite treat brand and the most likely source of the sound triggering this conditioned reflex."
       },
       {
-        "concept": "20:00 下班",
-        "reason": "每天固定喂罐头的时间点，生物钟让猫在这个时间段格外敏感。"
+        "concept": "Off Work at 20:00",
+        "reason": "The fixed daily time for feeding canned food; the cat's biological clock makes him particularly sensitive during this period."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从猫的听觉反应，联想到触发该反应的具体食物品牌（小李子）、日常饮食习惯（渴望/罐头）以及固定的喂食时间。"
+    "reasoning": "From the cat's auditory reaction, this associates to the specific food brand triggering the response (Leonardo), daily dietary habits (Orijen/canned food), and the fixed feeding schedule."
   },
   {
     "id": "q_036",
-    "trigger_type": "多跳记忆联想",
-    "question": "这次换房真的要考虑更多因素了，不能再让麻薯应激。",
-    "trigger_concept": "2022 年搬家",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "This move really requires considering more factors; we can't let Mochi get stressed again.",
+    "trigger_concept": "2022 Move",
     "candidate_set": [
       {
-        "concept": "封闭阳台",
-        "reason": "上次搬家时优先考虑的安全条件，是选房的核心标准。"
+        "concept": "Enclosed Balcony",
+        "reason": "The top safety priority during the last move, serving as the core criterion for selecting a new home."
       },
       {
-        "concept": "请假两天",
-        "reason": "上次为了陪伴猫咪适应新环境所付出的时间成本，体现责任感。"
+        "concept": "Taking Two Days Off",
+        "reason": "The time investment made last time to accompany the cat while adapting to the new environment, reflecting a sense of responsibility."
       },
       {
-        "concept": "阳台锁扣",
-        "reason": "封闭阳台的具体安全措施，防止猫咪坠落的细节记忆。"
+        "concept": "Balcony Latches",
+        "reason": "Specific safety measures for an enclosed balcony, representing detailed memories of preventing the cat from falling."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从搬家的担忧，联想到上次搬家时的具体选房标准（封闭阳台）、付出的代价（请假）以及具体的安全设施（锁扣）。"
+    "reasoning": "From concerns about moving, this associates with specific home selection criteria from the last move (enclosed balcony), the sacrifices made (taking time off), and specific safety facilities (latches)."
   },
   {
     "id": "q_037",
-    "trigger_type": "多跳记忆联想",
-    "question": "作为设计师，有时候真觉得麻薯比我更懂构图，老往显示器前凑。",
-    "trigger_concept": "显示器",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "As a designer, I sometimes feel Mochi understands composition better than I do; he always crowds in front of the monitor.",
+    "trigger_concept": "Monitor",
     "candidate_set": [
       {
-        "concept": "UI 设计稿",
-        "reason": "用户的工作内容，麻薯‘监督’的具体对象，也是压力的来源。"
+        "concept": "UI Design Drafts",
+        "reason": "The user's work content, the specific object of Mochi's 'supervision,' and also a source of stress."
       },
       {
-        "concept": "键盘监督",
-        "reason": "麻薯的具体行为模式，趴在键盘上阻碍工作实则陪伴。"
+        "concept": "Keyboard Supervision",
+        "reason": "Mochi's specific behavioral pattern; lying on the keyboard hinders work but is actually an act of companionship."
       },
       {
-        "concept": "孤独感",
-        "reason": "这种行为背后的情感动机，猫在深夜加班时给予的无声陪伴，缓解用户的孤独。"
+        "concept": "Loneliness",
+        "reason": "The emotional motivation behind this behavior; the cat provides silent companionship during late-night overtime, alleviating the user's loneliness."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从工作场景（显示器），联想到具体的工作内容（设计稿）、猫的特殊行为（键盘监督）以及该行为背后深层的情感价值（缓解孤独）。"
+    "reasoning": "From the work scenario (monitor), this associates with specific work content (design drafts), the cat's unique behavior (keyboard supervision), and the deep emotional value behind that behavior (alleviating loneliness)."
   },
   {
     "id": "q_038",
-    "trigger_type": "多跳记忆联想",
-    "question": "麻薯的保险到期了，得记得续费。",
-    "trigger_concept": "宠物医疗保险",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Mochi's insurance is expiring; I must remember to renew it.",
+    "trigger_concept": "Pet Medical Insurance",
     "candidate_set": [
       {
-        "concept": "2023 年误食事件",
-        "reason": "购买保险的直接动因，那次昂贵的急诊费用让用户意识到保障的重要性。"
+        "concept": "2023 Ingestion Incident",
+        "reason": "The direct motivation for purchasing insurance; the expensive emergency fees from that incident made the user realize the importance of coverage."
       },
       {
-        "concept": "责任感",
-        "reason": "那次危机让用户深刻意识到宠物是家人，从而产生的心理转变和行为升级。"
+        "concept": "Sense of Responsibility",
+        "reason": "That crisis made the user deeply realize that pets are family, leading to a psychological shift and upgraded actions."
       },
       {
-        "concept": "肠梗阻",
-        "reason": "具体的病症名称，是保险覆盖的主要风险类型之一。"
+        "concept": "Intestinal Obstruction",
+        "reason": "A specific medical condition, representing one of the major risk types covered by the insurance."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从续费保险的行为，追溯到购买保险的起因（误食事件）、心理动因（责任感）以及具体的风险点（肠梗阻）。"
+    "reasoning": "From the act of renewing insurance, this traces back to the cause for purchasing it (ingestion incident), the psychological motivation (sense of responsibility), and specific risk points (intestinal obstruction)."
   },
   {
     "id": "q_039",
-    "trigger_type": "多跳记忆联想",
-    "question": "每天早上 7:30 准时被踩醒，真是甜蜜的负担。",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Woken up precisely at 7:30 AM by being stepped on; truly a sweet burden.",
     "trigger_concept": "7:30",
     "candidate_set": [
       {
-        "concept": "自动喂食器",
-        "reason": "醒来后的第一个动作是添加干粮，这是晨间流程的关键设备。"
+        "concept": "Automatic Feeder",
+        "reason": "The first action after waking up is adding dry food; this is a key device in the morning routine."
       },
       {
-        "concept": "猫砂盆",
-        "reason": "晨间清理的另一个主要任务，维持卫生的必要步骤。"
+        "concept": "Litter Box",
+        "reason": "Another major task in the morning routine, a necessary step for maintaining hygiene."
       },
       {
-        "concept": "英国短毛猫",
-        "reason": "该品种体型较圆润，‘踩’的动作分量感十足，解释了‘负担’的物理来源。"
+        "concept": "British Shorthair",
+        "reason": "This breed has a rounder body shape, making the 'stepping' action feel quite heavy, which explains the physical source of the 'burden'."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从起床时间，联想到随后的固定流程（喂食器、猫砂盆）以及造成‘踩醒’痛感的品种特征。"
+    "reasoning": "From the wake-up time, this associates with the subsequent fixed routine (feeder, litter box) and the breed characteristics that cause the painful sensation of being 'stepped on'."
   },
   {
     "id": "q_040",
-    "trigger_type": "多跳记忆联想",
-    "question": "张医生在朋友圈评论说麻薯最近胖了点。",
-    "trigger_concept": "张医生",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Dr. Zhang commented on my Moments that Mochi has gained a bit of weight recently.",
+    "trigger_concept": "Dr. Zhang",
     "candidate_set": [
       {
-        "concept": "安安宠医",
-        "reason": "张医生所在的医疗机构，是双方互动的线下场景。"
+        "concept": "An'an Pet Hospital",
+        "reason": "The medical institution where Dr. Zhang works, serving as the offline setting for their interactions."
       },
       {
-        "concept": "主食罐头",
-        "reason": "可能导致发胖的饮食因素之一，用户每晚 20:00 固定喂食。"
+        "concept": "Main Meal Canned Food",
+        "reason": "One of the dietary factors that could lead to weight gain; the user feeds this fixedly every night at 20:00."
       },
       {
-        "concept": "逗猫棒",
-        "reason": "用户用来帮助麻薯消耗精力、控制体重的工具，每晚必用。"
+        "concept": "Cat Teaser Wand",
+        "reason": "A tool the user employs to help Mochi burn energy and control weight, used every night without fail."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从医生的社交互动，联想到线下就诊地点、可能导致评论中‘胖’这一结果的饮食原因（罐头）以及用户采取的对应措施（逗猫棒）。"
+    "reasoning": "From the doctor's social interaction, this associates with the offline clinic location, the dietary cause (canned food) potentially leading to the 'weight gain' mentioned in the comment, and the corresponding measures taken by the user (cat teaser wand)."
   },
   {
     "id": "q_041",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "今天加班好累，只想回家抱抱麻薯。",
-    "trigger_concept": "UI 设计师压力",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I'm so exhausted from overtime work today; I just want to go home and hug Mochi.",
+    "trigger_concept": "UI Designer Stress",
     "candidate_set": [
       {
-        "concept": "呼噜声",
-        "reason": "用户习惯通过感受猫咪的呼噜声和体温在 10 分钟内平复焦虑情绪。"
+        "concept": "Purring sound",
+        "reason": "The user habitually calms their anxiety within 10 minutes by feeling the cat's purring and body warmth."
       },
       {
-        "concept": "沙发",
-        "reason": "用户压力大时特定的行为场景是窝在沙发上抱猫，而非其他地方。"
+        "concept": "Sofa",
+        "reason": "When under stress, the user's specific behavioral scenario is curling up on the sofa to hold the cat, rather than doing so elsewhere."
       },
       {
-        "concept": "焦虑平复",
-        "reason": "这是用户抱猫行为背后的具体心理机制和预期结果。"
+        "concept": "Anxiety relief",
+        "reason": "This represents the specific psychological mechanism and expected outcome behind the user's act of holding the cat."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从用户表达的工作疲惫联想到其特定的解压行为模式（窝沙发、听呼噜声）及效果。"
+    "reasoning": "Associates the user's expressed work fatigue with their specific stress-relief behavioral patterns (curling up on the sofa, listening to purring) and their effects."
   },
   {
     "id": "q_042",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "刚到家，准备先陪麻薯玩一会儿再吃饭。",
-    "trigger_concept": "20:00 下班",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Just got home; planning to play with Mochi for a while before eating.",
+    "trigger_concept": "Off work at 20:00",
     "candidate_set": [
       {
-        "concept": "逗猫棒",
-        "reason": "用户每晚 20:00 回家后的固定流程是先用逗猫棒陪玩 20 分钟。"
+        "concept": "Teaser wand",
+        "reason": "The user's fixed routine every night after returning home at 20:00 is to play with the teaser wand for 20 minutes first."
       },
       {
-        "concept": "主食罐头",
-        "reason": "陪玩结束后的紧接着的行为是喂一顿主食罐头，这是固定搭配。"
+        "concept": "Main course canned food",
+        "reason": "The immediate action following playtime is feeding a meal of main course canned food; this is a fixed combination."
       },
       {
-        "concept": "梳子",
-        "reason": "喂食顺便梳毛清理浮毛是用户晚间routine的一部分。"
+        "concept": "Comb",
+        "reason": "Brushing to remove loose fur while feeding is part of the user's evening routine."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "基于用户‘每晚 20:00'的固定回家流程，联想到具体的玩具、食物和护理工具。"
+    "reasoning": "Based on the user's fixed routine of returning home 'every night at 20:00,' associates specific toys, food, and grooming tools."
   },
   {
     "id": "q_043",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "正在赶设计稿，麻薯又跳上桌子了。",
-    "trigger_concept": "键盘监督",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I'm rushing to finish a design draft, and Mochi has jumped onto the desk again.",
+    "trigger_concept": "Keyboard supervision",
     "candidate_set": [
       {
-        "concept": "显示器",
-        "reason": "麻薯在用户加班时喜欢趴在显示器旁或键盘边进行‘无声陪伴’。"
+        "concept": "Monitor",
+        "reason": "When the user works overtime, Mochi likes to lie next to the monitor or by the keyboard for 'silent companionship'."
       },
       {
-        "concept": "手背",
-        "reason": "麻薯会用头蹭用户的手背，这是其特定的互动方式。"
+        "concept": "Back of hand",
+        "reason": "Mochi rubs its head against the back of the user's hand; this is its specific way of interacting."
       },
       {
-        "concept": "孤独感",
-        "reason": "这一行为通常发生在用户深夜加班感到孤独时，麻薯主动提供陪伴。"
+        "concept": "Loneliness",
+        "reason": "This behavior typically occurs when the user feels lonely while working late overtime, with Mochi proactively providing companionship."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘赶稿’和‘猫上桌’联想到麻薯在用户加班时的具体陪伴动作（蹭手背、趴显示器）及情感背景。"
+    "reasoning": "Associates 'rushing a draft' and 'cat on desk' with Mochi's specific companionship actions during the user's overtime (rubbing the back of the hand, lying by the monitor) and the emotional context."
   },
   {
     "id": "q_044",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "周末打算给家里做个大扫除，猫毛太多了。",
-    "trigger_concept": "深度吸尘",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Planning to do a thorough cleaning of the house this weekend; there's too much cat hair.",
+    "trigger_concept": "Deep vacuuming",
     "candidate_set": [
       {
-        "concept": "猫窝",
-        "reason": "用户每周六上午的深度清洁包含清洗猫窝和毯子。"
+        "concept": "Cat bed",
+        "reason": "The user's deep cleaning every Saturday morning includes washing the cat bed and blankets."
       },
       {
-        "concept": "指甲修剪",
-        "reason": "周六上午的固定流程还包括检查并修剪麻薯的指甲。"
+        "concept": "Nail trimming",
+        "reason": "The fixed routine on Saturday mornings also includes checking and trimming Mochi's nails."
       },
       {
-        "concept": "吸尘器",
-        "reason": "针对猫毛，用户每周六必用的特定工具是进行全屋深度吸尘。"
+        "concept": "Vacuum cleaner",
+        "reason": "To address cat hair, the specific tool the user must use every Saturday is for deep vacuuming the entire house."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘大扫除’和‘猫毛’联想到用户特定的周六清洁流程（洗猫窝、剪指甲）及专用工具。"
+    "reasoning": "Associates 'thorough cleaning' and 'cat hair' with the user's specific Saturday cleaning routine (washing the cat bed, trimming nails) and dedicated tools."
   },
   {
     "id": "q_045",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "看到桌上有根绳子，得赶紧收起来。",
-    "trigger_concept": "细小物品",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I see a string on the table; I need to put it away immediately.",
+    "trigger_concept": "Small items",
     "candidate_set": [
       {
-        "concept": "2023 年误食事件",
-        "reason": "用户严格收纳细小物品的直接原因是 2023 年麻薯曾误食塑料绳导致肠梗阻。"
+        "concept": "2023 ingestion incident",
+        "reason": "The direct reason the user strictly stores small items is that Mochi accidentally ingested a plastic string in 2023, leading to an intestinal obstruction."
       },
       {
-        "concept": "肠梗阻病史",
-        "reason": "这是用户产生高度警惕行为的历史医疗背景。"
+        "concept": "History of intestinal obstruction",
+        "reason": "This is the historical medical background that causes the user's highly vigilant behavior."
       },
       {
-        "concept": "高处柜子",
-        "reason": "为了防止误食，用户会将此类物品收纳到麻薯够不到的高处柜子。"
+        "concept": "High cabinet",
+        "reason": "To prevent accidental ingestion, the user stores such items in a high cabinet where Mochi cannot reach."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘收绳子’这一防御性行为，深度联想到其背后的创伤性历史事件（2023 误食）及具体的收纳习惯。"
+    "reasoning": "From the defensive behavior of 'putting away the string,' deeply associates the traumatic historical event behind it (2023 ingestion) and specific storage habits."
   },
   {
     "id": "q_046",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "妈妈又寄东西过来了，说是给麻薯的。",
-    "trigger_concept": "林母",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Mom sent another package, saying it's for Mochi.",
+    "trigger_concept": "Lin's mother",
     "candidate_set": [
       {
-        "concept": "自制鸡肉干",
-        "reason": "林母态度软化后，偶尔会邮寄自制的鸡肉干作为零食。"
+        "concept": "Homemade chicken jerky",
+        "reason": "After Lin's mother softened her stance, she occasionally mails homemade chicken jerky as a treat."
       },
       {
-        "concept": "麻薯视频",
-        "reason": "林母态度转变的关键节点是看到了林晓发送的麻薯视频。"
+        "concept": "Mochi videos",
+        "reason": "The turning point in Lin's mother's attitude was watching the Mochi videos sent by Lin Xiao."
       },
       {
-        "concept": "照片反馈",
-        "reason": "现在每次视频通话，林母必问猫的情况，用户通常会发送照片反馈。"
+        "concept": "Photo updates",
+        "reason": "Now, during every video call, Lin's mother always asks about the cat, and the user usually sends photo updates in response."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘妈妈寄东西’联想到具体的物品（自制鸡肉干）以及母子关系改善的关键媒介（视频/照片）。"
+    "reasoning": "Associates 'Mom sending packages' with specific items (homemade chicken jerky) and key mediums that improved the mother-son relationship (videos/photos)."
   },
   {
     "id": "q_047",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "爸爸虽然不说话，但总是偷偷打钱。",
-    "trigger_concept": "林父",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Dad doesn't say much, but he always secretly transfers money.",
+    "trigger_concept": "Lin's father",
     "candidate_set": [
       {
-        "concept": "给猫买暖气",
-        "reason": "林父曾偷偷转账并备注‘给猫买暖气’，体现其沉默的支持方式。"
+        "concept": "Buying a heater for the cat",
+        "reason": "Lin's father once secretly transferred money with the note 'for buying a heater for the cat,' reflecting his silent way of showing support."
       },
       {
-        "concept": "隔着屏幕看",
-        "reason": "林父不懂互动，视频时只敢隔着屏幕看猫，这是其特定的互动模式。"
+        "concept": "Watching through the screen",
+        "reason": "Lin's father isn't good at interacting; during video calls, he only dares to watch the cat through the screen, which is his specific interaction style."
       },
       {
-        "concept": "沉默寡言",
-        "reason": "这是林父的性格特征，解释了他为何选择转账而非言语表达。"
+        "concept": "Taciturn nature",
+        "reason": "This is a personality trait of Lin's father, explaining why he chooses to transfer money rather than express himself verbally."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘爸爸打钱’联想到具体的备注细节（买暖气）及其独特的远程互动方式（隔屏观看）。"
+    "reasoning": "Associates 'Dad transferring money' with specific note details (buying a heater) and his unique remote interaction style (watching through the screen)."
   },
   {
     "id": "q_048",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "陈晨问我周末要不要带宠物出去聚聚。",
-    "trigger_concept": "陈晨",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Chen Chen asked if I want to bring our pets together this weekend.",
+    "trigger_concept": "Chen Chen",
     "candidate_set": [
       {
-        "concept": "金毛",
-        "reason": "陈晨养的是一只金毛，这是两人聚会时的宠物组合。"
+        "concept": "Golden Retriever",
+        "reason": "Chen Chen owns a Golden Retriever, which forms the pet combination when the two meet up."
       },
       {
-        "concept": "杭州宠物友好公园",
-        "reason": "两人周末相约带宠物去的具体地点类型是杭州的宠物友好公园。"
+        "concept": "Pet-friendly parks in Hangzhou",
+        "reason": "The specific type of location where the two agree to take their pets on weekends is pet-friendly parks in Hangzhou."
       },
       {
-        "concept": "宠物用品",
-        "reason": "两人常互相推荐靠谱的宠物用品，这是她们社交互动的重要内容。"
+        "concept": "Pet supplies",
+        "reason": "The two often recommend reliable pet supplies to each other, which is an important part of their social interaction."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘同事邀约’联想到对方的宠物品种、常去的地点类型以及她们之间的交换习惯。"
+    "reasoning": "Associates 'colleague's invitation' with the other person's pet breed, the types of places they frequently visit, and their habit of exchanging recommendations."
   },
   {
     "id": "q_049",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "麻薯最近皮肤有点油，该去护理了。",
-    "trigger_concept": "专业去油",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Mochi's skin has been a bit oily lately; it's time for grooming.",
+    "trigger_concept": "Professional degreasing",
     "candidate_set": [
       {
-        "concept": "宠物店",
-        "reason": "用户每季度会带麻薯去宠物店进行专业去油和指甲打磨。"
+        "concept": "Pet grooming salon",
+        "reason": "The user takes Mochi to a pet grooming salon every quarter for professional degreasing and nail filing."
       },
       {
-        "concept": "进口沐浴露",
-        "reason": "用户平时在家自行洗澡时使用的是进口沐浴露，与专业护理形成对比或补充。"
+        "concept": "Imported shampoo",
+        "reason": "When bathing the cat at home, the user typically uses imported shampoo, which contrasts with or complements professional care."
       },
       {
-        "concept": "指甲打磨",
-        "reason": "去宠物店专业护理时，除了去油，通常还包含指甲打磨项目。"
+        "concept": "Nail filing",
+        "reason": "During professional grooming sessions at the pet salon, besides degreasing, nail filing is usually included as well."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘皮肤油’联想到用户固定的季度专业护理习惯（去宠物店、做去油和打磨）及日常洗护用品。"
+    "reasoning": "Associates 'oily skin' with the user's fixed quarterly professional grooming routine (visiting a pet salon, degreasing, and filing) and daily bathing products."
   },
   {
     "id": "q_050",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "听到开罐头的声音，麻薯瞬间醒了。",
-    "trigger_concept": "小李子罐头",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Hearing the sound of a can opening, Mochi woke up instantly.",
+    "trigger_concept": "Leonardo canned food",
     "candidate_set": [
       {
-        "concept": "睡梦中惊醒",
-        "reason": "麻薯对开罐头声音的条件反射是瞬间从睡梦中惊醒。"
+        "concept": "Startled awake from sleep",
+        "reason": "Mochi's conditioned reflex to the sound of a can opening is waking up instantly from sleep."
       },
       {
-        "concept": "帕特冻干",
-        "reason": "除了小李子罐头，帕特生骨肉冻干也是用户偏爱的零食，常与罐头并列提及。"
+        "concept": "Part freeze-dried treats",
+        "reason": "Besides Leonardo canned food, Part raw meat freeze-dried treats are also a favorite snack of the user, often mentioned alongside the canned food."
       },
       {
-        "concept": "占有欲",
-        "reason": "麻薯对食物的快速反应也体现了其对主人和资源的强烈占有欲性格。"
+        "concept": "Possessiveness",
+        "reason": "Mochi's quick reaction to food also reflects its strong possessive personality regarding its owner and resources."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘开罐头’联想到麻薯的生理反应（惊醒）、用户偏好的其他零食品牌及猫的性格特质。"
+    "reasoning": "Associates 'opening a can' with Mochi's physiological reaction (waking up startled), other snack brands preferred by the user, and the cat's personality traits."
   },
   {
     "id": "q_051",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "上次搬家真不容易，生怕麻薯不适应。",
-    "trigger_concept": "2021 年收养经历",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Moving last time was really tough; I was so worried Mochi wouldn't adapt.",
+    "trigger_concept": "2021 Adoption Experience",
     "candidate_set": [
       {
-        "concept": "封闭阳台",
-        "reason": "用户 2022 年换房时，优先考虑的关键条件是‘封闭阳台’以确保安全。"
+        "concept": "Enclosed Balcony",
+        "reason": "When the user moved in 2022, their top priority was finding a place with an 'enclosed balcony' to ensure safety."
       },
       {
-        "concept": "费洛蒙喷雾",
-        "reason": "为了防止麻薯应激，用户当时使用了费洛蒙喷雾辅助适应新环境。"
+        "concept": "Pheromone Spray",
+        "reason": "To prevent Mochi from getting stressed, the user used pheromone spray to help them adjust to the new environment at that time."
       },
       {
-        "concept": "宠物友好",
-        "reason": "这是用户找房时的另一个核心筛选条件，源于第一次搬家的经验。"
+        "concept": "Pet-Friendly",
+        "reason": "This was another core filtering criterion for the user when house hunting, stemming from their first moving experience."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘搬家’话题联想到用户特定的找房标准（封闭阳台、宠物友好）及当时使用的辅助工具（费洛蒙）。"
+    "reasoning": "Associates the topic of 'moving' with the user's specific house-hunting criteria (enclosed balcony, pet-friendly) and the auxiliary tools used at the time (pheromones)."
   },
   {
     "id": "q_052",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "多亏了买了保险，不然上次急诊费用太高了。",
-    "trigger_concept": "误食危机",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Thank goodness I bought insurance; otherwise, the emergency vet bill last time would have been sky-high.",
+    "trigger_concept": "Ingestion Crisis",
     "candidate_set": [
       {
-        "concept": "宠物医疗保险",
-        "reason": "2023 年误食事件后，用户开始购买宠物医疗保险以应对风险。"
+        "concept": "Pet Health Insurance",
+        "reason": "Following the ingestion incident in 2023, the user started purchasing pet health insurance to mitigate risks."
       },
       {
-        "concept": "宠物急救知识",
-        "reason": "那次经历促使用户主动学习了宠物急救知识。"
+        "concept": "Pet First Aid Knowledge",
+        "reason": "That experience prompted the user to proactively learn pet first aid."
       },
       {
-        "concept": "责任感",
-        "reason": "这次危机让用户深刻意识到宠物是家人，极大地提升了其养宠责任感。"
+        "concept": "Sense of Responsibility",
+        "reason": "This crisis made the user deeply realize that their pet is family, significantly enhancing their sense of responsibility as a pet owner."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘急诊费用’联想到用户事后采取的三大应对措施：买保险、学急救、心态转变（责任感）。"
+    "reasoning": "Associates 'emergency vet costs' with the three major measures the user took afterward: buying insurance, learning first aid, and a shift in mindset (sense of responsibility)."
   },
   {
     "id": "q_053",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "张医生朋友圈评论我家麻薯了。",
-    "trigger_concept": "张医生",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Dr. Zhang commented on my post about Mochi on WeChat Moments.",
+    "trigger_concept": "Dr. Zhang",
     "candidate_set": [
       {
-        "concept": "安安宠医",
-        "reason": "张医生所在的医院是杭州转塘附近的‘安安宠医’，用户非常信任这里。"
+        "concept": "An'an Pet Hospital",
+        "reason": "The hospital where Dr. Zhang works is 'An'an Pet Hospital' near Zhuantang, Hangzhou, which the user trusts immensely."
       },
       {
-        "concept": "疫苗",
-        "reason": "麻薯的每次体检和疫苗都由张医生负责，这是主要的医患连接点。"
+        "concept": "Vaccinations",
+        "reason": "Dr. Zhang is responsible for all of Mochi's check-ups and vaccinations, serving as the primary point of connection between the owner and the vet."
       },
       {
-        "concept": "朋友",
-        "reason": "用户与张医生的关系已超越医患，更像朋友，体现在朋友圈互动上。"
+        "concept": "Friend",
+        "reason": "The relationship between the user and Dr. Zhang has transcended that of doctor and patient; they are more like friends, as reflected in their interactions on social media."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘医生互动’联想到具体的医院名称、核心医疗服务（疫苗）及双方关系的定性。"
+    "reasoning": "Associates 'doctor interaction' with the specific hospital name, core medical services (vaccinations), and the nature of their relationship."
   },
   {
     "id": "q_054",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "麻薯对那些很贵的电动玩具完全不感兴趣。",
-    "trigger_concept": "电动老鼠",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Mochi has absolutely no interest in those expensive electric toys.",
+    "trigger_concept": "Electric Mouse",
     "candidate_set": [
       {
-        "concept": "瓦楞纸猫抓板",
-        "reason": "相比于昂贵玩具，麻薯最爱的是瓦楞纸猫抓板。"
+        "concept": "Corrugated Cardboard Scratcher",
+        "reason": "Compared to expensive toys, Mochi's absolute favorite is the corrugated cardboard scratcher."
       },
       {
-        "concept": "羽毛钓鱼竿",
-        "reason": "麻薯真正喜欢的另一类玩具是带羽毛的电动钓鱼竿。"
+        "concept": "Feather Fishing Rod Toy",
+        "reason": "Another type of toy Mochi genuinely enjoys is the electric fishing rod with feathers."
       },
       {
-        "concept": "兴趣缺缺",
-        "reason": "这是麻薯对昂贵电动老鼠玩具的特定态度，与对简单玩具的喜爱形成对比。"
+        "concept": "Lack of Interest",
+        "reason": "This describes Mochi's specific attitude toward expensive electric mouse toys, contrasting sharply with their love for simple toys."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘不喜欢贵玩具’联想到麻薯真正偏好的具体玩具类型（纸抓板、羽毛竿）及其态度。"
+    "reasoning": "Associates 'disliking expensive toys' with the specific toy types Mochi actually prefers (cardboard scratcher, feather rod) and their attitude."
   },
   {
     "id": "q_055",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "每天早上 7 点半准时被踩醒。",
-    "trigger_concept": "自动喂食器",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I get stepped on to wake up every morning at exactly 7:30.",
+    "trigger_concept": "Automatic Feeder",
     "candidate_set": [
       {
-        "concept": "清理猫砂盆",
-        "reason": "被踩醒后，用户的第一项固定活动是清理猫砂盆。"
+        "concept": "Cleaning the Litter Box",
+        "reason": "After being stepped on to wake up, the user's first fixed routine is cleaning the litter box."
       },
       {
-        "concept": "新鲜饮用水",
-        "reason": "晨间流程包括添加干粮后，必须更换新鲜饮用水。"
+        "concept": "Fresh Drinking Water",
+        "reason": "The morning routine includes adding dry food and must also involve replacing the water with fresh drinking water."
       },
       {
-        "concept": "干粮",
-        "reason": "用户早晨会通过自动喂食器添加干粮，这是流程的一部分。"
+        "concept": "Dry Food",
+        "reason": "The user adds dry food via the automatic feeder in the morning as part of this routine."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘被踩醒’的时间点联想到用户随后的一系列晨间照顾流程（清砂、加水、加粮）。"
+    "reasoning": "Associates the time of 'being stepped on to wake up' with the series of morning care routines the user performs afterward (cleaning litter, adding water, adding food)."
   },
   {
     "id": "q_056",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "当初刚捡到麻薯时，它身上全是病。",
-    "trigger_concept": "2021 年冬天",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "When I first found Mochi, it was covered in illnesses.",
+    "trigger_concept": "Winter 2021",
     "candidate_set": [
       {
-        "concept": "猫藓治疗",
-        "reason": "收养初期麻薯患有严重猫藓，经过了两个月的药物治疗。"
+        "concept": "Ringworm treatment",
+        "reason": "In the early stages of adoption, Mochi suffered from severe ringworm and underwent two months of medication."
       },
       {
-        "concept": "耳螨",
-        "reason": "除了猫藓，当时麻薯还患有耳螨，也是同期治愈的。"
+        "concept": "Ear mites",
+        "reason": "Besides ringworm, Mochi also had ear mites at that time, which were cured during the same period."
       },
       {
-        "concept": "公司楼下",
-        "reason": "这是用户发现并收养麻薯的具体地点，在垃圾桶旁的纸箱里。"
+        "concept": "Downstairs from the office",
+        "reason": "This is the specific location where the user found and adopted Mochi, inside a cardboard box next to a trash can."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘刚捡到’和‘生病’联想到具体的病症（猫藓、耳螨）、治疗时长及发现地点。"
+    "reasoning": "From 'just found' and 'sick,' associate with specific conditions (ringworm, ear mites), treatment duration, and the location of discovery."
   },
   {
     "id": "q_057",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "我想给麻薯换个环境，又怕它应激。",
-    "trigger_concept": "应激",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I want to change Mochi's environment, but I'm afraid it will get stressed.",
+    "trigger_concept": "Stress",
     "candidate_set": [
       {
-        "concept": "请假两天",
-        "reason": "上次搬家时，为了不让麻薯应激，用户专门请假两天全程陪伴。"
+        "concept": "Taking two days off",
+        "reason": "During the last move, to prevent Mochi from getting stressed, the user specifically took two days off to stay with it the entire time."
       },
       {
-        "concept": "陪伴",
-        "reason": "全程陪伴是用户应对麻薯应激的核心策略。"
+        "concept": "Companionship",
+        "reason": "Staying with Mochi throughout the process is the user's core strategy for handling its stress."
       },
       {
-        "concept": "2022 年换房",
-        "reason": "这是用户最近一次成功处理麻薯应激的具体事件背景。"
+        "concept": "Moving house in 2022",
+        "reason": "This is the specific background event of the user's most recent successful handling of Mochi's stress."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘怕应激’联想到用户过去成功的应对策略（请假、全程陪伴）及具体案例时间。"
+    "reasoning": "From 'afraid of stress,' associate with the user's past successful coping strategies (taking leave, full-time companionship) and the timing of the specific case."
   },
   {
     "id": "q_058",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "麻薯对外人特别高冷，只有对我才粘人。",
-    "trigger_concept": "英国短毛猫",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Mochi is very aloof with strangers but clingy only with me.",
+    "trigger_concept": "British Shorthair",
     "candidate_set": [
       {
-        "concept": "警惕",
-        "reason": "麻薯对陌生人的特定态度是警惕，与其对主人的粘人形成反差。"
+        "concept": "Alertness",
+        "reason": "Mochi's specific attitude toward strangers is alertness, which contrasts sharply with its clinginess toward its owner."
       },
       {
-        "concept": "占有欲",
-        "reason": "麻薯对林晓有强烈的占有欲，这是其‘双面’性格的核心表现。"
+        "concept": "Possessiveness",
+        "reason": "Mochi has a strong sense of possessiveness toward Lin Xiaoyun, which is the core manifestation of its 'dual' personality."
       },
       {
-        "concept": "银渐层",
-        "reason": "这是麻薯的具体毛色品种，常与其外貌高冷但内心粘人的特质联系在一起。"
+        "concept": "Silver Shaded",
+        "reason": "This is Mochi's specific coat color variety, often associated with its trait of appearing aloof externally but being clingy internally."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从‘高冷又粘人’的性格描述，联想到其对陌生人的具体态度、对主人的特殊情感及品种特征。"
+    "reasoning": "From the personality description 'aloof yet clingy,' associate with its specific attitude toward strangers, special emotional bond with the owner, and breed characteristics."
   },
   {
     "id": "q_059",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "家里的沐浴露快用完了，得再买一瓶。",
-    "trigger_concept": "进口沐浴露",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "The body wash at home is running low; I need to buy another bottle.",
+    "trigger_concept": "Imported body wash",
     "candidate_set": [
       {
-        "concept": "每两周",
-        "reason": "用户在家自行给麻薯洗澡的频率是每两周一次。"
+        "concept": "Every two weeks",
+        "reason": "The frequency with which the user bathes Mochi at home is once every two weeks."
       },
       {
-        "concept": "自行洗澡",
-        "reason": "用户习惯在家自行洗澡，而非全部依赖宠物店，这是其日常护理模式。"
+        "concept": "Self-bathing",
+        "reason": "The user prefers bathing Mochi at home rather than relying entirely on pet grooming shops; this is part of its daily care routine."
       },
       {
-        "concept": "季度护理",
-        "reason": "虽然平时自己洗，但用户每季度仍会去宠物店做专业去油，两者互补。"
+        "concept": "Quarterly professional care",
+        "reason": "Although the user usually bathes Mochi personally, they still take it to a pet shop every quarter for professional degreasing; the two methods complement each other."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘买沐浴露’联想到用户的洗澡频率、自行操作的习惯以及与专业护理的时间互补关系。"
+    "reasoning": "From 'buying body wash,' associate with the user's bathing frequency, habit of self-care, and the complementary timing relationship with professional grooming."
   },
   {
     "id": "q_060",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "看着麻薯在键盘上睡觉，工作都不觉得苦了。",
-    "trigger_concept": "显示器",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Watching Mochi sleep on the keyboard makes work feel less burdensome.",
+    "trigger_concept": "Monitor",
     "candidate_set": [
       {
-        "concept": "无声陪伴",
-        "reason": "麻薯趴在键盘或显示器旁的行为被用户解读为一种‘无声陪伴’。"
+        "concept": "Silent companionship",
+        "reason": "The user interprets Mochi's behavior of lying on the keyboard or beside the monitor as a form of 'silent companionship'."
       },
       {
-        "concept": "不是一个人在战斗",
-        "reason": "这种陪伴让深夜加班的用户感觉自己‘不是一个人在战斗’，是其情感价值所在。"
+        "concept": "Not fighting alone",
+        "reason": "This companionship makes the user, working late overtime, feel that they are 'not fighting alone,' which represents its emotional value."
       },
       {
-        "concept": "加班夜晚",
-        "reason": "这一温馨场景最常发生的时间背景是用户深夜加班时。"
+        "concept": "Late-night overtime",
+        "reason": "The time background when this heartwarming scene most often occurs is during the user's late-night overtime work."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘键盘睡觉’和‘工作不苦’联想到该行为的情感定义（无声陪伴）、对用户的心理暗示（不孤单）及发生场景。"
+    "reasoning": "From 'sleeping on the keyboard' and 'work feels less bitter,' associate with the emotional definition of the behavior (silent companionship), the psychological implication for the user (not being lonely), and the setting in which it occurs."
   },
   {
     "id": "q_061",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林母在视频通话中询问麻薯近况并提到刚邮寄了自制的鸡肉干。",
-    "trigger_concept": "自制鸡肉干",
+    "trigger_type": "Entity-related memory association",
+    "question": "During a video call, Lin's mother asked about Mochi's well-being and mentioned that she had just mailed some homemade chicken jerky.",
+    "trigger_concept": "Homemade chicken jerky",
     "candidate_set": [
       {
-        "concept": "林母",
-        "reason": "作为邮寄自制鸡肉干的主体，林母的态度从反对转变为主动关爱，是该行为的核心执行者。"
+        "concept": "Lin's mother",
+        "reason": "As the person who mailed the homemade chicken jerky, Lin's mother is the core actor in this event, marking a shift in her attitude from opposition to active care."
       },
       {
-        "concept": "照片反馈",
-        "reason": "林母态度软化的关键转折点是看到了林晓发送的麻薯视频或照片，这是建立当前互动的前置条件。"
+        "concept": "Photo feedback",
+        "reason": "The key turning point in Lin's mother's softening attitude was seeing the videos or photos of Mochi sent by Lin Xiao, which served as the prerequisite for establishing the current interaction."
       },
       {
-        "concept": "家庭幸福",
-        "reason": "母亲寄零食这一行为象征着原生家庭对林晓养宠生活方式的最终接纳，提升了整体家庭幸福感。"
+        "concept": "Family happiness",
+        "reason": "The mother's act of sending snacks symbolizes the native family's final acceptance of Lin Xiao's pet-owning lifestyle, enhancing overall family happiness."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "time_09"
     ],
-    "reasoning": "基于 time_09 中母亲寄零食的显性事实，直接关联到人物（林母）、起因（照片/视频反馈）及深层情感意义（家庭幸福）。"
+    "reasoning": "Based on the explicit fact of the mother sending snacks in time_09, this directly links to the character (Lin's mother), the cause (photo/video feedback), and the deeper emotional significance (family happiness)."
   },
   {
     "id": "q_062",
-    "trigger_type": "实体相关记忆联想",
-    "question": "收到父亲转账备注‘给猫买暖气’时，林晓感受到了沉默寡言的父亲对麻薯的关心。",
-    "trigger_concept": "给猫买暖气",
+    "trigger_type": "Entity-related memory association",
+    "question": "Upon receiving a bank transfer from her father with the note 'Buy a heater for the cat,' Lin Xiao felt the care of her typically taciturn father for Mochi.",
+    "trigger_concept": "Buy a heater for the cat",
     "candidate_set": [
       {
-        "concept": "2021 年冬天",
-        "reason": "父亲转账买暖气的行为与麻薯被收养时的寒冷冬天形成时空呼应，暗示父亲知晓或潜意识回应了那段起源故事。"
+        "concept": "Winter 2021",
+        "reason": "The father's act of transferring money for a heater echoes the cold winter when Mochi was adopted, suggesting that the father is aware of or subconsciously responding to that origin story."
       },
       {
-        "concept": "林父",
-        "reason": "转账行为的发起者，其‘沉默寡言但默默支持’的性格特征是该行为动机的核心解释。"
+        "concept": "Lin's father",
+        "reason": "As the initiator of the transfer, his character trait of being 'taciturn yet silently supportive' is the core explanation for the motivation behind this action."
       },
       {
-        "concept": "2021 年收养经历",
-        "reason": "麻薯在 2021 年冬天被遗弃在寒冷中，父亲买暖气的举动是对这一历史创伤的温柔补偿。"
+        "concept": "2021 Adoption experience",
+        "reason": "Mochi was abandoned in the cold during the winter of 2021; the father's gesture of buying a heater serves as a gentle compensation for this historical trauma."
       }
     ],
     "difficulty": "medium",
@@ -1428,71 +1428,71 @@
       "time_10",
       "time_11"
     ],
-    "reasoning": "结合 time_10 和 time_11 的强关联，将‘买暖气’这一具体行为与麻薯的‘收养起源（2021 年冬天）’及父亲的性格特点进行跨时间维度的逻辑串联。"
+    "reasoning": "Combining the strong correlations in time_10 and time_11, this logically connects the specific action of 'buying a heater' with Mochi's 'adoption origin (Winter 2021)' and the father's personality traits across different time dimensions."
   },
   {
     "id": "q_063",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓每晚 20:00 下班回家后，会先用逗猫棒陪玩再喂主食罐头。",
-    "trigger_concept": "20:00 下班",
+    "trigger_type": "Entity-related memory association",
+    "question": "Every day after getting off work at 20:00, Lin Xiao plays with Mochi using a wand toy before feeding him his main canned meal.",
+    "trigger_concept": "Getting off work at 20:00",
     "candidate_set": [
       {
-        "concept": "UI 设计师压力",
-        "reason": "林晓作为 UI 设计师的工作压力是她需要通过晚间陪玩来释放情绪、切换生活模式的根本原因。"
+        "concept": "UI designer stress",
+        "reason": "Lin Xiao's work stress as a UI designer is the fundamental reason she needs to release emotions and switch modes through evening play sessions."
       },
       {
-        "concept": "小李子罐头",
-        "reason": "用户偏好中明确提到林晓偏爱‘小李子’罐头作为主食，这是 20:00 喂食环节的具体实体对象。"
+        "concept": "Leonardo canned food",
+        "reason": "User preferences explicitly state that Lin Xiao favors 'Leonardo' brand canned food as the staple diet, making it the specific object involved in the 20:00 feeding routine."
       },
       {
-        "concept": "焦虑平复",
-        "reason": "晚间互动的最终情感目标是让林晓从工作状态中抽离，通过与麻薯的互动实现焦虑平复。"
+        "concept": "Anxiety relief",
+        "reason": "The ultimate emotional goal of the evening interaction is to help Lin Xiao detach from her work state and achieve anxiety relief through bonding with Mochi."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从日常习惯的时间点出发，关联职业背景（压力源）、具体物品偏好（罐头品牌）以及行为背后的心理需求（焦虑平复）。"
+    "reasoning": "Starting from the timing of daily habits, this associates her professional background (stress source), specific item preferences (canned food brand), and the psychological needs behind the behavior (anxiety relief)."
   },
   {
     "id": "q_064",
-    "trigger_type": "实体相关记忆联想",
-    "question": "2023 年麻薯因误食塑料绳导致轻微肠梗阻的经历让林晓至今心有余悸。",
-    "trigger_concept": "2023 年误食事件",
+    "trigger_type": "Entity-related memory association",
+    "question": "Mochi's experience with a mild intestinal obstruction in 2023, caused by accidentally ingesting a plastic string, still leaves Lin Xiao shaken.",
+    "trigger_concept": "2023 ingestion incident",
     "candidate_set": [
       {
-        "concept": "细小物品",
-        "reason": "此次事件直接导致了林晓家中所有细小物品被严格收纳的行为改变，是因果关系中的关键措施。"
+        "concept": "Small items",
+        "reason": "This incident directly led to a behavioral change where all small items in Lin Xiao's home are now strictly stored away, representing a key measure in the cause-and-effect relationship."
       },
       {
-        "concept": "急诊记忆",
-        "reason": "误食事件发生当晚的急诊经历是林晓宠物观转变的里程碑，构成了深刻的创伤性记忆。"
+        "concept": "Emergency room memory",
+        "reason": "The emergency room visit on the night of the ingestion incident was a milestone in Lin Xiao's perspective on pet ownership, constituting a profound traumatic memory."
       },
       {
-        "concept": "宠物医疗保险",
-        "reason": "作为此次危机后的直接应对措施，林晓购买了宠物医疗保险以防范未来风险。"
+        "concept": "Pet health insurance",
+        "reason": "As a direct response following this crisis, Lin Xiao purchased pet health insurance to guard against future risks."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "围绕‘误食事件’这一核心危机，联想其引发的行为改变（收纳细小物品）、心理印记（急诊记忆）及制度保障（购买保险）。"
+    "reasoning": "Centering on the 'ingestion incident' as the core crisis, this associates the resulting behavioral changes (storing small items), psychological imprint (emergency room memory), and institutional safeguards (purchasing insurance)."
   },
   {
     "id": "q_065",
-    "trigger_type": "实体相关记忆联想",
-    "question": "张医生不仅是麻薯的主治医师，更是林晓信任的朋友，常在朋友圈互动。",
-    "trigger_concept": "张医生",
+    "trigger_type": "Entity-related memory association",
+    "question": "Dr. Zhang is not only Mochi's attending veterinarian but also a trusted friend of Lin Xiao, with whom she frequently interacts on social media.",
+    "trigger_concept": "Dr. Zhang",
     "candidate_set": [
       {
-        "concept": "安安宠医",
-        "reason": "张医生所在的医疗机构，林晓选择此处是因为离家近且设备齐全，是双方关系的物理载体。"
+        "concept": "An'an Pet Hospital",
+        "reason": "The medical institution where Dr. Zhang works; Lin Xiao chose this location due to its proximity and comprehensive equipment, serving as the physical载体 of their relationship."
       },
       {
-        "concept": "皮肤检查",
-        "reason": "麻薯收养初期患有严重猫藓，张医生在治疗过程中的专业表现是建立信任关系的起点。"
+        "concept": "Skin examination",
+        "reason": "In the early stages of adoption, Mochi suffered from severe ringworm; Dr. Zhang's professional performance during the treatment was the starting point for building their trust."
       },
       {
-        "concept": "疫苗",
-        "reason": "作为定期维护项目，麻薯的每次疫苗都由张医生负责，体现了长期稳定的医患关系。"
+        "concept": "Vaccines",
+        "reason": "As a regular maintenance item, Dr. Zhang is responsible for all of Mochi's vaccinations, reflecting a long-term and stable doctor-patient relationship."
       }
     ],
     "difficulty": "easy",
@@ -1500,25 +1500,25 @@
       "time_07",
       "behavior_11"
     ],
-    "reasoning": "从人物‘张医生’出发，关联其工作地點（安安宠医）、建立信任的历史事件（猫藓/皮肤检查）以及常规服务内容（疫苗）。"
+    "reasoning": "Starting from the character 'Dr. Zhang,' this associates his workplace (An'an Pet Hospital), the historical event that built trust (ringworm/skin examination), and routine service content (vaccines)."
   },
   {
     "id": "q_066",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓在深夜加班时，麻薯常趴在键盘上监督工作或蹭手背陪伴。",
-    "trigger_concept": "键盘监督",
+    "trigger_type": "Entity-related memory association",
+    "question": "When Lin Xiao works late into the night, Mochi often lies on the keyboard to supervise her work or nuzzles her hand for companionship.",
+    "trigger_concept": "Keyboard supervision",
     "candidate_set": [
       {
-        "concept": "加班夜晚",
-        "reason": "这是触发麻薯陪伴行为的具体时间场景，也是林晓孤独感最强、最需要慰藉的时刻。"
+        "concept": "Overtime nights",
+        "reason": "This is the specific time and setting that triggers Mochi's companionship behavior, and also the moment when Lin Xiao feels most lonely and in need of comfort."
       },
       {
-        "concept": "显示器",
-        "reason": "麻薯除了趴键盘，也常趴在显示器旁，这是其‘监督’工作的典型位置布局。"
+        "concept": "Monitor",
+        "reason": "Besides lying on the keyboard, Mochi often rests beside the monitor; this is a typical positioning for its 'supervision' of work."
       },
       {
-        "concept": "孤独感",
-        "reason": "麻薯的行为直接针对林晓的孤独感，是其提供情绪价值、让林晓觉得‘不是一个人在战斗’的心理背景。"
+        "concept": "Loneliness",
+        "reason": "Mochi's behavior directly addresses Lin Xiao's loneliness, providing emotional value and making her feel that she is 'not fighting alone'."
       }
     ],
     "difficulty": "medium",
@@ -1526,25 +1526,25 @@
       "emotion_02",
       "emotion_08"
     ],
-    "reasoning": "基于‘键盘监督’这一具体行为，还原其发生的场景（加班夜晚）、相关环境物体（显示器）以及解决的核心情绪问题（孤独感）。"
+    "reasoning": "Based on the specific behavior of 'keyboard supervision,' reconstruct the scene in which it occurs (overtime nights), related environmental objects (the monitor), and the core emotional issue being addressed (loneliness)."
   },
   {
     "id": "q_067",
-    "trigger_type": "实体相关记忆联想",
-    "question": "2022 年搬家时，林晓特意选择了带有封闭阳台的宠物友好房源。",
-    "trigger_concept": "封闭阳台",
+    "trigger_type": "Entity-related memory association",
+    "question": "When moving in 2022, Lin Xiao specifically chose a pet-friendly rental with an enclosed balcony.",
+    "trigger_concept": "Enclosed balcony",
     "candidate_set": [
       {
-        "concept": "2021 年收养经历",
-        "reason": "麻薯曾被遗弃在户外的经历，使得林晓在后续居住选择中将‘安全’和‘封闭’作为首要考量，以防再次丢失或意外。"
+        "concept": "2021 adoption experience",
+        "reason": "Mochi's past experience of being abandoned outdoors led Lin Xiao to prioritize 'safety' and 'enclosure' in subsequent housing choices to prevent another loss or accident."
       },
       {
-        "concept": "阳台锁扣",
-        "reason": "封闭阳台的具体安全设施细节，体现了林晓对麻薯安全防护的细致程度。"
+        "concept": "Balcony latch",
+        "reason": "A specific safety feature of the enclosed balcony, reflecting the meticulousness of Lin Xiao's protective measures for Mochi."
       },
       {
-        "concept": "费洛蒙喷雾",
-        "reason": "在搬家这一特定事件中，为了减少麻薯的应激反应，林晓使用了费洛蒙喷雾辅助适应，是该事件的配套措施。"
+        "concept": "Pheromone spray",
+        "reason": "During the specific event of moving, Lin Xiao used pheromone spray to help reduce Mochi's stress response and aid adaptation; this was a supportive measure for the event."
       }
     ],
     "difficulty": "hard",
@@ -1552,330 +1552,330 @@
       "multihop_07",
       "time_11"
     ],
-    "reasoning": "将‘封闭阳台’这一居住决策，回溯到麻薯的‘被遗弃历史’（因果根源），延伸至具体设施（锁扣）和同期使用的辅助工具（费洛蒙），构建完整的事件链条。"
+    "reasoning": "Trace the housing decision of an 'enclosed balcony' back to Mochi's 'history of abandonment' (the causal root), extend it to specific facilities (the latch) and auxiliary tools used at the same time (pheromone spray), thereby constructing a complete chain of events."
   },
   {
     "id": "q_068",
-    "trigger_type": "实体相关记忆联想",
-    "question": "陈晨作为同事和闺蜜，常与林晓交换宠物照片并相约去宠物友好公园。",
-    "trigger_concept": "陈晨",
+    "trigger_type": "Entity-related memory association",
+    "question": "As both a colleague and a close friend, Chen Chen often exchanges pet photos with Lin Xiao and they arrange meetups at pet-friendly parks.",
+    "trigger_concept": "Chen Chen",
     "candidate_set": [
       {
-        "concept": "金毛",
-        "reason": "陈晨饲养的宠物品种，是两人能够产生共鸣、交流养宠经验的基础共同点。"
+        "concept": "Golden Retriever",
+        "reason": "The breed of pet owned by Chen Chen; this shared characteristic forms the basis for their resonance and exchanges of pet-care experiences."
       },
       {
-        "concept": "杭州宠物友好公园",
-        "reason": "两人周末聚会的具体场所，是社交活动发生的物理空间。"
+        "concept": "Hangzhou pet-friendly parks",
+        "reason": "The specific venues for their weekend gatherings; these are the physical spaces where their social activities take place."
       },
       {
-        "concept": "宠物用品",
-        "reason": "两人交流的核心内容之一，互相推荐靠谱产品是她们友谊在养宠领域的具体体现。"
+        "concept": "Pet supplies",
+        "reason": "One of the core topics of their conversations; mutually recommending reliable products is a concrete manifestation of their friendship within the realm of pet care."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从社交人物‘陈晨’出发，关联其宠物特征（金毛）、共同活动地点（公园）以及互动内容（用品推荐）。"
+    "reasoning": "Starting from the social contact 'Chen Chen,' associate her pet's characteristics (Golden Retriever), their shared activity locations (parks), and the content of their interactions (product recommendations)."
   },
   {
     "id": "q_069",
-    "trigger_type": "实体相关记忆联想",
-    "question": "麻薯收养初期患有严重的猫藓和耳螨，经过两个月治疗痊愈。",
-    "trigger_concept": "猫藓病史",
+    "trigger_type": "Entity-related memory association",
+    "question": "In the early stages after adoption, Mochi suffered from severe ringworm and ear mites, but fully recovered after two months of treatment.",
+    "trigger_concept": "History of ringworm",
     "candidate_set": [
       {
-        "concept": "2021 年冬天",
-        "reason": "猫藓爆发于麻薯刚被收养的 2021 年冬天，恶劣的天气和流浪经历是致病的直接环境因素。"
+        "concept": "Winter 2021",
+        "reason": "The ringworm outbreak occurred in the winter of 2021, shortly after Mochi was adopted; harsh weather and its stray experience were the direct environmental factors causing the illness."
       },
       {
-        "concept": "进口沐浴露",
-        "reason": "虽然现在麻薯健康，但林晓仍坚持使用进口沐浴露定期护理，部分原因是为了预防皮肤病复发，保持皮肤健康。"
+        "concept": "Imported shampoo",
+        "reason": "Although Mochi is now healthy, Lin Xiao continues to use imported shampoo for regular care, partly to prevent recurrence of skin conditions and maintain skin health."
       },
       {
-        "concept": "责任感",
-        "reason": "林晓不离不弃治疗两个月猫藓的过程，深刻体现了她将宠物视为家人而非玩物的强烈责任感。"
+        "concept": "Sense of responsibility",
+        "reason": "Lin Xiao's unwavering commitment to treating Mochi's ringworm over two months profoundly reflects her strong sense of responsibility, viewing the pet as family rather than a mere plaything."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "由‘猫藓病史’联想到发病时间背景（2021 冬天）、当前的预防措施（沐浴露）以及该事件折射出的主人特质（责任感）。"
+    "reasoning": "From the 'history of ringworm,' associate the temporal background of the outbreak (winter 2021), current preventive measures (shampoo), and the owner's traits revealed by this event (sense of responsibility)."
   },
   {
     "id": "q_070",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓每周六上午会进行全屋深度吸尘以清理猫毛。",
-    "trigger_concept": "深度吸尘",
+    "trigger_type": "Entity-related memory association",
+    "question": "Every Saturday morning, Lin Xiao performs a deep vacuuming of the entire house to clean up cat hair.",
+    "trigger_concept": "Deep vacuuming",
     "candidate_set": [
       {
-        "concept": "英国短毛猫",
-        "reason": "麻薯的品种特性决定了其掉毛量较大，是产生‘猫毛’并需要深度吸尘的根本生物学原因。"
+        "concept": "British Shorthair",
+        "reason": "Mochi's breed characteristics result in significant shedding, which is the fundamental biological cause of the 'cat hair' that necessitates deep vacuuming."
       },
       {
-        "concept": "吸尘器",
-        "reason": "执行深度吸尘这一行为所依赖的核心工具。"
+        "concept": "Vacuum cleaner",
+        "reason": "The core tool relied upon to carry out the deep vacuuming behavior."
       },
       {
-        "concept": "猫窝",
-        "reason": "猫毛聚集的重灾区之一，是周六清洁工作中重点清洗和吸尘的对象。"
+        "concept": "Cat bed",
+        "reason": "One of the major accumulation zones for cat hair; it is a key target for washing and vacuuming during Saturday's cleaning routine."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从清洁行为‘深度吸尘’出发，关联其成因（品种导致的掉毛）、工具（吸尘器）及具体清洁目标（猫窝等）。"
+    "reasoning": "Starting from the cleaning behavior 'deep vacuuming,' associate its cause (shedding due to breed), the tool used (vacuum cleaner), and specific cleaning targets (such as the cat bed)."
   },
   {
     "id": "q_071",
-    "trigger_type": "实体相关记忆联想",
-    "question": "麻薯对昂贵的电动老鼠玩具兴趣缺缺，却最爱瓦楞纸猫抓板。",
-    "trigger_concept": "电动老鼠",
+    "trigger_type": "Entity-related memory association",
+    "question": "Mochi shows little interest in expensive electric mouse toys but absolutely loves corrugated cardboard scratchers.",
+    "trigger_concept": "Electric mouse",
     "candidate_set": [
       {
-        "concept": "瓦楞纸猫抓板",
-        "reason": "与电动老鼠形成鲜明对比的偏好对象，是麻薯真正喜爱的玩具类型。"
+        "concept": "Corrugated cardboard scratcher",
+        "reason": "A preferred object that stands in stark contrast to the electric mouse; this is the type of toy Mochi truly enjoys."
       },
       {
-        "concept": "电动钓鱼竿",
-        "reason": "麻薯喜爱的另一类玩具，带有羽毛的动态特征更符合其捕猎天性，反衬出电动老鼠的失败。"
+        "concept": "Electric fishing rod",
+        "reason": "Another type of toy Mochi loves; its dynamic feather features better align with his hunting instincts, highlighting the failure of the electric mouse."
       },
       {
-        "concept": "英国短毛猫",
-        "reason": "该品种猫可能具有特定的玩耍偏好，倾向于互动性强或触感真实的物品，而非单纯的电子移动物体。"
+        "concept": "British Shorthair",
+        "reason": "Cats of this breed may have specific play preferences, tending toward interactive items or those with realistic textures rather than purely electronic moving objects."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "通过‘不喜欢的玩具’反向联想‘喜欢的玩具’（猫抓板、钓鱼竿），并结合品种特性解释这种偏好差异。"
+    "reasoning": "Reverse-associate 'liked toys' (scratchers, fishing rods) from 'disliked toys,' and explain this preference difference by combining breed characteristics."
   },
   {
     "id": "q_072",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓每两周在家给麻薯洗澡，每季度去宠物店进行专业去油。",
-    "trigger_concept": "专业去油",
+    "trigger_type": "Entity-related memory association",
+    "question": "Lin Xiao bathes Mochi at home every two weeks and takes him to the pet shop for professional degreasing every quarter.",
+    "trigger_concept": "Professional degreasing",
     "candidate_set": [
       {
-        "concept": "银渐层",
-        "reason": "麻薯的毛色品种，银渐层容易尾部出油，因此需要定期的专业去油护理以保持毛色光亮。"
+        "concept": "Silver Shaded",
+        "reason": "Mochi's coat color and breed; Silver Shaded cats are prone to oily tails, thus requiring regular professional degreasing care to maintain a shiny coat."
       },
       {
-        "concept": "宠物店",
-        "reason": "执行‘专业去油’这一特定服务的场所，区别于日常的在家洗澡。"
+        "concept": "Pet shop",
+        "reason": "The venue where the specific service of 'professional degreasing' is performed, distinct from daily home bathing."
       },
       {
-        "concept": "进口沐浴露",
-        "reason": "林晓在家洗澡时使用的产品，与宠物店的专业护理形成互补，共同维持麻薯的毛发健康。"
+        "concept": "Imported shampoo",
+        "reason": "The product Lin Xiao uses for home bathing, which complements the professional care at the pet shop to jointly maintain Mochi's fur health."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从‘专业去油’这一特殊护理需求出发，关联其品种成因（银渐层易出油）、执行地点（宠物店）及日常互补措施（进口沐浴露）。"
+    "reasoning": "Starting from the special care need of 'professional degreasing,' associate its breed-related cause (Silver Shaded cats are prone to oiliness), the execution location (pet shop), and daily complementary measures (imported shampoo)."
   },
   {
     "id": "q_073",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓在 2023 年麻薯生病危机后购买了宠物医疗保险。",
-    "trigger_concept": "宠物医疗保险",
+    "trigger_type": "Entity-related memory association",
+    "question": "After Mochi's health crisis in 2023, Lin Xiao purchased pet medical insurance.",
+    "trigger_concept": "Pet medical insurance",
     "candidate_set": [
       {
-        "concept": "肠梗阻",
-        "reason": "触发购买保险的直接医疗事件，高昂的治疗费用让林晓意识到经济风险保障的重要性。"
+        "concept": "Intestinal obstruction",
+        "reason": "The direct medical event that triggered the insurance purchase; the high treatment costs made Lin Xiao realize the importance of financial risk protection."
       },
       {
-        "concept": "误食危机",
-        "reason": "对 2023 年事件的定性描述，强调了当时的紧急性和危险性，是决策的心理转折点。"
+        "concept": "Ingestion crisis",
+        "reason": "A qualitative description of the 2023 event, emphasizing the urgency and danger at the time, serving as the psychological turning point for the decision."
       },
       {
-        "concept": "张医生",
-        "reason": "作为主治医生，张医生可能在治疗过程中建议或启发了林晓关于医疗保障的考量。"
+        "concept": "Dr. Zhang",
+        "reason": "As the attending physician, Dr. Zhang may have suggested or inspired Lin Xiao's considerations regarding medical coverage during the treatment process."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘保险’这一结果倒推，关联具体的致病原因（肠梗阻）、事件性质（误食危机）以及可能的建议者（医生），形成完整的决策逻辑链。"
+    "reasoning": "Working backward from the result of 'insurance,' associate the specific cause of illness (intestinal obstruction), the nature of the event (ingestion crisis), and the potential advisor (doctor) to form a complete decision-making logic chain."
   },
   {
     "id": "q_074",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓回到家后抱起麻薯感受呼噜声，工作压力在 10 分钟内得到平复。",
-    "trigger_concept": "呼噜声",
+    "trigger_type": "Entity-related memory association",
+    "question": "After returning home, Lin Xiao picks up Mochi to feel his purring, and work stress subsides within 10 minutes.",
+    "trigger_concept": "Purring",
     "candidate_set": [
       {
-        "concept": "UI 设计师压力",
-        "reason": "需要被平复的负面情绪来源，林晓作为设计师的高强度工作是产生压力的背景。"
+        "concept": "UI designer stress",
+        "reason": "The source of negative emotions needing relief; Lin Xiao's high-intensity work as a designer provides the background for this stress."
       },
       {
-        "concept": "沙发",
-        "reason": "林晓回家后与麻薯互动、窝在一起听呼噜声的典型物理场景。"
+        "concept": "Sofa",
+        "reason": "The typical physical setting where Lin Xiao interacts with Mochi after returning home, cuddling together to listen to the purring."
       },
       {
-        "concept": "焦虑平复",
-        "reason": "呼噜声带来的直接心理效果，是林晓依赖这一行为的核心价值。"
+        "concept": "Anxiety relief",
+        "reason": "The direct psychological effect brought by the purring, representing the core value Lin Xiao derives from this behavior."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "emotion_08"
     ],
-    "reasoning": "以‘呼噜声’为感官触发点，关联压力来源（职业）、发生场景（沙发）及最终效果（焦虑平复）。"
+    "reasoning": "Using 'purring' as a sensory trigger, associate the source of stress (profession), the occurrence scenario (sofa), and the final effect (anxiety relief)."
   },
   {
     "id": "q_075",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓偏爱‘渴望’和‘爱肯拿’作为麻薯的主粮，‘帕特’冻干作为零食。",
-    "trigger_concept": "帕特冻干",
+    "trigger_type": "Entity-related memory association",
+    "question": "Lin Xiao prefers 'Orijen' and 'Acana' as Mochi's staple food, and 'Pat' freeze-dried treats as snacks.",
+    "trigger_concept": "Pat freeze-dried treats",
     "candidate_set": [
       {
-        "concept": "渴望 (Orijen)",
-        "reason": "林晓选择的主粮品牌，与帕特冻干共同构成了麻薯的高品质饮食结构。"
+        "concept": "Orijen",
+        "reason": "A staple food brand chosen by Lin Xiao; together with Pat freeze-dried treats, they constitute Mochi's high-quality diet structure."
       },
       {
-        "concept": "生骨肉",
-        "reason": "帕特冻干的产品类型特点，符合林晓追求科学喂养、还原肉类天性的理念。"
+        "concept": "Raw meat and bone",
+        "reason": "The product type characteristic of Pat freeze-dried treats, aligning with Lin Xiao's philosophy of scientific feeding and restoring natural meat-based instincts."
       },
       {
-        "concept": "责任感",
-        "reason": "精心挑选高端主粮和科学零食的行为，折射出林晓对麻薯健康高度负责的态度。"
+        "concept": "Sense of responsibility",
+        "reason": "The act of carefully selecting premium staple foods and scientific snacks reflects Lin Xiao's highly responsible attitude toward Mochi's health."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从具体的零食品牌‘帕特’出发，联想其搭配的主粮品牌、产品类型特征（生骨肉）以及背后的喂养理念（责任感）。"
+    "reasoning": "Starting from the specific snack brand 'Pat,' associate the paired staple food brands, product type characteristics (raw meat and bone), and the underlying feeding philosophy (sense of responsibility)."
   },
   {
     "id": "q_076",
-    "trigger_type": "实体相关记忆联想",
-    "question": "麻薯听到开罐头声音会瞬间从睡梦中惊醒。",
-    "trigger_concept": "开罐头声音",
+    "trigger_type": "Entity-related memory association",
+    "question": "Mochi instantly wakes up from a deep sleep at the sound of a can being opened.",
+    "trigger_concept": "Sound of opening a can",
     "candidate_set": [
       {
-        "concept": "小李子罐头",
-        "reason": "林晓常备的罐头品牌，是触发麻薯条件反射的具体食物来源。"
+        "concept": "Xiao Li Zi canned food",
+        "reason": "A brand of canned food that Lin Xiao always keeps in stock; it is the specific food source triggering Mochi's conditioned reflex."
       },
       {
-        "concept": "英国短毛猫",
-        "reason": "该品种猫通常贪吃且对食物声音敏感，解释了麻薯为何反应如此迅速。"
+        "concept": "British Shorthair",
+        "reason": "Cats of this breed are typically gluttonous and sensitive to food-related sounds, explaining why Mochi reacts so quickly."
       },
       {
-        "concept": "自动喂食器",
-        "reason": "虽然自动喂食器负责干粮，但罐头作为湿粮奖励，其声音信号与自动喂食器的机械声形成了鲜明的食物信号对比。"
+        "concept": "Automatic feeder",
+        "reason": "Although the automatic feeder handles dry food, canned food serves as a wet treat reward; its opening sound creates a distinct food signal compared to the mechanical noise of the feeder."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "由‘声音刺激’联想到具体的食物对象（小李子罐头）、品种习性（英短贪吃）以及与其他喂食设备（自动喂食器）的对比。"
+    "reasoning": "Associates 'sound stimulation' with specific food objects (Xiao Li Zi canned food), breed habits (British Shorthairs being gluttonous), and contrasts with other feeding devices (automatic feeder)."
   },
   {
     "id": "q_077",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓在余杭区未来科技城附近租房，优先考虑了宠物友好条件。",
-    "trigger_concept": "未来科技城",
+    "trigger_type": "Entity-related memory association",
+    "question": "When renting an apartment near Future Sci-Tech City in Yuhang District, Lin Xiao prioritized pet-friendly conditions.",
+    "trigger_concept": "Future Sci-Tech City",
     "candidate_set": [
       {
-        "concept": "公司",
-        "reason": "林晓的工作地点，租房选址在未来科技城附近主要是为了通勤便利，平衡工作与养宠生活。"
+        "concept": "Company",
+        "reason": "Lin Xiao's workplace; choosing a rental near Future Sci-Tech City was primarily for commuting convenience, balancing work and pet care life."
       },
       {
-        "concept": "封闭阳台",
-        "reason": "在宠物友好基础上，林晓进一步筛选出的硬性安全指标，确保麻薯在高层住宅中的安全。"
+        "concept": "Enclosed balcony",
+        "reason": "Beyond being pet-friendly, this was a mandatory safety criterion further filtered by Lin Xiao to ensure Mochi's safety in a high-rise building."
       },
       {
-        "concept": "出租屋",
-        "reason": "林晓目前的居住形态，表明她在有限的租房市场中依然坚持为麻薯寻找最佳环境。"
+        "concept": "Rental apartment",
+        "reason": "Lin Xiao's current living arrangement, indicating her persistence in finding the best environment for Mochi despite the limited rental market."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从地理位置‘未来科技城’出发，关联选址动机（靠近公司）、核心筛选条件（封闭阳台）及居住性质（出租屋）。"
+    "reasoning": "Starting from the location 'Future Sci-Tech City,' it connects the motivation for the choice (proximity to the company), core filtering criteria (enclosed balcony), and the nature of the residence (rental apartment)."
   },
   {
     "id": "q_078",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林晓每周六会检查麻薯指甲长度并进行修剪。",
-    "trigger_concept": "指甲修剪",
+    "trigger_type": "Entity-related memory association",
+    "question": "Every Saturday, Lin Xiao checks the length of Mochi's claws and trims them.",
+    "trigger_concept": "Claw trimming",
     "candidate_set": [
       {
-        "concept": "沙发",
-        "reason": "如果不及时修剪指甲，麻薯可能会抓坏家中的沙发等家具，这是修剪行为的预防性目的之一。"
+        "concept": "Sofa",
+        "reason": "If claws are not trimmed in time, Mochi might scratch and damage household furniture like the sofa; this is one of the preventive purposes of trimming."
       },
       {
-        "concept": "宠物店",
-        "reason": "虽然林晓在家修剪，但每季度也会去宠物店进行专业打磨，两者互为补充。"
+        "concept": "Pet shop",
+        "reason": "Although Lin Xiao trims the claws at home, she also visits a pet shop quarterly for professional filing; the two methods complement each other."
       },
       {
-        "concept": "键盘监督",
-        "reason": "麻薯常趴在键盘上，过长的指甲可能会勾住键帽或划伤设备，修剪也是为了保护林晓的工作工具。"
+        "concept": "Keyboard supervision",
+        "reason": "Mochi often lies on the keyboard; overly long claws could snag keycaps or scratch the device, so trimming also protects Lin Xiao's work tools."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从‘修剪指甲’这一维护行为，联想其保护的家居物品（沙发）、替代方案（宠物店打磨）以及保护的工作设备（键盘），体现多方位的考量。"
+    "reasoning": "From the maintenance behavior of 'trimming claws,' it associates protected household items (sofa), alternative solutions (pet shop filing), and protected work equipment (keyboard), reflecting multi-faceted considerations."
   },
   {
     "id": "q_079",
-    "trigger_type": "实体相关记忆联想",
-    "question": "林父视频时只敢隔着屏幕看麻薯，却偷偷转账支持。",
-    "trigger_concept": "林父",
+    "trigger_type": "Entity-related memory association",
+    "question": "During video calls, Lin's father only dares to watch Mochi through the screen, yet secretly transfers money to provide support.",
+    "trigger_concept": "Lin's father",
     "candidate_set": [
       {
-        "concept": "手机",
-        "reason": "林父与麻薯互动的媒介，他通过手机屏幕观察，却不敢直接接触，体现了其拘谨的性格。"
+        "concept": "Mobile phone",
+        "reason": "The medium for interaction between Lin's father and Mochi; observing through the phone screen while daring not to make direct contact reflects his reserved personality."
       },
       {
-        "concept": "给猫买暖气",
-        "reason": "林父表达关爱的具体行动，与其‘只敢隔着屏幕看’的被动姿态形成‘行胜于言’的强烈对比。"
+        "concept": "Buying a heater for the cat",
+        "reason": "A concrete action by Lin's father to express care, forming a strong contrast of 'actions speaking louder than words' against his passive stance of 'only daring to watch through the screen'."
       },
       {
-        "concept": "沉默寡言",
-        "reason": "林父的性格标签，解释了为什么他会选择转账这种无声的方式而非言语表达或直接互动。"
+        "concept": "Taciturn",
+        "reason": "A personality label for Lin's father, explaining why he chooses silent methods like transferring money rather than verbal expression or direct interaction."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "time_10"
     ],
-    "reasoning": "围绕‘林父’这一人物，关联其互动工具（手机）、典型行为（转账买暖气）及性格特征（沉默寡言），刻画立体的人物形象。"
+    "reasoning": "Centering on the character 'Lin's father,' it connects his interaction tool (mobile phone), typical behavior (transferring money to buy a heater), and personality traits (taciturn) to portray a three-dimensional character image."
   },
   {
     "id": "q_080",
-    "trigger_type": "实体相关记忆联想",
-    "question": "麻薯在 2021 年冬天被遗弃在公司楼下的纸箱里，后被林晓收养。",
-    "trigger_concept": "2021 年收养经历",
+    "trigger_type": "Entity-related memory association",
+    "question": "In the winter of 2021, Mochi was abandoned in a cardboard box downstairs from the company building and was later adopted by Lin Xiao.",
+    "trigger_concept": "2021 adoption experience",
     "candidate_set": [
       {
-        "concept": "公司楼下",
-        "reason": "麻薯被发现的精确地点，是林晓与麻薯命运交织的起始坐标。"
+        "concept": "Downstairs from the company",
+        "reason": "The precise location where Mochi was found; it is the starting coordinate where the destinies of Lin Xiao and Mochi intertwined."
       },
       {
-        "concept": "2021 年冬天",
-        "reason": "事件发生的时间背景，寒冷的天气加剧了麻薯的困境，也凸显了林晓救助行为的及时性。"
+        "concept": "Winter of 2021",
+        "reason": "The temporal background of the event; the cold weather exacerbated Mochi's plight and highlighted the timeliness of Lin Xiao's rescue."
       },
       {
-        "concept": "责任感",
-        "reason": "林晓在路边毫不犹豫抱起小猫并决定收养的瞬间，是其强烈责任感的集中爆发点。"
+        "concept": "Sense of responsibility",
+        "reason": "The moment Lin Xiao毫不犹豫地 picked up the kitten by the roadside and decided to adopt it was a concentrated eruption of her strong sense of responsibility."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "time_11"
     ],
-    "reasoning": "回溯‘收养经历’这一原点事件，锁定关键的空间（公司楼下）、时间（2021 冬天）以及行为背后的精神内核（责任感）。"
+    "reasoning": "Tracing back to the origin event of the 'adoption experience,' it locks in the key space (downstairs from the company), time (winter of 2021), and the spiritual core behind the behavior (sense of responsibility)."
   },
   {
     "id": "q_081",
-    "trigger_type": "情感相关记忆联想",
-    "question": "每当林晓在深夜加班感到孤独时，麻薯跳到键盘旁蹭她手背的陪伴行为，总会让她想起 2021 年冬天那个改变命运的决定。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Whenever Lin Xiao feels lonely while working late at night, Mochi jumping beside the keyboard and rubbing against her hand always reminds her of the life-changing decision she made in the winter of 2021.",
     "trigger_concept": "emotion_02",
     "candidate_set": [
       {
-        "concept": "2021 年冬天",
-        "reason": "这是麻薯被收养的具体时间点，是林晓与麻薯情感羁绊的起源，与当前的孤独陪伴形成因果呼应。"
+        "concept": "Winter of 2021",
+        "reason": "This is the specific time when Mochi was adopted, marking the origin of the emotional bond between Lin Xiao and Mochi, which causally resonates with the current companionship amidst loneliness."
       },
       {
-        "concept": "公司楼下",
-        "reason": "这是 2021 年冬天林晓发现被遗弃的麻薯的具体地点，是这段救赎故事的物理起点。"
+        "concept": "Downstairs from the office",
+        "reason": "This is the specific location where Lin Xiao found the abandoned Mochi in the winter of 2021, serving as the physical starting point of this story of redemption."
       },
       {
-        "concept": "纸箱",
-        "reason": "当年麻薯被遗弃时的容器，象征着它最初的脆弱处境，与现在在键盘旁安心撒娇的状态形成强烈对比。"
+        "concept": "Cardboard box",
+        "reason": "The container Mochi was abandoned in back then, symbolizing its initial vulnerability, which forms a stark contrast to its current state of comfortably seeking affection beside the keyboard."
       }
     ],
     "difficulty": "easy",
@@ -1884,25 +1884,25 @@
       "emotion_02",
       "emotion_10"
     ],
-    "reasoning": "用户提到深夜加班被猫陪伴的温馨场景，模型应联想到这一温情时刻的根源——即三年前在寒冷冬夜的公司楼下纸箱里拯救它的故事，体现从‘被需要’到‘感恩相遇’的情感闭环。"
+    "reasoning": "The user mentions the heartwarming scene of being accompanied by a cat while working late at night. The model should associate this tender moment with its root cause—the story of rescuing the cat from a cardboard box downstairs from the office on a cold winter night three years ago—reflecting an emotional loop from 'being needed' to 'gratitude for the encounter'."
   },
   {
     "id": "q_082",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓回到家一言不发直接抱起麻薯窝在沙发上，猫咪的呼噜声让她焦虑消散，这种依赖感源于她深知麻薯曾经历过严重的健康危机。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao returns home without saying a word, directly picks up Mochi, and curls up on the sofa. The cat's purring dissipates her anxiety; this sense of reliance stems from her deep awareness that Mochi once experienced a severe health crisis.",
     "trigger_concept": "emotion_01",
     "candidate_set": [
       {
-        "concept": "2023 年误食事件",
-        "reason": "这是麻薯经历的最严重健康危机（肠梗阻），让林晓深刻意识到宠物是家人，强化了她此刻对猫咪存在的珍视。"
+        "concept": "2023 accidental ingestion incident",
+        "reason": "This was the most severe health crisis Mochi faced (intestinal obstruction), making Lin Xiao profoundly realize that pets are family, thereby reinforcing her cherishing of the cat's presence in this moment."
       },
       {
-        "concept": "急诊记忆",
-        "reason": "对应 2023 年那晚的惊心动魄，是林晓情感转变的关键节点，解释了为何现在的平静时光如此治愈。"
+        "concept": "Emergency room memory",
+        "reason": "Corresponding to the thrilling events of that night in 2023, this was a key turning point in Lin Xiao's emotional transformation, explaining why the current peaceful moments are so healing."
       },
       {
-        "concept": "塑料绳",
-        "reason": "导致麻薯肠梗阻的罪魁祸首，是导致林晓产生‘失而复得’珍惜感的直接诱因物品。"
+        "concept": "Plastic string",
+        "reason": "The culprit behind Mochi's intestinal obstruction, this item is the direct trigger for Lin Xiao's feeling of cherishing something 'lost and found'."
       }
     ],
     "difficulty": "medium",
@@ -1911,25 +1911,25 @@
       "emotion_07",
       "life_milestones"
     ],
-    "reasoning": "用户描述通过撸猫缓解工作压力的行为，模型需联想到这种深层情感依赖的背景——即 2023 年麻薯误食异物差点离去的惊险经历，说明现在的‘呼噜声’对林晓而言不仅是放松，更是‘失而复得’的庆幸。"
+    "reasoning": "The user describes the behavior of relieving work stress by petting the cat. The model needs to associate this with the background of such deep emotional dependence—specifically, the harrowing experience in 2023 when Mochi accidentally ingested a foreign object and nearly passed away. This explains that for Lin Xiao, the current 'purring' is not just relaxation, but also a sense of relief at having recovered something lost."
   },
   {
     "id": "q_083",
-    "trigger_type": "情感相关记忆联想",
-    "question": "听到开小李子罐头的声音，原本高冷傲娇的麻薯瞬间惊醒并飞奔过来，这种反差让林晓想起了母亲态度从强烈反对到主动邮寄零食的转变。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Hearing the sound of opening a can of Little Li cat food, the originally aloof and tsundere Mochi instantly wakes up and dashes over. This contrast reminds Lin Xiao of her mother's shift from strong opposition to actively mailing snacks.",
     "trigger_concept": "emotion_03",
     "candidate_set": [
       {
-        "concept": "林母",
-        "reason": "母亲是家庭关系中态度转变的关键人物，从反对养猫到关心猫，与麻薯对食物的热情反应共同体现了‘接纳’的主题。"
+        "concept": "Lin's mother",
+        "reason": "The mother is the key figure in the family relationship whose attitude shifted. Her change from opposing cat ownership to caring for the cat, combined with Mochi's enthusiastic reaction to food, jointly embodies the theme of 'acceptance'."
       },
       {
-        "concept": "自制鸡肉干",
-        "reason": "母亲态度软化后的具体行动证明，与‘小李子罐头’一样，都是让麻薯兴奋的食物，象征着家庭对宠物的接纳。"
+        "concept": "Homemade chicken jerky",
+        "reason": "Concrete proof of the mother's softened attitude. Like the 'Little Li cat food,' these are treats that excite Mochi, symbolizing the family's acceptance of the pet."
       },
       {
-        "concept": "麻薯视频",
-        "reason": "这是促成母亲态度转变的媒介，林晓通过分享视频让家人理解了麻薯的可爱，从而引发了现在的温情互动。"
+        "concept": "Mochi videos",
+        "reason": "This was the medium that facilitated the mother's change in attitude. By sharing videos, Lin Xiao helped her family understand Mochi's cuteness, leading to the current warm interactions."
       }
     ],
     "difficulty": "medium",
@@ -1938,25 +1938,25 @@
       "emotion_05",
       "family_relations"
     ],
-    "reasoning": "用户提到猫咪听到罐头声的反应，模型联想到这不仅是食欲，更是家庭关系缓和的缩影。猫咪对食物的渴望与母亲从反对到寄送自制零食的态度转变形成平行对照，展现了猫作为家庭情感纽带的作用。"
+    "reasoning": "The user mentions the cat's reaction to the sound of a can being opened. The model associates this not just with appetite, but as a microcosm of easing family relations. The cat's desire for food parallels the mother's shift from opposition to sending homemade snacks, demonstrating the cat's role as an emotional bond within the family."
   },
   {
     "id": "q_084",
-    "trigger_type": "情感相关记忆联想",
-    "question": "当麻薯再次趴在键盘上‘监督’林晓做设计稿时，她感受到的温暖占有欲，让她不禁回忆起父亲那笔备注着‘给猫买暖气’的沉默转账。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "When Mochi once again lies on the keyboard to 'supervise' Lin Xiao while she works on design drafts, the warm sense of possessiveness she feels inevitably recalls her father's silent transfer with the remark 'Buy a heater for the cat'.",
     "trigger_concept": "emotion_04",
     "candidate_set": [
       {
-        "concept": "林父",
-        "reason": "父亲代表了另一种沉默却深沉的爱，与麻薯无声的陪伴（趴键盘）在情感表达上具有高度的同构性。"
+        "concept": "Lin's father",
+        "reason": "The father represents another form of silent yet profound love. His emotional expression shares a high degree of structural similarity with Mochi's silent companionship (lying on the keyboard)."
       },
       {
-        "concept": "给猫买暖气",
-        "reason": "父亲转账的备注，体现了他不善言辞却细致入微的关爱，与麻薯用体温陪伴林晓的行为互为镜像。"
+        "concept": "Buy a heater for the cat",
+        "reason": "The remark on the father's transfer reflects his meticulous care despite being unspoken, serving as a mirror image to Mochi's behavior of accompanying Lin Xiao with its body warmth."
       },
       {
-        "concept": "沉默寡言",
-        "reason": "形容父亲性格的关键词，解释了为何他的爱通过转账而非言语表达，也呼应了麻薯‘外表高冷实则粘人’的反差萌。"
+        "concept": "Taciturn",
+        "reason": "A key term describing the father's personality, explaining why his love is expressed through transfers rather than words, and echoing Mochi's contrasting charm of appearing aloof on the outside but being clingy on the inside."
       }
     ],
     "difficulty": "hard",
@@ -1965,25 +1965,25 @@
       "emotion_06",
       "family_relations"
     ],
-    "reasoning": "用户描述工作时被猫‘监督’的无奈与温暖，模型需深层联想到父亲同样‘沉默却深情’的关爱方式。麻薯的‘占有欲’和父亲的‘买暖气’都是不善言辞者表达爱的独特方式，两者在情感逻辑上高度共鸣。"
+    "reasoning": "The user describes the mix of helplessness and warmth felt when being 'supervised' by the cat while working. The model needs to deeply associate this with the father's similarly 'silent yet affectionate' way of showing care. Both Mochi's 'possessiveness' and the father's act of 'buying a heater' are unique ways for those who are not good with words to express love, creating a strong resonance in emotional logic."
   },
   {
     "id": "q_085",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓看到地上有细小物品就立刻收纳的紧张反应，直接源于 2023 年麻薯因误食塑料绳而经历的那场肠梗阻危机。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao's tense reaction of immediately storing away any small items she sees on the floor stems directly from the intestinal obstruction crisis Mochi experienced in 2023 due to accidentally ingesting a plastic string.",
     "trigger_concept": "emotion_07",
     "candidate_set": [
       {
-        "concept": "肠梗阻病史",
-        "reason": "这是林晓产生‘收纳强迫症’的直接医疗背景，解释了为何她对细小物品如此敏感。"
+        "concept": "History of intestinal obstruction",
+        "reason": "This is the direct medical background behind Lin Xiao's development of 'storage OCD,' explaining why she is so sensitive to small items."
       },
       {
-        "concept": "塑料绳",
-        "reason": "导致危机的具体致病因，是林晓记忆中最大的阴影，也是她日常行为改变的核心触发物。"
+        "concept": "Plastic string",
+        "reason": "The specific cause of the crisis, this item represents the biggest shadow in Lin Xiao's memory and is the core trigger for the changes in her daily behavior."
       },
       {
-        "concept": "责任感",
-        "reason": "这场危机让林晓从‘养宠玩伴’心态转变为‘守护者’心态，是她行为背后深层的心理驱动力。"
+        "concept": "Sense of responsibility",
+        "reason": "This crisis transformed Lin Xiao's mindset from that of a 'pet playmate' to a 'guardian,' serving as the deep psychological drive behind her actions."
       }
     ],
     "difficulty": "easy",
@@ -1992,25 +1992,25 @@
       "life_milestones",
       "pet_background"
     ],
-    "reasoning": "用户描述了对细小物品的过度警惕行为，模型直接联想到导致该行为的创伤性事件（2023 年误食塑料绳致肠梗阻），这是典型的‘创伤后应激’转化为‘保护性行为’的逻辑链条。"
+    "reasoning": "The user describes behavior characterized by excessive vigilance towards small items. The model directly associates this with the traumatic event that caused it (the 2023 incident of ingesting a plastic string leading to intestinal obstruction). This represents a typical logical chain where 'post-traumatic stress' transforms into 'protective behavior'."
   },
   {
     "id": "q_086",
-    "trigger_type": "情感相关记忆联想",
-    "question": "周末在宠物友好公园与陈晨交换照片时获得的共鸣，让林晓回想起当初为了麻薯能安全生活而优先选择封闭阳台房源的用心。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "The resonance Lin Xiao felt while exchanging photos with Chen Chen at a pet-friendly park over the weekend reminded her of the care she took when prioritizing an apartment with an enclosed balcony to ensure Mochi's safety.",
     "trigger_concept": "emotion_08",
     "candidate_set": [
       {
-        "concept": "封闭阳台",
-        "reason": "这是林晓为保障麻薯安全而做出的关键居住决策，体现了她作为主人的远见和责任感，与社交分享中的自豪感相呼应。"
+        "concept": "Enclosed balcony",
+        "reason": "This was a key housing decision Lin Xiao made to ensure Mochi's safety, reflecting her foresight and responsibility as an owner, which echoes the pride she feels when sharing on social media."
       },
       {
-        "concept": "未来科技城",
-        "reason": "新居所在的区域，是林晓实施‘宠物友好’居住理念的具体地理空间，承载了人宠共同生活的新起点。"
+        "concept": "Future Sci-Tech City",
+        "reason": "The area where her new home is located; it is the specific geographic space where Lin Xiao implements her 'pet-friendly' living concept, marking a new beginning for life with her pet."
       },
       {
-        "concept": "宠物友好",
-        "reason": "林晓选房的核心标准，也是她与闺蜜陈晨能够相约聚会的基础条件，连接了私人决策与公共社交。"
+        "concept": "Pet-friendly",
+        "reason": "The core criterion Lin Xiao used for selecting her home, and also the foundational condition that allowed her to meet up with her best friend Chen Chen, connecting private decisions with public socializing."
       }
     ],
     "difficulty": "medium",
@@ -2019,25 +2019,25 @@
       "emotion_11",
       "life_milestones"
     ],
-    "reasoning": "用户提到与朋友分享养宠快乐的社交场景，模型联想到这份快乐的基础是林晓此前为宠物安全所做的努力（如选择带封闭阳台的房子）。从‘外部社交认同’回溯到‘内部安全建设’，展现主人全方位的付出。"
+    "reasoning": "The user mentions a social scenario of sharing the joy of pet ownership with friends. The model associates this joy with the efforts Lin Xiao previously made for her pet's safety (such as choosing a house with an enclosed balcony). Tracing back from 'external social validation' to 'internal safety construction' showcases the owner's comprehensive dedication."
   },
   {
     "id": "q_087",
-    "trigger_type": "情感相关记忆联想",
-    "question": "在安安宠医看到张医生耐心对待麻薯时，林晓感到的安心，让她想起了麻薯刚被收养时患有严重猫藓和耳螨的那段艰难治疗期。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Seeing Dr. Zhang treat Mochi with such patience at An'an Pet Hospital gave Lin Xiao a sense of reassurance, reminding her of the difficult treatment period when Mochi was first adopted and suffered from severe ringworm and ear mites.",
     "trigger_concept": "emotion_09",
     "candidate_set": [
       {
-        "concept": "猫藓病史",
-        "reason": "麻薯被收养初期的主要健康问题，是林晓与张医生建立信任关系的起点，对比现在的健康状态更显珍贵。"
+        "concept": "History of ringworm",
+        "reason": "The primary health issue Mochi faced shortly after adoption; it was the starting point for building trust between Lin Xiao and Dr. Zhang, making Mochi's current healthy state even more precious by comparison."
       },
       {
-        "concept": "猫藓治疗",
-        "reason": "那段漫长的治疗过程考验了林晓的耐心，也验证了张医生的专业度，是双方友谊建立的基石。"
+        "concept": "Ringworm treatment",
+        "reason": "That long treatment process tested Lin Xiao's patience and verified Dr. Zhang's professionalism, serving as the cornerstone for establishing their friendship."
       },
       {
-        "concept": "2021 年收养经历",
-        "reason": "一切的开端，当时小猫的病痛状态与现在在医生怀里安然无恙的样子形成鲜明对比，强化了‘治愈’的主题。"
+        "concept": "2021 adoption experience",
+        "reason": "The beginning of everything; the kitten's sickly state back then contrasts sharply with its current safe and sound appearance in the doctor's arms, reinforcing the theme of 'healing'."
       }
     ],
     "difficulty": "hard",
@@ -2046,25 +2046,25 @@
       "pet_background",
       "social_circle"
     ],
-    "reasoning": "用户描述对兽医的信任感，模型需联想到这种信任并非一日建成，而是源于 2021 年收养初期共同对抗猫藓和耳螨的战斗经历。从‘初识的病痛’到‘如今的安心’，构建了完整的时间情感轴。"
+    "reasoning": "The user describes a sense of trust in the veterinarian. The model needs to associate this trust not as something built overnight, but as stemming from the shared battle against ringworm and ear mites during the early days of the 2021 adoption. Moving from 'initial illness' to 'current peace of mind' constructs a complete timeline of emotional development."
   },
   {
     "id": "q_088",
-    "trigger_type": "情感相关记忆联想",
-    "question": "看着如今健康粘人的银渐层麻薯，林晓常感激 2021 年冬天那个加班夜晚的决定，庆幸自己给了这个小生命一个家，也改变了她自己的孤独生活。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Looking at Mochi, now a healthy and affectionate Silver Shaded British Shorthair, Lin Xiao often feels grateful for the decision she made on that overtime night in the winter of 2021. She is relieved she gave this little life a home, which also transformed her own lonely life.",
     "trigger_concept": "emotion_10",
     "candidate_set": [
       {
-        "concept": "加班夜晚",
-        "reason": "这是命运交汇的具体时刻，林晓在疲惫工作中偶遇被遗弃的麻薯，是整个人生轨迹转折的契机。"
+        "concept": "Overtime night",
+        "reason": "The specific moment when fate intersected; Lin Xiao encountered the abandoned Mochi while exhausted from work, serving as the turning point for her entire life trajectory."
       },
       {
-        "concept": "银渐层",
-        "reason": "麻薯的品种特征，象征着它从当初瑟瑟发抖的小猫成长为如今漂亮健康的模样，是林晓养育成果的直观体现。"
+        "concept": "Silver Shaded",
+        "reason": "Mochi's breed characteristic, symbolizing its growth from a shivering kitten into the beautiful and healthy cat it is today, serving as a direct reflection of Lin Xiao's successful upbringing."
       },
       {
-        "concept": "孤独感",
-        "reason": "林晓收养麻薯前的主要情绪状态，麻薯的到来不仅救了猫，也治愈了林晓，实现了双向救赎。"
+        "concept": "Loneliness",
+        "reason": "Lin Xiao's predominant emotional state before adopting Mochi. Mochi's arrival not only saved the cat but also healed Lin Xiao, achieving a mutual redemption."
       }
     ],
     "difficulty": "easy",
@@ -2073,25 +2073,25 @@
       "emotional_mapping",
       "adoption_story"
     ],
-    "reasoning": "用户表达了对收养决定的庆幸，模型联想到具体的时空背景（加班夜晚）和当时的心理状态（孤独），以及麻薯现在的品种特征（银渐层），强调了这一决定对人和猫双方的深远影响。"
+    "reasoning": "The user expresses gratitude for the decision to adopt. The model associates this with the specific spatiotemporal context (the overtime night), the psychological state at the time (loneliness), and Mochi's current breed characteristics (Silver Shaded), emphasizing the profound impact of this decision on both the human and the cat."
   },
   {
     "id": "q_089",
-    "trigger_type": "情感相关记忆联想",
-    "question": "搬入未来科技城新居时，看到麻薯在封闭阳台安全地晒太阳，林晓为当初优先选择‘宠物友好’房源的决定感到欣慰，这让她想起了第一次搬家时的紧张与周全。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "When moving into the new home in Future Sci-Tech City, seeing Mochi basking safely in the sun on the enclosed balcony, Lin Xiao felt gratified by her initial decision to prioritize 'pet-friendly' listings. This reminded her of the anxiety and thoroughness she experienced during her first move.",
     "trigger_concept": "emotion_11",
     "candidate_set": [
       {
-        "concept": "第一次搬家",
-        "reason": "这是林晓首次专门为麻薯考虑居住环境的事件，确立了‘宠物优先’的搬家原则，为此次入住新居奠定了基础。"
+        "concept": "First move",
+        "reason": "This was the first event where Lin Xiao specifically considered the living environment for Mochi, establishing the principle of 'pet priority' for moving, which laid the foundation for settling into this new home."
       },
       {
-        "concept": "费洛蒙喷雾",
-        "reason": "第一次搬家时为防麻薯应激而使用的辅助工具，体现了林晓一贯的细致入微，与现在的安全场景一脉相承。"
+        "concept": "Pheromone spray",
+        "reason": "An auxiliary tool used during the first move to prevent Mochi from experiencing stress, reflecting Lin Xiao's consistent attention to detail, which aligns with the current scene of safety."
       },
       {
-        "concept": "应激",
-        "reason": "林晓最担心的风险点，无论是第一次搬家还是此次选房，核心目的都是为了避免麻薯产生应激反应，保障其心理健康。"
+        "concept": "Stress response",
+        "reason": "The risk point Lin Xiao worried about most. Whether during the first move or this current house selection, the core objective was to avoid triggering a stress response in Mochi and ensure its mental well-being."
       }
     ],
     "difficulty": "medium",
@@ -2100,25 +2100,25 @@
       "life_milestones",
       "preferences"
     ],
-    "reasoning": "用户描述了在新居看到猫咪安逸状态的欣慰，模型联想到这并非偶然，而是源于林晓过往搬家经验（第一次搬家）中积累的应对策略（如防应激措施）和坚持的选房标准。"
+    "reasoning": "The user describes the gratification of seeing the cat in a relaxed state in the new home. The model associates this not as a coincidence, but as a result of coping strategies accumulated from Lin Xiao's past moving experiences (the first move), such as stress prevention measures, and her persistent housing selection criteria."
   },
   {
     "id": "q_090",
-    "trigger_type": "情感相关记忆联想",
-    "question": "每周六深度吸尘后，看着干净的房间和梳理得蓬松柔顺的麻薯，林晓在劳动中获得了治愈和秩序感，这让她回想起麻薯刚来时满身猫藓需要精心护理的日子。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "After deep vacuuming every Saturday, looking at the clean room and Mochi, who is now fluffy and smooth after grooming, Lin Xiao finds healing and a sense of order in the labor. This reminds her of the days when Mochi first arrived, covered in ringworm and requiring meticulous care.",
     "trigger_concept": "emotion_12",
     "candidate_set": [
       {
-        "concept": "猫毛",
-        "reason": "深度吸尘的主要对象，也是麻薯健康的标志（换毛），与当初因病脱毛形成对比，象征生命力的旺盛。"
+        "concept": "Cat hair",
+        "reason": "The primary target of deep vacuuming and also a sign of Mochi's health (shedding). This contrasts with the hair loss due to illness in the past, symbolizing vigorous vitality."
       },
       {
-        "concept": "进口沐浴露",
-        "reason": "林晓日常护理麻薯的专用物品，体现了她对猫咪生活品质的追求，这种细致护理始于当初治疗猫藓时的严谨态度。"
+        "concept": "Imported shampoo",
+        "reason": "A specialized item Lin Xiao uses for Mochi's daily care, reflecting her pursuit of quality of life for the cat. This meticulous care originated from the rigorous attitude she adopted during the ringworm treatment."
       },
       {
-        "concept": "秩序感",
-        "reason": "林晓通过清洁获得的心理状态，是对抗生活焦虑（如工作压力、过往危机）的重要手段，也是她掌控生活的体现。"
+        "concept": "Sense of order",
+        "reason": "The psychological state Lin Xiao achieves through cleaning; it is an important means of combating life anxieties (such as work stress and past crises) and reflects her control over her life."
       }
     ],
     "difficulty": "hard",
@@ -2127,25 +2127,25 @@
       "daily_habits",
       "pet_background"
     ],
-    "reasoning": "用户描述了清洁带来的治愈感，模型深层联想到这种对‘洁净’和‘秩序’的执着，部分源于麻薯早期患病（猫藓）时需要严格卫生环境的记忆，现在的‘蓬松柔顺’是过去‘精心治疗’的成果。"
+    "reasoning": "The user describes the healing sensation brought by cleaning. The model makes a deeper association that this obsession with 'cleanliness' and 'order' partly stems from memories of the strict hygienic environment required when Mochi was initially ill (with ringworm). The current 'fluffy and smooth' appearance is the result of that past 'meticulous treatment'."
   },
   {
     "id": "q_091",
-    "trigger_type": "情感相关记忆联想",
-    "question": "一旦感到设计项目进度焦虑，林晓会下意识地将脸埋进麻薯柔软的腹部深吸一口气，利用猫咪特有的味道和体温快速平复心情，这让她想起麻薯小时候在纸箱里瑟瑟发抖的模样。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Whenever Lin Xiao feels anxious about a design project's progress, she instinctively buries her face in Mochi's soft belly and takes a deep breath. The cat's unique scent and body warmth quickly calm her down, reminding her of how Mochi used to shiver in a cardboard box as a kitten.",
     "trigger_concept": "behavior_10",
     "candidate_set": [
       {
-        "concept": "纸箱",
-        "reason": "麻薯最初的容身之所，象征着脆弱与寒冷，与现在能提供温暖腹部的强壮猫咪形成强烈反差，凸显成长的奇迹。"
+        "concept": "Cardboard box",
+        "reason": "Mochi's first shelter, symbolizing vulnerability and coldness. This contrasts sharply with the strong cat who now provides a warm belly, highlighting the miracle of growth."
       },
       {
-        "concept": "瑟瑟发抖",
-        "reason": "麻薯被救助时的状态，与现在成为林晓‘情绪稳定器’的角色形成对比，强调了相互救赎的关系。"
+        "concept": "Shivering",
+        "reason": "Mochi's condition when rescued, which contrasts with his current role as Lin Xiao's 'emotional stabilizer,' emphasizing their relationship of mutual redemption."
       },
       {
-        "concept": "UI 设计师压力",
-        "reason": "林晓焦虑的来源，正是这种高强度的职业压力，使得麻薯的陪伴显得尤为珍贵和必要。"
+        "concept": "UI designer stress",
+        "reason": "The source of Lin Xiao's anxiety. It is precisely this high-intensity professional pressure that makes Mochi's companionship feel especially precious and necessary."
       }
     ],
     "difficulty": "medium",
@@ -2154,25 +2154,25 @@
       "emotion_01",
       "adoption_story"
     ],
-    "reasoning": "用户描述通过吸猫缓解工作焦虑的行为，模型联想到麻薯从‘需要被温暖’到‘提供温暖’的角色转变。当初在纸箱里发抖的小猫，如今成了设计师对抗压力的武器，情感张力十足。"
+    "reasoning": "The user describes relieving work anxiety by cuddling with her cat. The model associates this with Mochi's role transformation from 'needing warmth' to 'providing warmth.' The kitten that once shivered in a cardboard box has now become the designer's weapon against stress, creating intense emotional tension."
   },
   {
     "id": "q_092",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓对麻薯趴在键盘上‘监督’工作的无奈与宠溺，让她想起了 2023 年那场因误食异物而引发的急诊风波，让她更加珍惜此刻的捣乱。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao's mix of helplessness and doting affection when Mochi lies on her keyboard to 'supervise' her work reminds her of the emergency room incident in 2023 caused by him swallowing a foreign object, making her cherish his mischief even more in this moment.",
     "trigger_concept": "emotion_04",
     "candidate_set": [
       {
-        "concept": "误食危机",
-        "reason": "让林晓意识到‘活着就好’的关键事件，使得麻薯现在的任何‘捣乱’行为（如趴键盘）都变成了幸福的烦恼。"
+        "concept": "Foreign object ingestion crisis",
+        "reason": "A key event that made Lin Xiao realize 'as long as he's alive, that's what matters.' It turns any of Mochi's current 'mischief' (like lying on the keyboard) into a happy trouble."
       },
       {
-        "concept": "设计稿",
-        "reason": "麻薯干扰的具体工作内容，代表了林晓的职业责任，而麻薯的介入则代表了生活温情，两者冲突中见真情。"
+        "concept": "Design drafts",
+        "reason": "The specific work Mochi disrupts, representing Lin Xiao's professional responsibilities. Mochi's interference represents the warmth of life; the conflict between the two reveals true affection."
       },
       {
-        "concept": "占有欲",
-        "reason": "麻薯趴键盘的心理动机，这种强烈的依恋让林晓在经历生死危机后，更深刻地感受到被需要的幸福。"
+        "concept": "Possessiveness",
+        "reason": "The psychological motivation behind Mochi lying on the keyboard. This strong attachment makes Lin Xiao feel the happiness of being needed even more deeply after experiencing a life-or-death crisis."
       }
     ],
     "difficulty": "hard",
@@ -2181,25 +2181,25 @@
       "emotion_07",
       "life_milestones"
     ],
-    "reasoning": "用户描述对猫咪干扰工作的包容，模型联想到这种包容度的提升源于 2023 年的生死危机。经历过可能失去的痛苦，现在的‘麻烦’反而成了‘存在的证明’，情感逻辑深刻。"
+    "reasoning": "The user describes tolerating the cat's interference with work. The model associates this increased tolerance with the life-or-death crisis of 2023. Having experienced the pain of potential loss, current 'troubles' have instead become 'proof of existence,' reflecting a profound emotional logic."
   },
   {
     "id": "q_093",
-    "trigger_type": "情感相关记忆联想",
-    "question": "收到母亲邮寄的自制鸡肉干时，林晓感受到的温情转变，让她回想起当初母亲因担心卫生和过敏而强烈反对养猫的往事。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "The shift in warmth Lin Xiao feels upon receiving homemade chicken jerky mailed by her mother reminds her of the past when her mother strongly opposed getting a cat due to concerns about hygiene and allergies.",
     "trigger_concept": "emotion_05",
     "candidate_set": [
       {
-        "concept": "卫生",
-        "reason": "母亲最初反对养猫的核心理由之一，与现在主动制作零食的行为形成鲜明对比，突出了观念的转变。"
+        "concept": "Hygiene",
+        "reason": "One of the core reasons her mother initially opposed getting a cat. This contrasts sharply with her current action of voluntarily making snacks, highlighting a change in mindset."
       },
       {
-        "concept": "过敏",
-        "reason": "母亲早期的另一大顾虑，随着麻薯的健康成长和林晓的细心打理，这一担忧已烟消云散，转化为接纳。"
+        "concept": "Allergies",
+        "reason": "Another major concern her mother had early on. With Mochi's healthy growth and Lin Xiao's careful care, this worry has vanished, transforming into acceptance."
       },
       {
-        "concept": "视频通话",
-        "reason": "母女沟通的主要渠道，也是母亲通过‘云吸猫’逐渐软化态度、了解麻薯可爱之处的重要媒介。"
+        "concept": "Video calls",
+        "reason": "The main channel of communication between mother and daughter, and an important medium through which the mother gradually softened her attitude and learned about Mochi's cuteness via 'cloud cat-petting'."
       }
     ],
     "difficulty": "easy",
@@ -2208,25 +2208,25 @@
       "family_relations",
       "preferences"
     ],
-    "reasoning": "用户描述收到母亲礼物的感动，模型直接联想到母亲态度的前后反差。从担心‘卫生、过敏’的反对者，变成‘邮寄零食’的支持者，这一转变过程是林晓情感体验的重要组成部分。"
+    "reasoning": "The user describes being moved by receiving a gift from her mother. The model directly associates this with the stark contrast in her mother's attitude before and after. The transformation from an opponent worried about 'hygiene and allergies' to a supporter who 'mails snacks' is a crucial part of Lin Xiao's emotional experience."
   },
   {
     "id": "q_094",
-    "trigger_type": "情感相关记忆联想",
-    "question": "看到父亲转账备注‘给猫买暖气’时，林晓读懂了沉默寡言的父亲对麻薯笨拙却深沉的关爱，这让她想起父亲视频时只敢隔着屏幕看猫的拘谨模样。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Seeing the note 'for buying a heater for the cat' attached to her father's bank transfer, Lin Xiao understood her taciturn father's clumsy yet deep love for Mochi. This reminded her of his reserved demeanor during video calls, where he only dared to look at the cat through the screen.",
     "trigger_concept": "emotion_06",
     "candidate_set": [
       {
-        "concept": "隔着屏幕",
-        "reason": "父亲与猫互动的典型方式，体现了他因不熟悉或谨慎而保持的距离感，与转账的实际行动形成互补。"
+        "concept": "Through the screen",
+        "reason": "The typical way the father interacts with the cat, reflecting the distance he keeps due to unfamiliarity or caution. This complements his concrete action of sending money."
       },
       {
-        "concept": "沉默寡言",
-        "reason": "父亲的性格标签，解释了他为何选择用转账而非言语来表达爱意，也解释了他在视频中的拘谨。"
+        "concept": "Taciturn",
+        "reason": "The father's personality trait, explaining why he chooses to express love via bank transfer rather than words, and also explaining his reserved behavior during video calls."
       },
       {
-        "concept": "笨拙",
-        "reason": "形容父亲与猫互动状态的词汇，这种不熟练反而衬托出他愿意为了女儿和猫去尝试的深情。"
+        "concept": "Clumsy",
+        "reason": "A word describing the father's state when interacting with the cat. This lack of skill instead highlights the deep affection that drives him to try for the sake of his daughter and the cat."
       }
     ],
     "difficulty": "medium",
@@ -2235,25 +2235,25 @@
       "family_relations",
       "social_circle"
     ],
-    "reasoning": "用户描述对父爱细节的感动，模型联想到父亲在其他场景下（视频通话）的表现。‘隔着屏幕看’的拘谨与‘转账买暖气’的果断，共同勾勒出一个不善言辞但行动力满分的父亲形象。"
+    "reasoning": "The user describes being moved by details of paternal love. The model associates this with the father's behavior in other scenarios (video calls). The reserved nature of 'watching through the screen' combined with the decisiveness of 'transferring money for a heater' jointly sketch the image of a father who is not good with words but full of action."
   },
   {
     "id": "q_095",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓在宠物友好公园与闺蜜陈晨分享养宠点滴时获得的放松，让她想起了两人常在公司午休时交换宠物照片的快乐时光。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "The relaxation Lin Xiao feels while sharing pet parenting moments with her best friend Chen Chen at a pet-friendly park reminds her of the happy times they often spent exchanging pet photos during lunch breaks at the company.",
     "trigger_concept": "emotion_08",
     "candidate_set": [
       {
-        "concept": "公司",
-        "reason": "林晓与陈晨日常相处的主要场所，是她们‘云吸猫’、交换照片的起点，奠定了深厚的‘铲屎官’友谊。"
+        "concept": "Company",
+        "reason": "The main place where Lin Xiao and Chen Chen interact daily. It is the starting point for their 'cloud cat-petting' and photo exchanges, laying the foundation for their deep friendship as fellow 'poop-scoopers'."
       },
       {
-        "concept": "午休",
-        "reason": "两人分享宠物日常的具体时间段，是繁忙工作中难得的放松时刻，与周末公园聚会的放松感一脉相承。"
+        "concept": "Lunch break",
+        "reason": "The specific time of day when the two share their pets' daily lives. It is a rare moment of relaxation amidst a busy work schedule, consistent with the relaxing feeling of weekend gatherings at the park."
       },
       {
-        "concept": "金毛",
-        "reason": "陈晨养的宠物，是两人共同话题的另一半，‘麻薯’与‘金毛’的互动照片是她们友谊的见证。"
+        "concept": "Golden Retriever",
+        "reason": "The pet owned by Chen Chen, representing the other half of their shared topics. Photos of the interactions between 'Mochi' and the 'Golden Retriever' are a testament to their friendship."
       }
     ],
     "difficulty": "easy",
@@ -2262,25 +2262,25 @@
       "social_circle",
       "daily_habits"
     ],
-    "reasoning": "用户描述周末聚会的快乐，模型联想到这种快乐的延续性——从工作日的‘午休换图’到周末的‘线下聚会’。公司和午休是这段友谊的日常载体，与公园聚会共同构成了完整的社交图景。"
+    "reasoning": "The user describes the joy of a weekend gathering. The model associates this with the continuity of that joy—from 'exchanging photos during lunch breaks' on weekdays to 'offline gatherings' on weekends. The company and lunch breaks are the daily carriers of this friendship, which, together with the park gathering, form a complete social landscape."
   },
   {
     "id": "q_096",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓对张医生专业建议的信任，不仅源于他在安安宠医的耐心诊疗，更源于麻薯康复后每次体检都由他负责的长期默契。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao's trust in Dr. Zhang's professional advice stems not only from his patient diagnosis and treatment at An'an Pet Hospital, but also from the long-standing rapport built over years of him overseeing Mochi's post-recovery check-ups.",
     "trigger_concept": "emotion_09",
     "candidate_set": [
       {
-        "concept": "体检",
-        "reason": "林晓与张医生保持长期联系的主要活动，定期的健康检查巩固了医患间的信任关系。"
+        "concept": "Check-ups",
+        "reason": "The primary activity maintaining the long-term connection between Lin Xiao and Dr. Zhang; regular health examinations have solidified the trust between pet owner and veterinarian."
       },
       {
-        "concept": "疫苗",
-        "reason": "麻薯健康成长的关键保障，由张医生负责注射，体现了林晓对他专业技术的持续托付。"
+        "concept": "Vaccines",
+        "reason": "A key safeguard for Mochi's healthy growth, administered by Dr. Zhang, reflecting Lin Xiao's continued entrustment of her pet's care to his professional expertise."
       },
       {
-        "concept": "朋友圈",
-        "reason": "张医生与林晓互动的生活化场景，评论养猫日常显示两人关系已超越单纯的医患，更像朋友。"
+        "concept": "WeChat Moments",
+        "reason": "A casual setting for interaction between Dr. Zhang and Lin Xiao; comments on daily cat-raising life indicate their relationship has transcended a simple doctor-patient dynamic to resemble friendship."
       }
     ],
     "difficulty": "medium",
@@ -2289,25 +2289,25 @@
       "social_circle",
       "preferences"
     ],
-    "reasoning": "用户描述对医生的信任感，模型联想到这种信任是通过长期的具体行动（体检、疫苗）和生活互动（朋友圈评论）积累而成的。从‘治病’到‘防病’再到‘生活分享’，关系层层递进。"
+    "reasoning": "The user describes a sense of trust in the veterinarian. The model associates this trust with accumulation through long-term specific actions (check-ups, vaccines) and life interactions (comments on WeChat Moments). The relationship progresses layer by layer from 'treating illness' to 'preventing disease' and finally to 'sharing life'."
   },
   {
     "id": "q_097",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓看着麻薯健康地玩耍，常感激 2021 年冬天那个加班夜晚的决定，同时也想起了当时小猫因寒冷和饥饿而瑟瑟发抖的可怜模样。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Watching Mochi play healthily, Lin Xiao often feels grateful for the decision made during that overtime night in the winter of 2021, while also recalling the pitiful sight of the little cat shivering from cold and hunger at that time.",
     "trigger_concept": "emotion_10",
     "candidate_set": [
       {
-        "concept": "寒冷",
-        "reason": "麻薯被遗弃时的环境特征，是林晓心生怜悯并伸出援手的直接动因，与现在的温暖生活形成对比。"
+        "concept": "Cold",
+        "reason": "An environmental characteristic when Mochi was abandoned; it was the direct motive for Lin Xiao's compassion and helping hand, forming a stark contrast with the cat's current warm life."
       },
       {
-        "concept": "饥饿",
-        "reason": "麻薯当时的生理状态，激发了林晓的母性光辉，是她决定收养的重要推力。"
+        "concept": "Hunger",
+        "reason": "Mochi's physiological state at the time, which sparked Lin Xiao's maternal instinct and served as a significant driving force behind her decision to adopt."
       },
       {
-        "concept": "遗弃",
-        "reason": "麻薯悲惨身世的根源，林晓的决定直接终结了这段被遗弃的命运，赋予了它新的生命意义。"
+        "concept": "Abandonment",
+        "reason": "The root of Mochi's tragic background; Lin Xiao's decision directly ended this fate of abandonment, imbuing the cat with new meaning in life."
       }
     ],
     "difficulty": "easy",
@@ -2316,25 +2316,25 @@
       "adoption_story",
       "pet_background"
     ],
-    "reasoning": "用户表达对收养决定的庆幸，模型直接还原当时小猫的惨状（寒冷、饥饿、被遗弃）。这些痛苦的记忆是林晓‘庆幸’情感的基石，没有当时的惨，就没有现在的幸。"
+    "reasoning": "The user expresses relief regarding the adoption decision. The model directly reconstructs the kitten's miserable condition at the time (cold, hunger, abandonment). These painful memories form the cornerstone of Lin Xiao's sense of 'relief'; without the suffering of the past, there would be no happiness of the present."
   },
   {
     "id": "q_098",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓为麻薯选择封闭阳台的房源感到欣慰，这让她回想起 2022 年第一次搬家时，为了不让麻薯应激而请假两天全程陪伴的用心。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao feels gratified by her choice of an apartment with an enclosed balcony for Mochi, which reminds her of the care she took in 2022 during her first move, when she took two days off work to accompany Mochi throughout the process to prevent stress.",
     "trigger_concept": "emotion_11",
     "candidate_set": [
       {
-        "concept": "2022 年换房",
-        "reason": "林晓首次实践‘宠物优先’理念的时间点，确立了她在居住选择上对麻薯安全的高度重视。"
+        "concept": "Moving in 2022",
+        "reason": "The timeframe when Lin Xiao first put the 'pet-first' philosophy into practice, establishing her high priority on Mochi's safety regarding housing choices."
       },
       {
-        "concept": "请假两天",
-        "reason": "林晓为麻薯付出的具体时间成本，体现了她将宠物置于工作之上的优先级，是‘用心’的量化表现。"
+        "concept": "Taking two days off",
+        "reason": "The specific time cost Lin Xiao incurred for Mochi, demonstrating her prioritization of her pet over work and serving as a quantifiable expression of her 'dedication'."
       },
       {
-        "concept": "全程陪伴",
-        "reason": "林晓在搬家期间的行为模式，旨在给予麻薯安全感，这种模式延续到了对新居环境的选择上。"
+        "concept": "Full accompaniment",
+        "reason": "Lin Xiao's behavioral pattern during the move, aimed at providing Mochi with a sense of security; this pattern has continued to influence her selection of new living environments."
       }
     ],
     "difficulty": "medium",
@@ -2343,25 +2343,25 @@
       "life_milestones",
       "daily_habits"
     ],
-    "reasoning": "用户描述对新居环境的满意，模型联想到这种满意源于过往的经验（2022 年搬家）。当时的‘请假陪伴’和现在的‘优选房源’，都是林晓为减少麻薯应激、保障其安全而做出的持续努力。"
+    "reasoning": "The user describes satisfaction with the new living environment. The model associates this satisfaction with past experiences (the 2022 move). The 'time off for companionship' back then and the 'preferred housing choice' now are both continuous efforts by Lin Xiao to reduce Mochi's stress and ensure safety."
   },
   {
     "id": "q_099",
-    "trigger_type": "情感相关记忆联想",
-    "question": "每周六深度吸尘带来的秩序感，让林晓想起每次使用进口沐浴露给麻薯洗澡时的专注，这些仪式感是她对抗 UI 设计工作压力的重要方式。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "The sense of order brought by deep vacuuming every Saturday reminds Lin Xiao of the focus she feels when bathing Mochi with imported shampoo; these rituals are her important way of coping with the pressure of her UI design work.",
     "trigger_concept": "emotion_12",
     "candidate_set": [
       {
-        "concept": "进口沐浴露",
-        "reason": "林晓护理麻薯的专用高端用品，代表了她在养宠上的精致态度，与深度吸尘的细致程度相匹配。"
+        "concept": "Imported shampoo",
+        "reason": "A premium product dedicated to Mochi's care by Lin Xiao, representing her refined attitude toward pet raising, which matches the meticulousness of her deep vacuuming."
       },
       {
-        "concept": "洗澡",
-        "reason": "林晓与麻薯的高频互动场景，不仅是清洁，更是一种情感交流和压力释放的仪式。"
+        "concept": "Bathing",
+        "reason": "A high-frequency interaction scenario between Lin Xiao and Mochi; it is not just about cleaning, but also a ritual for emotional exchange and stress relief."
       },
       {
-        "concept": "UI/UX 设计师",
-        "reason": "林晓的职业身份，其高压特性是她需要通过清洁、护理等重复性劳动来寻求‘秩序感’和‘治愈’的根本原因。"
+        "concept": "UI/UX Designer",
+        "reason": "Lin Xiao's professional identity; the high-pressure nature of this role is the fundamental reason she seeks a 'sense of order' and 'healing' through repetitive tasks like cleaning and grooming."
       }
     ],
     "difficulty": "hard",
@@ -2370,25 +2370,25 @@
       "daily_habits",
       "preferences"
     ],
-    "reasoning": "用户描述清洁带来的治愈感，模型将‘周六吸尘’与‘日常洗澡’这两个具有仪式感的行为联系起来，并指出其背后的心理动因——对抗设计师职业的高压。两者都是通过‘掌控细节’来获得内心的平静。"
+    "reasoning": "The user describes the healing sensation derived from cleaning. The model connects two ritualistic behaviors: 'Saturday vacuuming' and 'daily bathing,' pointing out the underlying psychological motivation: coping with the high pressure of a designer's career. Both involve gaining inner peace by 'controlling details'."
   },
   {
     "id": "q_100",
-    "trigger_type": "情感相关记忆联想",
-    "question": "林晓将脸埋进麻薯腹部平复心情的习惯，让她想起 2023 年麻薯病愈后，她第一次深刻意识到宠物是家人而非玩物的那个夜晚。",
+    "trigger_type": "Emotion-related memory association",
+    "question": "Lin Xiao's habit of burying her face in Mochi's belly to calm down reminds her of that night in 2023 after Mochi recovered from illness, when she first profoundly realized that pets are family members, not mere playthings.",
     "trigger_concept": "behavior_10",
     "candidate_set": [
       {
-        "concept": "家人",
-        "reason": "林晓对麻薯定位的根本性转变，这一认知升级发生在 2023 年危机之后，是她现在依赖猫咪情感支持的理论基础。"
+        "concept": "Family member",
+        "reason": "A fundamental shift in Lin Xiao's perception of Mochi; this cognitive upgrade occurred after the 2023 crisis and serves as the theoretical basis for her current reliance on the cat for emotional support."
       },
       {
-        "concept": "玩物",
-        "reason": "林晓过去可能存在的潜在心态，被 2023 年的危机彻底否定，现在的亲密接触是建立在‘家人’这一平等关系之上的。"
+        "concept": "Plaything",
+        "reason": "A potential mindset Lin Xiao may have held in the past, which was completely negated by the 2023 crisis; current intimate contact is built upon the equal relationship of 'family'."
       },
       {
-        "concept": "宠物医疗保险",
-        "reason": "林晓在危机后采取的具体保障措施，是她将麻薯视为‘家人’的物质证明，与情感上的依赖互为表里。"
+        "concept": "Pet health insurance",
+        "reason": "A concrete protective measure Lin Xiao took after the crisis; it is material proof of her viewing Mochi as 'family,' complementing her emotional dependence."
       }
     ],
     "difficulty": "hard",
@@ -2397,6 +2397,6 @@
       "life_milestones",
       "emotional_mapping"
     ],
-    "reasoning": "用户描述通过肢体接触寻求安慰的行为，模型深层联想到这一行为背后的认知基石——2023 年危机后‘宠物即家人’的觉悟。从‘玩物’到‘家人’的观念飞跃，解释了为何现在的拥抱具有如此强大的治愈力。"
+    "reasoning": "The user describes a behavior of seeking comfort through physical contact. The model makes a deep association with the cognitive cornerstone behind this behavior: the realization after the 2023 crisis that 'pets are family.' The conceptual leap from 'plaything' to 'family member' explains why current embraces possess such powerful healing properties."
   }
 ]

@@ -1,87 +1,87 @@
 {
   "profile": {
     "basic_info": {
-      "name": "林晓",
+      "name": "Lin Xiao",
       "age": 27,
-      "gender": "女",
-      "occupation": "UI/UX 设计师",
-      "city": "杭州",
-      "education": "本科（中国美术学院 视觉传达设计）",
-      "income_level": "月收入 18k-22k",
-      "housing_status": "租房（余杭区未来科技城附近，一室一厅，允许养宠）"
+      "gender": "Female",
+      "occupation": "UI/UX Designer",
+      "city": "Hangzhou",
+      "education": "Bachelor's Degree (China Academy of Art, Visual Communication Design)",
+      "income_level": "Monthly income 18k-22k RMB",
+      "housing_status": "Renting (Near Future Sci-Tech City, Yuhang District; one-bedroom apartment, pet-friendly)"
     },
     "pet_background": {
-      "pet_type": "猫",
-      "pet_name": "麻薯",
-      "breed": "英国短毛猫（银渐层）",
-      "age": "3 岁",
-      "adoption_story": "2021 年冬天，林晓在加班回家的路上，于公司楼下的垃圾桶旁发现了一只被遗弃在纸箱里的小猫。当时小猫因寒冷和饥饿瑟瑟发抖，她立刻将其抱回温暖的家，并在次日带去宠物医院检查，随后决定收养。",
-      "personality": "外表高冷傲娇，实则极度粘人。对陌生人警惕，但对林晓有强烈的占有欲。喜欢趴在键盘上‘监督’工作，听到开罐头声音会瞬间从睡梦中惊醒。",
-      "health_history": "收养初期患有严重的猫藓和耳螨，经过两个月的药物治疗痊愈；2023 年曾因误食塑料绳导致轻微肠梗阻，通过催吐和输液治疗恢复，此后家中所有细小物品均被严格收纳。"
+      "pet_type": "Cat",
+      "pet_name": "Mochi",
+      "breed": "British Shorthair (Silver Shaded)",
+      "age": "3 years old",
+      "adoption_story": "In the winter of 2021, while walking home from overtime work, Lin Xiao found a kitten abandoned in a cardboard box next to a trash bin downstairs from her office. Shivering from cold and hunger, she immediately took the kitten home to warmth. The next day, she brought it to a veterinary clinic for a check-up and subsequently decided to adopt it.",
+      "personality": "Outwardly aloof and haughty, but actually extremely clingy. Wary of strangers, yet possesses a strong sense of possessiveness towards Lin Xiao. Likes to lie on the keyboard to 'supervise' work and instantly wakes from deep sleep at the sound of a can opening.",
+      "health_history": "Suffered from severe ringworm and ear mites during the initial adoption period; fully recovered after two months of medication. In 2023, experienced a mild intestinal obstruction after accidentally ingesting a plastic string, recovering via induced vomiting and IV fluids. Since then, all small items in the home are strictly stored away."
     },
     "family_relations": [
       {
-        "relation": "母亲",
-        "name": "林母",
-        "relationship_to_pet": "起初强烈反对养猫，担心卫生和过敏。在看到林晓发的‘麻薯’视频后态度软化，现在每次视频通话必问猫的情况，并偶尔邮寄自制的鸡肉干作为零食。"
+        "relation": "Mother",
+        "name": "Mrs. Lin",
+        "relationship_to_pet": "Initially strongly opposed to having a cat due to concerns about hygiene and allergies. Her attitude softened after seeing videos of 'Mochi' sent by Lin Xiao. Now, she always asks about the cat during every video call and occasionally mails homemade dried chicken treats."
       },
       {
-        "relation": "父亲",
-        "name": "林父",
-        "relationship_to_pet": "沉默寡言，但默默支持。曾偷偷给林晓转账备注‘给猫买暖气’，实际上并不太懂如何与猫互动，视频时只敢隔着屏幕看。"
+        "relation": "Father",
+        "name": "Mr. Lin",
+        "relationship_to_pet": "A man of few words, but silently supportive. He once secretly transferred money to Lin Xiao with the note 'for the cat's heating,' though he doesn't really know how to interact with cats and only dares to watch them through the screen during video calls."
       }
     ],
     "social_circle": [
       {
-        "name": "陈晨",
-        "role": "同事/闺蜜",
-        "connection": "同为‘铲屎官’（养了一只金毛）。两人常在公司午休时交换宠物照片，周末会相约带宠物去杭州的宠物友好公园聚会，互相推荐靠谱的宠物用品。"
+        "name": "Chen Chen",
+        "role": "Colleague/Best Friend",
+        "connection": "Also a 'poop scooper' (owns a Golden Retriever). They often exchange pet photos during lunch breaks at work and meet up on weekends to visit pet-friendly parks in Hangzhou, recommending reliable pet products to each other."
       },
       {
-        "name": "张医生",
-        "role": "宠物医生",
-        "connection": "不仅是医患关系，更像朋友。林晓非常信任他的专业建议，麻薯的每次体检和疫苗都由他负责。张医生也常会在朋友圈评论林晓分享的养猫日常。"
+        "name": "Dr. Zhang",
+        "role": "Veterinarian",
+        "connection": "More than just a doctor-patient relationship; they are like friends. Lin Xiao trusts his professional advice implicitly, and he handles all of Mochi's check-ups and vaccinations. Dr. Zhang also frequently comments on Lin Xiao's daily cat-raising posts on social media."
       }
     ],
     "daily_habits": [
       {
-        "time_pattern": "每天早上 7:30",
-        "activity": "被麻薯踩醒，清理猫砂盆，添加自动喂食器的干粮，更换新鲜饮用水。"
+        "time_pattern": "7:30 AM daily",
+        "activity": "Woken up by Mochi stepping on her; cleans the litter box, refills the automatic feeder with dry food, and replaces the fresh drinking water."
       },
       {
-        "time_pattern": "每晚 20:00",
-        "activity": "下班回家后，先用逗猫棒陪玩 20 分钟消耗精力，然后喂一顿主食罐头，顺便梳毛清理浮毛。"
+        "time_pattern": "8:00 PM daily",
+        "activity": "After returning from work, plays with Mochi using a wand toy for 20 minutes to burn off energy, then feeds a meal of wet food while brushing to remove loose fur."
       },
       {
-        "time_pattern": "每周六上午",
-        "activity": "进行全屋深度吸尘（针对猫毛），清洗猫窝和毯子，检查指甲长度并进行修剪。"
+        "time_pattern": "Saturday mornings",
+        "activity": "Performs a deep vacuuming of the entire house (targeting cat hair), washes the cat bed and blankets, checks nail length, and trims them."
       }
     ],
     "emotional_mapping": [
       {
-        "emotion": "工作压力大/焦虑",
-        "behavior": "回到家后不说话，直接抱起麻薯窝在沙发上，感受猫咪的呼噜声和体温，通常在 10 分钟内情绪得到显著平复。"
+        "emotion": "High work stress/Anxiety",
+        "behavior": "Upon returning home, she remains silent, directly picks up Mochi, and curls up on the sofa. Feeling the cat's purring and body warmth usually calms her emotions significantly within 10 minutes."
       },
       {
-        "emotion": "孤独感（深夜加班时）",
-        "behavior": "麻薯会主动跳到桌面上，趴在显示器旁或键盘边，用头蹭林晓的手背，仿佛在无声陪伴，让她觉得自己不是一个人在战斗。"
+        "emotion": "Loneliness (during late-night overtime)",
+        "behavior": "Mochi voluntarily jumps onto the desk, lying beside the monitor or keyboard, and rubs its head against Lin Xiao's hand as if offering silent companionship, making her feel she is not fighting alone."
       }
     ],
     "life_milestones": [
       {
-        "event": "第一次搬家",
-        "description": "2022 年换房时，优先考虑了‘宠物友好’和‘封闭阳台’条件。为了不让麻薯应激，专门请假两天全程陪伴，并使用费洛蒙喷雾辅助适应新环境。"
+        "event": "First Move",
+        "description": "When moving houses in 2022, priority was given to 'pet-friendly' policies and 'enclosed balconies.' To prevent Mochi from experiencing stress, Lin Xiao took two days off to accompany the cat throughout the process and used pheromone sprays to aid adaptation to the new environment."
       },
       {
-        "event": "麻薯生病危机",
-        "description": "2023 年麻薯误食异物急诊的那晚，林晓第一次深刻意识到宠物是家人而非玩物。这次经历促使她开始学习宠物急救知识，并购买了宠物医疗保险。"
+        "event": "Mochi's Health Crisis",
+        "description": "On the night of Mochi's emergency visit in 2023 due to foreign object ingestion, Lin Xiao profoundly realized for the first time that pets are family members, not toys. This experience prompted her to start learning pet first aid knowledge and purchase pet health insurance."
       }
     ],
     "preferences": {
-      "food_brand": "主食偏好‘渴望 (Orijen)'和‘爱肯拿 (Acien)'，零食偏爱‘小李子’罐头及国产新兴品牌‘帕特’的生骨肉冻干。",
-      "vet": "杭州转塘附近的‘安安宠医’（离家近且设备齐全，医生耐心）。",
-      "toys": "最爱瓦楞纸猫抓板和带羽毛的电动钓鱼竿玩具，对昂贵的电动老鼠玩具反而兴趣缺缺。",
-      "grooming": "每两周在家自行洗澡（使用进口沐浴露），每季度去宠物店进行一次专业去油和指甲打磨；每日必做梳毛。"
+      "food_brand": "Prefers 'Orijen' and 'Acana' for main meals; favors 'Leonardo' canned food and the emerging domestic brand 'Pat' freeze-dried raw meat for treats.",
+      "vet": "'An'an Pet Hospital' near Zhuantang, Hangzhou (close to home, well-equipped, and the doctors are patient).",
+      "toys": "Favorites include corrugated cardboard scratchers and electric fishing rod toys with feathers; shows little interest in expensive electric mouse toys.",
+      "grooming": "Bathes at home every two weeks (using imported shampoo), visits a pet grooming salon quarterly for professional degreasing and nail filing; brushes daily without fail."
     }
   }
 }

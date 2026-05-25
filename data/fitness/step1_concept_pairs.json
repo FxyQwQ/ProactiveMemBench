@@ -1,520 +1,520 @@
 [
   {
     "id": "entity_01",
-    "type": "时间触发器",
-    "natural_expression": "每周二和周四清晨 6:30，我都会和前端同事陈宇在滨江跑道碰头，雷打不动地进行 10 公里 LSD 拉练，互相盯着配速表谁也不敢偷懒。",
+    "type": "Time Trigger",
+    "natural_expression": "Every Tuesday and Thursday at 6:30 AM, I meet my frontend colleague Chen Yu at the Binjiang running track for an unwavering 10km LSD long run, where we keep a close eye on each other's pace charts so neither of us dares to slack off.",
     "involved_entities": [
-      "陈宇",
-      "滨江跑道",
-      "LSD 训练",
-      "周二/周四早晨"
+      "Chen Yu",
+      "Binjiang Running Track",
+      "LSD Training",
+      "Tuesday/Thursday Morning"
     ]
   },
   {
     "id": "entity_02",
-    "type": "实体触发器",
-    "natural_expression": "下班后我常去文三路那边的乐刻运动，离公司就五百米，方便我进行推/拉/腿分化的力量训练，练完直接回家休息。",
+    "type": "Entity Trigger",
+    "natural_expression": "After work, I often head to the Leke Fitness on Wensan Road, which is just 500 meters from the office. It's perfect for my push/pull/legs strength split, and I can go straight home to rest afterward.",
     "involved_entities": [
-      "乐刻运动文三路店",
-      "力量训练",
-      "下班后时段"
+      "Leke Fitness Wensan Road Branch",
+      "Strength Training",
+      "After-Work Hours"
     ]
   },
   {
     "id": "entity_03",
-    "type": "实体触发器",
-    "natural_expression": "那双 Nike Vaporfly 3 是我的比赛专用鞋，穿着它跑出了 3 小时 45 分的全马 PB，平时训练我可舍不得穿，只敢用 Asics Kayano 30。",
+    "type": "Entity Trigger",
+    "natural_expression": "My Nike Vaporfly 3s are my race-day shoes; I wore them to set my full marathon PB of 3:45. I can't bear to wear them during regular training, sticking to my Asics Kayano 30s instead.",
     "involved_entities": [
       "Nike Vaporfly 3",
-      "全马 PB",
+      "Full Marathon PB",
       "Asics Kayano 30"
     ]
   },
   {
     "id": "entity_04",
-    "type": "情感触发器",
-    "natural_expression": "每次回家，我妈张慧总会特意炖好牛肉或蒸条鱼给我补蛋白，虽然我爸林建国以前总担心跑步伤膝盖，但现在看到我奖牌也敢问我要不要买营养品了。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Whenever I come home, my mother, Zhang Hui, always makes a point of stewing beef or steaming fish to boost my protein intake. Although my father, Lin Jianguo, used to worry that running would hurt my knees, now that he sees my medals, he even asks if I need to buy any nutritional supplements.",
     "involved_entities": [
-      "张慧",
-      "林建国",
-      "高蛋白菜肴",
-      "马拉松奖牌"
+      "Zhang Hui",
+      "Lin Jianguo",
+      "High-Protein Dishes",
+      "Marathon Medals"
     ]
   },
   {
     "id": "entity_05",
-    "type": "行为模式触发器",
-    "natural_expression": "2023 年那次右膝髂胫束综合征让我停训了两个月，从那以后我再也不敢盲目上大重量，开始死磕运动解剖学，深知恢复比训练更重要。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "The iliotibial band syndrome in my right knee in 2023 forced me to stop training for two months. Since then, I've never dared to blindly lift heavy weights again; instead, I've immersed myself in sports anatomy, realizing deeply that recovery is more important than training.",
     "involved_entities": [
-      "右膝髂胫束综合征",
-      "2023 年停训经历",
-      "运动解剖学"
+      "Right Knee Iliotibial Band Syndrome",
+      "2023 Training Hiatus",
+      "Sports Anatomy"
     ]
   },
   {
     "id": "entity_06",
-    "type": "实体触发器",
-    "natural_expression": "虽然不再买私教课了，但我常和健身房认识的王强交流动作细节，冲击深蹲 1.5 倍体重的大重量时，还得靠他在一旁给我做保护（Spot）。",
+    "type": "Entity Trigger",
+    "natural_expression": "Although I've stopped buying personal training sessions, I often discuss movement details with Wang Qiang, whom I know at the gym. When attempting heavy squats at 1.5 times my body weight, I still rely on him to spot me.",
     "involved_entities": [
-      "王强",
-      "深蹲目标",
-      "动作保护"
+      "Wang Qiang",
+      "Squat Goal",
+      "Movement Spotting"
     ]
   },
   {
     "id": "entity_07",
-    "type": "情感触发器",
-    "natural_expression": "项目上线前代码 Bug 多得让人烦躁时，我就戴上 Shokz 骨传导耳机去跑 HIIT，直到身体极度疲惫，大脑才能彻底清空平静下来。",
+    "type": "Emotion Trigger",
+    "natural_expression": "When the sheer number of code bugs before a project launch gets frustrating, I put on my Shokz bone conduction headphones and hit a HIIT session. Only when my body is utterly exhausted does my mind finally clear and calm down.",
     "involved_entities": [
-      "项目上线压力",
+      "Project Launch Pressure",
       "Shokz OpenRun",
-      "HIIT 训练"
+      "HIIT Training"
     ]
   },
   {
     "id": "entity_08",
-    "type": "行为模式触发器",
-    "natural_expression": "我习惯用 Excel 手动记录每周深蹲、硬拉的重量和组数来分析渐进负荷曲线，日常跑步数据则同步到 Garmin 手表和 Strava 社区打卡。",
+    "type": "Behavior Pattern Trigger",
+    "natural_expression": "I'm in the habit of manually logging my weekly squat and deadlift weights and sets in Excel to analyze my progressive overload curve, while my daily running data syncs to my Garmin watch and Strava community for check-ins.",
     "involved_entities": [
-      "Excel 记录表",
+      "Excel Log",
       "Garmin Forerunner 265",
       "Strava",
-      "渐进负荷"
+      "Progressive Overload"
     ]
   },
   {
     "id": "entity_09",
-    "type": "时间触发器",
-    "natural_expression": "工作日我都自带糙米饭和鸡胸肉便当，严格控油盐，只有周六晚上练完长距离后，才敢安排一顿欺骗餐奖励自己。",
+    "type": "Time Trigger",
+    "natural_expression": "On weekdays, I bring my own bento boxes with brown rice and chicken breast, strictly controlling oil and salt intake. It's only after a long-distance run on Saturday night that I allow myself a cheat meal as a reward.",
     "involved_entities": [
-      "自带便当",
-      "周六欺骗餐",
-      "长距离拉练"
+      "Homemade Bento",
+      "Saturday Cheat Meal",
+      "Long-Distance Run"
     ]
   },
   {
     "id": "entity_10",
-    "type": "时间触发器",
-    "natural_expression": "周日下午是我的主动恢复时间，通常会用筋膜枪放松大腿外侧，再做个瑜伽或冷热交替浴，为周一的工作和训练蓄力。",
+    "type": "Time Trigger",
+    "natural_expression": "Sunday afternoons are reserved for my active recovery. I typically use a massage gun to relax the outer thighs, followed by yoga or contrast baths, to recharge for the work and training ahead on Monday.",
     "involved_entities": [
-      "周日主动恢复",
-      "筋膜枪",
-      "冷热交替浴"
+      "Sunday Active Recovery",
+      "Massage Gun",
+      "Contrast Baths"
     ]
   },
   {
     "id": "entity_11",
-    "type": "时间触发器",
-    "natural_expression": "2021 年首次完赛杭州马拉松是我人生的转折点，从那刻起我不再只是为了减肥而跑，而是真正认同了自己‘跑者’的身份。",
+    "type": "Time Trigger",
+    "natural_expression": "Finishing the Hangzhou Marathon for the first time in 2021 was a turning point in my life. From that moment on, I no longer ran just to lose weight; I truly embraced my identity as a 'runner'.",
     "involved_entities": [
-      "2021 杭州马拉松",
-      "跑者身份认同"
+      "2021 Hangzhou Marathon",
+      "Runner Identity"
     ]
   },
   {
     "id": "entity_12",
-    "type": "时间触发器",
-    "natural_expression": "每天早上 6:30 起床后，我会先空腹喝一杯黑咖啡，然后进行 30 分钟的核心激活或有氧，这是我一天高效工作的启动开关。",
+    "type": "Time Trigger",
+    "natural_expression": "Every morning after waking up at 6:30, I start with a cup of black coffee on an empty stomach, followed by 30 minutes of core activation or cardio. This is my switch to kickstart a highly productive day.",
     "involved_entities": [
-      "黑咖啡",
-      "核心激活",
-      "06:30 起床"
+      "Black Coffee",
+      "Core Activation",
+      "06:30 Wake-up"
     ]
   },
   {
     "id": "emotion_01",
-    "type": "情感触发器",
-    "natural_expression": "每当项目上线前遇到棘手的代码 Bug 感到思维混乱时，我就会立刻戴上降噪耳机去跑高强度间歇跑，用身体的极度疲惫来换取大脑的彻底清空。",
+    "type": "Emotion Trigger",
+    "natural_expression": "Whenever I feel mentally overwhelmed by tricky code bugs before a project launch, I immediately put on my noise-canceling headphones and go for a high-intensity interval run. I use extreme physical exhaustion to completely clear my mind.",
     "involved_entities": [
-      "代码 Bug 焦虑",
-      "HIIT 训练",
-      "降噪耳机",
-      "大脑清空"
+      "Code Bug Anxiety",
+      "HIIT Training",
+      "Noise-canceling Headphones",
+      "Mental Clarity"
     ]
   },
   {
     "id": "emotion_02",
-    "type": "情感触发器",
-    "natural_expression": "当 Garmin 手表显示我打破了半马个人纪录的那一刻，那种强烈的掌控感让我迫不及待想在 Strava 上打卡，享受跑友们点赞带来的社交认同。",
+    "type": "Emotion Trigger",
+    "natural_expression": "The moment my Garmin watch showed that I had broken my half-marathon personal record, that intense sense of control made me eager to log it on Strava and enjoy the social validation from fellow runners' likes.",
     "involved_entities": [
-      "打破半马 PB",
-      "Garmin 数据",
-      "Strava 打卡",
-      "社交认同"
+      "Breaking Half-Marathon PB",
+      "Garmin Data",
+      "Strava Check-in",
+      "Social Validation"
     ]
   },
   {
     "id": "emotion_03",
-    "type": "情感触发器",
-    "natural_expression": "2023 年右膝髂胫束综合征的剧痛让我至今心有余悸，现在每次深蹲加重前，那种对再次停训的恐惧都会让我反复检查动作细节和热身是否充分。",
+    "type": "Emotion Trigger",
+    "natural_expression": "The severe pain from Iliotibial Band Syndrome (ITBS) in my right knee in 2023 still haunts me. Now, before increasing the weight on squats, the fear of having to stop training again makes me double-check my form details and ensure my warm-up is sufficient.",
     "involved_entities": [
-      "ITBS 受伤记忆",
-      "深蹲加重",
-      "恐惧心理",
-      "动作检查"
+      "ITBS Injury Memory",
+      "Increasing Squat Weight",
+      "Fear Psychology",
+      "Form Check"
     ]
   },
   {
     "id": "emotion_04",
-    "type": "情感触发器",
-    "natural_expression": "看到父亲林建国从当初担心我跑步伤膝盖，到现在拿着我的马拉松奖牌向邻居炫耀，那种被家人理解的自豪感比我完成一次大重量硬拉还要温暖。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Seeing my father, Lin Jianguo, go from worrying that running would hurt my knees to proudly showing off my marathon medal to the neighbors fills me with a sense of pride in being understood by my family that feels even warmer than completing a heavy deadlift.",
     "involved_entities": [
-      "父亲林建国",
-      "态度转变",
-      "马拉松奖牌",
-      "家庭自豪感"
+      "Father Lin Jianguo",
+      "Change in Attitude",
+      "Marathon Medal",
+      "Family Pride"
     ]
   },
   {
     "id": "emotion_05",
-    "type": "情感触发器",
-    "natural_expression": "周六晚上吃完精心安排的欺骗餐，那种在严格控油盐一周后获得的美食满足感，让我觉得之前的每一克糙米饭和鸡胸肉都吃得值得。",
+    "type": "Emotional Trigger",
+    "natural_expression": "After enjoying a carefully planned cheat meal on Saturday night, the satisfaction of indulging following a week of strict oil and salt control makes every gram of brown rice and chicken breast I ate beforehand feel completely worth it.",
     "involved_entities": [
-      "周六欺骗餐",
-      "饮食控制",
-      "满足感",
-      "自我奖励"
+      "Saturday Cheat Meal",
+      "Dietary Control",
+      "Sense of Satisfaction",
+      "Self-Reward"
     ]
   },
   {
     "id": "emotion_06",
-    "type": "情感触发器",
-    "natural_expression": "周二清晨在滨江跑道，当看到陈宇在配速表上紧追不舍的眼神，那种不想拖累队友的责任心瞬间驱散了我想减速的懒惰念头。",
+    "type": "Emotional Trigger",
+    "natural_expression": "On a Tuesday morning at the Binjiang running track, seeing Chen Yu's determined eyes closely chasing the pace chart instantly dispelled my lazy urge to slow down, replaced by a strong sense of responsibility not to let my teammate down.",
     "involved_entities": [
-      "陈宇",
-      "滨江跑道",
-      "同伴压力",
-      "坚持配速"
+      "Chen Yu",
+      "Binjiang Running Track",
+      "Peer Pressure",
+      "Maintaining Pace"
     ]
   },
   {
     "id": "emotion_07",
-    "type": "情感触发器",
-    "natural_expression": "当王强在我冲击 1.5 倍体重深蹲时喊出'起'并稳稳接住杠铃，那种对力量精准掌控的兴奋感，让我确信自己正一步步接近目标。",
+    "type": "Emotional Trigger",
+    "natural_expression": "When Wang Qiang shouted 'Up!' and securely caught the barbell as I attempted a 1.5x bodyweight squat, the excitement of precisely controlling that power confirmed that I am steadily approaching my goal.",
     "involved_entities": [
-      "王强",
-      "深蹲 PR 尝试",
-      "保护协助",
-      "掌控兴奋感"
+      "Wang Qiang",
+      "Squat PR Attempt",
+      "Spotting Assistance",
+      "Excitement of Control"
     ]
   },
   {
     "id": "emotion_08",
-    "type": "情感触发器",
-    "natural_expression": "回到家闻到母亲张慧炖牛肉的香气，那种被无条件支持的安全感，让我觉得无论工作多累、训练多苦，身后总有坚实的后盾。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Returning home to the aroma of beef stew cooked by my mother, Zhang Hui, gives me a sense of security from unconditional support, reminding me that no matter how exhausting work or training becomes, I always have a solid backbone behind me.",
     "involved_entities": [
-      "母亲张慧",
-      "炖牛肉",
-      "家庭支持",
-      "安全感"
+      "Mother Zhang Hui",
+      "Beef Stew",
+      "Family Support",
+      "Sense of Security"
     ]
   },
   {
     "id": "emotion_09",
-    "type": "情感触发器",
-    "natural_expression": "深夜打开 Excel 表格，看着力量训练的渐进负荷曲线稳步上升，那种逻辑清晰、付出必有回报的秩序感，是我作为程序员最享受的时刻。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Late at night, opening an Excel spreadsheet and watching the progressive overload curve for strength training steadily rise gives me a profound sense of order—where logic prevails and effort guarantees returns. As a programmer, this is the moment I enjoy most.",
     "involved_entities": [
-      "Excel 记录",
-      "负荷曲线",
-      "秩序感",
-      "程序员思维"
+      "Excel Logs",
+      "Load Curve",
+      "Sense of Order",
+      "Programmer Mindset"
     ]
   },
   {
     "id": "emotion_10",
-    "type": "情感触发器",
-    "natural_expression": "周日下午进行冷热交替浴时，感受着肌肉从紧绷到松弛的变化，那种身心彻底放空的宁静，是对一周高强度训练最好的抚慰。",
+    "type": "Emotional Trigger",
+    "natural_expression": "During Sunday afternoon contrast baths, feeling my muscles transition from tension to relaxation brings a deep tranquility that completely empties the mind and body. It is the perfect soothing reward after a week of high-intensity training.",
     "involved_entities": [
-      "冷热交替浴",
-      "肌肉放松",
-      "宁静感",
-      "主动恢复"
+      "Contrast Baths",
+      "Muscle Relaxation",
+      "Sense of Tranquility",
+      "Active Recovery"
     ]
   },
   {
     "id": "emotion_11",
-    "type": "情感触发器",
-    "natural_expression": "穿上 Nike Vaporfly 3 站在起跑线上，回想起 2021 年首马的蜕变，那种'我就是跑者'的身份认同感让我无视脚下的距离，只想不断向前。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Standing at the starting line in my Nike Vaporfly 3, recalling the transformation from my first marathon in 2021, that strong sense of identity as 'a runner' makes me ignore the distance beneath my feet; I only want to keep moving forward.",
     "involved_entities": [
       "Nike Vaporfly 3",
-      "起跑线",
-      "跑者身份",
-      "初心回忆"
+      "Starting Line",
+      "Runner Identity",
+      "Memories of Original Intent"
     ]
   },
   {
     "id": "emotion_12",
-    "type": "时间触发器",
-    "natural_expression": "清晨 6:30 空腹喝下第一口黑咖啡，随着咖啡因生效和核心激活的开始，那种从沉睡到清醒的切换感，让我对即将到来的一天充满掌控力。",
+    "type": "Time Trigger",
+    "natural_expression": "At 6:30 AM, taking the first sip of black coffee on an empty stomach, I feel the caffeine kick in and my core activation begin. That switch from sleepiness to alertness fills me with a sense of control over the day ahead.",
     "involved_entities": [
-      "黑咖啡",
-      "核心激活",
-      "清醒切换",
-      "晨间掌控力"
+      "Black Coffee",
+      "Core Activation",
+      "Alertness Switch",
+      "Morning Control"
     ]
   },
   {
     "id": "behavior_01",
-    "type": "时间触发器",
-    "natural_expression": "每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式。",
+    "type": "Time Trigger",
+    "natural_expression": "The first thing I do every morning after waking up at 6:30 AM is brew a cup of black coffee on an empty stomach. This is not just for a energy boost; it is my fixed ritual to kickstart 30 minutes of core activation or aerobic training.",
     "involved_entities": [
-      "黑咖啡",
-      "空腹状态",
-      "06:30 起床",
-      "核心激活"
+      "Black Coffee",
+      "Fasted State",
+      "06:30 Wake-up",
+      "Core Activation"
     ]
   },
   {
     "id": "behavior_02",
-    "type": "行为模式触发器",
-    "natural_expression": "只要戴上 Shokz OpenRun 骨传导耳机，我就自动进入训练模式，无论是滨江跑道的风声还是健身房的铁片撞击声，都成了我专注配速和动作的背景音。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "As soon as I put on my Shokz OpenRun bone conduction headphones, I automatically slip into training mode. Whether it's the wind along the riverside track or the clanging of weights in the gym, it all becomes background noise that helps me focus on my pace and form.",
     "involved_entities": [
       "Shokz OpenRun",
-      "专注模式",
-      "环境音隔离",
-      "训练状态"
+      "Focus Mode",
+      "Ambient Noise Isolation",
+      "Training State"
     ]
   },
   {
     "id": "behavior_03",
-    "type": "行为模式触发器",
-    "natural_expression": "每晚在乐刻运动结束 90 分钟的力量训练后，无论多累，我都会立刻摇一杯 ON 品牌的乳清蛋白粉喝下，这是肌肉恢复的黄金窗口期，绝不错过。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "After every 90-minute strength session at Lefits, no matter how exhausted I am, I immediately shake up and drink a scoop of ON whey protein. This is the golden window for muscle recovery, and I never miss it.",
     "involved_entities": [
-      "力量训练结束",
-      "ON 乳清蛋白粉",
-      "黄金窗口期",
-      "肌肉恢复"
+      "End of Strength Training",
+      "ON Whey Protein",
+      "Golden Window",
+      "Muscle Recovery"
     ]
   },
   {
     "id": "behavior_04",
-    "type": "行为模式触发器",
-    "natural_expression": "每次跑完步，我的第一反应不是拉伸，而是抬起手腕确认 Garmin Forerunner 265 的数据同步成功，看到 Strava 上生成的轨迹图才觉得这次训练真正完成了。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "After every run, my first instinct isn't to stretch; it's to lift my wrist and confirm that my Garmin Forerunner 265 has successfully synced. Only when I see the route map generated on Strava do I feel that the workout is truly complete.",
     "involved_entities": [
       "Garmin Forerunner 265",
-      "数据同步",
-      "Strava 轨迹",
-      "训练完成感"
+      "Data Sync",
+      "Strava Route",
+      "Sense of Workout Completion"
     ]
   },
   {
     "id": "behavior_05",
-    "type": "行为模式触发器",
-    "natural_expression": "自 2023 年受伤后，现在每次冲击深蹲大重量前，我都要花两分钟反复检查腰带松紧和膝盖热身情况，并眼神示意王强到位保护才敢起杠。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Since my injury in 2023, before attempting any heavy squats, I spend two minutes double-checking my belt tightness and ensuring my knees are properly warmed up. I also make eye contact with Wang Qiang to confirm he's in position to spot me before I even unrack the bar.",
     "involved_entities": [
-      "深蹲大重量",
-      "装备检查",
-      "王强保护",
-      "安全确认"
+      "Heavy Squats",
+      "Gear Check",
+      "Wang Qiang Spotting",
+      "Safety Confirmation"
     ]
   },
   {
     "id": "behavior_06",
-    "type": "时间触发器",
-    "natural_expression": "周日晚上是我雷打不动的备餐时间，将糙米饭、鸡胸肉和牛肉分装进五个便当盒，确保工作日每天中午都能吃到严格控制油盐的健康餐。",
+    "type": "Time Trigger",
+    "natural_expression": "Sunday evening is my non-negotiable meal prep time. I portion out brown rice, chicken breast, and beef into five lunch boxes, ensuring I have strictly controlled, low-oil, low-salt healthy meals ready for every weekday lunch.",
     "involved_entities": [
-      "周日晚上",
-      "备餐分装",
-      "工作日便当",
-      "饮食控制"
+      "Sunday Evening",
+      "Meal Prepping and Portioning",
+      "Weekday Lunch Boxes",
+      "Dietary Control"
     ]
   },
   {
     "id": "behavior_07",
-    "type": "行为模式触发器",
-    "natural_expression": "训练结束后，我会拿出筋膜枪重点放松大腿外侧的髂胫束和小腿，这套动作已经形成了肌肉记忆，生怕 2023 年的伤痛卷土重来。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "After every training session, I immediately use my massage gun to focus on releasing the iliotibial band on the outer thigh and my calves. This routine has become muscle memory, as I'm determined to prevent the injuries from 2023 from making a comeback.",
     "involved_entities": [
-      "筋膜枪",
-      "髂胫束放松",
-      "肌肉记忆",
-      "预防受伤"
+      "Massage Gun",
+      "Iliotibial Band Release",
+      "Muscle Memory",
+      "Injury Prevention"
     ]
   },
   {
     "id": "behavior_08",
-    "type": "时间触发器",
-    "natural_expression": "只有周六上午完成长距离拉练后，我才会心安理得地安排晚上的欺骗餐，这种‘先苦后甜’的节奏让我对美食的享受毫无负罪感。",
+    "type": "Time Trigger",
+    "natural_expression": "Only after completing my long run on Saturday morning do I feel justified in scheduling a cheat meal for the evening. This 'work first, play later' rhythm allows me to enjoy good food without any guilt.",
     "involved_entities": [
-      "周六长距离拉练",
-      "晚上欺骗餐",
-      "心理补偿",
-      "无负罪感"
+      "Saturday Long Run",
+      "Evening Cheat Meal",
+      "Psychological Compensation",
+      "Guilt-Free Enjoyment"
     ]
   },
   {
     "id": "behavior_09",
-    "type": "时间触发器",
-    "natural_expression": "为了保证 23:00 准时入睡以利于肌肉生长，我会在 22:00 准时放下手机和代码，这个作息雷打不动，哪怕项目再忙也不熬夜。",
+    "type": "Time Trigger",
+    "natural_expression": "To ensure I fall asleep promptly at 23:00 for optimal muscle growth, I strictly put away my phone and stop coding at 22:00. This schedule is non-negotiable; no matter how busy the project gets, I never stay up late.",
     "involved_entities": [
-      "23:00 入睡",
-      "肌肉生长",
-      "22:00 断网",
-      "作息纪律"
+      "23:00 Bedtime",
+      "Muscle Growth",
+      "22:00 Digital Detox",
+      "Schedule Discipline"
     ]
   },
   {
     "id": "behavior_10",
-    "type": "行为模式触发器",
-    "natural_expression": "我对跑鞋有着严格的轮换纪律，日常 LSD 训练只穿 Asics Kayano 30，那双珍贵的 Nike Vaporfly 3 必须留到比赛日或强度课才能登场。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "I maintain a strict rotation discipline for my running shoes: I wear only the Asics Kayano 30 for daily LSD training, saving my prized Nike Vaporfly 3 exclusively for race days or high-intensity workouts.",
     "involved_entities": [
-      "跑鞋轮换",
+      "Shoe Rotation",
       "Asics Kayano 30",
       "Nike Vaporfly 3",
-      "装备爱惜"
+      "Gear Care"
     ]
   },
   {
     "id": "behavior_11",
-    "type": "情感触发器",
-    "natural_expression": "每当在 Strava 上打破个人纪录或完成长距离训练，我一定会截图数据发朋友圈，这不仅是记录，更是通过社交认同来强化自己的跑者身份。",
+    "type": "Emotional Trigger",
+    "natural_expression": "Whenever I break a personal record or complete a long-distance run on Strava, I always screenshot the data and share it on my social media feed. This isn't just about logging progress; it's about reinforcing my identity as a runner through social validation.",
     "involved_entities": [
-      "Strava 数据截图",
-      "朋友圈分享",
-      "社交认同",
-      "身份强化"
+      "Strava Data Screenshot",
+      "Social Media Sharing",
+      "Social Validation",
+      "Identity Reinforcement"
     ]
   },
   {
     "id": "behavior_12",
-    "type": "行为模式触发器",
-    "natural_expression": "随餐服用复合维生素和肌酸是我每天的固定动作，就像代码里的依赖库一样，缺了它们，我的身体系统就无法高效运行。",
+    "type": "Behavioral Pattern Trigger",
+    "natural_expression": "Taking a multivitamin and creatine with meals is my daily fixed routine, much like a dependency library in code; without them, my body's system cannot run efficiently.",
     "involved_entities": [
-      "复合维生素",
-      "肌酸",
-      "随餐服用",
-      "身体系统"
+      "Multivitamin",
+      "Creatine",
+      "Taking with meals",
+      "Body system"
     ]
   },
   {
     "id": "multihop_01",
-    "type": "多跳触发器",
-    "natural_expression": "2023 年右膝髂胫束综合征的伤痛记忆，让我在每次周日使用筋膜枪放松大腿外侧时格外专注，这种对恢复的敬畏直接促使我养成了工作日严格 23:00 入睡的习惯，以确保肌肉能在深度睡眠中彻底修复。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The painful memory of my right knee's Iliotibial Band Syndrome (ITBS) in 2023 makes me格外 focused every Sunday when using a massage gun to relax the outer thigh. This reverence for recovery directly led me to develop a strict habit of falling asleep at 23:00 on weekdays, ensuring my muscles can fully repair during deep sleep.",
     "involved_entities": [
-      "2023 年 ITBS 受伤",
-      "周日筋膜枪放松",
-      "23:00 入睡习惯",
-      "肌肉修复逻辑"
+      "2023 ITBS Injury",
+      "Sunday Massage Gun Relaxation",
+      "23:00 Sleep Habit",
+      "Muscle Repair Logic"
     ]
   },
   {
     "id": "multihop_02",
-    "type": "多跳触发器",
-    "natural_expression": "为了在穿着 Nike Vaporfly 3 冲击半马 1 小时 40 分大关时发挥极致性能，我必须在周六长距离拉练中穿着 Asics Kayano 30 积累足够的耐力底子，而拉练后的周日欺骗餐则是对这一周艰苦备战的必要能量补偿。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "To achieve peak performance while wearing Nike Vaporfly 3 shoes in my attempt to break the 1-hour-40-minute barrier in the half marathon, I must build sufficient endurance by wearing Asics Kayano 30 during Saturday long-distance runs. The cheat meal on Sunday after these runs serves as a necessary energy compensation for the week's grueling preparation.",
     "involved_entities": [
       "Nike Vaporfly 3",
-      "半马 PB 目标",
-      "Asics Kayano 30 拉练",
-      "周六欺骗餐"
+      "Half Marathon PB Goal",
+      "Asics Kayano 30 Long Run",
+      "Saturday Cheat Meal"
     ]
   },
   {
     "id": "multihop_03",
-    "type": "多跳触发器",
-    "natural_expression": "周二清晨与陈宇在滨江跑道的 LSD 约跑，不仅依靠互相监督配速来克服惰性，更因为不想在队友面前掉队，这种同伴压力让我在周三的项目高压期也能保持冷静，甚至将这种自律延伸到了深夜的 Excel 训练数据分析中。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Tuesday morning LSD runs with Chen Yu at the Binjiang track rely not only on mutual pace supervision to overcome inertia but also on the desire not to fall behind in front of a teammate. This peer pressure allows me to stay calm during Wednesday's high-pressure project periods, extending this self-discipline even to late-night Excel training data analysis.",
     "involved_entities": [
-      "陈宇",
-      "滨江跑道 LSD",
-      "同伴压力",
-      "Excel 数据分析"
+      "Chen Yu",
+      "Binjiang Track LSD",
+      "Peer Pressure",
+      "Excel Data Analysis"
     ]
   },
   {
     "id": "multihop_04",
-    "type": "多跳触发器",
-    "natural_expression": "母亲张慧精心炖煮的牛肉提供了优质蛋白，父亲林建国从担忧到自豪的态度转变消除了我的心理负担，这两股家庭力量共同支撑我敢于在健身房向王强寻求保护，去冲击深蹲 1.5 倍体重的极限目标。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The high-quality protein from the beef stew meticulously prepared by my mother, Zhang Hui, combined with my father, Lin Jianguo's, shift from worry to pride which eliminated my psychological burden, together empowered me to confidently ask Wang Qiang for a spot at the gym as I aimed to hit my limit goal of squatting 1.5 times my body weight.",
     "involved_entities": [
-      "母亲张慧的炖牛肉",
-      "父亲林建国的态度转变",
-      "王强的保护",
-      "深蹲 1.5 倍体重目标"
+      "Mother Zhang Hui's Beef Stew",
+      "Father Lin Jianguo's Attitude Shift",
+      "Wang Qiang's Spotting",
+      "Squat 1.5x Body Weight Goal"
     ]
   },
   {
     "id": "multihop_05",
-    "type": "多跳触发器",
-    "natural_expression": "当项目上线前的代码 Bug 引发焦虑时，我会立即戴上 Shokz 骨传导耳机进行 HIIT 训练，这种通过身体疲惫换取大脑清空的机制，让我能在结束后迅速回归理性，像分析渐进负荷曲线一样清晰地梳理代码逻辑。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "When code bugs before a project launch trigger anxiety, I immediately put on my Shokz bone conduction headphones for a HIIT session. This mechanism of trading physical exhaustion for mental clarity allows me to quickly return to a rational state afterward, sorting through code logic as clearly as analyzing a progressive overload curve.",
     "involved_entities": [
-      "代码 Bug 焦虑",
-      "Shokz 耳机与 HIIT",
-      "大脑清空",
-      "代码逻辑梳理"
+      "Code Bug Anxiety",
+      "Shokz Headphones and HIIT",
+      "Mental Clarity",
+      "Code Logic Sorting"
     ]
   },
   {
     "id": "multihop_06",
-    "type": "多跳触发器",
-    "natural_expression": "Garmin 手表记录的跑步数据同步到 Strava 后，我会结合 Excel 中记录的力量训练负荷曲线进行交叉分析，一旦发现疲劳累积迹象，就会立刻调整下周计划，增加冷热交替浴的频率以防止 2023 年的伤病重演。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "After syncing running data from my Garmin watch to Strava, I cross-analyze it with the strength training load curves recorded in Excel. Once signs of cumulative fatigue are detected, I immediately adjust the following week's plan and increase the frequency of contrast baths to prevent a recurrence of the injuries I suffered in 2023.",
     "involved_entities": [
-      "Garmin 数据",
-      "Excel 负荷曲线",
-      "疲劳分析",
-      "冷热交替浴"
+      "Garmin Data",
+      "Excel Load Curves",
+      "Fatigue Analysis",
+      "Contrast Baths"
     ]
   },
   {
     "id": "multihop_07",
-    "type": "多跳触发器",
-    "natural_expression": "2021 年杭州马拉松确立的‘跑者’身份认同，是我在 2023 年遭遇 ITBS 停训两个月后能够坚持复健的精神支柱，这份信念让我如今在每次清晨 6:30 空腹喝下黑咖啡时，都充满了对新一天训练的期待而非痛苦。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The 'runner' identity established during the 2021 Hangzhou Marathon served as my spiritual pillar, enabling me to persist through rehabilitation after being sidelined for two months due to ITBS in 2023. This belief ensures that every morning at 6:30 AM, when I drink black coffee on an empty stomach, I feel anticipation for the day's training rather than dread.",
     "involved_entities": [
-      "2021 杭马身份认同",
-      "2023 年停训挫折",
-      "复健坚持",
-      "晨间黑咖啡仪式"
+      "2021 Hangzhou Marathon Identity",
+      "2023 Training Hiatus Setback",
+      "Rehabilitation Persistence",
+      "Morning Black Coffee Ritual"
     ]
   },
   {
     "id": "multihop_08",
-    "type": "多跳触发器",
-    "natural_expression": "王强在我冲击大重量深蹲时的精准保护，让我积累了足够的信心去细化动作细节，这种技术上的精进反过来让我在指导父亲林建国关于营养品安全性的疑问时，能给出更科学、更具说服力的解剖学依据。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Wang Qiang's precise spotting while I attempted heavy squats gave me enough confidence to refine my movement details. This technical improvement, in turn, allowed me to provide my father, Lin Jianguo, with more scientific and convincing anatomical evidence when addressing his questions about supplement safety.",
     "involved_entities": [
-      "王强的保护",
-      "深蹲技术精进",
-      "动作细节",
-      "父亲的营养品疑问"
+      "Wang Qiang's Spotting",
+      "Squat Technique Refinement",
+      "Movement Details",
+      "Father's Supplement Questions"
     ]
   },
   {
     "id": "multihop_09",
-    "type": "多跳触发器",
-    "natural_expression": "工作日每天自带糙米饭和鸡胸肉便当的严格自律，是为了积攒足够的‘代谢额度’，以便在周六完成长距离拉练后，能心安理得地享受那顿欺骗餐，而这种满足感又成为了下周继续坚持健康饮食的强大动力。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "The strict discipline of bringing brown rice and chicken breast bento boxes every weekday is aimed at accumulating enough 'metabolic credit.' This allows me to enjoy a cheat meal with a clear conscience after completing a long-distance run on Saturday, and that sense of satisfaction becomes a powerful motivator to maintain a healthy diet for the following week.",
     "involved_entities": [
-      "工作日自带便当",
-      "代谢额度积累",
-      "周六长距离拉练",
-      "欺骗餐满足感"
+      "Weekday Bento Preparation",
+      "Metabolic Credit Accumulation",
+      "Saturday Long-Distance Run",
+      "Cheat Meal Satisfaction"
     ]
   },
   {
     "id": "multihop_10",
-    "type": "多跳触发器",
-    "natural_expression": "正是因为平时训练严格轮换使用 Asics Kayano 30 以保护双脚，才确保了 Nike Vaporfly 3 在比赛日的最佳状态，这种对装备的爱惜如同我对待代码架构一样严谨，最终助我在 Strava 上不断刷新个人纪录并获得社交认同。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "It is precisely because I strictly rotate my Asics Kayano 30 during regular training to protect my feet that I ensure the Nike Vaporfly 3 is in peak condition on race day. This meticulous care for my gear mirrors the rigor I apply to code architecture, ultimately helping me continuously break personal records on Strava and gain social recognition.",
     "involved_entities": [
-      "跑鞋轮换纪律",
-      "装备最佳状态",
-      "比赛日表现",
-      "Strava 社交认同"
+      "Shoe Rotation Discipline",
+      "Optimal Gear Condition",
+      "Race Day Performance",
+      "Strava Social Recognition"
     ]
   },
   {
     "id": "multihop_11",
-    "type": "多跳触发器",
-    "natural_expression": "清晨 6:30 的黑咖啡与核心激活为一天的工作注入了高效能，使我能准时在 19:30 下班前往乐刻运动完成高质量的力量训练，进而保证了睡前有充足的精力进行泡沫轴放松，形成从唤醒到恢复的完美闭环。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "Black coffee and core activation at 6:30 AM inject high efficiency into my workday, enabling me to clock off at 7:30 PM and head to Lefits Gym for a high-quality strength session. This, in turn, ensures I have enough energy before bed for foam rolling, creating a perfect closed loop from awakening to recovery.",
     "involved_entities": [
-      "晨间黑咖啡与激活",
-      "高效工作",
-      "晚间力量训练",
-      "睡前泡沫轴放松"
+      "Morning Black Coffee and Activation",
+      "High-Efficiency Work",
+      "Evening Strength Training",
+      "Pre-Sleep Foam Rolling"
     ]
   },
   {
     "id": "multihop_12",
-    "type": "多跳触发器",
-    "natural_expression": "作为浙大计算机出身的工程师，我将 MyFitnessPal 中的热量数据视为输入参数，将 Excel 中的负荷曲线视为算法输出，这种量化思维让我能像调试代码一样精准调整 ON 蛋白粉和肌酸的摄入量，从而稳步逼近深蹲 1.5 倍体重的目标。",
+    "type": "Multi-hop Trigger",
+    "natural_expression": "As an engineer with a computer science background from Zhejiang University, I treat calorie data in MyFitnessPal as input parameters and load curves in Excel as algorithm outputs. This quantitative mindset allows me to precisely adjust my intake of ON protein powder and creatine, much like debugging code, steadily approaching my goal of squatting 1.5 times my body weight.",
     "involved_entities": [
-      "计算机专业背景",
-      "MyFitnessPal 数据",
-      "Excel 负荷算法",
-      "补剂精准调整"
+      "Computer Science Background",
+      "MyFitnessPal Data",
+      "Excel Load Algorithm",
+      "Precise Supplement Adjustment"
     ]
   }
 ]

@@ -9,8 +9,8 @@
         "behavior_01",
         "multihop_09"
       ],
-      "session_theme": "京都回忆与独行自信",
-      "conversation_seed": "翻看小红书上的京都游记，想起 2018 年独自在那里的时光，那是转岗前最自信的时刻。"
+      "session_theme": "Kyoto Memories and Solo Confidence",
+      "conversation_seed": "Browsing Kyoto travelogues on Xiaohongshu reminded me of my solo trip there in 2018, the most confident period before my job transfer."
     },
     {
       "session_id": 2,
@@ -21,8 +21,8 @@
         "emotion_02",
         "behavior_10"
       ],
-      "session_theme": "罗马历史与家庭纽带",
-      "conversation_seed": "在多邻国学意大利语时，想起了和父亲在罗马斗兽场的合影，那种对古迹的敬畏感至今难忘。"
+      "session_theme": "Roman History and Family Bonds",
+      "conversation_seed": "While learning Italian on Duolingo, I recalled the photo my father and I took at the Colosseum in Rome; the awe I felt for those ancient ruins remains unforgettable."
     },
     {
       "session_id": 3,
@@ -33,8 +33,8 @@
         "multihop_07",
         "emotion_11"
       ],
-      "session_theme": "摄影器材与孤独慰藉",
-      "conversation_seed": "整理 Sony A7C II 的照片时，看到会安的灯笼，突然想起生病时母亲寄来的感冒药，那一刻孤独又温暖。"
+      "session_theme": "Photography Gear and Solace in Solitude",
+      "conversation_seed": "While organizing photos from my Sony A7C II, I saw the lanterns of Hoi An and suddenly remembered the cold medicine my mother sent when I was sick—a moment that felt both lonely and warm."
     },
     {
       "session_id": 4,
@@ -45,8 +45,8 @@
         "behavior_12",
         "multihop_05"
       ],
-      "session_theme": "特价机票与极地梦想",
-      "conversation_seed": "周五晚上刷到去挪威峡湾的特价机票， Bucket List 里的南极和秘鲁似乎也不再遥远，老 K 说的极光就在眼前。"
+      "session_theme": "Discount Flights and Polar Dreams",
+      "conversation_seed": "Scrolling through discount flights to the Norwegian fjords on a Friday night made Antarctica and Peru on my Bucket List feel within reach; the aurora Old K mentioned seems right before my eyes."
     },
     {
       "session_id": 5,
@@ -57,8 +57,8 @@
         "emotion_06",
         "multihop_02"
       ],
-      "session_theme": "青藏铁路与家庭旅行",
-      "conversation_seed": "春节看火车时刻表想起父亲，后来带父母去新加坡环球影城，他们开心的样子治愈了曾经的迷茫。"
+      "session_theme": "Qinghai-Tibet Railway and Family Travel",
+      "conversation_seed": "Checking train schedules during the Spring Festival reminded me of my father; later, taking my parents to Universal Studios Singapore healed my past confusion with their joyful expressions."
     },
     {
       "session_id": 6,
@@ -69,8 +69,8 @@
         "multihop_08",
         "behavior_07"
       ],
-      "session_theme": "张薇的旅行规划术",
-      "conversation_seed": "张薇用 Excel 做的新西兰和瑞士行程太惊艳了，特别是因特拉肯到少女峰的细节，值得学习她的小众景点挖掘能力。"
+      "session_theme": "Zhang Wei's Travel Planning Techniques",
+      "conversation_seed": "Zhang Wei's Excel itinerary for New Zealand and Switzerland was stunning, especially the details from Interlaken to Jungfrau; her ability to uncover hidden gems is worth learning."
     },
     {
       "session_id": 7,
@@ -81,8 +81,8 @@
         "emotion_08",
         "behavior_04"
       ],
-      "session_theme": "江浙沪周边与泰国夜市",
-      "conversation_seed": "周末在江浙沪古镇逛累了，想起和林悦在清迈夜市吃炒粿条的快乐，那种烟火气是咖啡馆给不了的。"
+      "session_theme": "Jiangnan Getaways and Thai Night Markets",
+      "conversation_seed": "After a tiring weekend exploring ancient towns in the Jiangnan region, I recalled the joy of eating fried kway teow with Lin Yue at the Chiang Mai night market; that vibrant atmosphere is something cafes just can't offer."
     },
     {
       "session_id": 8,
@@ -93,8 +93,8 @@
         "behavior_02",
         "multihop_03"
       ],
-      "session_theme": "入职纪念与冰川徒步",
-      "conversation_seed": "入职纪念日这天，怀念起在冰岛和阿杰冰川徒步的兴奋，那是 2021 年转岗后最释放的时刻，自驾在雷克雅未克的感觉真好。"
+      "session_theme": "Work Anniversary and Glacier Trekking",
+      "conversation_seed": "On my work anniversary, I missed the excitement of glacier trekking in Iceland with A Jie; it was my most liberating moment after transferring roles in 2021, and driving around Reykjavik felt wonderful."
     },
     {
       "session_id": 9,
@@ -105,8 +105,8 @@
         "emotion_04",
         "behavior_06"
       ],
-      "session_theme": "双十一购物与异国关怀",
-      "conversation_seed": "双十一买了相机镜头，却想起在会安生病时，陈秀兰特意送来的感冒药和榨菜，那是比礼物更珍贵的情谊。"
+      "session_theme": "Singles' Day Shopping and Care from Abroad",
+      "conversation_seed": "I bought a camera lens during the Singles' Day sale, but it reminded me of when I fell ill in Hoi An and Chen Xiulan specially delivered cold medicine and pickled vegetables to me—a friendship more precious than any gift."
     },
     {
       "session_id": 10,
@@ -117,8 +117,8 @@
         "emotion_03",
         "behavior_11"
       ],
-      "session_theme": "极光追逐与极限挑战",
-      "conversation_seed": "和老 K 聊起挪威的极光，思绪飘到新西兰皇后镇，阿杰带我去跳伞和冰川徒步的场景历历在目，那是真正的冒险。"
+      "session_theme": "Chasing Auroras and Extreme Challenges",
+      "conversation_seed": "Talking with Old K about the aurora in Norway, my mind drifted to Queenstown in New Zealand; the scenes of A Jie taking me skydiving and glacier trekking are vivid in my memory—that was true adventure."
     },
     {
       "session_id": 11,
@@ -129,8 +129,8 @@
         "emotion_10",
         "behavior_05"
       ],
-      "session_theme": "博物馆之旅与艺术收藏",
-      "conversation_seed": "在佛罗伦萨乌菲兹美术馆的老 K 带领下，爱上了艺术，现在每次旅行都会像张薇建议的那样，收集冰箱贴和明信片作为纪念。"
+      "session_theme": "Museum Tours and Art Collecting",
+      "conversation_seed": "Under Old K's guidance at the Uffizi Gallery in Florence, I fell in love with art; now, as Zhang Wei suggested, I collect fridge magnets and postcards on every trip as souvenirs."
     },
     {
       "session_id": 12,
@@ -141,8 +141,8 @@
         "entity_10",
         "multihop_10"
       ],
-      "session_theme": "旅行纪念品与内容创作",
-      "conversation_seed": "整理朋友送的旅行纪念品，触发灵感写一篇关于新西兰和冰岛的游记博客，顺便回顾双十一买的镜头在极光下的表现。"
+      "session_theme": "Travel Souvenirs and Content Creation",
+      "conversation_seed": "Sorting through travel souvenirs gifted by friends sparked the inspiration to write a blog post about New Zealand and Iceland, while also reviewing how the lens I bought on Singles' Day performed under the aurora."
     },
     {
       "session_id": 13,
@@ -153,8 +153,8 @@
         "multihop_04",
         "emotion_01"
       ],
-      "session_theme": "槟城漫步与思乡之情",
-      "conversation_seed": "在槟城乔治市壁画街 City Walk 时，突然孤独想家，怀念起大理海边民宿的咖啡，还有陈秀兰关心的话语。"
+      "session_theme": "Strolling in Penang and Homesickness",
+      "conversation_seed": "While city walking along the mural streets of George Town in Penang, I suddenly felt lonely and homesick, missing the coffee at a seaside guesthouse in Dali and Chen Xiulan's caring words."
     },
     {
       "session_id": 14,
@@ -165,8 +165,8 @@
         "multihop_11",
         "emotion_05"
       ],
-      "session_theme": "巴黎漫步与雪山向往",
-      "conversation_seed": "张薇推荐的巴黎蒙马特高地咖啡馆太棒了，这种城市漫步让人放松，不禁又向往起因特拉肯的雪山和雷克雅未克的极光。"
+      "session_theme": "Paris Strolls and Longing for Snow-Capped Peaks",
+      "conversation_seed": "The cafe in Montmartre recommended by Zhang Wei was fantastic; this kind of city walk is so relaxing, making me long again for the snow-capped mountains of Interlaken and the aurora of Reykjavik."
     },
     {
       "session_id": 15,
@@ -177,8 +177,8 @@
         "behavior_10",
         "multihop_06"
       ],
-      "session_theme": "伏见稻荷与风格碰撞",
-      "conversation_seed": "再次想起在伏见稻荷大社的独自祈祷，那种宁静与后来在清迈夜市和林悦、张薇讨论旅行风格冲突时的热闹形成鲜明对比。"
+      "session_theme": "Fushimi Inari and Clashing Styles",
+      "conversation_seed": "Recalling my solitary prayer at Fushimi Inari Taisha, that sense of tranquility stood in stark contrast to the lively debate Lin Yue, Zhang Wei, and I had about conflicting travel styles at the Chiang Mai night market."
     },
     {
       "session_id": 16,
@@ -189,8 +189,8 @@
         "behavior_04",
         "time_01"
       ],
-      "session_theme": "工作压力与治愈之旅",
-      "conversation_seed": "工作压力大时，张薇总提去镰仓或京都，想起 2018 年在日本的海边民宿喝咖啡的日子，还有那些藏在巷子里的苍蝇馆子。"
+      "session_theme": "Work Stress and Healing Journeys",
+      "conversation_seed": "When work stress mounts, Zhang Wei always mentions Kamakura or Kyoto; I reminisce about drinking coffee at a seaside guesthouse in Japan in 2018 and those hidden hole-in-the-wall eateries tucked away in alleys."
     },
     {
       "session_id": 17,
@@ -201,8 +201,8 @@
         "behavior_05",
         "emotion_06"
       ],
-      "session_theme": "家庭友好型旅行计划",
-      "conversation_seed": "计划明年带父母去新加坡环球影城，让他们开心最重要，记得上次去还买了些特色餐具做纪念，父母很喜欢。"
+      "session_theme": "Family-Friendly Travel Plans",
+      "conversation_seed": "Planning to take my parents to Universal Studios Singapore next year; their happiness is what matters most. I remember buying some unique tableware as souvenirs last time, which they really loved."
     },
     {
       "session_id": 18,
@@ -213,8 +213,8 @@
         "time_11",
         "behavior_02"
       ],
-      "session_theme": "雪山极光与数据之美",
-      "conversation_seed": "看着张薇用 Excel 规划的因特拉肯行程，感叹数据也能展现美感，就像雪山和极光一样震撼，下次自驾也要靠窗坐。"
+      "session_theme": "Snow Peaks, Auroras, and the Beauty of Data",
+      "conversation_seed": "Looking at the Interlaken itinerary Zhang Wei planned in Excel, I marveled at how data can display beauty, just as shocking as snow peaks and auroras; next time I drive, I'll make sure to sit by the window."
     },
     {
       "session_id": 19,
@@ -225,8 +225,8 @@
         "entity_04",
         "time_02"
       ],
-      "session_theme": "艺术之都与亲情关怀",
-      "conversation_seed": "佛罗伦萨的艺术氛围让人沉醉，想起在罗马时父母寄来的感冒药，无论走多远，家人的关怀总是最温暖的底色。"
+      "session_theme": "City of Art and Family Care",
+      "conversation_seed": "The artistic atmosphere of Florence is intoxicating; it reminds me of the cold medicine my parents sent when I was in Rome. No matter how far I travel, family care remains the warmest backdrop."
     },
     {
       "session_id": 20,
@@ -237,8 +237,8 @@
         "behavior_11",
         "multihop_03"
       ],
-      "session_theme": "回顾转岗与冒险精神",
-      "conversation_seed": "半年总结之际，回顾 2021 年转岗后的变化，感谢那个在冰岛冰川徒步、在新西兰跳伞的自己，永远保持兴奋和庆祝的心态。"
+      "session_theme": "Reflecting on Role Transfer and the Spirit of Adventure",
+      "conversation_seed": "At this mid-year review, reflecting on the changes since my role transfer in 2021, I thank the version of myself that trekked glaciers in Iceland and went skydiving in New Zealand; may I always maintain a mindset of excitement and celebration."
     }
   ]
 }

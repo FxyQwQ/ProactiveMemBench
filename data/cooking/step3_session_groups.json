@@ -8,8 +8,8 @@
         "entity_12",
         "multihop_10"
       ],
-      "session_theme": "周三冰箱清空挑战：从剩余食材到 Fusion 料理的产品化思维",
-      "conversation_seed": "晓雅在周三晚上面对冰箱里的剩余食材，启动'清空冰箱挑战'，利用设计思维将 disparate 食材重组为 Fusion 料理，并记录在食谱笔记中，仿佛在进行一次食物产品的迭代开发。"
+      "session_theme": "Wednesday Fridge Clearance Challenge: Productizing Fusion Cuisine from Leftovers",
+      "conversation_seed": "On Wednesday night, Xiaoya faced the leftovers in her fridge and launched a 'Fridge Clearance Challenge.' Using design thinking, she recombined disparate ingredients into Fusion dishes, documenting the process in her recipe notebook as if iterating on a food product."
     },
     {
       "session_id": 2,
@@ -19,8 +19,8 @@
         "entity_10",
         "multihop_06"
       ],
-      "session_theme": "周日早市烟火气：双流白家批发市场的极致新鲜采购",
-      "conversation_seed": "周日上午，晓雅穿梭在双流白家批发市场，亲手挑选极致新鲜的菌菇和核心食材，这种早市的烟火气为她周五晚上的治愈慢炖汤提供了灵感来源，并计划将采购故事分享至小红书。"
+      "session_theme": "Sunday Morning Market Vibes: Sourcing Ultimate Freshness at Shuangliu Baijia Wholesale Market",
+      "conversation_seed": "On Sunday morning, Xiaoya navigated the Shuangliu Baijia Wholesale Market, hand-picking ultra-fresh mushrooms and core ingredients. The lively atmosphere of the early market inspired her healing slow-simmered soup for Friday night, and she plans to share this sourcing story on Xiaohongshu."
     },
     {
       "session_id": 3,
@@ -30,8 +30,8 @@
         "entity_05",
         "multihop_12"
       ],
-      "session_theme": "压力下的辛辣救赎：一碗销魂豌杂面的情绪宣泄",
-      "conversation_seed": "面对繁重的方案修改和工作压力，晓雅拒绝外卖，选择亲手制作销魂豌杂面。切菜的节奏和辛辣的味觉成为她的情绪宣泄口，她在烹饪中进行设计复盘，将烦躁转化为味蕾的满足。"
+      "session_theme": "Spicy Redemption Under Pressure: Emotional Release in a Bowl of Soul-Stirring Pea and Meat Sauce Noodles",
+      "conversation_seed": "Facing heavy proposal revisions and work stress, Xiaoya rejected takeout and chose to make soul-stirring pea and meat sauce noodles from scratch. The rhythm of chopping and the spicy flavors became her emotional outlet; she conducted a design review while cooking, transforming irritation into culinary satisfaction."
     },
     {
       "session_id": 4,
@@ -41,8 +41,8 @@
         "entity_01",
         "emotion_02"
       ],
-      "session_theme": "思乡味的传承：与母亲视频争论中的简化版开水白菜",
-      "conversation_seed": "孤独感涌上心头，晓雅与母亲张慧视频通话，试图复刻正宗回锅肉却引发关于'低油改良版'的争论。最终她选择慢火吊汤制作简化版开水白菜，在情感连接中寻找味觉记忆与健康的平衡。"
+      "session_theme": "Inheriting the Taste of Home: A Simplified Version of Kai Shui Bai Cai Amidst a Video Debate with Mom",
+      "conversation_seed": "Overwhelmed by loneliness, Xiaoya video-called her mother, Zhang Hui, attempting to replicate authentic Twice-Cooked Pork, which sparked a debate over a 'low-oil improved version.' Ultimately, she chose to simmer a broth over low heat to make a simplified Kai Shui Bai Cai, seeking a balance between taste memories and health through emotional connection."
     },
     {
       "session_id": 5,
@@ -52,8 +52,8 @@
         "entity_07",
         "emotion_03"
       ],
-      "session_theme": "镜头下的成就感：从小红书社区互动到创意摆盘",
-      "conversation_seed": "晓雅将精心制作的创意摆盘菜品进行摄影，自然光下修图调色后发布到小红书。闺蜜陈思思作为首席品鉴官的惊喜反应和社区认同感，让她获得了巨大的成就感，验证了她的'设计师厨神'身份。"
+      "session_theme": "Achievement Through the Lens: From Xiaohongshu Community Interaction to Creative Plating",
+      "conversation_seed": "Xiaoya photographed her meticulously crafted creatively plated dishes, edited the colors under natural light, and posted them on Xiaohongshu. The surprised reaction of her best friend Chen Sisi, acting as the chief tasting officer, along with the sense of community validation, gave her immense achievement, confirming her identity as a 'Designer Chef God.'"
     },
     {
       "session_id": 6,
@@ -63,8 +63,8 @@
         "behavior_11",
         "emotion_06"
       ],
-      "session_theme": "闺蜜间的精致投喂：周一便当里的友情升温",
-      "conversation_seed": "周末与闺蜜陈思思探店后，晓雅在周一早上准备了精致便当作为回礼。看到朋友惊喜的反应和收到用户反馈般的菜单调整建议，两人在分享快乐中友情升温，便当成为了社交互动的载体。"
+      "session_theme": "Exquisite Feeding Between Best Friends: Friendship Warms Up in Monday Bento Boxes",
+      "conversation_seed": "After exploring shops with her best friend Chen Sisi over the weekend, Xiaoya prepared an exquisite bento box on Monday morning as a return gift. Seeing her friend's surprised reaction and receiving menu adjustment suggestions akin to user feedback, their friendship deepened through shared joy, with the bento becoming a vessel for social interaction."
     },
     {
       "session_id": 7,
@@ -74,8 +74,8 @@
         "entity_03",
         "emotion_10"
       ],
-      "session_theme": "邻里间的食材交换：进口牛肉与全麦面包的默契",
-      "conversation_seed": "晓雅与邻居王浩然进行了一次食材交换，用自制的高蛋白低脂全麦面包换取了对方的进口牛肉。这种基于健康理念的邻里默契，让她感受到了独居生活中被关爱的温情互动。"
+      "session_theme": "Neighborhood Ingredient Exchange: The Tacit Understanding Between Imported Beef and Whole Wheat Bread",
+      "conversation_seed": "Xiaoya conducted an ingredient exchange with her neighbor Wang Haoran, trading her homemade high-protein, low-fat whole wheat bread for his imported beef. This neighborhood tacit understanding, based on health concepts, made her feel the warmth of being cared for in her solitary living life."
     },
     {
       "session_id": 8,
@@ -85,8 +85,8 @@
         "entity_02",
         "behavior_09"
       ],
-      "session_theme": "父亲的远程投喂：新鲜土鸡与铸铁锅的验收仪式",
-      "conversation_seed": "父亲林建国寄来的新鲜土鸡和野生菌菇到达，晓雅像验收产品一样检查食材质量。她拿出父亲送的 Le Creuset 铸铁锅，准备炖汤，视频通话中父母的关切让她倍感温暖，正宗回锅肉的味道仿佛就在嘴边。"
+      "session_theme": "Remote Feeding from Father: The Acceptance Ceremony for Fresh Native Chicken and a Cast Iron Pot",
+      "conversation_seed": "Upon the arrival of fresh native chicken and wild mushrooms sent by her father, Lin Jianguo, Xiaoya inspected the ingredient quality as if accepting a product. She took out the Le Creuset cast iron pot gifted by her father to prepare soup; the concern expressed by her parents during the video call warmed her heart, making the taste of authentic Twice-Cooked Pork feel just within reach."
     },
     {
       "session_id": 9,
@@ -96,8 +96,8 @@
         "entity_04",
         "behavior_06"
       ],
-      "session_theme": "厨房里的设计实验室：低温慢煮与新派川菜的味型重构",
-      "conversation_seed": "晓雅将设计思维应用于烹饪，利用精密电子秤和低温慢煮机进行新派川菜实验。她像调试产品一样重构味型，探索可食用的产品设计，享受多任务并行的高效厨房带来的实验乐趣。"
+      "session_theme": "The Design Lab in the Kitchen: Flavor Reconstruction of New-Style Sichuan Cuisine via Sous-Vide",
+      "conversation_seed": "Applying design thinking to cooking, Xiaoya conducted experiments on new-style Sichuan cuisine using precision scales and sous-vide machines. Like debugging a product, she reconstructed flavor profiles and explored edible product design, enjoying the experimental fun brought by an efficient, multitasking kitchen."
     },
     {
       "session_id": 10,
@@ -107,8 +107,8 @@
         "entity_08",
         "multihop_05"
       ],
-      "session_theme": "里程碑回顾：从惠灵顿牛排的失败到技艺融合的自信",
-      "conversation_seed": "回顾 2023 年的里程碑，晓雅想起挑战惠灵顿牛排时的失败与成功。那段经历不仅提升了烘焙技艺，更实现了西餐与川味的融合，成为她职业自信的重要来源，证明了设计师也能攻克高难度菜品。"
+      "session_theme": "Milestone Review: From Beef Wellington Failure to Confidence in Integrated Skills",
+      "conversation_seed": "Reviewing milestones from 2023, Xiaoya recalled her failures and successes while challenging Beef Wellington. That experience not only improved her baking skills but also achieved a fusion of Western and Sichuan flavors, becoming a significant source of her professional confidence and proving that a designer can also conquer high-difficulty dishes."
     },
     {
       "session_id": 11,
@@ -118,8 +118,8 @@
         "entity_11",
         "multihop_08"
       ],
-      "session_theme": "美食评论家的视角：隐蔽 Bistro 与网红店的品味对决",
-      "conversation_seed": "外出就餐时，晓雅对比了网红店与隐蔽 Bistro 的差异。她关注食材原产地，撰写大众点评长评，烦躁情绪在品味美食中得到缓解，她以专业设计师的挑剔眼光审视着主厨餐桌的每一个细节。"
+      "session_theme": "The Food Critic's Perspective: A Showdown of Taste Between Hidden Bistros and Viral Shops",
+      "conversation_seed": "While dining out, Xiaoya compared the differences between viral shops and hidden bistros. Focusing on ingredient origins, she wrote detailed reviews on Dianping. Her irritability eased while savoring the food, as she examined every detail of the chef's table with the picky eye of a professional designer."
     },
     {
       "session_id": 12,
@@ -129,8 +129,8 @@
         "emotion_12",
         "multihop_09"
       ],
-      "session_theme": "职业高光时刻：2021 年会川味鹅肝酱带来的设计自信",
-      "conversation_seed": "想起 2021 年年会上凭借川味鹅肝酱伴手礼获得满堂彩的经历，晓雅重拾职业自信。她将视觉传达中的色彩构成应用于创意摆盘，利用 Siemens 蒸烤箱制作法式甜点，朋友圈的点赞再次验证了她的双重身份。"
+      "session_theme": "Career Highlight: Design Confidence Brought by Sichuan-Style Foie Gras Pate at the 2021 Annual Meeting",
+      "conversation_seed": "Recalling the 2021 annual meeting where her Sichuan-style foie gras pate gift received round applause, Xiaoya regained her professional confidence. She applied color composition from visual communication to creative plating and used a Siemens steam oven to make French desserts; likes on WeChat Moments once again validated her dual identity."
     },
     {
       "session_id": 13,
@@ -140,8 +140,8 @@
         "behavior_08",
         "emotion_07"
       ],
-      "session_theme": "秩序与洁净：Mise en place 与零油污的设计执念",
-      "conversation_seed": "晓雅在烹饪前严格执行 Mise en place（食材分装），利用精密电子秤称量。烹饪间隙随手清洁，保持台面零油污，这种设计执念带来的秩序感让她在实验中充满好奇心和乐趣。"
+      "session_theme": "Order and Cleanliness: The Design Obsession with Mise en Place and Zero Oil Stains",
+      "conversation_seed": "Before cooking, Xiaoya strictly executed Mise en Place (portioning ingredients), using precision scales for measurement. She cleaned casually during cooking intervals to keep the countertop free of oil stains. The sense of order brought by this design obsession filled her with curiosity and fun during her experiments."
     },
     {
       "session_id": 14,
@@ -151,8 +151,8 @@
         "behavior_09",
         "entity_02"
       ],
-      "session_theme": "铸铁锅的养护哲学：父亲寄来的土鸡与油膜状态检查",
-      "conversation_seed": "晓雅仔细检查 Le Creuset 铸铁锅的油膜状态，确保最佳导热性能。她再次验收父亲寄来的菌菇和土鸡，准备用这口锅炖汤，将对厨具的仪式感与对家人的情感连接紧密结合。"
+      "session_theme": "The Philosophy of Cast Iron Pot Care: Checking Oil Film Status with Native Chicken Sent by Father",
+      "conversation_seed": "Xiaoya carefully inspected the oil film status of her Le Creuset cast iron pot to ensure optimal heat conduction. She accepted the mushrooms and native chicken sent by her father again, preparing to simmer soup in this pot, tightly combining the ritual of cookware care with emotional connections to family."
     },
     {
       "session_id": 15,
@@ -162,8 +162,8 @@
         "entity_06",
         "emotion_04"
       ],
-      "session_theme": "周五独居治愈时刻：关闭音乐聆听食物的声音",
-      "conversation_seed": "周五晚上，晓雅卸下重担，关闭音乐，专注聆听 Siemens 蒸烤箱中食物发出的声音。慢炖汤的咕嘟声和法式甜点的香气构成了独居治愈的 ritual，让她在专注当下中找回内心的平静。"
+      "session_theme": "Friday Solitary Healing Moment: Turning Off Music to Listen to the Sounds of Food",
+      "conversation_seed": "On Friday night, Xiaoya卸下了 burdens, turned off the music, and focused on listening to the sounds of food coming from the Siemens steam oven. The bubbling of the slow-simmered soup and the aroma of French desserts constituted a healing ritual for solitary living, helping her find inner peace by focusing on the present."
     },
     {
       "session_id": 16,
@@ -173,8 +173,8 @@
         "behavior_07",
         "multihop_07"
       ],
-      "session_theme": "从摆盘到分享：色彩构成与小红书发布的完整闭环",
-      "conversation_seed": "晓雅运用色彩构成原理进行创意摆盘，用镊子调整至构图完美。随后在自然光下拍摄，修图调色后发布小红书。闺蜜的惊喜反应和产品迭代般的信心来源，完成了从视觉设计到社交分享的闭环。"
+      "session_theme": "From Plating to Sharing: A Complete Loop of Color Composition and Xiaohongshu Publishing",
+      "conversation_seed": "Xiaoya applied color composition principles to creative plating, adjusting the layout to perfection with tweezers. She then photographed the dishes under natural light, edited the colors, and published them on Xiaohongshu. Her best friend's surprised reaction and the confidence derived from product-like iteration completed the closed loop from visual design to social sharing."
     },
     {
       "session_id": 17,
@@ -184,8 +184,8 @@
         "entity_01",
         "multihop_04"
       ],
-      "session_theme": "低油川菜的味觉补偿：Vitamix 料理机与母亲的味觉争论",
-      "conversation_seed": "为了健康，晓雅坚持制作低油版川菜，利用 Vitamix 料理机制作香料酱汁以补偿风味挂壁感。这与母亲张慧关于正宗回锅肉的视频争论形成了有趣对比，展现了新旧观念在厨房中的碰撞与融合。"
+      "session_theme": "Taste Compensation in Low-Oil Sichuan Cuisine: Vitamix Blenders and Taste Debates with Mother",
+      "conversation_seed": "For the sake of health, Xiaoya persisted in making low-oil versions of Sichuan dishes, using a Vitamix blender to create spice sauces to compensate for the flavor coating sensation. This formed an interesting contrast with her video debates with her mother, Zhang Hui, about authentic Twice-Cooked Pork, showcasing the collision and fusion of old and new concepts in the kitchen."
     },
     {
       "session_id": 18,
@@ -195,8 +195,8 @@
         "emotion_01",
         "multihop_02"
       ],
-      "session_theme": "砧板上的情绪释放：方案修改后的切菜节奏",
-      "conversation_seed": "面对方案修改带来的心情烦躁，晓雅通过制作销魂豌杂面来释放情绪。切菜的节奏和砧板声成为她的压力释放阀，她在周三晚上将这种情绪宣泄转化为食谱笔记中的新灵感。"
+      "session_theme": "Emotional Release on the Cutting Board: The Rhythm of Chopping After Proposal Revisions",
+      "conversation_seed": "Facing the irritation caused by proposal revisions, Xiaoya released her emotions by making soul-stirring pea and meat sauce noodles. The rhythm of chopping and the sound of the cutting board became her pressure release valve; on Wednesday night, she transformed this emotional venting into new inspiration for her recipe notebook."
     },
     {
       "session_id": 19,
@@ -206,8 +206,8 @@
         "emotion_05",
         "time_05"
       ],
-      "session_theme": "跨越千里的亲情汤：父亲土鸡与母亲技法的融合",
-      "conversation_seed": "晓雅利用父亲寄来的新鲜土鸡，结合母亲张慧的慢火吊汤技法，在周五晚上制作了简化版开水白菜。这道菜不仅缓解了思乡之情，更让她在品尝中感受到了被父母关爱的温暖。"
+      "session_theme": "Soup of Family Love Across Thousands of Miles: Fusing Father's Native Chicken with Mother's Techniques",
+      "conversation_seed": "Using the fresh native chicken sent by her father and combining it with her mother Zhang Hui's technique of simmering broth over low heat, Xiaoya made a simplified version of Kai Shui Bai Cai on Friday night. This dish not only alleviated her homesickness but also allowed her to feel the warmth of being cared for by her parents while tasting it."
     },
     {
       "session_id": 20,
@@ -217,8 +217,8 @@
         "multihop_11",
         "emotion_10"
       ],
-      "session_theme": "社区网络中的美食节点：邻居、父亲与闺蜜的食材交响",
-      "conversation_seed": "晓雅将邻居王浩然的进口牛肉、父亲验收的菌菇以及为闺蜜陈思思准备的精致便当元素融合。利用设计思维和低温慢煮机，她创造出连接邻里默契与亲情的融合菜，展现了她在社区网络中的独特美食节点地位。"
+      "session_theme": "Gourmet Nodes in the Community Network: A Symphony of Ingredients from Neighbors, Father, and Best Friends",
+      "conversation_seed": "Xiaoya fused elements including imported beef from her neighbor Wang Haoran, mushrooms accepted from her father, and the exquisite bento prepared for her best friend Chen Sisi. Using design thinking and a sous-vide machine, she created fusion dishes connecting neighborhood tacit understanding with family affection, demonstrating her unique status as a gourmet node within the community network."
     }
   ]
 }

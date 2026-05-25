@@ -1,106 +1,106 @@
 {
   "profile_id": "foodie_cn_2024_001",
   "basic_info": {
-    "name": "林晓雅",
+    "name": "Lin Xiaoya",
     "age": 29,
-    "gender": "女",
-    "occupation": "互联网大厂用户体验设计师 (UX Designer)",
-    "city": "成都",
-    "education": "本科 - 四川美术学院 (视觉传达设计)",
-    "income_level": "年薪 25w-30w",
-    "housing_status": "租房 (套二，注重厨房装修)"
+    "gender": "Female",
+    "occupation": "UX Designer at a Major Tech Company",
+    "city": "Chengdu",
+    "education": "Bachelor's Degree - Sichuan Fine Arts Institute (Visual Communication Design)",
+    "income_level": "Annual Salary 250k-300k RMB",
+    "housing_status": "Renter (Two-bedroom apartment, prioritizes kitchen renovation)"
   },
   "cooking_background": {
-    "skill_level": "家庭料理达人 (擅长融合菜与创意摆盘)",
+    "skill_level": "Home Cooking Expert (Specializes in fusion cuisine and creative plating)",
     "specialties": [
-      "新派川菜 (低油版)",
-      "日式家庭料理",
-      "法式甜点"
+      "New-Style Sichuan Cuisine (Low-Oil Version)",
+      "Japanese Home Cooking",
+      "French Desserts"
     ],
-    "learning_history": "大学时期因怀念家乡味道开始自学，工作后受设计思维影响，将烹饪视为‘可食用的产品设计’，系统学习过烘焙理论及分子料理基础。",
+    "learning_history": "Started self-teaching during university due to nostalgia for hometown flavors. After entering the workforce, influenced by design thinking, she views cooking as 'edible product design' and has systematically studied baking theory and the fundamentals of molecular gastronomy.",
     "favorite_cuisines": [
-      "川菜",
-      "日料",
-      "意式料理"
+      "Sichuan Cuisine",
+      "Japanese Cuisine",
+      "Italian Cuisine"
     ],
     "kitchen_equipment": [
-      "Le Creuset 铸铁锅",
-      "Siemens 嵌入式蒸烤箱",
-      "Vitamix 料理机",
-      "精密电子秤 (0.1g)",
-      "低温慢煮机 (Sous-vide)"
+      "Le Creuset Cast Iron Pot",
+      "Siemens Built-in Steam Oven",
+      "Vitamix Blender",
+      "Precision Digital Scale (0.1g)",
+      "Sous-vide Machine"
     ]
   },
   "family_relationships": [
     {
-      "relation": "母亲",
-      "name": "张慧",
-      "connection_to_cooking": "传统川菜启蒙者。常视频通话‘云指导’晓雅做正宗回锅肉，是晓雅味觉记忆的根基，但也常抱怨晓雅做的菜‘太精致不够下饭’。"
+      "relation": "Mother",
+      "name": "Zhang Hui",
+      "connection_to_cooking": "The启蒙 (enlightener) of traditional Sichuan cuisine. She often provides 'cloud guidance' via video call for Xiaoya to make authentic Twice-Cooked Pork. She is the foundation of Xiaoya's taste memory, though she frequently complains that Xiaoya's dishes are 'too exquisite and not hearty enough for rice'."
     },
     {
-      "relation": "父亲",
-      "name": "林建国",
-      "connection_to_cooking": "资深食材采购顾问。住在成都郊区，每周会特意去批发市场挑选最新鲜的菌菇和土鸡寄给晓雅，是晓雅高品质食材的主要供应源。"
+      "relation": "Father",
+      "name": "Lin Jianguo",
+      "connection_to_cooking": "Senior Ingredient Procurement Consultant. Living in suburban Chengdu, he特意 (specifically) visits wholesale markets every week to select the freshest mushrooms and free-range chickens to ship to Xiaoya, serving as her primary source of high-quality ingredients."
     }
   ],
   "social_circle": [
     {
-      "relation": "闺蜜/同事",
-      "name": "陈思思",
-      "connection": "产品运营经理。晓雅的‘头号试吃员’和便当搭子，负责在朋友圈为晓雅的菜品提供第一波点赞和评论，两人常周末一起探店寻找灵感。"
+      "relation": "Best Friend/Colleague",
+      "name": "Chen Sisi",
+      "connection": "Product Operations Manager. Xiaoya's 'Number One Taste Tester' and bento buddy. She is responsible for providing the first wave of likes and comments on Xiaoya's dishes on WeChat Moments. The two often explore new restaurants together on weekends to find inspiration."
     },
     {
-      "relation": "邻居",
-      "name": "王浩然",
-      "connection": "健身教练。因对高蛋白低脂饮食有需求而结识，常向晓雅请教如何用健康食材做出美味料理，偶尔会用进口牛肉交换晓雅自制的全麦面包。"
+      "relation": "Neighbor",
+      "name": "Wang Haoran",
+      "connection": "Fitness Coach. They met due to his need for a high-protein, low-fat diet. He often consults Xiaoya on how to make delicious meals with healthy ingredients and occasionally trades imported beef for Xiaoya's homemade whole wheat bread."
     }
   ],
   "daily_habits": [
     {
-      "time_pattern": "每周三晚上下班后",
-      "activity": "‘清空冰箱’挑战，利用剩余食材即兴创作一道fusion料理，并记录食谱笔记。"
+      "time_pattern": "Wednesday evenings after work",
+      "activity": "'Clear the Fridge' challenge: improvising a fusion dish using leftover ingredients and recording the recipe in notes."
     },
     {
-      "time_pattern": "每周日上午 9:00-11:00",
-      "activity": "前往双流区白家批发市场或高端超市盒马鲜生采购本周核心食材，严格筛选蔬果新鲜度。"
+      "time_pattern": "Sunday mornings, 9:00 AM - 11:00 AM",
+      "activity": "Visiting the Baijia Wholesale Market in Shuangliu District or the premium supermarket Hema Fresh to purchase core ingredients for the week, strictly screening for produce freshness."
     },
     {
-      "time_pattern": "周五晚上",
-      "activity": "‘治愈时刻’，花 2 小时慢炖一锅汤或烤制甜点，过程中不听播客，只专注食物变化的声音和气味。"
+      "time_pattern": "Friday evenings",
+      "activity": "'Healing Moment': Spending two hours slow-cooking a pot of soup or baking desserts. During this time, she listens to no podcasts, focusing solely on the sounds and aromas of the food transforming."
     }
   ],
   "emotional_mapping": [
     {
-      "emotion": "工作压力大/被需求方修改方案搞得心烦",
-      "behavior": "拒绝外卖，立刻动手做一碗重口味的‘销魂豌杂面’，通过切菜的节奏感和辛辣味觉释放压力。"
+      "emotion": "High work stress / Frustrated by client revision requests",
+      "behavior": "Rejects takeout and immediately cooks a bowl of rich, flavorful 'Soul-Stirring Pea and Minced Meat Noodles,' releasing stress through the rhythm of chopping and the spicy taste."
     },
     {
-      "emotion": "感到孤独或思乡",
-      "behavior": "复刻母亲拿手的‘开水白菜’（简化版），在慢火吊汤的过程中感受与家人的情感连接，完成后独自细细品尝。"
+      "emotion": "Feeling lonely or homesick",
+      "behavior": "Recreates her mother's signature 'Open-Boiled Cabbage' (simplified version). She feels an emotional connection with her family during the slow-simmering broth process and savors the dish alone upon completion."
     },
     {
-      "emotion": "成就感爆棚",
-      "behavior": "将精心摆盘的菜品拍摄成大片，修图后发布在小红书，回复每一条评论，从中获得社区认同感。"
+      "emotion": "Overwhelming sense of achievement",
+      "behavior": "Photographs the meticulously plated dishes like a professional shoot, edits the photos, and posts them on Xiaohongshu (Little Red Book). She replies to every comment, gaining a sense of community validation."
     }
   ],
   "life_milestones": [
     {
       "year": 2018,
-      "event": "独居第一年，因无法适应外卖的高油高盐，决定改造出租屋厨房，花费 2 万元购置专业设备，正式开启系统自学烹饪之路。"
+      "event": "First year living alone. Unable to adapt to the high oil and salt content of takeout, she decided to renovate her rental kitchen, spending 20,000 RMB on professional equipment, officially embarking on a journey of systematic self-taught cooking."
     },
     {
       "year": 2021,
-      "event": "在公司年会自制了 50 份‘川味鹅肝酱’伴手礼，获得全公司好评，由此确立了‘设计师里的厨神’人设，增强了职业自信。"
+      "event": "Hand-made 50 portions of 'Sichuan-Style Foie Gras' as gifts for the company annual meeting. Receiving acclaim from the entire company, she established her persona as the 'God of Cooking among Designers,' boosting her professional confidence."
     },
     {
       "year": 2023,
-      "event": "成功挑战制作复杂的‘惠灵顿牛排’，虽然过程失败一次，但最终成品完美，标志着其烘焙与西餐技艺的成熟融合。"
+      "event": "Successfully tackled the complex 'Beef Wellington.' Although she failed once during the process, the final product was perfect, marking the mature fusion of her baking and Western culinary skills."
     }
   ],
   "preferences": {
-    "cooking_style": "颜值与口味并重，偏好‘少油少盐但味型丰富’的健康改良风，极度重视摆盘的色彩构成与器皿搭配。",
-    "shopping": "周末去大型农贸批发市场买生鲜（追求极致新鲜），工作日下班在盒马/京东到家买调料和急用食材。",
-    "sharing": "重度社交媒体分享者（小红书/朋友圈），喜欢给关系好的同事带精致便当，但拒绝在公共大群发图以免引起不适。",
-    "dining_out": "偏好‘主厨餐桌 (Omakase)'或隐蔽的'Bistro'，关注食材原产地和烹饪创意，对网红排队店兴趣寥寥，习惯写详细的大众点评长评。"
+    "cooking_style": "Prioritizes both aesthetics and taste. Prefers a healthy, modified style that is 'low in oil and salt but rich in flavor profiles.' Places extreme importance on the color composition of plating and the pairing of tableware.",
+    "shopping": "Visits large agricultural wholesale markets on weekends for fresh produce (pursuing ultimate freshness); buys seasonings and urgent ingredients via Hema or JD Daojia on weekday evenings after work.",
+    "sharing": "Heavy social media sharer (Xiaohongshu/WeChat Moments). Enjoys bringing exquisite bentos for close colleagues but refuses to post pictures in large public group chats to avoid causing discomfort.",
+    "dining_out": "Prefers 'Chef's Table (Omakase)' or hidden 'Bistros.' Focuses on ingredient origin and culinary creativity. Has little interest in trendy spots with long queues. Habitually writes detailed long-form reviews on Dianping."
   }
 }

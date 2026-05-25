@@ -1,1401 +1,1401 @@
 [
   {
     "id": "q_001",
-    "trigger_type": "时间相关记忆联想",
-    "question": "周二早晨 6:30 的闹钟响了，准备出门。",
-    "trigger_concept": "周二/周四早晨",
+    "trigger_type": "Time-related memory association",
+    "question": "The 6:30 AM alarm went off on Tuesday morning; getting ready to head out.",
+    "trigger_concept": "Tuesday/Thursday mornings",
     "candidate_set": [
       {
-        "concept": "陈宇",
-        "reason": "用户习惯在周二和周四早晨 6:30 与同事陈宇相约进行 LSD 训练。"
+        "concept": "Chen Yu",
+        "reason": "The user has a habit of meeting up with colleague Chen Yu at 6:30 AM on Tuesdays and Thursdays for LSD training."
       },
       {
-        "concept": "滨江跑道",
-        "reason": "这是用户与陈宇进行周二/周四晨跑的具体地点。"
+        "concept": "Binjiang Running Track",
+        "reason": "This is the specific location where the user and Chen Yu go for their Tuesday/Thursday morning runs."
       },
       {
-        "concept": "空腹状态",
-        "reason": "用户习惯在晨间起床后空腹喝一杯黑咖啡并进行激活训练。"
+        "concept": "Fasted state",
+        "reason": "The user habitually drinks a cup of black coffee and performs activation training on an empty stomach immediately after waking up."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从具体的晨练时间点联想到固定的跑友、地点以及用户特有的空腹训练习惯。"
+    "reasoning": "Associates the specific morning workout time with a regular running partner, location, and the user's unique habit of training in a fasted state."
   },
   {
     "id": "q_002",
-    "trigger_type": "时间相关记忆联想",
-    "question": "昨晚项目上线前又遇到了几个棘手的 Bug。",
-    "trigger_concept": "项目上线压力",
+    "trigger_type": "Time-related memory association",
+    "question": "Encountered several tricky bugs right before last night's project launch.",
+    "trigger_concept": "Project launch pressure",
     "candidate_set": [
       {
-        "concept": "HIIT 训练",
-        "reason": "用户应对代码 Bug 引发焦虑的特定 coping behavior 是进行高强度间歇跑。"
+        "concept": "HIIT training",
+        "reason": "The user's specific coping behavior for anxiety triggered by code bugs is performing high-intensity interval running."
       },
       {
-        "concept": "降噪耳机",
-        "reason": "用户在通过跑步清空大脑时会佩戴降噪耳机以隔离环境音。"
+        "concept": "Noise-canceling headphones",
+        "reason": "The user wears noise-canceling headphones to block out environmental sounds while running to clear their mind."
       },
       {
-        "concept": "大脑清空",
-        "reason": "这是用户通过极度疲惫的运动想要达到的情绪调节目标。"
+        "concept": "Mental clarity",
+        "reason": "This is the emotional regulation goal the user aims to achieve through exercise-induced exhaustion."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从工作压力触发点联想到用户特定的情绪应对机制（运动类型、装备、心理目标）。"
+    "reasoning": "Links the work stress trigger to the user's specific emotional coping mechanisms (exercise type, equipment, and psychological goals)."
   },
   {
     "id": "q_003",
-    "trigger_type": "时间相关记忆联想",
-    "question": "这周六晚上的欺骗餐打算吃点好的。",
-    "trigger_concept": "周六欺骗餐",
+    "trigger_type": "Time-related memory association",
+    "question": "Planning to enjoy a good meal for this Saturday's cheat meal.",
+    "trigger_concept": "Saturday cheat meal",
     "candidate_set": [
       {
-        "concept": "无负罪感",
-        "reason": "用户将欺骗餐安排在周六，是为了在严格控制工作日饮食后获得心理补偿且无负罪感。"
+        "concept": "Guilt-free",
+        "reason": "The user schedules cheat meals on Saturdays to gain psychological compensation after strictly controlling their diet on weekdays, without feeling guilty."
       },
       {
-        "concept": "长距离拉练",
-        "reason": "周六上午通常是用户的长距离拉练时间，为晚上的欺骗餐积累了代谢额度。"
+        "concept": "Long-distance training",
+        "reason": "Saturday mornings are typically reserved for the user's long-distance runs, which build up the metabolic allowance for the evening's cheat meal."
       },
       {
-        "concept": "满足感",
-        "reason": "欺骗餐不仅是饮食行为，更是用户获得心理满足和自我奖励的重要时刻。"
+        "concept": "Sense of satisfaction",
+        "reason": "The cheat meal is not just a dietary act but a crucial moment for the user to gain psychological satisfaction and self-reward."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从欺骗餐的时间点联想到其前后的训练安排及深层的心理动机。"
+    "reasoning": "Associates the timing of the cheat meal with the surrounding training schedule and deeper psychological motivations."
   },
   {
     "id": "q_004",
-    "trigger_type": "时间相关记忆联想",
-    "question": "回到 2021 年，那时候第一次跑完杭州马拉松。",
-    "trigger_concept": "2021 杭州马拉松",
+    "trigger_type": "Time-related memory association",
+    "question": "Looking back to 2021, when I completed my first Hangzhou Marathon.",
+    "trigger_concept": "2021 Hangzhou Marathon",
     "candidate_set": [
       {
-        "concept": "跑者身份认同",
-        "reason": "2021 年首马是用户从单纯减肥转变为确立“跑者”身份的关键里程碑。"
+        "concept": "Runner identity",
+        "reason": "The first marathon in 2021 was a key milestone where the user transitioned from simply losing weight to establishing a 'runner' identity."
       },
       {
-        "concept": "初心回忆",
-        "reason": "该事件标志着用户运动动机的根本性转变，是回顾初心的重要节点。"
+        "concept": "Recalling original intentions",
+        "reason": "This event marked a fundamental shift in the user's motivation for exercise, serving as an important node for reflecting on their original goals."
       },
       {
-        "concept": "家庭自豪感",
-        "reason": "父亲林建国在看到马拉松奖牌后态度转变，开始为儿子感到自豪。"
+        "concept": "Family pride",
+        "reason": "After seeing the marathon medal, the user's father, Lin Jianguo, changed his attitude and began to feel proud of his son."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从特定年份的事件联想到其对用户身份认知的深远影响及家庭关系的变化。"
+    "reasoning": "Links a specific event from a particular year to its profound impact on the user's self-identity and changes in family dynamics."
   },
   {
     "id": "q_005",
-    "trigger_type": "时间相关记忆联想",
-    "question": "想起 2023 年那次不得不停训两个月的经历。",
-    "trigger_concept": "2023 年停训经历",
+    "trigger_type": "Time-related memory association",
+    "question": "Recalling the experience in 2023 when I had to stop training for two months.",
+    "trigger_concept": "2023 training hiatus",
     "candidate_set": [
       {
-        "concept": "右膝髂胫束综合征",
-        "reason": "这是导致用户 2023 年停训的具体伤病原因。"
+        "concept": "Right knee Iliotibial Band Syndrome",
+        "reason": "This was the specific injury that caused the user to stop training in 2023."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "这次受伤促使用户开始系统学习运动解剖学，不再盲目训练。"
+        "concept": "Sports anatomy",
+        "reason": "This injury prompted the user to systematically study sports anatomy and stop training blindly."
       },
       {
-        "concept": "预防受伤",
-        "reason": "这次挫折让用户深刻认识到科学训练和恢复对预防受伤的重要性。"
+        "concept": "Injury prevention",
+        "reason": "This setback made the user deeply realize the importance of scientific training and recovery for preventing injuries."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从停训的时间段联想到具体的伤病名称以及由此引发的认知和行为改变。"
+    "reasoning": "Associates the period of training suspension with the specific name of the injury and the resulting changes in cognition and behavior."
   },
   {
     "id": "q_006",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每天晚上 23:00 准时放下手机。",
-    "trigger_concept": "23:00 入睡习惯",
+    "trigger_type": "Time-related memory association",
+    "question": "Put down your phone exactly at 23:00 every night.",
+    "trigger_concept": "23:00 Sleep Routine",
     "candidate_set": [
       {
-        "concept": "肌肉恢复",
-        "reason": "用户严格保证睡眠时间的核心目的是为了利于肌肉恢复和生长。"
+        "concept": "Muscle Recovery",
+        "reason": "The user's primary goal in strictly maintaining sleep hours is to facilitate muscle recovery and growth."
       },
       {
-        "concept": "7.5 小时睡眠",
-        "reason": "这是用户为了确保恢复效果而计算出的具体睡眠时长需求。"
+        "concept": "7.5 Hours of Sleep",
+        "reason": "This is the specific sleep duration the user calculated to ensure optimal recovery results."
       },
       {
-        "concept": "作息纪律",
-        "reason": "严格遵守入睡时间体现了用户作为中级健身爱好者的自律和秩序感。"
+        "concept": "Schedule Discipline",
+        "reason": "Strictly adhering to a bedtime reflects the user's self-discipline and sense of order as an intermediate fitness enthusiast."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从入睡时间点联想到其背后的生理目标（肌肉恢复）和具体的量化指标。"
+    "reasoning": "Associates the bedtime with its underlying physiological goals (muscle recovery) and specific quantitative metrics."
   },
   {
     "id": "q_007",
-    "trigger_type": "时间相关记忆联想",
-    "question": "周日午后阳光明媚，适合做点什么放松一下。",
-    "trigger_concept": "周日主动恢复",
+    "trigger_type": "Time-related memory association",
+    "question": "It's a sunny Sunday afternoon, perfect for doing something to relax.",
+    "trigger_concept": "Sunday Active Recovery",
     "candidate_set": [
       {
-        "concept": "筋膜枪",
-        "reason": "用户习惯在周日使用筋膜枪对大腿外侧和小腿进行深度放松。"
+        "concept": "Massage Gun",
+        "reason": "The user habitually uses a massage gun on Sundays for deep relaxation of the outer thighs and calves."
       },
       {
-        "concept": "泡沫轴",
-        "reason": "这是用户周日主动恢复流程中常用的另一种放松工具。"
+        "concept": "Foam Roller",
+        "reason": "This is another common relaxation tool used in the user's Sunday active recovery routine."
       },
       {
-        "concept": "瑜伽",
-        "reason": "用户周日下午的主动恢复选项之一，用于提升柔韧性和放松身心。"
+        "concept": "Yoga",
+        "reason": "One of the user's active recovery options on Sunday afternoons, used to improve flexibility and relax the mind and body."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从周日的恢复时间段联想到用户具体的恢复手段和工具。"
+    "reasoning": "Associates the Sunday recovery time slot with the user's specific recovery methods and tools."
   },
   {
     "id": "q_008",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每次下班后 19:30 到达健身房。",
-    "trigger_concept": "下班后时段",
+    "trigger_type": "Time-related memory association",
+    "question": "Arrive at the gym at 19:30 every day after work.",
+    "trigger_concept": "Post-Work Time Slot",
     "candidate_set": [
       {
-        "concept": "乐刻运动文三路店",
-        "reason": "这是用户公司楼下 500 米处常去的健身房具体分店。"
+        "concept": "Lefits Wensan Road Branch",
+        "reason": "This is the specific branch of the gym the user frequently visits, located 500 meters below their office."
       },
       {
-        "concept": "力量训练",
-        "reason": "用户晚间时段的主要训练内容是 60-90 分钟的力量训练。"
+        "concept": "Strength Training",
+        "reason": "The user's main training content during evening sessions is 60-90 minutes of strength training."
       },
       {
-        "concept": "ON 乳清蛋白粉",
-        "reason": "用户习惯在晚间力量训练结束后立即补充该品牌的蛋白粉。"
+        "concept": "ON Whey Protein",
+        "reason": "The user habitually consumes this brand of protein powder immediately after finishing evening strength training."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从晚间训练的时间点联想到具体的训练地点、训练类型及练后营养补充习惯。"
+    "reasoning": "Associates the evening training time with the specific training location, training type, and post-workout nutrition habits."
   },
   {
     "id": "q_009",
-    "trigger_type": "时间相关记忆联想",
-    "question": "又到了冲击深蹲大重量的时候了。",
-    "trigger_concept": "深蹲大重量",
+    "trigger_type": "Time-related memory association",
+    "question": "It's time to push for heavy squat weights again.",
+    "trigger_concept": "Heavy Squats",
     "candidate_set": [
       {
-        "concept": "王强",
-        "reason": "用户的朋友兼前私教王强会在其冲击大重量时提供保护（Spot）。"
+        "concept": "Wang Qiang",
+        "reason": "The user's friend and former personal trainer, Wang Qiang, provides spotting support when the user attempts heavy weights."
       },
       {
-        "concept": "动作保护",
-        "reason": "在大重量深蹲时，用户依赖同伴提供的安全保护措施。"
+        "concept": "Spotting",
+        "reason": "When performing heavy squats, the user relies on safety measures provided by a partner."
       },
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "这是用户当前阶段深蹲训练的具体量化目标，驱动其冲击大重量。"
+        "concept": "Squat 1.5x Bodyweight Goal",
+        "reason": "This is the specific quantitative squat training goal for the user's current phase, driving their pursuit of heavy weights."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从进行大重量训练的时刻联想到关键的辅助人物、安全行为及长期目标。"
+    "reasoning": "Associates the moment of heavy training with key supporting personnel, safety behaviors, and long-term goals."
   },
   {
     "id": "q_010",
-    "trigger_type": "时间相关记忆联想",
-    "question": "刚完成半马训练，配速突破了新纪录。",
-    "trigger_concept": "打破半马 PB",
+    "trigger_type": "Time-related memory association",
+    "question": "Just finished half-marathon training, breaking a new pace record.",
+    "trigger_concept": "Breaking Half-Marathon PB",
     "candidate_set": [
       {
-        "concept": "Strava 打卡",
-        "reason": "用户达成纪录后的习惯性行为是在 Strava 上分享数据以获得社交认同。"
+        "concept": "Strava Check-in",
+        "reason": "After achieving a record, the user's habitual behavior is to share data on Strava to gain social validation."
       },
       {
-        "concept": "掌控兴奋感",
-        "reason": "达成 PR 给用户带来的核心情绪体验是成就感和对身体的掌控感。"
+        "concept": "Mastering Excitement",
+        "reason": "The core emotional experience achieving a PR brings to the user is a sense of accomplishment and control over their body."
       },
       {
         "concept": "Garmin Forerunner 265",
-        "reason": "这是用户记录跑步数据和配速所使用的具体手表设备。"
+        "reason": "This is the specific watch device the user uses to record running data and pace."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从达成成绩的时刻联想到用户的分享习惯、情绪反馈及使用的记录设备。"
+    "reasoning": "Associates the moment of achieving a result with the user's sharing habits, emotional feedback, and recording devices used."
   },
   {
     "id": "q_011",
-    "trigger_type": "时间相关记忆联想",
-    "question": "周末回家，妈妈又在厨房忙活了。",
-    "trigger_concept": "母亲张慧",
+    "trigger_type": "Time-related memory association",
+    "question": "Back home for the weekend, Mom is busy in the kitchen again.",
+    "trigger_concept": "Mother Zhang Hui",
     "candidate_set": [
       {
-        "concept": "炖牛肉",
-        "reason": "母亲张慧为用户准备的高蛋白菜肴的典型代表。"
+        "concept": "Braised beef",
+        "reason": "A typical high-protein dish prepared by Mother Zhang Hui for the user."
       },
       {
-        "concept": "高蛋白菜肴",
-        "reason": "母亲支持用户健身的主要方式，特意准备的饮食类型。"
+        "concept": "High-protein dishes",
+        "reason": "The primary way Mother supports the user's fitness journey, specifically through tailored meal preparation."
       },
       {
-        "concept": "家庭支持",
-        "reason": "母亲的行为体现了家庭对用户健身目标的后勤支持和情感关怀。"
+        "concept": "Family support",
+        "reason": "Mother's actions reflect both logistical backing and emotional care from the family toward the user's fitness goals."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从母亲出现的场景联想到其具体的支持行为（做菜）及背后的情感意义。"
+    "reasoning": "Associating the scene of Mother's presence with her specific supportive actions (cooking) and the underlying emotional significance."
   },
   {
     "id": "q_012",
-    "trigger_type": "时间相关记忆联想",
-    "question": "老爸最近看着墙上的奖牌发呆。",
-    "trigger_concept": "父亲林建国",
+    "trigger_type": "Time-related memory association",
+    "question": "Dad has been staring blankly at the medals on the wall lately.",
+    "trigger_concept": "Father Lin Jianguo",
     "candidate_set": [
       {
-        "concept": "态度转变",
-        "reason": "父亲从最初认为运动伤膝盖劝阻，转变为看到奖牌后的自豪。"
+        "concept": "Change in attitude",
+        "reason": "Father shifted from initially discouraging exercise due to knee concerns to feeling proud upon seeing the medals."
       },
       {
-        "concept": "营养品是否安全",
-        "reason": "父亲态度转变后，偶尔会询问用户吃的补剂是否安全，体现关心。"
+        "concept": "Safety of supplements",
+        "reason": "After his change in attitude, Father occasionally asks whether the supplements the user takes are safe, showing his concern."
       },
       {
-        "concept": "马拉松奖牌",
-        "reason": "这是促使父亲态度发生转变的关键视觉证据。"
+        "concept": "Marathon medal",
+        "reason": "This serves as the key visual evidence that prompted Father's change in perspective."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从父亲关注奖牌的细节联想到其观念的动态变化过程及当前的关注点。"
+    "reasoning": "Linking the detail of Father focusing on the medals to the dynamic evolution of his mindset and his current points of interest."
   },
   {
     "id": "q_013",
-    "trigger_type": "时间相关记忆联想",
-    "question": "正在用 Excel 分析上周的训练数据。",
-    "trigger_concept": "Excel 记录",
+    "trigger_type": "Time-related memory association",
+    "question": "Analyzing last week's training data using Excel.",
+    "trigger_concept": "Excel records",
     "candidate_set": [
       {
-        "concept": "渐进负荷",
-        "reason": "用户分析 Excel 数据的核心目的是监控和规划力量的渐进负荷曲线。"
+        "concept": "Progressive overload",
+        "reason": "The core purpose of the user analyzing Excel data is to monitor and plan the progressive overload curve for strength."
       },
       {
-        "concept": "程序员思维",
-        "reason": "作为后端工程师，用户倾向于用数据化和逻辑化的方式（Excel）管理训练。"
+        "concept": "Programmer mindset",
+        "reason": "As a backend engineer, the user tends to manage training through data-driven and logical approaches (such as using Excel)."
       },
       {
-        "concept": "负荷曲线",
-        "reason": "这是用户在 Excel 中具体分析和可视化的关键指标。"
+        "concept": "Load curve",
+        "reason": "This is the key metric that the user specifically analyzes and visualizes within Excel."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从使用工具的行为联想到其分析目的、职业思维习惯及具体的分析指标。"
+    "reasoning": "Connecting the act of using a specific tool to its analytical purpose, professional thinking habits, and the specific metrics being analyzed."
   },
   {
     "id": "q_014",
-    "trigger_type": "时间相关记忆联想",
-    "question": "早上起来先喝一杯黑的。",
-    "trigger_concept": "晨间黑咖啡仪式",
+    "trigger_type": "Time-related memory association",
+    "question": "First thing in the morning, I drink a cup of black coffee.",
+    "trigger_concept": "Morning black coffee ritual",
     "candidate_set": [
       {
-        "concept": "核心激活",
-        "reason": "喝完咖啡后，用户通常会进行 30 分钟的核心激活或有氧。"
+        "concept": "Core activation",
+        "reason": "After drinking coffee, the user typically performs 30 minutes of core activation or cardio."
       },
       {
-        "concept": "清醒切换",
-        "reason": "黑咖啡帮助用户从睡眠状态快速切换到清醒和专注的工作/训练状态。"
+        "concept": "Alertness switch",
+        "reason": "Black coffee helps the user rapidly transition from a sleepy state to an alert and focused mode for work or training."
       },
       {
-        "concept": "空腹状态",
-        "reason": "用户习惯在空腹状态下饮用黑咖啡以启动代谢。"
+        "concept": "Fasted state",
+        "reason": "The user is accustomed to drinking black coffee on an empty stomach to kickstart metabolism."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从晨间饮食习惯联想到随后的训练内容及该习惯带来的生理/心理效果。"
+    "reasoning": "Associating the morning dietary habit with subsequent training content and the physiological or psychological effects of this habit."
   },
   {
     "id": "q_015",
-    "trigger_type": "时间相关记忆联想",
-    "question": "比赛日到了，穿上那双红色的鞋。",
-    "trigger_concept": "比赛日表现",
+    "trigger_type": "Time-related memory association",
+    "question": "Race day has arrived; time to put on those red shoes.",
+    "trigger_concept": "Race day performance",
     "candidate_set": [
       {
         "concept": "Nike Vaporfly 3",
-        "reason": "这是用户专门用于比赛的高性能跑鞋。"
+        "reason": "These are the high-performance running shoes the user reserves specifically for races."
       },
       {
-        "concept": "装备最佳状态",
-        "reason": "用户在比赛日会选择性能最佳的装备以确保发挥。"
+        "concept": "Optimal gear condition",
+        "reason": "On race day, the user selects the best-performing equipment to ensure peak performance."
       },
       {
-        "concept": "全马 PB",
-        "reason": "用户穿着比赛鞋的目标往往是冲击个人最好成绩（如 345）。"
+        "concept": "Full marathon PB",
+        "reason": "The user's goal when wearing race shoes is often to chase a personal best (such as a 3:45 finish)."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从比赛场景联想到特定的比赛装备及其对应的目标成绩。"
+    "reasoning": "Linking the race scenario to specific competition gear and the corresponding target performance times."
   },
   {
     "id": "q_016",
-    "trigger_type": "时间相关记忆联想",
-    "question": "日常慢跑训练，还是穿那双支撑性好的。",
-    "trigger_concept": "Asics Kayano 30 拉练",
+    "trigger_type": "Time-related memory association",
+    "question": "For daily jogging training, I still wear that pair with good support.",
+    "trigger_concept": "Asics Kayano 30 Training Run",
     "candidate_set": [
       {
-        "concept": "跑鞋轮换",
-        "reason": "用户根据训练类型（比赛 vs 日常）严格区分并使用不同的跑鞋。"
+        "concept": "Running shoe rotation",
+        "reason": "The user strictly distinguishes and uses different running shoes based on training type (race vs. daily)."
       },
       {
-        "concept": "预防受伤",
-        "reason": "选择支撑性好的 Kayano 30 进行日常训练是为了减少累积损伤，预防受伤。"
+        "concept": "Injury prevention",
+        "reason": "Choosing the supportive Kayano 30 for daily training is aimed at reducing cumulative damage and preventing injuries."
       },
       {
-        "concept": "LSD 训练",
-        "reason": "这双鞋主要用于长距离慢跑（LSD）等日常耐力训练场景。"
+        "concept": "LSD training",
+        "reason": "These shoes are primarily used for daily endurance training scenarios such as Long Slow Distance (LSD) runs."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从日常训练用鞋联想到用户的装备管理策略（轮换）及其背后的健康考量。"
+    "reasoning": "Associates the choice of daily training shoes with the user's equipment management strategy (rotation) and the underlying health considerations."
   },
   {
     "id": "q_017",
-    "trigger_type": "时间相关记忆联想",
-    "question": "工作间隙感觉脑子有点乱，需要静一静。",
-    "trigger_concept": "代码逻辑梳理",
+    "trigger_type": "Time-related memory association",
+    "question": "My mind feels a bit cluttered during work breaks; I need a moment of quiet.",
+    "trigger_concept": "Sorting out code logic",
     "candidate_set": [
       {
         "concept": "Shokz OpenRun",
-        "reason": "用户在进行解压运动或需要隔离环境音时常佩戴骨传导耳机。"
+        "reason": "The user often wears bone conduction headphones during stress-relief exercises or when needing to isolate ambient noise."
       },
       {
-        "concept": "环境音隔离",
-        "reason": "用户通过佩戴耳机来阻断干扰，帮助思维聚焦或清空。"
+        "concept": "Ambient noise isolation",
+        "reason": "The user wears headphones to block out distractions, helping to focus or clear their mind."
       },
       {
-        "concept": "宁静感",
-        "reason": "这是用户在处理完焦虑或混乱后追求的心理状态。"
+        "concept": "Sense of tranquility",
+        "reason": "This is the psychological state the user seeks after resolving anxiety or mental clutter."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从工作状态的不佳联想到用户常用的调节工具、行为方式及期望的心理结果。"
+    "reasoning": "Associates the suboptimal work state with the user's common regulatory tools, behavioral methods, and desired psychological outcomes."
   },
   {
     "id": "q_018",
-    "trigger_type": "时间相关记忆联想",
-    "question": "训练结束后，肌肉有点酸，该做这个了。",
-    "trigger_concept": "肌肉恢复",
+    "trigger_type": "Time-related memory association",
+    "question": "After training, my muscles feel a bit sore; it's time to do this.",
+    "trigger_concept": "Muscle recovery",
     "candidate_set": [
       {
-        "concept": "冷热交替浴",
-        "reason": "这是用户偏好的一种高级恢复手段，用于缓解肌肉酸痛。"
+        "concept": "Contrast water therapy",
+        "reason": "This is a preferred advanced recovery method for the user to alleviate muscle soreness."
       },
       {
-        "concept": "每周一次运动按摩",
-        "reason": "用户定期进行的深度恢复项目，通常在训练强度大时安排。"
+        "concept": "Weekly sports massage",
+        "reason": "A deep recovery session the user performs regularly, typically scheduled when training intensity is high."
       },
       {
-        "concept": "黄金窗口期",
-        "reason": "用户深知训练后补充营养和进行恢复的时间敏感性。"
+        "concept": "Golden window",
+        "reason": "The user is well aware of the time sensitivity regarding nutrient supplementation and recovery post-training."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从训练后的身体感受联想到用户具体采用的多种专业恢复手段及时间观念。"
+    "reasoning": "Associates post-training physical sensations with the specific professional recovery methods and time-awareness concepts the user employs."
   },
   {
     "id": "q_019",
-    "trigger_type": "时间相关记忆联想",
-    "question": "周一到周五的中午，我都会打开饭盒。",
-    "trigger_concept": "工作日自带便当",
+    "trigger_type": "Time-related memory association",
+    "question": "From Monday to Friday at noon, I always open my lunchbox.",
+    "trigger_concept": "Bringing homemade bento on weekdays",
     "candidate_set": [
       {
-        "concept": "严格控制油盐",
-        "reason": "用户自带便当的核心原则，为了保持低体脂和健康。"
+        "concept": "Strict control of oil and salt",
+        "reason": "The core principle behind the user's homemade bento is to maintain low body fat and good health."
       },
       {
-        "concept": "备餐分装",
-        "reason": "为了实现工作日带饭，用户需要提前进行食材的准备和分装。"
+        "concept": "Meal prep and portioning",
+        "reason": "To bring lunch on weekdays, the user needs to prepare and portion ingredients in advance."
       },
       {
-        "concept": "饮食控制",
-        "reason": "自带便当是用户执行严格饮食控制计划的具体体现。"
+        "concept": "Dietary control",
+        "reason": "Bringing a homemade bento is a concrete manifestation of the user executing a strict dietary control plan."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从工作日午餐习惯联想到其背后的饮食原则、准备工作及整体策略。"
+    "reasoning": "Associates the weekday lunch habit with the underlying dietary principles, preparation work, and overall strategy."
   },
   {
     "id": "q_020",
-    "trigger_type": "时间相关记忆联想",
-    "question": "每次跑完长距离，都要看看这个 App 上的轨迹。",
-    "trigger_concept": "Strava 轨迹",
+    "trigger_type": "Time-related memory association",
+    "question": "Every time I finish a long run, I check the route on this app.",
+    "trigger_concept": "Strava route",
     "candidate_set": [
       {
-        "concept": "社交认同",
-        "reason": "用户在 Strava 上分享轨迹和数据，旨在获得跑友圈的点赞和认可。"
+        "concept": "Social validation",
+        "reason": "The user shares routes and data on Strava to gain likes and recognition from the running community."
       },
       {
-        "concept": "朋友圈分享",
-        "reason": "除了 Strava，用户也会将数据截图分享到朋友圈以强化自我效能感。"
+        "concept": "WeChat Moments sharing",
+        "reason": "Besides Strava, the user also shares data screenshots to WeChat Moments to reinforce their sense of self-efficacy."
       },
       {
-        "concept": "身份强化",
-        "reason": "通过记录和分享跑步数据，用户不断强化自己作为“跑者”的身份认同。"
+        "concept": "Identity reinforcement",
+        "reason": "By recording and sharing running data, the user continuously reinforces their identity as a 'runner'."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从查看运动轨迹的行为联想到其社交动机、跨平台分享习惯及对身份构建的作用。"
+    "reasoning": "Associates the behavior of checking exercise routes with social motivations, cross-platform sharing habits, and the role in identity construction."
   },
   {
     "id": "q_021",
-    "trigger_type": "情感相关记忆联想",
-    "question": "最近项目上线压力好大，代码 Bug 让我很烦躁。",
-    "trigger_concept": "代码 Bug 焦虑",
+    "trigger_type": "Emotion-Related Memory Association",
+    "question": "The recent project launch has been incredibly stressful; the code bugs are making me really frustrated.",
+    "trigger_concept": "Code Bug Anxiety",
     "candidate_set": [
       {
-        "concept": "HIIT 训练",
-        "reason": "用户习惯通过高强度间歇跑来应对焦虑，换取大脑清空。"
+        "concept": "HIIT Training",
+        "reason": "The user habitually uses high-intensity interval running to cope with anxiety and clear their mind."
       },
       {
-        "concept": "降噪耳机",
-        "reason": "进行 HIIT 缓解压力时的必备装备，用于隔离环境音。"
+        "concept": "Noise-Canceling Headphones",
+        "reason": "Essential gear for the user when doing HIIT to relieve stress, used to block out environmental noise."
       },
       {
-        "concept": "大脑清空",
-        "reason": "用户通过极度疲惫追求的心理状态，是应对烦躁的核心目标。"
+        "concept": "Mental Clarity",
+        "reason": "The psychological state the user seeks through extreme exhaustion; it is the core goal for coping with frustration."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从当前的工作压力触发用户特定的情绪应对机制（HIIT+ 耳机）及预期的心理效果。"
+    "reasoning": "Triggers the user's specific emotional coping mechanism (HIIT + headphones) and expected psychological effect based on current work stress."
   },
   {
     "id": "q_022",
-    "trigger_type": "情感相关记忆联想",
-    "question": "终于打破了半马个人纪录，感觉太棒了！",
-    "trigger_concept": "打破半马 PB",
+    "trigger_type": "Emotion-Related Memory Association",
+    "question": "I finally broke my half-marathon personal record; it feels amazing!",
+    "trigger_concept": "Breaking Half-Marathon PB",
     "candidate_set": [
       {
-        "concept": "Strava 打卡",
-        "reason": "用户达成纪录后的习惯性行为，用于记录数据。"
+        "concept": "Strava Check-in",
+        "reason": "A habitual behavior for the user after achieving a record, used to log data."
       },
       {
-        "concept": "社交认同",
-        "reason": "用户在朋友圈或社区分享数据以获得的心理满足感。"
+        "concept": "Social Validation",
+        "reason": "The psychological satisfaction the user gains by sharing data on WeChat Moments or within the community."
       },
       {
-        "concept": "掌控兴奋感",
-        "reason": "达成目标后用户内心产生的核心情绪体验。"
+        "concept": "Excitement of Mastery",
+        "reason": "The core emotional experience generated within the user after achieving a goal."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从成就事件触发用户的分享行为、社交需求及内在的情感反馈。"
+    "reasoning": "Triggers the user's sharing behavior, social needs, and internal emotional feedback based on an achievement event."
   },
   {
     "id": "q_023",
-    "trigger_type": "情感相关记忆联想",
-    "question": "膝盖有点不舒服，有点担心会不会又受伤。",
-    "trigger_concept": "恐惧心理",
+    "trigger_type": "Emotion-Related Memory Association",
+    "question": "My knee feels a bit uncomfortable; I'm worried I might get injured again.",
+    "trigger_concept": "Fear",
     "candidate_set": [
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "用户曾因髂胫束综合征停训两个月，这是恐惧的根源记忆。"
+        "concept": "2023 ITBS Injury",
+        "reason": "The user previously stopped training for two months due to Iliotibial Band Syndrome; this is the root memory of their fear."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "受伤经历促使用户开始系统学习该学科，以避免盲目训练。"
+        "concept": "Sports Anatomy",
+        "reason": "The injury experience prompted the user to systematically study this discipline to avoid blind training."
       },
       {
-        "concept": "复健坚持",
-        "reason": "过往受伤经历让用户对恢复过程有深刻的记忆和重视。"
+        "concept": "Persistence in Rehabilitation",
+        "reason": "Past injury experiences have left the user with a profound memory and emphasis on the recovery process."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从对受伤的担忧触发具体的过往创伤事件（ITBS）及其带来的认知改变（学习解剖学）。"
+    "reasoning": "Triggers specific past traumatic events (ITBS) and the resulting cognitive changes (learning anatomy) based on concerns about injury."
   },
   {
     "id": "q_024",
-    "trigger_type": "情感相关记忆联想",
-    "question": "爸爸最近居然夸我马拉松跑得好，还问我吃的补剂安不安全。",
-    "trigger_concept": "父亲林建国的态度转变",
+    "trigger_type": "Emotion-Related Memory Association",
+    "question": "Dad actually praised my marathon performance recently and asked if the supplements I take are safe.",
+    "trigger_concept": "Father Lin Jianguo's Change in Attitude",
     "candidate_set": [
       {
-        "concept": "马拉松奖牌",
-        "reason": "父亲态度转变的关键触发物，从劝阻变为自豪的媒介。"
+        "concept": "Marathon Medal",
+        "reason": "The key trigger for the father's change in attitude; the medium through which he shifted from discouragement to pride."
       },
       {
-        "concept": "家庭自豪感",
-        "reason": "父亲当前对儿子运动成就的情感状态。"
+        "concept": "Family Pride",
+        "reason": "The father's current emotional state regarding his son's athletic achievements."
       },
       {
-        "concept": "父亲的营养品疑问",
-        "reason": "父亲态度转变后产生的具体互动行为，关心补剂安全性。"
+        "concept": "Father's Question About Supplements",
+        "reason": "A specific interactive behavior arising after the father's change in attitude, showing concern for supplement safety."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从父亲的态度变化触发导致变化的具体物品（奖牌）及当前的互动细节（补剂疑问）。"
+    "reasoning": "Triggers the specific object causing the change (the medal) and current interaction details (questions about supplements) based on the father's shift in attitude."
   },
   {
     "id": "q_025",
-    "trigger_type": "情感相关记忆联想",
-    "question": "每次回家妈妈都给我做炖牛肉，感觉特别温暖。",
-    "trigger_concept": "母亲张慧的炖牛肉",
+    "trigger_type": "Emotion-Related Memory Association",
+    "question": "Every time I go home, Mom makes me braised beef; it feels especially warm.",
+    "trigger_concept": "Mother Zhang Hui's Braised Beef",
     "candidate_set": [
       {
-        "concept": "家庭支持",
-        "reason": "母亲行为背后代表的情感支撑，是用户健康饮食的家庭来源。"
+        "concept": "Family Support",
+        "reason": "The emotional backing represented by the mother's actions; it is the family source of the user's healthy diet."
       },
       {
-        "concept": "高蛋白菜肴",
-        "reason": "母亲特意准备的食物类型，符合用户的健身营养需求。"
+        "concept": "High-Protein Dishes",
+        "reason": "The type of food the mother specifically prepares, aligning with the user's fitness nutrition needs."
       },
       {
-        "concept": "张慧",
-        "reason": "执行这一关怀行为的具体人物实体。"
+        "concept": "Zhang Hui",
+        "reason": "The specific person entity performing this act of care."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从具体的食物触发背后的情感支持概念及人物关系。"
+    "reasoning": "Triggers concepts of underlying emotional support and personal relationships based on a specific food item."
   },
   {
     "id": "q_026",
-    "trigger_type": "情感相关记忆联想",
-    "question": "周六晚上的欺骗餐吃起来毫无负罪感。",
-    "trigger_concept": "无负罪感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Saturday night's cheat meal tasted guilt-free.",
+    "trigger_concept": "Guilt-free feeling",
     "candidate_set": [
       {
-        "concept": "周六欺骗餐",
-        "reason": "用户严格安排的饮食计划节点，是产生该情绪的场景。"
+        "concept": "Saturday cheat meal",
+        "reason": "A strictly scheduled node in the user's diet plan where this emotion arises."
       },
       {
-        "concept": "心理补偿",
-        "reason": "欺骗餐在用户心理层面的功能，作为一周严格控制的奖励。"
+        "concept": "Psychological compensation",
+        "reason": "The function of the cheat meal at a psychological level, serving as a reward for a week of strict control."
       },
       {
-        "concept": "满足感",
-        "reason": "用户在享受美食时获得的直接情绪体验。"
+        "concept": "Sense of satisfaction",
+        "reason": "The direct emotional experience the user gains while enjoying delicious food."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从情绪状态触发特定的饮食计划安排及其心理机制（补偿与满足）。"
+    "reasoning": "Triggers specific diet plan arrangements and their psychological mechanisms (compensation and satisfaction) from an emotional state."
   },
   {
     "id": "q_027",
-    "trigger_type": "情感相关记忆联想",
-    "question": "深蹲冲击大重量时，有人保护让我很安心。",
-    "trigger_concept": "安全感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Having a spotter while hitting heavy weights on squats makes me feel very secure.",
+    "trigger_concept": "Sense of security",
     "candidate_set": [
       {
-        "concept": "王强保护",
-        "reason": "提供安全感的具体人物和行为，私教朋友会在大重量时提供保护。"
+        "concept": "Wang Qiang spotting",
+        "reason": "The specific person and behavior providing security; the personal trainer friend provides spotting during heavy lifts."
       },
       {
-        "concept": "动作保护",
-        "reason": "具体的协助行为，确保训练安全。"
+        "concept": "Lifting assistance",
+        "reason": "The specific assisting behavior that ensures training safety."
       },
       {
-        "concept": "王强",
-        "reason": "执行保护动作的关键社交关系实体。"
+        "concept": "Wang Qiang",
+        "reason": "The key social entity performing the spotting action."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从安全感触发具体的保护者（王强）及其提供的具体行为。"
+    "reasoning": "Triggers the specific spotter (Wang Qiang) and the concrete actions they provide from the sense of security."
   },
   {
     "id": "q_028",
-    "trigger_type": "情感相关记忆联想",
-    "question": "想起大二那年体测不及格，真是恍如隔世。",
-    "trigger_concept": "初心回忆",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Recalling failing the fitness test in my sophomore year feels like a lifetime ago.",
+    "trigger_concept": "Memory of original intention",
     "candidate_set": [
       {
-        "concept": "2021 杭马身份认同",
-        "reason": "从体测不及格到确立“跑者”身份的巨大转变节点。"
+        "concept": "2021 Hangzhou Marathon identity",
+        "reason": "The pivotal turning point marking the huge transformation from failing a fitness test to establishing a 'runner' identity."
       },
       {
-        "concept": "跑者身份",
-        "reason": "用户当前核心自我认知，与过去的消瘦体型形成对比。"
+        "concept": "Runner identity",
+        "reason": "The user's current core self-perception, contrasting with their past frail physique."
       },
       {
-        "concept": "2021 杭州马拉松",
-        "reason": "确立身份认同的关键里程碑事件。"
+        "concept": "2021 Hangzhou Marathon",
+        "reason": "The key milestone event that established this identity."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从过去的挫折记忆触发身份转变的关键里程碑事件及当前的身份认同。"
+    "reasoning": "Triggers key milestone events regarding identity transformation and current self-identification from memories of past setbacks."
   },
   {
     "id": "q_029",
-    "trigger_type": "情感相关记忆联想",
-    "question": "每天早上 6:30 起床喝黑咖啡，感觉一天都掌控在自己手里。",
-    "trigger_concept": "晨间掌控力",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Waking up at 6:30 AM every day for black coffee makes me feel like I have the whole day under control.",
+    "trigger_concept": "Morning sense of control",
     "candidate_set": [
       {
-        "concept": "晨间黑咖啡仪式",
-        "reason": "触发掌控感的具体行为习惯。"
+        "concept": "Morning black coffee ritual",
+        "reason": "The specific habitual behavior that triggers the sense of control."
       },
       {
-        "concept": "作息纪律",
-        "reason": "严格早起背后体现的自律精神和生活秩序。"
+        "concept": "Schedule discipline",
+        "reason": "The self-discipline and life order reflected behind the strict early rising."
       },
       {
-        "concept": "06:30 起床",
-        "reason": "具体的时间点实体，是这一习惯的基石。"
+        "concept": "06:30 wake-up",
+        "reason": "The specific time entity that serves as the cornerstone of this habit."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从掌控感的情绪触发具体的晨间仪式习惯及背后的自律特质。"
+    "reasoning": "Triggers specific morning ritual habits and the underlying trait of self-discipline from the emotion of control."
   },
   {
     "id": "q_030",
-    "trigger_type": "情感相关记忆联想",
-    "question": "看着 Excel 里每周递增的重量曲线，很有成就感。",
-    "trigger_concept": "训练完成感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Watching the weekly increasing weight curve in Excel gives me a great sense of accomplishment.",
+    "trigger_concept": "Sense of training completion",
     "candidate_set": [
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "用户记录和分析渐进负荷的具体工具形式。"
+        "concept": "Excel load curve",
+        "reason": "The specific tool format the user employs to record and analyze progressive overload."
       },
       {
-        "concept": "程序员思维",
-        "reason": "用户利用数据分析工具（Excel）来量化训练成果的职业习惯映射。"
+        "concept": "Programmer mindset",
+        "reason": "The mapping of the user's professional habit of using data analysis tools (Excel) to quantify training results."
       },
       {
-        "concept": "渐进负荷",
-        "reason": "曲线背后代表的科学训练原则，是成就感的来源。"
+        "concept": "Progressive overload",
+        "reason": "The scientific training principle represented by the curve, which is the source of the sense of accomplishment."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从成就感触发具体的数据记录方式（Excel 曲线）及用户的职业思维特征。"
+    "reasoning": "Triggers the specific method of data recording (Excel curve) and the user's professional thinking characteristics from the sense of accomplishment."
   },
   {
     "id": "q_031",
-    "trigger_type": "情感相关记忆联想",
-    "question": "周日晚上用筋膜枪放松的时候，是一周最宁静的时刻。",
-    "trigger_concept": "宁静感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Using the massage gun to relax on Sunday evenings is the most peaceful moment of my week.",
+    "trigger_concept": "Sense of Tranquility",
     "candidate_set": [
       {
-        "concept": "周日主动恢复",
-        "reason": "该情绪发生的时间段和活动类型背景。"
+        "concept": "Sunday Active Recovery",
+        "reason": "The time frame and activity context in which this emotion occurs."
       },
       {
-        "concept": "筋膜枪",
-        "reason": "触发宁静感的具体工具，用于肌肉放松。"
+        "concept": "Massage Gun",
+        "reason": "The specific tool used for muscle relaxation that triggers the sense of tranquility."
       },
       {
-        "concept": "肌肉放松",
-        "reason": "进行该活动时的生理状态，关联心理的宁静。"
+        "concept": "Muscle Relaxation",
+        "reason": "The physiological state during the activity, linked to mental peace."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从宁静的情绪触发具体的恢复时间、工具及生理活动。"
+    "reasoning": "Triggers specific recovery timing, tools, and physiological activities from the emotion of tranquility."
   },
   {
     "id": "q_032",
-    "trigger_type": "情感相关记忆联想",
-    "question": "和陈宇一起在滨江跑道晨跑，互相监督配速很有动力。",
-    "trigger_concept": "同伴压力",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Morning runs with Chen Yu on the Binjiang track; monitoring each other's pace is highly motivating.",
+    "trigger_concept": "Peer Pressure",
     "candidate_set": [
       {
-        "concept": "陈宇",
-        "reason": "共同训练的跑友实体，动力的来源之一。"
+        "concept": "Chen Yu",
+        "reason": "The running partner entity for joint training and a source of motivation."
       },
       {
-        "concept": "滨江跑道 LSD",
-        "reason": "两人相约训练的具体地点和内容（长距离慢跑）。"
+        "concept": "Binjiang Track LSD",
+        "reason": "The specific location and content (Long Slow Distance) agreed upon for training."
       },
       {
-        "concept": "周二/周四早晨",
-        "reason": "这一社交训练活动发生的固定时间安排。"
+        "concept": "Tuesday/Thursday Mornings",
+        "reason": "The fixed schedule for this social training activity."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从同伴带来的动力触发具体的伙伴、地点及固定的训练时间。"
+    "reasoning": "Triggers specific partners, locations, and fixed training times from the motivation brought by companions."
   },
   {
     "id": "q_033",
-    "trigger_type": "情感相关记忆联想",
-    "question": "即使不再买课，和王强交流动作细节也让我很踏实。",
-    "trigger_concept": "信任感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Even without buying more sessions, discussing movement details with Wang Qiang gives me a sense of security.",
+    "trigger_concept": "Sense of Trust",
     "candidate_set": [
       {
-        "concept": "王强",
-        "reason": "建立信任关系的私教朋友实体。"
+        "concept": "Wang Qiang",
+        "reason": "The personal trainer friend entity with whom a trust relationship has been established."
       },
       {
-        "concept": "动作细节",
-        "reason": "两人交流的核心内容，体现专业度。"
+        "concept": "Movement Details",
+        "reason": "The core content of their communication, reflecting professionalism."
       },
       {
-        "concept": "技术动作",
-        "reason": "交流的具体领域，关乎训练效率与安全。"
+        "concept": "Technical Movements",
+        "reason": "The specific domain of communication, concerning training efficiency and safety."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从踏实的情绪触发特定的人际关系（王强）及交流的专业内容。"
+    "reasoning": "Triggers specific interpersonal relationships (Wang Qiang) and professional communication content from the feeling of security."
   },
   {
     "id": "q_034",
-    "trigger_type": "情感相关记忆联想",
-    "question": "穿上 Vaporfly 3 站在起跑线上，心跳加速但充满期待。",
-    "trigger_concept": "比赛日表现",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Standing at the starting line in my Vaporfly 3, my heart races but I am filled with anticipation.",
+    "trigger_concept": "Race Day Performance",
     "candidate_set": [
       {
         "concept": "Nike Vaporfly 3",
-        "reason": "用户专门用于比赛的跑鞋，触发比赛情境的关键装备。"
+        "reason": "The racing shoes used specifically by the user; key equipment triggering the race scenario."
       },
       {
-        "concept": "起跑线",
-        "reason": "比赛即将开始的特定场景，引发情绪波动。"
+        "concept": "Starting Line",
+        "reason": "The specific scene just before the race begins, triggering emotional fluctuations."
       },
       {
-        "concept": "装备最佳状态",
-        "reason": "用户赛前对装备的心理预设，增强自信。"
+        "concept": "Optimal Gear Condition",
+        "reason": "The user's psychological preset regarding equipment before the race, enhancing confidence."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从赛前期待触发特定的比赛装备、场景及心理预设。"
+    "reasoning": "Triggers specific race equipment, scenarios, and psychological presets from pre-race anticipation."
   },
   {
     "id": "q_035",
-    "trigger_type": "情感相关记忆联想",
-    "question": "为了深蹲 1.5 倍体重的目标，每一步加重都小心翼翼。",
-    "trigger_concept": "深蹲目标",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Working towards a squat goal of 1.5 times my body weight, I proceed with every weight increase cautiously.",
+    "trigger_concept": "Squat Goal",
     "candidate_set": [
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "用户具体的量化健身目标，是谨慎情绪的源头。"
+        "concept": "Squat Goal of 1.5x Body Weight",
+        "reason": "The user's specific quantified fitness goal, which is the source of the cautious emotion."
       },
       {
-        "concept": "预防受伤",
-        "reason": "小心翼翼背后的核心动机，源于过往受伤教训。"
+        "concept": "Injury Prevention",
+        "reason": "The core motivation behind the caution, stemming from past injury lessons."
       },
       {
-        "concept": "2023 年停训挫折",
-        "reason": "导致用户现在如此谨慎的历史创伤记忆。"
+        "concept": "2023 Training Hiatus Setback",
+        "reason": "The historical traumatic memory causing the user's current caution."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从对目标的谨慎态度触发具体目标数值、动机（防伤）及历史教训。"
+    "reasoning": "Triggers specific goal values, motivations (injury prevention), and historical lessons from the cautious attitude toward the goal."
   },
   {
     "id": "q_036",
-    "trigger_type": "情感相关记忆联想",
-    "question": "工作自带便当虽然麻烦，但看到干净的营养搭配很欣慰。",
-    "trigger_concept": "秩序感",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Although packing my own lunch for work is a hassle, seeing the clean, balanced nutrition brings me a sense of satisfaction.",
+    "trigger_concept": "Sense of Order",
     "candidate_set": [
       {
-        "concept": "工作日自带便当",
-        "reason": "产生欣慰感的具体行为习惯。"
+        "concept": "Bringing lunch on weekdays",
+        "reason": "A specific behavioral habit that generates a sense of satisfaction."
       },
       {
-        "concept": "饮食控制",
-        "reason": "自带便当背后的核心目的和原则。"
+        "concept": "Dietary control",
+        "reason": "The core purpose and principle behind bringing your own lunch."
       },
       {
-        "concept": "备餐分装",
-        "reason": "实现饮食控制的具体操作过程，体现秩序。"
+        "concept": "Meal prep and portioning",
+        "reason": "The specific operational process to achieve dietary control, reflecting a sense of order."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从欣慰的情绪触发具体的饮食习惯、原则及操作细节。"
+    "reasoning": "Triggers specific dietary habits, principles, and operational details from the emotion of satisfaction."
   },
   {
     "id": "q_037",
-    "trigger_type": "情感相关记忆联想",
-    "question": "冷热交替浴虽然痛苦，但做完后觉得身体系统被重启了。",
-    "trigger_concept": "身体系统",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Although contrast water therapy is painful, I feel like my body's systems have been rebooted afterward.",
+    "trigger_concept": "Body Systems",
     "candidate_set": [
       {
-        "concept": "冷热交替浴",
-        "reason": "用户采用的特定恢复手段。"
+        "concept": "Contrast water therapy",
+        "reason": "A specific recovery method adopted by the user."
       },
       {
-        "concept": "肌肉恢复",
-        "reason": "该手段旨在达到的生理效果。"
+        "concept": "Muscle recovery",
+        "reason": "The physiological effect this method aims to achieve."
       },
       {
-        "concept": "主动恢复",
-        "reason": "该行为在用户训练计划中的分类属性。"
+        "concept": "Active recovery",
+        "reason": "The categorical attribute of this behavior within the user's training plan."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从身体重启的感觉触发具体的恢复手段及其生理目的和分类。"
+    "reasoning": "Triggers specific recovery methods, their physiological purposes, and classifications from the sensation of a body reboot."
   },
   {
     "id": "q_038",
-    "trigger_type": "情感相关记忆联想",
-    "question": "在 Strava 上分享轨迹，看到朋友的点赞很開心。",
-    "trigger_concept": "社交认同",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Sharing my route on Strava and seeing likes from friends makes me very happy.",
+    "trigger_concept": "Social Validation",
     "candidate_set": [
       {
         "concept": "Strava",
-        "reason": "用户进行数据记录和社交分享的核心平台。"
+        "reason": "The core platform the user uses for data tracking and social sharing."
       },
       {
-        "concept": "Strava 轨迹",
-        "reason": "用户分享的具体内容载体。"
+        "concept": "Strava route",
+        "reason": "The specific content carrier shared by the user."
       },
       {
-        "concept": "朋友圈分享",
-        "reason": "用户获取社交认同的另一个并行渠道，关联记忆。"
+        "concept": "Sharing on WeChat Moments",
+        "reason": "Another parallel channel for the user to gain social validation, linked by memory."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从开心的情绪触发具体的社交平台、分享内容及其他相关分享渠道。"
+    "reasoning": "Triggers specific social platforms, shared content, and other related sharing channels from the emotion of happiness."
   },
   {
     "id": "q_039",
-    "trigger_type": "情感相关记忆联想",
-    "question": "晚上 23:00 准时入睡，这种规律让我很有安全感。",
-    "trigger_concept": "作息纪律",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Going to bed promptly at 23:00 gives me a strong sense of security due to this regularity.",
+    "trigger_concept": "Sleep Discipline",
     "candidate_set": [
       {
-        "concept": "23:00 入睡习惯",
-        "reason": "用户严格执行的睡眠时间点。"
+        "concept": "23:00 bedtime habit",
+        "reason": "The specific sleep time strictly adhered to by the user."
       },
       {
-        "concept": "肌肉恢复",
-        "reason": "严格睡眠背后的生理目的，为了训练效果。"
+        "concept": "Muscle recovery",
+        "reason": "The physiological purpose behind strict sleep, aimed at optimizing training results."
       },
       {
-        "concept": "睡眠 routine",
-        "reason": "用户整体睡眠管理的系统性描述。"
+        "concept": "Sleep routine",
+        "reason": "A systematic description of the user's overall sleep management."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从安全感触发具体的睡眠时间、生理目的及整体习惯描述。"
+    "reasoning": "Triggers specific sleep times, physiological purposes, and overall habit descriptions from the sense of security."
   },
   {
     "id": "q_040",
-    "trigger_type": "情感相关记忆联想",
-    "question": "戴上骨传导耳机跑步，听着音乐感觉很自由。",
-    "trigger_concept": "环境音隔离",
+    "trigger_type": "Emotion-Linked Memory Association",
+    "question": "Running with bone conduction headphones while listening to music makes me feel very free.",
+    "trigger_concept": "Ambient Noise Isolation",
     "candidate_set": [
       {
         "concept": "Shokz OpenRun",
-        "reason": "用户使用的具体骨传导耳机品牌型号。"
+        "reason": "The specific brand and model of bone conduction headphones used by the user."
       },
       {
-        "concept": "Shokz 耳机与 HIIT",
-        "reason": "该装备在用户高强度训练场景中的特定关联记忆。"
+        "concept": "Shokz headphones and HIIT",
+        "reason": "A specific memory association of this equipment in the user's high-intensity training scenarios."
       },
       {
-        "concept": "装备爱惜",
-        "reason": "用户对常用训练装备的情感态度。"
+        "concept": "Equipment care",
+        "reason": "The user's emotional attitude towards their frequently used training gear."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从自由的感觉触发具体的装备型号、特定场景关联（HIIT）及用户对装备的态度。"
+    "reasoning": "Triggers specific equipment models, scenario associations (HIIT), and the user's attitude towards the gear from the feeling of freedom."
   },
   {
     "id": "q_041",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "最近项目上线压力有点大，感觉脑子很乱。",
-    "trigger_concept": "项目上线压力",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "The recent project launch has been quite stressful; my mind feels cluttered.",
+    "trigger_concept": "Project launch stress",
     "candidate_set": [
       {
-        "concept": "HIIT 训练",
-        "reason": "用户习惯通过高强度间歇跑来应对代码 Bug 引发的焦虑，以换取大脑清空。"
+        "concept": "HIIT Training",
+        "reason": "The user habitually uses high-intensity interval running to cope with anxiety triggered by code bugs, aiming to clear their mind."
       },
       {
-        "concept": "降噪耳机",
-        "reason": "在进行缓解压力的 HIIT 训练时，用户会佩戴降噪耳机隔离环境音。"
+        "concept": "Noise-canceling headphones",
+        "reason": "When performing HIIT training to relieve stress, the user wears noise-canceling headphones to block out ambient noise."
       },
       {
-        "concept": "大脑清空",
-        "reason": "这是用户进行高强度运动后的核心心理诉求，用于对抗工作烦躁。"
+        "concept": "Mental clarity",
+        "reason": "This is the core psychological goal the user seeks after high-intensity exercise to counteract work-related irritability."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从工作压力触发到特定的情绪应对机制（HIIT+ 耳机）及预期心理状态。"
+    "reasoning": "Links work stress to specific emotional coping mechanisms (HIIT + headphones) and the expected psychological state."
   },
   {
     "id": "q_042",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "这周末打算好好吃一顿，放松一下。",
-    "trigger_concept": "周末放松饮食",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I plan to have a proper meal this weekend to relax.",
+    "trigger_concept": "Weekend relaxation dining",
     "candidate_set": [
       {
-        "concept": "周六欺骗餐",
-        "reason": "用户严格规定欺骗餐安排在周六晚上，作为一周饮食控制的奖励。"
+        "concept": "Saturday cheat meal",
+        "reason": "The user strictly schedules their cheat meal for Saturday night as a reward for a week of dietary control."
       },
       {
-        "concept": "无负罪感",
-        "reason": "用户将欺骗餐视为计划内的心理补偿，因此食用时不会有负罪感。"
+        "concept": "Guilt-free",
+        "reason": "The user views the cheat meal as a planned psychological compensation, so they feel no guilt while eating it."
       },
       {
-        "concept": "代谢额度积累",
-        "reason": "用户通过一周的严格控制积累代谢额度，以便在欺骗餐时尽情享用。"
+        "concept": "Metabolic allowance accumulation",
+        "reason": "The user accumulates metabolic allowance through strict control during the week to enjoy the cheat meal to the fullest."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从模糊的放松饮食意图联想到用户具体的“周六欺骗餐”制度及其背后的心理逻辑。"
+    "reasoning": "Connects the vague intention of relaxing with food to the user's specific 'Saturday cheat meal' system and its underlying psychological logic."
   },
   {
     "id": "q_043",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "明天早上又要早起去跑步了。",
-    "trigger_concept": "晨跑计划",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I have to wake up early again tomorrow morning for a run.",
+    "trigger_concept": "Morning run plan",
     "candidate_set": [
       {
-        "concept": "06:30 起床",
-        "reason": "用户工作日雷打不动的起床时间是 06:30，用于晨练。"
+        "concept": "06:30 Wake-up",
+        "reason": "The user's unwavering wake-up time on weekdays is 06:30, dedicated to morning workouts."
       },
       {
-        "concept": "晨间黑咖啡仪式",
-        "reason": "起床后空腹喝黑咖啡是用户晨间激活的标准流程。"
+        "concept": "Morning black coffee ritual",
+        "reason": "Drinking black coffee on an empty stomach after waking up is the user's standard routine for morning activation."
       },
       {
-        "concept": "陈宇",
-        "reason": "周二、周四早晨用户会与同事陈宇相约在滨江跑道进行 LSD 训练。"
+        "concept": "Chen Yu",
+        "reason": "On Tuesday and Thursday mornings, the user meets with colleague Chen Yu at the Binjiang track for LSD training."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从晨跑意图联想到具体的时间点、前置习惯（咖啡）以及特定的社交伙伴（陈宇）。"
+    "reasoning": "Associates the intention to run in the morning with specific timing, a前置 habit (coffee), and a specific social partner (Chen Yu)."
   },
   {
     "id": "q_044",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "今晚练腿，准备冲个大重量。",
-    "trigger_concept": "大重量深蹲",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Leg day tonight; ready to push some heavy weights.",
+    "trigger_concept": "Heavy squats",
     "candidate_set": [
       {
-        "concept": "王强",
-        "reason": "用户冲击大重量时，常由健身房朋友王强提供保护（Spot）。"
+        "concept": "Wang Qiang",
+        "reason": "When the user attempts heavy lifts, gym friend Wang Qiang often provides spotting."
       },
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "用户当前的明确目标是深蹲达到 1.5 倍体重，这是冲大重量的动力源。"
+        "concept": "Squat 1.5x bodyweight goal",
+        "reason": "The user's current explicit goal is to squat 1.5 times their body weight, which serves as the motivation for pushing heavy weights."
       },
       {
-        "concept": "动作保护",
-        "reason": "基于 2023 年 ITBS 受伤经历，用户现在非常看重冲击极限时的安全保护。"
+        "concept": "Movement protection",
+        "reason": "Based on an ITBS injury experienced in 2023, the user now places great emphasis on safety protection when attempting极限 lifts."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从练腿意图联想到特定的保护人、长期目标以及因过往受伤史而强化的安全意识。"
+    "reasoning": "Links the leg workout intention to a specific spotter, a long-term goal, and heightened safety awareness due to past injury history."
   },
   {
     "id": "q_045",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "刚跑完半马，成绩还不错。",
-    "trigger_concept": "跑步成绩达成",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Just finished a half marathon; the result was pretty good.",
+    "trigger_concept": "Running achievement",
     "candidate_set": [
       {
-        "concept": "Strava 打卡",
-        "reason": "用户习惯在达成纪录后通过 Strava 分享数据以获得社交认同。"
+        "concept": "Strava check-in",
+        "reason": "The user habitually shares data on Strava after achieving a record to gain social validation."
       },
       {
-        "concept": "掌控兴奋感",
-        "reason": "完成长距离或打破 PB 会给用户带来强烈的成就感和掌控感。"
+        "concept": "Sense of control and excitement",
+        "reason": "Completing long distances or breaking a PB gives the user a strong sense of accomplishment and control."
       },
       {
-        "concept": "打破半马 PB",
-        "reason": "用户的具体目标是打破 1 小时 40 分大关，这是衡量“不错”的具体标尺。"
+        "concept": "Breaking half marathon PB",
+        "reason": "The user's specific goal is to break the 1 hour 40 minutes barrier, which is the concrete benchmark for judging a result as 'good'."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从跑步完成联想到用户的社交分享习惯、心理反馈机制及具体量化目标。"
+    "reasoning": "Connects completing a run to the user's social sharing habits, psychological feedback mechanisms, and specific quantitative goals."
   },
   {
     "id": "q_046",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "回家妈妈又做了一大桌菜。",
-    "trigger_concept": "家庭聚餐",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Mom has prepared a huge feast again now that I'm home.",
+    "trigger_concept": "Family dinner",
     "candidate_set": [
       {
-        "concept": "母亲张慧",
-        "reason": "母亲张慧是用户健康饮食的主要家庭支持者，常准备高蛋白菜肴。"
+        "concept": "Mother Zhang Hui",
+        "reason": "Mother Zhang Hui is the user's primary family supporter for a healthy diet and often prepares high-protein dishes."
       },
       {
-        "concept": "炖牛肉",
-        "reason": "母亲特意准备的高蛋白菜肴典型代表，符合用户的增肌需求。"
+        "concept": "Braised beef",
+        "reason": "A typical high-protein dish specially prepared by the mother, aligning with the user's muscle-building goals."
       },
       {
-        "concept": "家庭支持",
-        "reason": "母亲的行为体现了对用户健身爱好的后勤支持和情感认可。"
+        "concept": "Family support",
+        "reason": "The mother's actions demonstrate logistical support and emotional validation for the user's fitness hobby."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从家庭用餐场景联想到具体的家庭成员角色、典型菜肴及背后的支持关系。"
+    "reasoning": "Associates the family dining scenario with specific family roles, typical dishes, and the underlying support dynamics."
   },
   {
     "id": "q_047",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "膝盖最近有点不舒服，不敢乱练了。",
-    "trigger_concept": "膝盖不适",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "My knees have been feeling a bit uncomfortable lately; I dare not train recklessly.",
+    "trigger_concept": "Knee discomfort",
     "candidate_set": [
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "用户曾患右膝髂胫束综合征并停训两个月，对此类症状高度敏感。"
+        "concept": "2023 ITBS injury",
+        "reason": "The user previously suffered from right knee Iliotibial Band Syndrome (ITBS) and stopped training for two months, making them highly sensitive to such symptoms."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "受伤经历促使用户系统学习了解剖学，不再盲目训练。"
+        "concept": "Sports anatomy",
+        "reason": "The injury experience prompted the user to systematically study anatomy, preventing blind training."
       },
       {
-        "concept": "父亲林建国的态度转变",
-        "reason": "父亲曾因担心膝盖受伤而劝阻，现在的谨慎可能唤起对父亲过往担忧的记忆。"
+        "concept": "Father Lin Jianguo's change in attitude",
+        "reason": "The father previously advised against training due to concerns about knee injuries; the user's current caution may evoke memories of his past worries."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从身体不适联想到具体的过往受伤史、因此产生的知识更新以及家庭观念的冲突与和解。"
+    "reasoning": "Associates physical discomfort with specific past injury history, the resulting knowledge updates, and the conflict and reconciliation of family perspectives."
   },
   {
     "id": "q_048",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "我要记录一下这周的训练数据。",
-    "trigger_concept": "训练记录",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I need to log this week's training data.",
+    "trigger_concept": "Training log",
     "candidate_set": [
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "用户习惯用 Excel 记录重量与组数，并分析渐进负荷曲线。"
+        "concept": "Excel load curve",
+        "reason": "The user is accustomed to using Excel to record weights and sets, analyzing progressive overload curves."
       },
       {
-        "concept": "程序员思维",
-        "reason": "作为后端工程师，用户倾向于用结构化数据（Excel）而非仅靠 APP 来管理训练。"
+        "concept": "Programmer mindset",
+        "reason": "As a backend engineer, the user prefers managing training via structured data (Excel) rather than relying solely on apps."
       },
       {
-        "concept": "渐进负荷",
-        "reason": "记录数据的核心目的是为了科学地实现渐进负荷，避免停滞或受伤。"
+        "concept": "Progressive overload",
+        "reason": "The core purpose of recording data is to scientifically achieve progressive overload, avoiding plateaus or injuries."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从记录行为联想到用户独特的工具偏好（Excel）、职业思维映射及训练核心原则。"
+    "reasoning": "Associates the act of logging with the user's unique tool preferences (Excel), the mapping of professional mindset, and core training principles."
   },
   {
     "id": "q_049",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "爸爸问我吃的这些粉安不安全。",
-    "trigger_concept": "父亲询问补剂",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Dad asked me if these powders I'm taking are safe.",
+    "trigger_concept": "Father inquiring about supplements",
     "candidate_set": [
       {
-        "concept": "父亲林建国",
-        "reason": "父亲传统观念重，曾认为运动伤身，现在虽自豪但仍对营养品安全性存疑。"
+        "concept": "Father Lin Jianguo",
+        "reason": "The father holds traditional views and once believed exercise was harmful to health; although now proud, he remains skeptical about the safety of nutritional supplements."
       },
       {
-        "concept": "ON 乳清蛋白粉",
-        "reason": "用户日常服用的主要补剂品牌，是父亲质疑的具体对象。"
+        "concept": "ON Whey Protein",
+        "reason": "The primary supplement brand the user takes daily, which is the specific object of the father's skepticism."
       },
       {
-        "concept": "态度转变",
-        "reason": "父亲从劝阻到自豪再到询问细节，反映了其对儿子马拉松奖牌认可后的态度变化过程。"
+        "concept": "Change in attitude",
+        "reason": "The father's shift from discouragement to pride, and now to inquiring about details, reflects the evolution of his attitude after recognizing his son's marathon medal."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从对话内容联想到具体的提问者背景、被质疑的具体物品及家庭关系动态。"
+    "reasoning": "Associates the conversation content with the specific background of the questioner, the specific item being questioned, and the dynamics of the family relationship."
   },
   {
     "id": "q_050",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "周日晚上得好好放松一下肌肉。",
-    "trigger_concept": "周日恢复",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "I need to properly relax my muscles on Sunday night.",
+    "trigger_concept": "Sunday recovery",
     "candidate_set": [
       {
-        "concept": "周日主动恢复",
-        "reason": "用户周日下午/晚上的固定安排是主动恢复，如瑜伽或泡沫轴。"
+        "concept": "Sunday active recovery",
+        "reason": "The user's fixed schedule for Sunday afternoon/evening is active recovery, such as yoga or using a foam roller."
       },
       {
-        "concept": "筋膜枪",
-        "reason": "用户常用筋膜枪放松大腿外侧与小腿，是恢复流程的关键工具。"
+        "concept": "Massage gun",
+        "reason": "The user frequently uses a massage gun to relax the outer thighs and calves, making it a key tool in the recovery routine."
       },
       {
-        "concept": "髂胫束放松",
-        "reason": "鉴于 ITBS 病史，大腿外侧（髂胫束）是用户重点放松和警惕的区域。"
+        "concept": "Iliotibial band relaxation",
+        "reason": "Given the history of ITBS, the outer thigh (iliotibial band) is a key area for the user to focus on for relaxation and vigilance."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从恢复意图联想到具体的时间安排、使用的工具及针对特定伤病史的重点部位。"
+    "reasoning": "Associates the intention to recover with specific timing, tools used, and key body parts targeted due to specific injury history."
   },
   {
     "id": "q_051",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "明天比赛，得挑双好鞋。",
-    "trigger_concept": "比赛选鞋",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Tomorrow's race means I need to pick the right shoes.",
+    "trigger_concept": "Choosing race shoes",
     "candidate_set": [
       {
         "concept": "Nike Vaporfly 3",
-        "reason": "用户明确将此款跑鞋定义为比赛专用鞋，区别于日常训练鞋。"
+        "reason": "The user explicitly defines this running shoe as dedicated for races, distinguishing it from daily training shoes."
       },
       {
-        "concept": "跑鞋轮换纪律",
-        "reason": "用户严格执行比赛鞋与训练鞋分离的轮换策略，以延长装备寿命并保持状态。"
+        "concept": "Shoe rotation discipline",
+        "reason": "The user strictly adheres to a rotation strategy separating race shoes from training shoes to extend equipment lifespan and maintain performance."
       },
       {
-        "concept": "装备最佳状态",
-        "reason": "挑选比赛鞋的目的是为了确保在比赛日装备处于性能巅峰。"
+        "concept": "Optimal equipment condition",
+        "reason": "The purpose of selecting race shoes is to ensure the equipment is at peak performance on race day."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从比赛准备联想到具体的装备型号、用户的装备管理策略及背后的性能追求。"
+    "reasoning": "Associates race preparation with specific equipment models, the user's gear management strategy, and the underlying pursuit of performance."
   },
   {
     "id": "q_052",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "下班后直接去健身房。",
-    "trigger_concept": "晚间训练",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Heading straight to the gym after work.",
+    "trigger_concept": "Evening training",
     "candidate_set": [
       {
-        "concept": "乐刻运动文三路店",
-        "reason": "用户公司楼下 500 米处的常去健身房，是下班后的首选地点。"
+        "concept": "Leke Sports Wensan Road Branch",
+        "reason": "This is the user's frequent gym located 500 meters below their office, making it the top choice after work."
       },
       {
-        "concept": "晚间力量训练",
-        "reason": "用户工作日傍晚 19:30 后的固定项目是 60-90 分钟的力量训练。"
+        "concept": "Evening strength training",
+        "reason": "The user's fixed routine on weekdays after 19:30 is 60-90 minutes of strength training."
       },
       {
-        "concept": "黄金窗口期",
-        "reason": "训练结束后补充蛋白粉的时间点，用户非常看重练后营养摄入的时机。"
+        "concept": "Golden window",
+        "reason": "This refers to the timing for protein shake consumption post-workout; the user places great importance on nutrient intake timing after training."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从下班去健身的意图联想到具体地点、训练类型及随后的营养补充习惯。"
+    "reasoning": "Associates the intention to go to the gym after work with specific locations, training types, and subsequent nutritional habits."
   },
   {
     "id": "q_053",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "最近睡眠质量挺好的。",
-    "trigger_concept": "睡眠状况",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "My sleep quality has been quite good lately.",
+    "trigger_concept": "Sleep status",
     "candidate_set": [
       {
-        "concept": "23:00 入睡习惯",
-        "reason": "用户严格保证 23:00 前入睡，以确保持续 7.5 小时的睡眠。"
+        "concept": "23:00 bedtime habit",
+        "reason": "The user strictly ensures falling asleep before 23:00 to guarantee a continuous 7.5 hours of sleep."
       },
       {
-        "concept": "肌肉恢复",
-        "reason": "用户重视睡眠的核心原因是为了促进肌肉修复和生长。"
+        "concept": "Muscle recovery",
+        "reason": "The core reason the user values sleep is to promote muscle repair and growth."
       },
       {
-        "concept": "作息纪律",
-        "reason": "良好的睡眠源于用户作为运动员般严格的作息自我约束。"
+        "concept": "Schedule discipline",
+        "reason": "Good sleep stems from the user's athlete-like self-discipline regarding their daily schedule."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从睡眠好这一结果联想到具体的时间点习惯、生理目的及自律特质。"
+    "reasoning": "Associates the result of good sleep with specific time-based habits, physiological goals, and traits of self-discipline."
   },
   {
     "id": "q_054",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "周二早晨老地方见。",
-    "trigger_concept": "周二晨练约定",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "See you at the usual spot on Tuesday morning.",
+    "trigger_concept": "Tuesday morning workout appointment",
     "candidate_set": [
       {
-        "concept": "滨江跑道",
-        "reason": "用户与跑友陈宇每周二、四早晨相约进行 LSD 训练的具体地点。"
+        "concept": "Binjiang Running Track",
+        "reason": "This is the specific location where the user and running partner Chen Yu meet every Tuesday and Thursday morning for LSD training."
       },
       {
-        "concept": "陈宇",
-        "reason": "用户的固定晨跑搭档，同公司前端同事，互相监督配速。"
+        "concept": "Chen Yu",
+        "reason": "The user's fixed morning running partner, a frontend colleague at the same company, with whom they mutually monitor pace."
       },
       {
-        "concept": "LSD 训练",
-        "reason": "周二早晨的训练内容通常是长距离慢跑（LSD），而非间歇跑或力量。"
+        "concept": "LSD training",
+        "reason": "Tuesday morning sessions typically consist of Long Slow Distance (LSD) runs, rather than interval training or strength work."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从时间地点的约定联想到具体的伙伴、地点名称及特定的训练内容类型。"
+    "reasoning": "Associates the appointment of time and place with specific partners, location names, and particular types of training content."
   },
   {
     "id": "q_055",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "看着柜子里的奖牌，感慨万千。",
-    "trigger_concept": "回顾奖牌",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Looking at the medals in the cabinet, I'm filled with emotion.",
+    "trigger_concept": "Reviewing medals",
     "candidate_set": [
       {
-        "concept": "2021 杭州马拉松",
-        "reason": "2021 年首马是用户从减肥转向享受挑战、确立“跑者”身份的里程碑。"
+        "concept": "2021 Hangzhou Marathon",
+        "reason": "The 2021 first marathon was a milestone for the user, marking the shift from weight loss to enjoying challenges and establishing their identity as a 'runner'."
       },
       {
-        "concept": "跑者身份认同",
-        "reason": "奖牌不仅是成绩，更是用户自我身份认同（从普通人到跑者）的象征。"
+        "concept": "Runner identity affirmation",
+        "reason": "The medals represent not just achievements, but also symbolize the user's self-identity transformation from an ordinary person to a runner."
       },
       {
-        "concept": "父亲林建国的态度转变",
-        "reason": "奖牌也是改变父亲传统观念、赢得家庭自豪感的 key evidence。"
+        "concept": "Father Lin Jianguo's change in attitude",
+        "reason": "The medals also serve as key evidence in changing the father's traditional views and earning family pride."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从奖牌这一物体联想到其代表的里程碑事件、心理身份转变及家庭关系影响。"
+    "reasoning": "Associates the physical object of medals with the milestone events they represent, psychological identity shifts, and impacts on family relationships."
   },
   {
     "id": "q_056",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "今天自带了午饭。",
-    "trigger_concept": "自带午餐",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Brought my own lunch today.",
+    "trigger_concept": "Bringing lunch from home",
     "candidate_set": [
       {
-        "concept": "工作日自带便当",
-        "reason": "用户工作日坚持自带便当，以严格控制油盐摄入。"
+        "concept": "Weekday bento boxes",
+        "reason": "The user consistently brings bento boxes on weekdays to strictly control oil and salt intake."
       },
       {
-        "concept": "备餐分装",
-        "reason": "自带便当的前提是用户进行了提前的备餐和分装工作，体现计划性。"
+        "concept": "Meal prepping and portioning",
+        "reason": "Bringing lunch from home presupposes that the user has engaged in advance meal prepping and portioning, demonstrating planning."
       },
       {
-        "concept": "饮食控制",
-        "reason": "自带饭的核心动机是为了执行严格的宏量营养素管理和饮食控制。"
+        "concept": "Dietary control",
+        "reason": "The core motivation for bringing lunch is to enforce strict macronutrient management and dietary control."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [],
-    "reasoning": "从带饭行为联想到用户的日常习惯、前置准备工作及核心动机。"
+    "reasoning": "Associates the act of bringing lunch with the user's daily habits, preparatory work, and core motivations."
   },
   {
     "id": "q_057",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "想试试新的训练计划。",
-    "trigger_concept": "新训练计划",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Want to try a new training plan.",
+    "trigger_concept": "New training plan",
     "candidate_set": [
       {
-        "concept": "王强",
-        "reason": "用户常与私教朋友王强交流训练计划细节和技术动作，即使不再买课。"
+        "concept": "Wang Qiang",
+        "reason": "The user frequently discusses training plan details and technical movements with Wang Qiang, a personal trainer friend, even after stopping paid sessions."
       },
       {
-        "concept": "动作细节",
-        "reason": "受 ITBS 受伤影响，用户在制定新计划时特别关注动作细节的科学性。"
+        "concept": "Movement details",
+        "reason": "Influenced by a previous ITBS injury, the user pays special attention to the scientific accuracy of movement details when formulating new plans."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "用户制定计划的理论基础来源于自学后的运动解剖学知识。"
+        "concept": "Sports anatomy",
+        "reason": "The theoretical foundation for the user's plan formulation stems from self-studied knowledge of sports anatomy."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从制定计划的意图联想到咨询对象、关注重点及理论知识来源。"
+    "reasoning": "Associates the intention to create a plan with the consultation target, key focus areas, and sources of theoretical knowledge."
   },
   {
     "id": "q_058",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "骑行装备都检查好了。",
-    "trigger_concept": "骑行准备",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "All cycling gear is checked and ready.",
+    "trigger_concept": "Cycling preparation",
     "candidate_set": [
       {
         "concept": "Garmin Forerunner 265",
-        "reason": "用户记录骑行数据的核心设备，需确保电量充足和数据同步。"
+        "reason": "The core device for recording the user's cycling data; battery levels and data synchronization must be ensured."
       },
       {
         "concept": "Shokz OpenRun",
-        "reason": "用户骑行时佩戴的骨传导耳机，用于在保证安全（听到环境音）的同时听音乐。"
+        "reason": "Bone conduction headphones worn by the user while cycling, allowing them to listen to music while maintaining situational awareness for safety."
       },
       {
-        "concept": "周六长距离拉练",
-        "reason": "骑行通常是用户周六上午进行的长距离拉练项目之一。"
+        "concept": "Saturday long-distance training",
+        "reason": "Cycling is typically one of the long-distance training activities the user performs on Saturday mornings."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从装备检查联想到具体的电子设备偏好及该活动通常发生的时间段。"
+    "reasoning": "Associates gear checks with specific electronic device preferences and the typical time frame for this activity."
   },
   {
     "id": "q_059",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "练完感觉特别累，但很爽。",
-    "trigger_concept": "训练后感受",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Feeling exhausted but great after the workout.",
+    "trigger_concept": "Post-workout feelings",
     "candidate_set": [
       {
-        "concept": "训练完成感",
-        "reason": "这种累并快乐的感觉是用户追求的“训练完成感”，强化自我效能。"
+        "concept": "Sense of workout completion",
+        "reason": "This feeling of being tired yet happy represents the 'sense of workout completion' the user pursues, reinforcing self-efficacy."
       },
       {
-        "concept": "ON 乳清蛋白粉",
-        "reason": "训练结束后的标准动作是立即补充蛋白粉，进入恢复流程。"
+        "concept": "ON Whey Protein",
+        "reason": "The standard post-workout routine is to immediately consume protein powder to initiate the recovery process."
       },
       {
-        "concept": "肌肉修复逻辑",
-        "reason": "用户理解这种疲劳是肌肉微损伤，是后续超量恢复（肌肉生长）的必要逻辑。"
+        "concept": "Muscle repair logic",
+        "reason": "The user understands that this fatigue results from micro-tears in the muscles, which is a necessary mechanism for subsequent supercompensation (muscle growth)."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [],
-    "reasoning": "从主观感受联想到心理满足感、紧随其后的行为及背后的生理学认知。"
+    "reasoning": "Associates subjective feelings with psychological satisfaction, immediate follow-up actions, and underlying physiological understanding."
   },
   {
     "id": "q_060",
-    "trigger_type": "行为模式相关记忆联想",
-    "question": "又要开始控制饮食了，假期吃太多。",
-    "trigger_concept": "节后恢复饮食",
+    "trigger_type": "Behavioral pattern-related memory association",
+    "question": "Time to get back on track with my diet; I ate too much during the holiday.",
+    "trigger_concept": "Post-holiday diet recovery",
     "candidate_set": [
       {
-        "concept": "MyFitnessPal 数据",
-        "reason": "用户习惯使用该 APP 计算热量与宏量营养素，以快速回归正轨。"
+        "concept": "MyFitnessPal data",
+        "reason": "The user habitually uses this app to calculate calories and macronutrients to quickly return to their routine."
       },
       {
-        "concept": "糙米饭",
-        "reason": "用户恢复期的典型主食选择，替代假期的高油高糖碳水。"
+        "concept": "Brown rice",
+        "reason": "A typical staple food choice for the user during recovery periods, replacing the high-oil, high-sugar carbohydrates consumed during the holiday."
       },
       {
-        "concept": "心理补偿",
-        "reason": "用户视欺骗餐为奖励，而节后的控制则是为了平衡之前的心理补偿，恢复秩序感。"
+        "concept": "Psychological compensation",
+        "reason": "The user views cheat meals as rewards, while post-holiday control serves to balance this prior psychological compensation and restore a sense of order."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [],
-    "reasoning": "从恢复饮食的意图联想到具体的管理工具、典型食物选择及深层的心理平衡机制。"
+    "reasoning": "Associates the intention to resume dieting with specific management tools, typical food choices, and deeper psychological balancing mechanisms."
   },
   {
     "id": "q_061",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到下班后去文三路乐刻运动进行推拉腿分化训练时，自然联想到该场景下的具体安全协作伙伴及冲击大重量时的保护机制。",
-    "trigger_concept": "乐刻运动文三路店",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When mentioning push-pull-legs split training at Lefits on Wensan Road after work, it naturally brings to mind the specific safety partners in that scenario and the spotting mechanisms used when lifting heavy weights.",
+    "trigger_concept": "Lefits Wensan Road Branch",
     "candidate_set": [
       {
-        "concept": "王强",
-        "reason": "作为健身房认识的私教朋友，是用户在乐刻进行大重量训练时的固定保护者（Spotter）。"
+        "concept": "Wang Qiang",
+        "reason": "As a personal trainer friend met at the gym, he is the user's fixed spotter for heavy lifting sessions at Lefits."
       },
       {
-        "concept": "动作保护",
-        "reason": "用户在冲击深蹲等极限重量时，依赖王强提供的物理保护和动作细节指导。"
+        "concept": "Movement Spotting",
+        "reason": "When attempting极限 weights like squats, the user relies on Wang Qiang for physical spotting and detailed form guidance."
       },
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "这是用户在乐刻进行腿部训练时的核心进阶目标，也是寻求保护的主要动因。"
+        "concept": "1.5x Bodyweight Squat Goal",
+        "reason": "This is the core progression goal for the user's leg training at Lefits and the primary motivation for seeking a spotter."
       }
     ],
     "difficulty": "easy",
@@ -1403,25 +1403,25 @@
       "entity_02",
       "entity_06"
     ],
-    "reasoning": "从训练地点直接联想到该地点的核心人物和具体训练目标，属于场景内的显性关联。"
+    "reasoning": "Directly associating the training location with key figures and specific training goals within that scene represents an explicit contextual link."
   },
   {
     "id": "q_062",
-    "trigger_type": "实体相关记忆联想",
-    "question": "谈及 Nike Vaporfly 3 作为比赛专用鞋的珍贵性时，潜意识会对比日常训练所用的缓冲系跑鞋及其对应的长距离拉练场景。",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When discussing the preciousness of the Nike Vaporfly 3 as a race-day shoe, the subconscious naturally contrasts it with the cushioned running shoes used for daily training and their corresponding long-distance run scenarios.",
     "trigger_concept": "Nike Vaporfly 3",
     "candidate_set": [
       {
         "concept": "Asics Kayano 30",
-        "reason": "用户明确区分比赛鞋与训练鞋，Kayano 30 是其日常训练和 LSD 的专用装备。"
+        "reason": "The user clearly distinguishes between race shoes and training shoes; the Kayano 30 is their dedicated equipment for daily runs and LSD sessions."
       },
       {
-        "concept": "周六长距离拉练",
-        "reason": "这是 Asics Kayano 30 主要服役的训练场景，与 Vaporfly 的比赛场景形成互补。"
+        "concept": "Saturday Long Run",
+        "reason": "This is the primary training scenario where the Asics Kayano 30 is used, complementing the race-day scenarios for the Vaporfly."
       },
       {
-        "concept": "跑鞋轮换纪律",
-        "reason": "用户严格遵循‘好钢用在刀刃上’的装备管理策略，体现了对跑鞋寿命和性能的精细化管理。"
+        "concept": "Shoe Rotation Discipline",
+        "reason": "The user strictly follows an equipment management strategy of 'using the best steel for the cutting edge,' reflecting meticulous care for shoe lifespan and performance."
       }
     ],
     "difficulty": "easy",
@@ -1429,25 +1429,25 @@
       "entity_03",
       "behavior_06"
     ],
-    "reasoning": "基于装备功能的二元对立（比赛 vs 训练）进行的直接联想，逻辑清晰简单。"
+    "reasoning": "A direct association based on the binary opposition of equipment functions (race vs. training), featuring clear and simple logic."
   },
   {
     "id": "q_063",
-    "trigger_type": "实体相关记忆联想",
-    "question": "描述在王强保护下冲击深蹲大重量的行为时，深层心理动因指向过往的伤病经历及由此形成的谨慎训练哲学。",
-    "trigger_concept": "王强保护",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When describing the act of attempting heavy squats under Wang Qiang's spotting, the underlying psychological motivation points to past injury experiences and the cautious training philosophy formed as a result.",
+    "trigger_concept": "Wang Qiang Spotting",
     "candidate_set": [
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "右膝髂胫束综合征的停训经历是用户转变训练观念、重视安全防护的根本原因。"
+        "concept": "2023 ITBS Injury",
+        "reason": "The hiatus from training due to right knee Iliotibial Band Syndrome (ITBS) is the fundamental reason for the user's shift in training mindset and emphasis on safety."
       },
       {
-        "concept": "恐惧心理",
-        "reason": "伤病记忆带来的对再次受伤的担忧，促使用户在冲击大重量时必须有人保护。"
+        "concept": "Fear Psychology",
+        "reason": "Concerns about re-injury stemming from memory of past injuries compel the user to require a spotter when attempting heavy weights."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "受伤后用户开始系统学习解剖学，从盲目上大重量转变为科学训练，理解了保护的重要性。"
+        "concept": "Sports Anatomy",
+        "reason": "After the injury, the user began systematically studying anatomy, shifting from blindly lifting heavy to training scientifically, thereby understanding the importance of spotting."
       }
     ],
     "difficulty": "medium",
@@ -1455,25 +1455,25 @@
       "entity_06",
       "emotion_03"
     ],
-    "reasoning": "从当前的安全行为反推其背后的历史创伤和心理机制，需要理解‘行为 - 原因’的因果链。"
+    "reasoning": "Inferring historical trauma and psychological mechanisms from current safety behaviors requires understanding the causal chain between 'action and reason'."
   },
   {
     "id": "q_064",
-    "trigger_type": "实体相关记忆联想",
-    "question": "陈述在乐刻运动完成晚间力量训练后的闭环行为时，必然关联到针对特定肌群的恢复手段及防止旧伤复发的具体操作。",
-    "trigger_concept": "力量训练结束",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When stating the closing-loop behaviors after completing evening strength training at Lefits, it inevitably links to recovery methods targeting specific muscle groups and specific operations to prevent old injuries from recurring.",
+    "trigger_concept": "End of Strength Training",
     "candidate_set": [
       {
-        "concept": "筋膜枪",
-        "reason": "用户习惯在训练后使用筋膜枪放松大腿外侧和小腿，是恢复流程的核心工具。"
+        "concept": "Massage Gun",
+        "reason": "The user habitually uses a massage gun post-workout to relax the outer thighs and calves, making it a core tool in their recovery routine."
       },
       {
-        "concept": "髂胫束放松",
-        "reason": "鉴于 ITBS 病史，大腿外侧（髂胫束）是用户重点放松和监控的区域。"
+        "concept": "Iliotibial Band Release",
+        "reason": "Given the history of ITBS, the outer thigh (iliotibial band) is a key area for the user to focus on for release and monitoring."
       },
       {
-        "concept": "预防受伤",
-        "reason": "所有恢复行为的终极目标都是为了避免 2023 年的伤痛卷土重来，保障训练连续性。"
+        "concept": "Injury Prevention",
+        "reason": "The ultimate goal of all recovery behaviors is to prevent the pain from 2023 from returning, ensuring training continuity."
       }
     ],
     "difficulty": "medium",
@@ -1481,25 +1481,25 @@
       "entity_02",
       "behavior_07"
     ],
-    "reasoning": "将训练结束的动作与具体的恢复工具、部位及健康目标连接，属于流程性的中等难度联想。"
+    "reasoning": "Connecting post-workout actions with specific recovery tools, body parts, and health goals constitutes a procedural association of medium difficulty."
   },
   {
     "id": "q_065",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到穿着 Nike Vaporfly 3 创造全马 PB 的高光时刻时，情感层面会延伸至该装备赋予的身份认同及在社交平台的分享行为。",
-    "trigger_concept": "全马 PB",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When mentioning the highlight moment of setting a full marathon PB while wearing Nike Vaporfly 3, the emotional layer extends to the identity affirmation granted by this equipment and the sharing behavior on social platforms.",
+    "trigger_concept": "Full Marathon PB",
     "candidate_set": [
       {
-        "concept": "跑者身份认同",
-        "reason": "PB 的达成强化了用户从‘减肥者’到‘严肃跑者’的身份转变，Vaporfly 是这一身份的象征。"
+        "concept": "Runner Identity Affirmation",
+        "reason": "Achieving a PB reinforces the user's identity shift from 'weight loser' to 'serious runner,' with the Vaporfly serving as a symbol of this identity."
       },
       {
-        "concept": "Strava 打卡",
-        "reason": "用户习惯在达成纪录后通过 Strava 分享数据，获取社交认同以强化自我效能感。"
+        "concept": "Strava Check-in",
+        "reason": "The user habitually shares data on Strava after setting records to gain social validation and reinforce self-efficacy."
       },
       {
-        "concept": "掌控兴奋感",
-        "reason": "打破纪录时产生的强烈成就感和对身体的掌控感，是驱动用户持续训练的核心情绪。"
+        "concept": "Controlled Excitement",
+        "reason": "The intense sense of achievement and bodily control felt when breaking a record is the core emotion driving the user's continued training."
       }
     ],
     "difficulty": "medium",
@@ -1507,25 +1507,25 @@
       "entity_03",
       "emotion_11"
     ],
-    "reasoning": "从客观成绩联想到主观情感体验和社会化行为，涉及心理和社会维度的交叉。"
+    "reasoning": "Associating objective performance with subjective emotional experiences and social behaviors involves an intersection of psychological and social dimensions."
   },
   {
     "id": "q_066",
-    "trigger_type": "实体相关记忆联想",
-    "question": "论述在乐刻进行系统化力量训练并记录数据的行为模式时，折射出用户将程序员思维迁移至健身领域的量化管理特征。",
-    "trigger_concept": "力量训练",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Discuss how the user's behavior of engaging in systematic strength training at Leke and meticulously recording data reflects the migration of a programmer's mindset into the fitness domain, characterized by quantitative management.",
+    "trigger_concept": "Strength Training",
     "candidate_set": [
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "用户习惯用 Excel 记录重量与组数，分析渐进负荷，这是典型的工程师数据思维体现。"
+        "concept": "Excel Load Curve",
+        "reason": "The user habitually uses Excel to log weights and sets to analyze progressive overload, a typical manifestation of an engineer's data-driven thinking."
       },
       {
-        "concept": "程序员思维",
-        "reason": "将健身视为一个可优化、可监控的系统，通过数据分析来迭代训练计划，如同调试代码。"
+        "concept": "Programmer Mindset",
+        "reason": "Treating fitness as an optimizable and monitorable system, using data analysis to iterate training plans much like debugging code."
       },
       {
-        "concept": "渐进负荷",
-        "reason": "这是用户力量训练的核心原则，也是 Excel 表格中主要追踪和分析的指标。"
+        "concept": "Progressive Overload",
+        "reason": "This is the core principle of the user's strength training and the primary metric tracked and analyzed in their Excel spreadsheets."
       }
     ],
     "difficulty": "hard",
@@ -1533,25 +1533,25 @@
       "entity_02",
       "multihop_03"
     ],
-    "reasoning": "需要抽象出用户职业背景（程序员）与健身习惯（数据记录）之间的深层同构关系，属于跨域概念映射。"
+    "reasoning": "Requires abstracting the deep isomorphic relationship between the user's professional background (programmer) and fitness habits (data logging), representing a cross-domain concept mapping."
   },
   {
     "id": "q_067",
-    "trigger_type": "实体相关记忆联想",
-    "question": "分析用户严格区分比赛鞋与训练鞋的资源分配策略时，可发现其与饮食管理中‘平日克制、周末奖励’的自律逻辑高度同构。",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Analyzing the user's resource allocation strategy of strictly separating racing shoes from training shoes reveals a high degree of isomorphism with the self-discipline logic of 'restraint on weekdays, rewards on weekends' in their diet management.",
     "trigger_concept": "Asics Kayano 30",
     "candidate_set": [
       {
-        "concept": "周六欺骗餐",
-        "reason": "用户在饮食上同样采取‘好钢用在刀刃上’的策略，平时严格控制，仅在周六晚上安排欺骗餐。"
+        "concept": "Saturday Cheat Meal",
+        "reason": "The user adopts a similar 'putting the best steel to the sharpest edge' strategy in their diet, maintaining strict control during the week and scheduling a cheat meal only on Saturday nights."
       },
       {
-        "concept": "资源分配策略",
-        "reason": "无论是装备轮换还是饮食周期，都体现了用户对有限资源（身体状态/代谢额度）的精细化配置。"
+        "concept": "Resource Allocation Strategy",
+        "reason": "Whether rotating gear or cycling diets, this reflects the user's refined configuration of limited resources (physical state/metabolic allowance)."
       },
       {
-        "concept": "自律管理",
-        "reason": "这种跨领域的一致性策略反映了用户高度的自律性和长期主义价值观。"
+        "concept": "Self-Discipline Management",
+        "reason": "This consistent strategy across different domains reflects the user's high level of self-discipline and long-termist values."
       }
     ],
     "difficulty": "hard",
@@ -1559,25 +1559,25 @@
       "entity_03",
       "behavior_06"
     ],
-    "reasoning": "要求识别不同生活领域（装备 vs 饮食）背后相同的底层逻辑（资源管理与自律），属于高阶抽象联想。"
+    "reasoning": "Requires identifying the identical underlying logic (resource management and self-discipline) behind different life domains (gear vs. diet), representing a high-level abstract association."
   },
   {
     "id": "q_068",
-    "trigger_type": "实体相关记忆联想",
-    "question": "回顾 2023 年因髂胫束综合征停训的挫折经历时，该事件已成为用户当前装备选择谨慎性及训练后恢复强制性的核心决策依据。",
-    "trigger_concept": "2023 年停训挫折",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Recalling the setback of stopping training in 2023 due to Iliotibial Band Syndrome (ITBS), this event has become the core decision-making basis for the user's current caution in equipment selection and mandatory post-workout recovery.",
+    "trigger_concept": "2023 Training Hiatus Setback",
     "candidate_set": [
       {
-        "concept": "装备爱惜",
-        "reason": "伤病让用户更懂得保护身体和装备，不再盲目消耗，如舍不得在日常穿 Vaporfly。"
+        "concept": "Equipment Care",
+        "reason": "The injury taught the user to better protect their body and gear, avoiding blind consumption; for instance, they are now reluctant to wear Vaporflys for daily runs."
       },
       {
-        "concept": "肌肉修复逻辑",
-        "reason": "停训经历让用户深刻理解恢复的重要性，从而建立了严格的训后放松和睡眠纪律。"
+        "concept": "Muscle Repair Logic",
+        "reason": "The experience of stopping training gave the user a profound understanding of the importance of recovery, leading to the establishment of strict post-workout relaxation and sleep discipline."
       },
       {
-        "concept": "伤病预防",
-        "reason": "这是用户所有训练调整（如寻求保护、特定放松）的最高优先级目标，直接源于此次挫折。"
+        "concept": "Injury Prevention",
+        "reason": "This is the highest priority goal for all the user's training adjustments (such as seeking protection or specific relaxation), directly stemming from this setback."
       }
     ],
     "difficulty": "hard",
@@ -1585,550 +1585,550 @@
       "entity_03",
       "multihop_06"
     ],
-    "reasoning": "需要将过去的负面事件（因）与当前多个维度的行为改变（果）建立复杂的因果网络，考察对人物成长弧线的理解。"
+    "reasoning": "Requires establishing a complex causal network between a past negative event (cause) and current behavioral changes across multiple dimensions (effect), testing the understanding of the character's growth arc."
   },
   {
     "id": "q_069",
-    "trigger_type": "多跳记忆联想",
-    "question": "2023 年右膝髂胫束综合征的伤痛记忆让我在周日使用筋膜枪放松大腿外侧时格外专注，这种对恢复的敬畏直接促使我养成了工作日严格 23:00 入睡的习惯以确保肌肉修复。",
-    "trigger_concept": "伤痛记忆驱动恢复闭环",
+    "trigger_type": "Multi-Hop Memory Association",
+    "question": "The memory of my right knee Iliotibial Band Syndrome (ITBS) in 2023 makes me exceptionally focused when using a massage gun to relax my outer thigh on Sundays; this reverence for recovery directly drove me to develop the habit of strictly going to bed at 23:00 on weekdays to ensure muscle repair.",
+    "trigger_concept": "Injury Memory Driving Recovery Loop",
     "candidate_set": [
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "这是触发整个恢复行为链条的原始事件（Root Cause），没有这次受伤就不会产生对恢复的过度敬畏。"
+        "concept": "2023 ITBS Injury",
+        "reason": "This is the root cause that triggered the entire chain of recovery behaviors; without this injury, there would be no excessive reverence for recovery."
       },
       {
-        "concept": "周日筋膜枪放松",
-        "reason": "这是用户基于伤痛记忆采取的具体行动（Action），是连接心理恐惧与生理修复的中间环节。"
+        "concept": "Sunday Massage Gun Relaxation",
+        "reason": "This is the specific action taken by the user based on the injury memory, serving as the intermediate link connecting psychological fear with physiological repair."
       },
       {
-        "concept": "23:00 入睡习惯",
-        "reason": "这是用户为了达成肌肉修复目标而建立的最终生活习惯（Outcome），是整个逻辑链条的终点。"
+        "concept": "23:00 Bedtime Habit",
+        "reason": "This is the final lifestyle habit established by the user to achieve the goal of muscle repair, representing the endpoint of the entire logical chain."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "multihop_01"
     ],
-    "reasoning": "用户从具体的伤痛经历联想到特定的放松动作，再进一步推导至作息习惯的改变，是一条线性的因果链，实体关系直接明确。"
+    "reasoning": "The user associates a specific injury experience with a particular relaxation action, and further deduces a change in daily routine, forming a linear causal chain with direct and clear entity relationships."
   },
   {
     "id": "q_070",
-    "trigger_type": "多跳记忆联想",
-    "question": "为了在穿着 Nike Vaporfly 3 冲击半马 1 小时 40 分大关时发挥极致性能，我必须在周六长距离拉练中穿着 Asics Kayano 30 积累耐力，而拉练后的周六欺骗餐则是对这一周艰苦备战的能量补偿。",
-    "trigger_concept": "装备策略与饮食奖励的闭环",
+    "trigger_type": "Multi-Hop Memory Association",
+    "question": "To maximize performance while wearing Nike Vaporfly 3 to break the 1-hour-40-minute barrier in the half marathon, I must wear Asics Kayano 30 during Saturday long runs to build endurance, while the Saturday cheat meal following the run serves as energy compensation for the week's arduous preparation.",
+    "trigger_concept": "Closed Loop of Equipment Strategy and Dietary Reward",
     "candidate_set": [
       {
         "concept": "Nike Vaporfly 3",
-        "reason": "这是实现 PB 目标的比赛专用装备，代表了最终的性能输出场景。"
+        "reason": "This is the race-specific equipment for achieving the PB goal, representing the ultimate performance output scenario."
       },
       {
-        "concept": "Asics Kayano 30 拉练",
-        "reason": "这是为了保护双脚并积累耐力基数而采取的日常训练手段，是达成比赛状态的基础。"
+        "concept": "Asics Kayano 30 Long Run",
+        "reason": "This is the daily training method adopted to protect the feet and build a base of endurance, forming the foundation for reaching race condition."
       },
       {
-        "concept": "周六欺骗餐",
-        "reason": "这是基于长距离拉练消耗后的心理与生理补偿机制，完成了从艰苦训练到满足感的闭环。"
+        "concept": "Saturday Cheat Meal",
+        "reason": "This is the psychological and physiological compensation mechanism following the expenditure of a long-distance run, completing the loop from arduous training to satisfaction."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_02"
     ],
-    "reasoning": "需要理解比赛装备与训练装备的功能区分，并将其与特定的饮食奖励机制在时间轴（周六）上进行关联，涉及策略性思维。"
+    "reasoning": "Requires understanding the functional distinction between race gear and training gear, and associating it with a specific dietary reward mechanism on a timeline (Saturday), involving strategic thinking."
   },
   {
     "id": "q_071",
-    "trigger_type": "多跳记忆联想",
-    "question": "周二清晨与陈宇在滨江跑道的 LSD 约跑产生的同伴压力，不仅让我克服了惰性，更将这种自律延伸到了深夜的 Excel 训练数据分析中，以应对周三的项目高压期。",
-    "trigger_concept": "社交监督向工作自律的迁移",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The peer pressure from my Tuesday morning LSD run with Chen Yu on the Binjiang track not only helped me overcome inertia but also extended that self-discipline into late-night Excel training data analysis to handle Wednesday's high-pressure project period.",
+    "trigger_concept": "Transfer of Social Accountability to Work Self-Discipline",
     "candidate_set": [
       {
-        "concept": "陈宇",
-        "reason": "作为陪跑伙伴，他是产生‘同伴压力’这一心理机制的关键人物实体。"
+        "concept": "Chen Yu",
+        "reason": "As a running partner, he is the key individual entity responsible for generating the psychological mechanism of 'peer pressure'."
       },
       {
-        "concept": "滨江跑道 LSD",
-        "reason": "这是发生社交互动的具体场景和训练内容，是自律行为发生的物理空间。"
+        "concept": "Binjiang Track LSD",
+        "reason": "This is the specific scenario and training content where social interaction occurred, serving as the physical space where self-disciplined behavior took place."
       },
       {
-        "concept": "Excel 数据分析",
-        "reason": "这是跑步中获得的自律精神在工作领域的具体投射行为，体现了跨场景的能力迁移。"
+        "concept": "Excel Data Analysis",
+        "reason": "This represents the concrete projection of the self-discipline gained from running into the professional domain, demonstrating cross-contextual capability transfer."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_03"
     ],
-    "reasoning": "需要识别出从‘运动社交’到‘个人自律’再到‘工作表现’的抽象映射关系，实体跨越了生活与职业两个领域。"
+    "reasoning": "Requires identifying the abstract mapping relationship from 'sports socialization' to 'personal self-discipline' and then to 'work performance,' with entities spanning both life and professional domains."
   },
   {
     "id": "q_072",
-    "trigger_type": "多跳记忆联想",
-    "question": "母亲张慧精心炖煮的牛肉提供了优质蛋白，父亲林建国从担忧到自豪的态度转变消除了我的心理负担，这两股家庭力量共同支撑我敢于在健身房向王强寻求保护去冲击深蹲极限。",
-    "trigger_concept": "家庭支持体系对极限挑战的赋能",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The high-quality protein from the beef stew meticulously prepared by my mother, Zhang Hui, combined with my father, Lin Jianguo's, shift in attitude from worry to pride which alleviated my psychological burden, together empowered me to ask Wang Qiang for spotting at the gym so I could attempt a new squat PR.",
+    "trigger_concept": "Empowerment for极限 Challenges through Family Support Systems",
     "candidate_set": [
       {
-        "concept": "母亲张慧的炖牛肉",
-        "reason": "代表家庭在物质营养层面的支持，是身体能力的基石。"
+        "concept": "Mother Zhang Hui's Beef Stew",
+        "reason": "Represents family support at the material and nutritional level, serving as the foundation for physical capability."
       },
       {
-        "concept": "父亲林建国的态度转变",
-        "reason": "代表家庭在心理层面的支持，消除了用户尝试大重量的后顾之忧。"
+        "concept": "Father Lin Jianguo's Attitude Shift",
+        "reason": "Represents family support at the psychological level, eliminating the user's concerns about attempting heavy weights."
       },
       {
-        "concept": "王强的保护",
-        "reason": "代表专业社交圈的技术支持，是用户敢于执行极限动作的安全保障。"
+        "concept": "Wang Qiang's Spotting",
+        "reason": "Represents technical support from the professional social circle, providing the safety assurance needed for the user to dare execute极限 movements."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_04"
     ],
-    "reasoning": "需要综合家庭成员（父母）的不同支持形式（物质/心理）以及朋友的专业支持，构建一个多维度的‘支持系统’来解释单一的高难度目标（深蹲 PR）。"
+    "reasoning": "Requires synthesizing different forms of support from family members (parents) (material/psychological) along with professional support from friends to construct a multi-dimensional 'support system' that explains a single high-difficulty goal (Squat PR)."
   },
   {
     "id": "q_073",
-    "trigger_type": "多跳记忆联想",
-    "question": "当项目上线前的代码 Bug 引发焦虑时，我会立即戴上 Shokz 骨传导耳机进行 HIIT 训练，这种通过身体疲惫换取大脑清空的机制，让我能像分析渐进负荷曲线一样清晰地梳理代码逻辑。",
-    "trigger_concept": "生理疲惫换取认知重启的机制",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "When code bugs before a project launch trigger anxiety, I immediately put on my Shokz bone conduction headphones for a HIIT session; this mechanism of trading physical exhaustion for mental clarity allows me to sort through code logic as clearly as analyzing a progressive overload curve.",
+    "trigger_concept": "Mechanism of Trading Physical Fatigue for Cognitive Reboot",
     "candidate_set": [
       {
-        "concept": "代码 Bug 焦虑",
-        "reason": "这是触发整个应对机制的负面情绪源头和压力事件。"
+        "concept": "Code Bug Anxiety",
+        "reason": "This is the source of negative emotions and the stressful event that triggers the entire coping mechanism."
       },
       {
-        "concept": "Shokz 耳机与 HIIT",
-        "reason": "这是用户采取的具体干预手段，结合了特定装备和高强度运动形式。"
+        "concept": "Shokz Headphones and HIIT",
+        "reason": "This is the specific intervention method adopted by the user, combining specific equipment with a high-intensity exercise format."
       },
       {
-        "concept": "代码逻辑梳理",
-        "reason": "这是经过生理调节后达到的认知状态恢复结果，体现了运动对工作的反哺。"
+        "concept": "Code Logic Sorting",
+        "reason": "This is the resulting state of cognitive recovery achieved after physiological regulation, demonstrating how exercise feeds back into work."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "multihop_05"
     ],
-    "reasoning": "这是一个典型的‘刺激 - 反应 - 结果’模型，实体之间的因果关系非常直观，主要考察对情绪调节流程的还原。"
+    "reasoning": "This is a typical 'Stimulus-Response-Outcome' model where the causal relationships between entities are very intuitive, primarily testing the ability to reconstruct the emotional regulation process."
   },
   {
     "id": "q_074",
-    "trigger_type": "多跳记忆联想",
-    "question": "Garmin 手表记录的跑步数据同步到 Strava 后，我会结合 Excel 中记录的力量训练负荷曲线进行交叉分析，一旦发现疲劳累积迹象，就会立刻调整计划增加冷热交替浴的频率以防止伤病重演。",
-    "trigger_concept": "数据驱动的伤病预防系统",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "After syncing my Garmin running data to Strava, I cross-analyze it with the strength training load curves recorded in Excel; upon detecting any signs of cumulative fatigue, I immediately adjust my plan to increase the frequency of contrast baths to prevent injury recurrence.",
+    "trigger_concept": "Data-Driven Injury Prevention System",
     "candidate_set": [
       {
-        "concept": "Garmin 数据",
-        "reason": "代表有氧耐力训练的数据输入源，是监控体系的一半。"
+        "concept": "Garmin Data",
+        "reason": "Represents the data input source for aerobic endurance training, constituting half of the monitoring system."
       },
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "代表无氧力量训练的数据输入源，体现了工程师的量化思维，是监控体系的另一半。"
+        "concept": "Excel Load Curves",
+        "reason": "Represents the data input source for anaerobic strength training, reflecting an engineer's quantitative mindset and constituting the other half of the monitoring system."
       },
       {
-        "concept": "冷热交替浴",
-        "reason": "这是基于数据分析结论所采取的具体恢复干预措施，用于阻断潜在的伤病风险。"
+        "concept": "Contrast Baths",
+        "reason": "This is the specific recovery intervention taken based on data analysis conclusions, used to block potential injury risks."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_06"
     ],
-    "reasoning": "需要理解多源数据（跑步 + 力量）如何汇聚分析，并推导出特定的恢复行为，涉及复杂的数据处理逻辑和预防性思维。"
+    "reasoning": "Requires understanding how multi-source data (running + strength) converges for analysis and leads to specific recovery behaviors, involving complex data processing logic and preventive thinking."
   },
   {
     "id": "q_075",
-    "trigger_type": "多跳记忆联想",
-    "question": "2021 年杭州马拉松确立的‘跑者’身份认同，是我在 2023 年遭遇 ITBS 停训两个月后能够坚持复健的精神支柱，这份信念让我如今在每次清晨 6:30 空腹喝下黑咖啡时都充满期待。",
-    "trigger_concept": "身份认同跨越挫折重塑日常仪式",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The 'runner' identity established during the 2021 Hangzhou Marathon served as my spiritual pillar that enabled me to persist in rehabilitation after being sidelined for two months due to ITBS in 2023; this belief now fills me with anticipation every morning at 6:30 AM when I drink my black coffee on an empty stomach.",
+    "trigger_concept": "Identity Transcending Setbacks to Reshape Daily Rituals",
     "candidate_set": [
       {
-        "concept": "2021 杭马身份认同",
-        "reason": "这是用户核心的自我认知锚点，是跨越时间维度的精神动力源。"
+        "concept": "2021 Hangzhou Marathon Identity",
+        "reason": "This is the user's core self-perception anchor, serving as a source of spiritual motivation that spans across time dimensions."
       },
       {
-        "concept": "2023 年停训挫折",
-        "reason": "这是用户经历的重大负面事件，是检验身份认同强度的试金石。"
+        "concept": "2023 Training Hiatus Setback",
+        "reason": "This is a major negative event experienced by the user, serving as a touchstone to test the strength of their identity."
       },
       {
-        "concept": "晨间黑咖啡仪式",
-        "reason": "这是身份认同在当下的具体行为投射，将宏大的信念转化为微小的日常习惯。"
+        "concept": "Morning Black Coffee Ritual",
+        "reason": "This is the concrete behavioral projection of identity in the present, transforming grand beliefs into small daily habits."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_07"
     ],
-    "reasoning": "需要连接过去的高光时刻、中间的挫折经历以及现在的微小习惯，构建一个关于‘信念传承’的时间叙事链。"
+    "reasoning": "Requires connecting past highlights, intermediate setbacks, and current micro-habits to construct a temporal narrative chain regarding the 'inheritance of belief'."
   },
   {
     "id": "q_076",
-    "trigger_type": "多跳记忆联想",
-    "question": "王强在我冲击大重量深蹲时的精准保护让我积累了信心去细化动作细节，这种技术上的精进反过来让我在指导父亲林建国关于营养品安全性的疑问时，能给出更科学的解剖学依据。",
-    "trigger_concept": "专业技能从接收端到输出端的转化",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Wang Qiang's precise spotting during my heavy squat attempts built the confidence I needed to refine my technique. This technical improvement, in turn, allowed me to provide my father, Lin Jianguo, with more scientifically grounded anatomical evidence when addressing his questions about supplement safety.",
+    "trigger_concept": "Transformation of professional skills from input to output",
     "candidate_set": [
       {
-        "concept": "王强的保护",
-        "reason": "这是用户获取专业知识和安全感的输入端，是技能成长的起点。"
+        "concept": "Wang Qiang's spotting",
+        "reason": "This represents the user's input channel for acquiring professional knowledge and a sense of security, serving as the starting point for skill development."
       },
       {
-        "concept": "深蹲技术精进",
-        "reason": "这是用户内化知识后的能力提升过程，是连接输入与输出的中间态。"
+        "concept": "Refinement of squat technique",
+        "reason": "This is the process of capability enhancement after internalizing knowledge, acting as the intermediate state connecting input and output."
       },
       {
-        "concept": "父亲的营养品疑问",
-        "reason": "这是用户应用所学知识解决家庭问题的输出场景，体现了角色的反转（从被指导者到指导者）。"
+        "concept": "Father's questions about supplements",
+        "reason": "This is the output scenario where the user applies learned knowledge to solve family issues, reflecting a role reversal from being guided to guiding others."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_08"
     ],
-    "reasoning": "涉及复杂的角色转换和知识迁移，需要理解用户如何将健身房学到的专业知识应用到家庭沟通场景中，逻辑链条较长且抽象。"
+    "reasoning": "Involves complex role transitions and knowledge transfer, requiring an understanding of how the user applies professional expertise learned in the gym to family communication scenarios. The logical chain is long and abstract."
   },
   {
     "id": "q_077",
-    "trigger_type": "多跳记忆联想",
-    "question": "工作日每天自带糙米饭和鸡胸肉便当的严格自律，是为了积攒足够的‘代谢额度’，以便在周六完成长距离拉练后，能心安理得地享受那顿欺骗餐，而这种满足感又成为了下周继续坚持健康饮食的强大动力。",
-    "trigger_concept": "饮食自律与心理补偿的循环机制",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The strict self-discipline of bringing brown rice and chicken breast bento boxes every weekday is aimed at accumulating enough 'metabolic credit.' This allows me to enjoy a cheat meal with a clear conscience after completing a long-distance training session on Saturday. This sense of satisfaction then becomes a powerful motivator to persist with a healthy diet in the following week.",
+    "trigger_concept": "The cyclical mechanism of dietary discipline and psychological compensation",
     "candidate_set": [
       {
-        "concept": "工作日自带便当",
-        "reason": "这是周期性的克制行为，是积累‘代谢额度’的手段。"
+        "concept": "Bringing bento boxes on weekdays",
+        "reason": "This is a periodic act of restraint, serving as the means to accumulate 'metabolic credit'."
       },
       {
-        "concept": "周六长距离拉练",
-        "reason": "这是触发奖励机制的关键事件，为欺骗餐提供了生理和心理的合理性。"
+        "concept": "Saturday long-distance training",
+        "reason": "This is the key event triggering the reward mechanism, providing both physiological and psychological justification for the cheat meal."
       },
       {
-        "concept": "欺骗餐满足感",
-        "reason": "这是循环的终点也是新的起点，这种心理满足感是维持长期自律的燃料。"
+        "concept": "Satisfaction from the cheat meal",
+        "reason": "This marks both the end of one cycle and the start of a new one; such psychological satisfaction is the fuel that sustains long-term discipline."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "multihop_09"
     ],
-    "reasoning": "描述了一个清晰的‘克制 - 释放 - 再克制’的循环，实体之间的关系是典型的时间顺序和因果补偿关系，易于理解。"
+    "reasoning": "Describes a clear 'restraint-release-restraint' cycle. The relationships between entities are typical of chronological order and causal compensation, making them easy to understand."
   },
   {
     "id": "q_078",
-    "trigger_type": "多跳记忆联想",
-    "question": "正是因为平时训练严格轮换使用 Asics Kayano 30 以保护双脚，才确保了 Nike Vaporfly 3 在比赛日的最佳状态，这种对装备的爱惜如同我对待代码架构一样严谨，最终助我在 Strava 上不断刷新个人纪录并获得社交认同。",
-    "trigger_concept": "装备管理哲学与职业思维的映射",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Strictly rotating my Asics Kayano 30 shoes during regular training to protect my feet ensures that my Nike Vaporfly 3 remains in optimal condition for race day. This careful management of equipment mirrors the rigor I apply to code architecture, ultimately helping me continuously break personal records on Strava and gain social recognition.",
+    "trigger_concept": "Mapping equipment management philosophy to professional thinking",
     "candidate_set": [
       {
-        "concept": "跑鞋轮换纪律",
-        "reason": "这是具体的管理行为，体现了用户对资源的精细化运营策略。"
+        "concept": "Discipline in rotating running shoes",
+        "reason": "This is a specific management behavior reflecting the user's strategy for refined resource operation."
       },
       {
-        "concept": "比赛日表现",
-        "reason": "这是严格管理带来的直接成果，是量变引起质变的时刻。"
+        "concept": "Race day performance",
+        "reason": "This is the direct outcome of strict management, representing the moment where quantitative changes lead to qualitative leaps."
       },
       {
-        "concept": "Strava 社交认同",
-        "reason": "这是最终的价值变现，将物理世界的表现转化为社交世界的认可，呼应了程序员的开源分享精神。"
+        "concept": "Social recognition on Strava",
+        "reason": "This represents the final realization of value, transforming physical world performance into social world acknowledgment, echoing the open-source sharing spirit of programmers."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_10"
     ],
-    "reasoning": "需要将具体的装备维护行为上升到职业思维（代码架构）的高度，并关联到最终的社交反馈，涉及类比思维。"
+    "reasoning": "Requires elevating specific equipment maintenance behaviors to the level of professional thinking (code architecture) and linking them to final social feedback, involving analogical reasoning."
   },
   {
     "id": "q_079",
-    "trigger_type": "多跳记忆联想",
-    "question": "清晨 6:30 的黑咖啡与核心激活为一天的工作注入了高效能，使我能准时在 19:30 下班前往乐刻运动完成高质量的力量训练，进而保证了睡前有充足的精力进行泡沫轴放松，形成从唤醒到恢复的完美闭环。",
-    "trigger_concept": "全天候精力管理的闭环系统",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Black coffee and core activation at 6:30 AM inject high efficiency into my workday, enabling me to leave work on time at 7:30 PM and head to Leke Sports for a high-quality strength training session. This, in turn, ensures I have sufficient energy before bed for foam rolling recovery, forming a perfect closed loop from awakening to restoration.",
+    "trigger_concept": "A closed-loop system for all-day energy management",
     "candidate_set": [
       {
-        "concept": "晨间黑咖啡与激活",
-        "reason": "这是闭环的启动点，决定了全天的基础能量水平。"
+        "concept": "Morning black coffee and activation",
+        "reason": "This is the starting point of the loop, determining the baseline energy level for the entire day."
       },
       {
-        "concept": "晚间力量训练",
-        "reason": "这是闭环的核心执行环节，依赖于早晨积累的高效工作状态带来的准时下班。"
+        "concept": "Evening strength training",
+        "reason": "This is the core execution phase of the loop, relying on the punctual departure from work made possible by the high-efficiency state accumulated in the morning."
       },
       {
-        "concept": "睡前泡沫轴放松",
-        "reason": "这是闭环的收尾环节，依赖于晚间训练后的剩余精力，确保睡眠质量。"
+        "concept": "Pre-sleep foam rolling recovery",
+        "reason": "This is the concluding phase of the loop, relying on remaining energy after evening training to ensure sleep quality."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "multihop_11"
     ],
-    "reasoning": "按照时间轴展开的日常流程，实体之间是严格的先后依赖关系，逻辑简单清晰。"
+    "reasoning": "A daily routine unfolding along a timeline, where entities share strict sequential dependencies, resulting in simple and clear logic."
   },
   {
     "id": "q_080",
-    "trigger_type": "多跳记忆联想",
-    "question": "作为浙大计算机出身的工程师，我将 MyFitnessPal 中的热量数据视为输入参数，将 Excel 中的负荷曲线视为算法输出，这种量化思维让我能像调试代码一样精准调整 ON 蛋白粉和肌酸的摄入量，从而稳步逼近深蹲 1.5 倍体重的目标。",
-    "trigger_concept": "工程师思维在运动营养中的算法化应用",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "As an engineer with a computer science background from Zhejiang University, I treat calorie data in MyFitnessPal as input parameters and load curves in Excel as algorithm outputs. This quantitative mindset allows me to precisely adjust my intake of ON protein powder and creatine just like debugging code, thereby steadily approaching my goal of squatting 1.5 times my body weight.",
+    "trigger_concept": "Algorithmic application of engineering thinking in sports nutrition",
     "candidate_set": [
       {
-        "concept": "计算机专业背景",
-        "reason": "这是用户独特的认知框架来源，决定了其处理运动数据的方式。"
+        "concept": "Computer science background",
+        "reason": "This is the source of the user's unique cognitive framework, determining their approach to processing sports data."
       },
       {
-        "concept": "MyFitnessPal 数据",
-        "reason": "被视为系统的‘输入参数’，是量化管理的基础数据源。"
+        "concept": "MyFitnessPal data",
+        "reason": "Regarded as the system's 'input parameters,' this serves as the foundational data source for quantitative management."
       },
       {
-        "concept": "补剂精准调整",
-        "reason": "这是基于‘算法’（Excel 分析）得出的最终执行动作，直接服务于深蹲目标。"
+        "concept": "Precise adjustment of supplements",
+        "reason": "This is the final execution action derived from the 'algorithm' (Excel analysis), directly serving the squatting goal."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_12"
     ],
-    "reasoning": "需要理解用户如何将抽象的计算机概念（输入、算法、调试）映射到具体的运动营养行为中，涉及跨领域的概念隐喻。"
+    "reasoning": "Requires understanding how the user maps abstract computer science concepts (input, algorithm, debugging) onto specific sports nutrition behaviors, involving cross-domain conceptual metaphors."
   },
   {
     "id": "q_081",
-    "trigger_type": "多跳记忆联想",
-    "question": "周二与陈宇在滨江跑道的 LSD 约跑不仅依靠互相监督配速来克服惰性，更因为不想在队友面前掉队，这种同伴压力让我在周三的项目高压期也能保持冷静，甚至将这种自律延伸到了深夜的 Excel 训练数据分析中。",
-    "trigger_concept": "同伴压力引发的跨域自律效应",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Tuesday's LSD run with Chen Yu on the Binjiang track relied not only on mutual pace monitoring to overcome inertia but also on the fear of falling behind in front of a teammate. This peer pressure enabled me to stay calm during Wednesday's high-pressure project phase, even extending this self-discipline to late-night Excel training data analysis.",
+    "trigger_concept": "Cross-domain self-discipline effect triggered by peer pressure",
     "candidate_set": [
       {
-        "concept": "陈宇",
-        "reason": "压力的来源对象，没有这个具体的人物，同伴压力无从谈起。"
+        "concept": "Chen Yu",
+        "reason": "The source of the pressure; without this specific individual, peer pressure would not exist."
       },
       {
-        "concept": "滨江跑道 LSD",
-        "reason": "压力产生的具体情境，是触发心理变化的物理场景。"
+        "concept": "Binjiang Track LSD",
+        "reason": "The specific context where pressure was generated, serving as the physical scene triggering psychological changes."
       },
       {
-        "concept": "Excel 数据分析",
-        "reason": "自律精神迁移后的具体行为表现，证明了运动对工作的正向溢出效应。"
+        "concept": "Excel Data Analysis",
+        "reason": "The concrete behavioral manifestation of transferred self-discipline, proving the positive spillover effect of sports on work."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_03"
     ],
-    "reasoning": "考察从具体的社交互动（跑步）到抽象的心理状态（冷静），再到另一领域的具体行为（数据分析）的跳跃性联想。"
+    "reasoning": "Examines the leap in association from specific social interaction (running) to an abstract psychological state (calmness), and then to concrete behavior in another domain (data analysis)."
   },
   {
     "id": "q_082",
-    "trigger_type": "多跳记忆联想",
-    "question": "母亲张慧精心炖煮的牛肉提供了优质蛋白，父亲林建国从担忧到自豪的态度转变消除了我的心理负担，这两股家庭力量共同支撑我敢于在健身房向王强寻求保护，去冲击深蹲 1.5 倍体重的极限目标。",
-    "trigger_concept": "多重支持系统汇聚于极限目标",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The high-quality protein from the beef stew carefully prepared by my mother, Zhang Hui, combined with my father Lin Jianguo's shift from worry to pride which eliminated my psychological burden, jointly empowered me to ask Wang Qiang for spotting at the gym and attempt the极限 goal of squatting 1.5 times my body weight.",
+    "trigger_concept": "Convergence of multiple support systems on an极限 goal",
     "candidate_set": [
       {
-        "concept": "母亲张慧的炖牛肉",
-        "reason": "物质支持的具象化，代表后勤保障。"
+        "concept": "Mother Zhang Hui's stewed beef",
+        "reason": "The concretization of material support, representing logistical backing."
       },
       {
-        "concept": "父亲林建国的态度转变",
-        "reason": "精神支持的具象化，代表心理减负。"
+        "concept": "Father Lin Jianguo's attitude shift",
+        "reason": "The concretization of emotional support, representing psychological relief."
       },
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "所有支持力量最终指向的汇聚点，是挑战的终极目标。"
+        "concept": "Squatting 1.5 times body weight goal",
+        "reason": "The ultimate convergence point of all supportive forces, representing the final challenge objective."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_04"
     ],
-    "reasoning": "需要识别不同性质的支持（物质 vs 精神）如何共同作用于同一个高难度目标，考察多对一的聚合逻辑。"
+    "reasoning": "Requires identifying how different types of support (material vs. emotional) jointly act on a single high-difficulty goal, examining many-to-one aggregation logic."
   },
   {
     "id": "q_083",
-    "trigger_type": "多跳记忆联想",
-    "question": "Garmin 手表记录的跑步数据同步到 Strava 后，我会结合 Excel 中记录的力量训练负荷曲线进行交叉分析，一旦发现疲劳累积迹象，就会立刻调整下周计划，增加冷热交替浴的频率以防止 2023 年的伤病重演。",
-    "trigger_concept": "数据交叉分析驱动的预防性恢复",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "After syncing running data recorded by my Garmin watch to Strava, I cross-analyze it with the strength training load curves logged in Excel. Upon detecting signs of accumulated fatigue, I immediately adjust the following week's plan and increase the frequency of contrast baths to prevent a recurrence of the injuries suffered in 2023.",
+    "trigger_concept": "Preventive recovery driven by cross-data analysis",
     "candidate_set": [
       {
-        "concept": "Garmin 数据",
-        "reason": "有氧维度的数据输入，是疲劳监测的第一重依据。"
+        "concept": "Garmin Data",
+        "reason": "Data input for the aerobic dimension, serving as the primary basis for fatigue monitoring."
       },
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "无氧维度的数据输入，是疲劳监测的第二重依据，两者结合才能全面评估。"
+        "concept": "Excel Load Curve",
+        "reason": "Data input for the anaerobic dimension, serving as the secondary basis for fatigue monitoring; both must be combined for a comprehensive assessment."
       },
       {
-        "concept": "冷热交替浴",
-        "reason": "基于双重数据分析后采取的针对性预防措施，旨在避免历史伤痛复发。"
+        "concept": "Contrast Baths",
+        "reason": "Targeted preventive measures taken based on dual data analysis, aimed at avoiding the recurrence of historical injuries."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_06"
     ],
-    "reasoning": "强调‘交叉分析’的概念，需要理解单一数据源的局限性以及多源数据融合后对决策（恢复手段）的精准指导作用。"
+    "reasoning": "Emphasizes the concept of 'cross-analysis,' requiring an understanding of the limitations of single data sources and the precise guiding role of multi-source data fusion on decision-making (recovery methods)."
   },
   {
     "id": "q_084",
-    "trigger_type": "多跳记忆联想",
-    "question": "2021 年杭州马拉松确立的‘跑者’身份认同，是我在 2023 年遭遇 ITBS 停训两个月后能够坚持复健的精神支柱，这份信念让我如今在每次清晨 6:30 空腹喝下黑咖啡时，都充满了对新一天训练的期待而非痛苦。",
-    "trigger_concept": "身份认同转化痛苦为期待的心理学机制",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The 'runner' identity established during the 2021 Hangzhou Marathon served as the spiritual pillar that enabled me to persist in rehabilitation after a two-month training hiatus due to ITBS in 2023. This conviction ensures that every morning at 6:30, when I drink black coffee on an empty stomach, I am filled with anticipation for the day's training rather than pain.",
+    "trigger_concept": "Psychological mechanism transforming pain into anticipation via identity",
     "candidate_set": [
       {
-        "concept": "2021 杭马身份认同",
-        "reason": "核心的心理资产，是抵御挫折的内在力量。"
+        "concept": "2021 Hangzhou Marathon Identity",
+        "reason": "The core psychological asset, representing the inner strength to resist setbacks."
       },
       {
-        "concept": "2023 年停训挫折",
-        "reason": "外部的严峻挑战，是检验身份认同强度的压力测试。"
+        "concept": "2023 Training Hiatus Setback",
+        "reason": "The severe external challenge, serving as a stress test for the strength of one's identity."
       },
       {
-        "concept": "晨间黑咖啡仪式",
-        "reason": "心理机制外化的日常行为，将抽象的信念转化为具体的晨间愉悦感。"
+        "concept": "Morning Black Coffee Ritual",
+        "reason": "The daily behavior externalizing the psychological mechanism, transforming abstract beliefs into concrete morning joy."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_07"
     ],
-    "reasoning": "探讨心理认同如何改变对日常行为（喝咖啡/训练）的情感体验，涉及从宏观身份到微观感受的转化。"
+    "reasoning": "Explores how psychological identity alters the emotional experience of daily behaviors (drinking coffee/training), involving the transformation from macro identity to micro sensations."
   },
   {
     "id": "q_085",
-    "trigger_type": "多跳记忆联想",
-    "question": "王强在我冲击大重量深蹲时的精准保护让我积累了信心去细化动作细节，这种技术上的精进反过来让我在指导父亲林建国关于营养品安全性的疑问时，能给出更科学、更具说服力的解剖学依据。",
-    "trigger_concept": "运动技术精进赋能家庭科普",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Wang Qiang's precise spotting while I attempted heavy squats built the confidence to refine my movement details. This technical improvement, in turn, enabled me to provide more scientific and persuasive anatomical evidence when addressing my father Lin Jianguo's questions regarding supplement safety.",
+    "trigger_concept": "Refinement of sports techniques empowering family science communication",
     "candidate_set": [
       {
-        "concept": "王强的保护",
-        "reason": "技术输入的源头，提供了安全尝试和观察细节的机会。"
+        "concept": "Wang Qiang's Spotting",
+        "reason": "The source of technical input, providing opportunities for safe experimentation and detailed observation."
       },
       {
-        "concept": "深蹲技术精进",
-        "reason": "知识内化的过程，用户从单纯的力量提升转向了对动作原理的理解。"
+        "concept": "Squat Technique Refinement",
+        "reason": "The process of knowledge internalization, where the user shifts from mere strength gains to understanding movement principles."
       },
       {
-        "concept": "父亲的营养品疑问",
-        "reason": "知识输出的场景，用户利用学到的解剖学知识解决家人的实际困惑。"
+        "concept": "Father's Supplement Questions",
+        "reason": "The scenario for knowledge output, where the user applies learned anatomical knowledge to resolve family members' practical concerns."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_08"
     ],
-    "reasoning": "需要洞察用户如何将健身房获得的隐性知识（动作细节/解剖学）显性化，并应用于家庭对话中，体现知识的跨界流动。"
+    "reasoning": "Requires insight into how the user makes tacit knowledge gained in the gym (movement details/anatomy) explicit and applies it in family conversations, demonstrating cross-boundary knowledge flow."
   },
   {
     "id": "q_086",
-    "trigger_type": "多跳记忆联想",
-    "question": "工作日每天自带糙米饭和鸡胸肉便当的严格自律，是为了积攒足够的‘代谢额度’，以便在周六完成长距离拉练后，能心安理得地享受那顿欺骗餐，而这种满足感又成为了下周继续坚持健康饮食的强大动力。",
-    "trigger_concept": "代谢额度理论下的饮食心理博弈",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "The strict self-discipline of bringing homemade brown rice and chicken breast bento boxes every weekday is about accumulating enough 'metabolic credit.' This allows me to enjoy a cheat meal guilt-free after completing a long-distance training run on Saturday. That sense of satisfaction, in turn, becomes a powerful motivator to stick to a healthy diet the following week.",
+    "trigger_concept": "Dietary Psychological Gaming Under the Metabolic Credit Theory",
     "candidate_set": [
       {
-        "concept": "工作日自带便当",
-        "reason": "‘储蓄’行为，通过日常的克制积累心理和生理的资本。"
+        "concept": "Bringing Bento Boxes on Weekdays",
+        "reason": "A 'saving' behavior that accumulates psychological and physiological capital through daily restraint."
       },
       {
-        "concept": "周六长距离拉练",
-        "reason": "‘消费’的前提，高强度的消耗为随后的饮食放纵提供了正当理由。"
+        "concept": "Saturday Long-Distance Training",
+        "reason": "The prerequisite for 'spending'; high-intensity expenditure provides legitimate justification for subsequent dietary indulgence."
       },
       {
-        "concept": "欺骗餐满足感",
-        "reason": "‘收益’反馈，这种心理上的满足是维持整个系统运转的关键激励。"
+        "concept": "Satisfaction from Cheat Meals",
+        "reason": "The 'return on investment' feedback; this psychological satisfaction is the key incentive keeping the entire system running."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "multihop_09"
     ],
-    "reasoning": "用经济学术语（额度、储蓄、消费）类比饮食行为，逻辑通俗易懂，重点在于理解这种心理补偿机制。"
+    "reasoning": "Uses economic terminology (credit, saving, spending) to analogize dietary behaviors. The logic is accessible, focusing on understanding this psychological compensation mechanism."
   },
   {
     "id": "q_087",
-    "trigger_type": "多跳记忆联想",
-    "question": "正是因为平时训练严格轮换使用 Asics Kayano 30 以保护双脚，才确保了 Nike Vaporfly 3 在比赛日的最佳状态，这种对装备的爱惜如同我对待代码架构一样严谨，最终助我在 Strava 上不断刷新个人纪录并获得社交认同。",
-    "trigger_concept": "严谨的装备管理与职业精神的同构性",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "Strictly rotating my Asics Kayano 30 shoes during regular training to protect my feet ensures that my Nike Vaporfly 3 are in peak condition on race day. This meticulous care for my gear mirrors my rigorous approach to code architecture, ultimately helping me continuously break personal records on Strava and gain social recognition.",
+    "trigger_concept": "Isomorphism Between Rigorous Gear Management and Professionalism",
     "candidate_set": [
       {
-        "concept": "跑鞋轮换纪律",
-        "reason": "体现严谨性的具体行为，是职业习惯在运动领域的投射。"
+        "concept": "Running Shoe Rotation Discipline",
+        "reason": "A concrete behavior demonstrating rigor, representing the projection of professional habits into the sports domain."
       },
       {
-        "concept": "比赛日表现",
-        "reason": "严谨管理带来的直接红利，是量变到质变的临界点。"
+        "concept": "Race Day Performance",
+        "reason": "The direct dividend of rigorous management, marking the tipping point where quantitative changes lead to qualitative leaps."
       },
       {
-        "concept": "Strava 社交认同",
-        "reason": "最终的社会价值确认，将个人的严谨转化为群体的认可。"
+        "concept": "Strava Social Recognition",
+        "reason": "The final validation of social value, transforming personal rigor into collective approval."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "multihop_10"
     ],
-    "reasoning": "再次强调职业思维（代码架构）与运动行为（跑鞋轮换）的同构性，需要用户理解这种类比背后的深层逻辑。"
+    "reasoning": "Re-emphasizes the isomorphism between professional thinking (code architecture) and athletic behavior (shoe rotation), requiring the user to understand the deep logic behind this analogy."
   },
   {
     "id": "q_088",
-    "trigger_type": "多跳记忆联想",
-    "question": "作为浙大计算机出身的工程师，我将 MyFitnessPal 中的热量数据视为输入参数，将 Excel 中的负荷曲线视为算法输出，这种量化思维让我能像调试代码一样精准调整 ON 蛋白粉和肌酸的摄入量，从而稳步逼近深蹲 1.5 倍体重的目标。",
-    "trigger_concept": "算法思维指导下的补剂精细化运营",
+    "trigger_type": "Multi-hop Memory Association",
+    "question": "As an engineer with a computer science background from Zhejiang University, I treat calorie data in MyFitnessPal as input parameters and load curves in Excel as algorithm outputs. This quantitative mindset allows me to precisely adjust my intake of ON protein powder and creatine, much like debugging code, steadily approaching my goal of squatting 1.5 times my body weight.",
+    "trigger_concept": "Refined Supplement Management Guided by Algorithmic Thinking",
     "candidate_set": [
       {
-        "concept": "计算机专业背景",
-        "reason": "思维模式的根源，决定了用户看待运动数据的独特视角。"
+        "concept": "Computer Science Background",
+        "reason": "The root of the thinking pattern, determining the user's unique perspective on sports data."
       },
       {
-        "concept": "Excel 负荷曲线",
-        "reason": "核心算法的载体，将训练量转化为可计算的数值模型。"
+        "concept": "Excel Load Curves",
+        "reason": "The carrier of the core algorithm, transforming training volume into a calculable numerical model."
       },
       {
-        "concept": "补剂精准调整",
-        "reason": "算法执行的最终动作，通过微调变量（补剂）来优化输出结果（深蹲重量）。"
+        "concept": "Precise Supplement Adjustment",
+        "reason": "The final action of algorithm execution, optimizing output results (squat weight) by fine-tuning variables (supplements)."
       }
     ],
     "difficulty": "hard",
     "source_pairs": [
       "multihop_12"
     ],
-    "reasoning": "最高难度的联想，要求完全理解用户将身体视为系统、训练视为算法、补剂视为参数的极客思维模式，实体间是严密的逻辑推导关系。"
+    "reasoning": "The most challenging association, requiring a full understanding of the user's geek mindset that views the body as a system, training as an algorithm, and supplements as parameters. The entities share a relationship of rigorous logical deduction."
   },
   {
     "id": "q_089",
-    "trigger_type": "实体相关记忆联想",
-    "question": "一提到那双舍不得平时穿的 Nike Vaporfly 3，脑海里立马浮现出那次具体的比赛经历。",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "Mentioning those Nike Vaporfly 3 shoes that I can't bear to wear on regular days immediately brings to mind that specific race experience.",
     "trigger_concept": "Nike Vaporfly 3",
     "candidate_set": [
       {
-        "concept": "全马 PB",
-        "reason": "用户明确记录穿着该鞋跑出了 3 小时 45 分 12 秒的全马个人最好成绩（PB），是装备与高光时刻的直接绑定。"
+        "concept": "Marathon PB",
+        "reason": "The user explicitly recorded wearing these shoes to achieve a personal best (PB) of 3:45:12 in a full marathon, directly binding the gear to a highlight moment."
       },
       {
-        "concept": "2021 杭州马拉松",
-        "reason": "这是用户首次完成全马并确立‘跑者’身份认同的里程碑事件，通常此类顶级比赛鞋会与重大首秀或突破相关联。"
+        "concept": "2021 Hangzhou Marathon",
+        "reason": "This was the milestone event where the user completed their first full marathon and established their identity as a 'runner.' Such top-tier racing shoes are typically associated with major debuts or breakthroughs."
       },
       {
         "concept": "Asics Kayano 30",
-        "reason": "用户在描述中建立了严格的‘跑鞋轮换纪律’，提到比赛鞋时必然联想到作为日常训练对比用的稳定系跑鞋 Kayano 30。"
+        "reason": "The user established a strict 'running shoe rotation discipline' in their description; mentioning racing shoes inevitably triggers an association with the stable training shoes, the Kayano 30, used for daily contrast."
       }
     ],
     "difficulty": "easy",
     "source_pairs": [
       "entity_03"
     ],
-    "reasoning": "基于实体'Nike Vaporfly 3'的直接属性（比赛用）和用户档案中的核心成就（全马 PB）及对比习惯（训练鞋）进行联想，属于显性记忆提取。"
+    "reasoning": "Associations based on the direct attributes of the entity 'Nike Vaporfly 3' (race use), the user profile's core achievements (Marathon PB), and comparison habits (training shoes). This belongs to explicit memory retrieval."
   },
   {
     "id": "q_090",
-    "trigger_type": "实体相关记忆联想",
-    "question": "说到下班后常去的文三路乐刻运动，除了地点，脑子里全是那些特定的训练模式和伙伴。",
-    "trigger_concept": "乐刻运动文三路店",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "Speaking of the Leke Fitness on Wensan Road that I often visit after work, besides the location itself, my mind is filled with those specific training modes and partners.",
+    "trigger_concept": "Leke Fitness Wensan Road Branch",
     "candidate_set": [
       {
-        "concept": "力量训练",
-        "reason": "用户在该地点主要进行‘推/拉/腿分化’的系统化力量训练，这是该地点的核心活动标签。"
+        "concept": "Strength Training",
+        "reason": "The user primarily conducts systematic strength training with a 'Push/Pull/Legs' split at this location, making it the core activity tag for the venue."
       },
       {
-        "concept": "王强",
-        "reason": "王强是用户在该健身房认识的私教朋友，常在用户冲击大重量（如深蹲）时提供保护，是该场景下的关键人物。"
+        "concept": "Wang Qiang",
+        "reason": "Wang Qiang is a personal trainer friend the user met at this gym. He often provides spotting when the user attempts heavy lifts (such as squats), making him a key figure in this scenario."
       },
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "用户在该场馆进行力量训练的核心目标之一是深蹲达到 1.5 倍体重，地点与核心 KPI 强关联。"
+        "concept": "Goal of Squatting 1.5 Times Body Weight",
+        "reason": "One of the core goals of the user's strength training at this venue is to reach a squat of 1.5 times their body weight, creating a strong association between the location and this key KPI."
       }
     ],
     "difficulty": "easy",
@@ -2136,25 +2136,25 @@
       "entity_02",
       "entity_06"
     ],
-    "reasoning": "从地点实体出发，联想其承载的主要活动（力量训练）、关键社交关系（王强）以及核心目标（深蹲目标），均为用户画像中的高频共现元素。"
+    "reasoning": "Starting from the location entity, this associates the primary activities hosted there (strength training), key social connections (Wang Qiang), and core goals (squat target). These are all high-frequency co-occurring elements in the user persona."
   },
   {
     "id": "q_091",
-    "trigger_type": "实体相关记忆联想",
-    "question": "每次需要王强在一旁做保护的时候，通常都是为了冲击那个具体的力量数据目标。",
-    "trigger_concept": "王强保护",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "Whenever Wang Qiang is needed to spot me, it's usually when I'm attempting to hit a specific strength target.",
+    "trigger_concept": "Wang Qiang Spotting",
     "candidate_set": [
       {
-        "concept": "深蹲 1.5 倍体重目标",
-        "reason": "用户明确设定了深蹲达到 1.5 倍体重的目标，且在大重量冲击时需要王强的保护，两者存在因果联系。"
+        "concept": "Squat Target: 1.5x Bodyweight",
+        "reason": "The user has explicitly set a goal to squat 1.5 times their bodyweight, and Wang Qiang's spotting is required during these heavy attempts, establishing a causal link between the two."
       },
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "用户因 2023 年的髂胫束综合征受伤经历，变得格外谨慎，寻求保护的行为背后是对伤病复发的恐惧心理。"
+        "concept": "2023 ITBS Injury",
+        "reason": "Due to the user's experience with Iliotibial Band Syndrome (ITBS) in 2023, they have become exceptionally cautious; the behavior of seeking a spotter stems from a fear of re-injury."
       },
       {
-        "concept": "动作细节",
-        "reason": "用户与王强不仅限于保护，还常交流技术动作细节，这是两人互动的另一核心内容。"
+        "concept": "Movement Details",
+        "reason": "The interaction between the user and Wang Qiang extends beyond just spotting; they frequently discuss technical movement details, which is another core aspect of their dynamic."
       }
     ],
     "difficulty": "easy",
@@ -2162,25 +2162,25 @@
       "entity_06",
       "emotion_03"
     ],
-    "reasoning": "聚焦于‘保护’这一行为，联想其直接服务的目标（深蹲数据）、背后的心理动因（伤病记忆）以及伴随的互动内容（动作细节）。"
+    "reasoning": "Focuses on the act of 'spotting,' associating it with the direct goal it serves (squat metrics), the underlying psychological driver (memory of injury), and the accompanying interaction content (movement details)."
   },
   {
     "id": "q_092",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到平时训练用的 Asics Kayano 30，总会联想到那些具体的长距离训练场景和习惯。",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "Mentioning the Asics Kayano 30 used for regular training always brings to mind those specific long-distance training scenarios and habits.",
     "trigger_concept": "Asics Kayano 30",
     "candidate_set": [
       {
-        "concept": "周六长距离拉练",
-        "reason": "作为日常训练鞋，它主要承载用户周六进行的长距离跑步或骑行拉练任务，区别于比赛日的 Vaporfly。"
+        "concept": "Saturday Long-Distance Runs",
+        "reason": "As a daily training shoe, it primarily supports the user's long-distance running or cycling sessions on Saturdays, distinguishing it from the Vaporfly used on race days."
       },
       {
-        "concept": "滨江跑道",
-        "reason": "用户与跑友陈宇常在滨江跑道进行 LSD 训练，这是 Kayano 30 高频出现的地理场景。"
+        "concept": "Binjiang Running Track",
+        "reason": "The user and their running partner, Chen Yu, often conduct LSD (Long Slow Distance) training at the Binjiang Running Track, making it the geographic setting where the Kayano 30 appears most frequently."
       },
       {
-        "concept": "跑鞋轮换纪律",
-        "reason": "用户有着严格的装备管理策略，区分比赛鞋与训练鞋体现了其‘好钢用在刀刃上’的资源分配哲学。"
+        "concept": "Shoe Rotation Discipline",
+        "reason": "The user maintains a strict equipment management strategy; distinguishing between race shoes and training shoes reflects their philosophy of 'using the best steel for the cutting edge' in resource allocation."
       }
     ],
     "difficulty": "medium",
@@ -2188,25 +2188,25 @@
       "entity_03",
       "behavior_02"
     ],
-    "reasoning": "从训练鞋实体出发，需要联想到其适用的具体训练类型（LSD/拉练）、常去地点（滨江跑道）以及背后的管理逻辑（轮换纪律），涉及场景与习惯的映射。"
+    "reasoning": "Starting from the training shoe entity, this requires associating it with the specific training types it suits (LSD/long runs), common locations (Binjiang Running Track), and the underlying management logic (rotation discipline), involving a mapping of scenarios and habits."
   },
   {
     "id": "q_093",
-    "trigger_type": "实体相关记忆联想",
-    "question": "说到在乐刻进行力量训练后的数据记录习惯，马上就会想到用那个工具来分析渐进负荷曲线。",
-    "trigger_concept": "力量训练",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When discussing the habit of logging data after strength training at Leke, one immediately thinks of using that specific tool to analyze progressive overload curves.",
+    "trigger_concept": "Strength Training",
     "candidate_set": [
       {
-        "concept": "Excel 记录表",
-        "reason": "用户习惯用 Excel 专门记录每周力量训练的重量与组数，这是其量化训练的核心工具。"
+        "concept": "Excel Log Sheet",
+        "reason": "The user habitually uses Excel specifically to record weekly strength training weights and sets, making it their core tool for quantifying training."
       },
       {
-        "concept": "渐进负荷",
-        "reason": "用户记录数据的目的是为了分析渐进负荷曲线，以科学地提升力量，这是数据记录的核心目的。"
+        "concept": "Progressive Overload",
+        "reason": "The purpose of the user's data logging is to analyze progressive overload curves to scientifically improve strength; this is the core objective of the record-keeping."
       },
       {
-        "concept": "程序员思维",
-        "reason": "作为后端工程师，用户将工作中的数据分析能力迁移到健身中，用 Excel 建模分析体现了其职业特征对爱好的渗透。"
+        "concept": "Programmer Mindset",
+        "reason": "As a backend engineer, the user transfers their data analysis skills from work to fitness; using Excel for modeling and analysis reflects how their professional traits permeate their hobbies."
       }
     ],
     "difficulty": "medium",
@@ -2214,25 +2214,25 @@
       "entity_02",
       "entity_08"
     ],
-    "reasoning": "从‘力量训练’这一宽泛概念，通过用户的特定习惯（数据化监控）联想到具体工具（Excel）和分析方法（渐进负荷），并进一步抽象到用户特质（程序员思维）。"
+    "reasoning": "From the broad concept of 'strength training,' the user's specific habit (data-driven monitoring) leads to associations with concrete tools (Excel) and analytical methods (progressive overload), further abstracting to user traits (programmer mindset)."
   },
   {
     "id": "q_094",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到 2023 年那次被迫停训的经历，除了伤痛，更让我对那方面的训练理念产生了深刻转变。",
-    "trigger_concept": "2023 年停训挫折",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "Mentioning the forced training hiatus in 2023 brings to mind not just the pain, but also a profound shift in my training philosophy regarding that aspect.",
+    "trigger_concept": "2023 Training Hiatus Setback",
     "candidate_set": [
       {
-        "concept": "运动解剖学",
-        "reason": "受伤经历促使用户开始系统学习运动解剖学，从盲目上大重量转变为追求科学训练，是认知层面的关键转变。"
+        "concept": "Sports Anatomy",
+        "reason": "The injury experience prompted the user to systematically study sports anatomy, shifting from blindly lifting heavy weights to pursuing scientific training, representing a key cognitive transformation."
       },
       {
-        "concept": "预防受伤",
-        "reason": "这次挫折让用户深刻认识到恢复与科学训练的重要性，‘预防受伤’成为其后续训练的首要原则。"
+        "concept": "Injury Prevention",
+        "reason": "This setback made the user deeply realize the importance of recovery and scientific training, making 'injury prevention' the primary principle for all subsequent training."
       },
       {
-        "concept": "筋膜枪",
-        "reason": "作为恢复手段的升级，用户开始高频使用筋膜枪放松特定部位（如髂胫束），这是受伤后行为改变的具体体现。"
+        "concept": "Massage Gun",
+        "reason": "As an upgrade in recovery methods, the user began frequently using a massage gun to relax specific areas (such as the iliotibial band); this is a concrete manifestation of behavioral change following the injury."
       }
     ],
     "difficulty": "medium",
@@ -2240,25 +2240,25 @@
       "life_milestones",
       "entity_03"
     ],
-    "reasoning": "从负面事件（停训）出发，联想其带来的正面认知升级（学习解剖学、重视预防）以及具体的行为补偿（使用恢复工具），考察对因果链条的理解。"
+    "reasoning": "Starting from a negative event (training hiatus), this associates it with positive cognitive upgrades (learning anatomy, valuing prevention) and specific behavioral compensations (using recovery tools), testing understanding of the causal chain."
   },
   {
     "id": "q_095",
-    "trigger_type": "实体相关记忆联想",
-    "question": "当提到母亲张慧准备的炖牛肉时，感觉这不仅仅是一道菜，更代表了家庭对我运动生涯的那种支持。",
-    "trigger_concept": "母亲张慧的炖牛肉",
+    "trigger_type": "Entity-Related Memory Association",
+    "question": "When mentioning the stewed beef prepared by my mother, Zhang Hui, it feels like more than just a dish; it represents the kind of support my family offers for my athletic career.",
+    "trigger_concept": "Mother Zhang Hui's Stewed Beef",
     "candidate_set": [
       {
-        "concept": "高蛋白菜肴",
-        "reason": "母亲特意准备此类菜肴是为了满足用户增肌和恢复的营养需求，是饮食支持的具体化。"
+        "concept": "High-Protein Dish",
+        "reason": "My mother specifically prepares this type of dish to meet my nutritional needs for muscle gain and recovery, concretizing her dietary support."
       },
       {
-        "concept": "家庭支持",
-        "reason": "母亲负责后勤，通过饮食照顾体现情感与实质支持，与父亲的态度转变共同构成完整的家庭支持系统。"
+        "concept": "Family Support",
+        "reason": "My mother handles logistics, demonstrating emotional and substantive support through dietary care; together with my father's change in attitude, this forms a complete family support system."
       },
       {
-        "concept": "周六欺骗餐",
-        "reason": "在严格的日常饮食控制下，家庭准备的美味菜肴有时也与周末的‘欺骗餐’心理补偿机制产生联想，平衡自律与满足感。"
+        "concept": "Saturday Cheat Meal",
+        "reason": "Under strict daily dietary control, delicious dishes prepared by the family sometimes trigger associations with the psychological compensation mechanism of weekend 'cheat meals,' balancing self-discipline with satisfaction."
       }
     ],
     "difficulty": "medium",
@@ -2266,50 +2266,50 @@
       "family_relations",
       "preferences"
     ],
-    "reasoning": "从具体食物实体出发，联想其营养属性（高蛋白）、情感属性（家庭支持）以及在用户严格饮食计划中的特殊定位（欺骗餐/奖励），涉及多层含义。"
+    "reasoning": "Starting from the concrete food entity, this associates its nutritional attributes (high protein), emotional attributes (family support), and its special position within the user's strict diet plan (cheat meal/reward), involving multiple layers of meaning."
   },
   {
     "id": "q_096",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到父亲林建国对马拉松奖牌态度的转变，就不由得想起他之前对运动的观念以及现在的疑问。",
-    "trigger_concept": "父亲林建国的态度转变",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Mentioning the shift in Lin Jianguo's attitude toward marathon medals inevitably brings to mind his previous views on exercise and his current questions.",
+    "trigger_concept": "Father Lin Jianguo's attitude shift",
     "candidate_set": [
       {
-        "concept": "传统观念认为运动伤膝盖",
-        "reason": "这是父亲最初劝阻儿子跑步的核心理由，是态度转变前的基准线，形成鲜明对比。"
+        "concept": "Traditional belief that exercise harms knees",
+        "reason": "This was the core reason Father initially discouraged his son from running; it serves as the baseline before his attitude changed, creating a sharp contrast."
       },
       {
-        "concept": "父亲的营养品疑问",
-        "reason": "态度转为自豪后，父亲开始关注细节，询问营养品是否安全，体现了关心方式的转化。"
+        "concept": "Father's questions about supplements",
+        "reason": "After shifting to pride, Father began focusing on details, asking whether supplements are safe, reflecting a transformation in how he expresses care."
       },
       {
-        "concept": "家庭自豪感",
-        "reason": "奖牌作为可视化成果，激发了父亲的自豪感，这是态度转变的情感结果，也是家庭关系互动的关键节点。"
+        "concept": "Family pride",
+        "reason": "The medal, as a tangible achievement, sparked Father's pride. This is the emotional outcome of his attitude shift and a key node in family interaction."
       }
     ],
     "difficulty": "medium",
     "source_pairs": [
       "family_relations"
     ],
-    "reasoning": "考察对人物关系动态变化的理解，从‘态度转变’这一结果，回溯其‘原有观念’和‘当前行为（疑问）’，构建完整的人物互动叙事。"
+    "reasoning": "Tests understanding of dynamic changes in interpersonal relationships. It requires tracing back from the result ('attitude shift') to the 'original beliefs' and 'current behaviors (questions)' to construct a complete narrative of character interaction."
   },
   {
     "id": "q_097",
-    "trigger_type": "实体相关记忆联想",
-    "question": "说到周二、周四早晨 6:30 的约定，除了时间，这个场景还强关联着那位跑友和那种训练内容。",
-    "trigger_concept": "周二/周四早晨",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Speaking of the 6:30 AM appointments on Tuesdays and Thursdays, beyond the time itself, this scenario is strongly associated with a specific running partner and a particular type of training.",
+    "trigger_concept": "Tuesday/Thursday mornings",
     "candidate_set": [
       {
-        "concept": "陈宇",
-        "reason": "陈宇是用户固定的晨练搭档，两人互相监督配速，是该时间段的唯一指定社交对象。"
+        "concept": "Chen Yu",
+        "reason": "Chen Yu is the user's fixed morning workout partner; they supervise each other's pace, making him the sole designated social contact for this time slot."
       },
       {
-        "concept": "滨江跑道 LSD",
-        "reason": "该时间段固定的训练内容是在滨江跑道进行 10 公里长距离慢跑（LSD），时间、地点、内容高度绑定。"
+        "concept": "Binjiang Runway LSD",
+        "reason": "The fixed training content for this time slot is a 10km Long Slow Distance (LSD) run on the Binjiang Runway, where time, location, and activity are tightly bound."
       },
       {
-        "concept": "晨间黑咖啡仪式",
-        "reason": "用户习惯在 06:30 起床后空腹喝黑咖啡进行激活，这是晨练开始前不可或缺的个人仪式，与集体训练形成互补。"
+        "concept": "Morning black coffee ritual",
+        "reason": "The user has a habit of drinking black coffee on an empty stomach after waking up at 06:30 to activate their body. This is an indispensable personal ritual before morning workouts, complementing the group training."
       }
     ],
     "difficulty": "hard",
@@ -2317,25 +2317,25 @@
       "social_circle",
       "daily_habits"
     ],
-    "reasoning": "从时间点出发，需要同时联想到特定人物（陈宇）、特定活动（LSD）以及个人前置习惯（黑咖啡），考察对复杂日程安排的颗粒度记忆。"
+    "reasoning": "Starting from a specific time point, this requires associating a specific person (Chen Yu), a specific activity (LSD), and a personal pre-habit (black coffee), testing granular memory of complex schedules."
   },
   {
     "id": "q_098",
-    "trigger_type": "实体相关记忆联想",
-    "question": "当项目上线前的代码 Bug 引发焦虑时，戴上降噪耳机进行 HIIT 训练成了我缓解压力的本能反应。",
-    "trigger_concept": "代码 Bug 焦虑",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "When code bugs before a project launch trigger anxiety, putting on noise-canceling headphones for a HIIT session has become my instinctive response to relieve stress.",
+    "trigger_concept": "Code bug anxiety",
     "candidate_set": [
       {
-        "concept": "大脑清空",
-        "reason": "用户通过身体的极度疲惫换取大脑的清空与平静，这是应对焦虑的核心 coping 机制。"
+        "concept": "Mental clearing",
+        "reason": "The user exchanges extreme physical exhaustion for mental clarity and calmness; this is the core coping mechanism for dealing with anxiety."
       },
       {
         "concept": "Shokz OpenRun",
-        "reason": "虽然提到降噪耳机，但用户偏好骨传导耳机（Shokz）以保持环境感知，此处可能存在装备记忆的冲突或特定场景下的选择，引发对装备库的联想。"
+        "reason": "Although noise-canceling headphones are mentioned, the user prefers bone conduction headphones (Shokz) to maintain environmental awareness. This may indicate a conflict in equipment memory or a specific situational choice, triggering associations with the equipment inventory."
       },
       {
-        "concept": "宁静感",
-        "reason": "高强度运动后的生理反应带来的心理状态，是用户追求的最终情绪目标，与焦虑形成对立。"
+        "concept": "Sense of tranquility",
+        "reason": "This is the psychological state resulting from the physiological response after high-intensity exercise. It is the ultimate emotional goal the user seeks, standing in opposition to anxiety."
       }
     ],
     "difficulty": "hard",
@@ -2343,25 +2343,25 @@
       "emotional_mapping",
       "preferences"
     ],
-    "reasoning": "从负面情绪触发点出发，联想其应对行为背后的深层心理需求（大脑清空/宁静感），并隐含考察对装备细节（骨传导 vs 降噪）的精确记忆与场景适配逻辑。"
+    "reasoning": "Starting from a negative emotional trigger, this associates the deep psychological needs behind the coping behavior (mental clearing/tranquility) and implicitly tests precise memory of equipment details (bone conduction vs. noise-canceling) and the logic of situational adaptation."
   },
   {
     "id": "q_099",
-    "trigger_type": "实体相关记忆联想",
-    "question": "提到用 Excel 记录深蹲和硬拉数据，这种‘程序员式’的健身方法还延伸到了那次伤病后的负荷管理上。",
-    "trigger_concept": "Excel 负荷曲线",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Mentioning the use of Excel to record squat and deadlift data, this 'programmer-style' fitness approach also extends to load management following that injury.",
+    "trigger_concept": "Excel load curve",
     "candidate_set": [
       {
-        "concept": "2023 年 ITBS 受伤",
-        "reason": "伤病经历让用户从盲目训练转向数据驱动，Excel 记录不仅是习惯，更是防止 2023 年伤痛重演的监控手段。"
+        "concept": "2023 ITBS injury",
+        "reason": "The injury experience shifted the user from blind training to data-driven training. Excel recording is not just a habit but a monitoring tool to prevent a recurrence of the 2023 pain."
       },
       {
-        "concept": "疲劳分析",
-        "reason": "通过数据记录进行疲劳分析，科学安排训练与恢复，是 Excel 工具在伤病预防层面的具体应用逻辑。"
+        "concept": "Fatigue analysis",
+        "reason": "Conducting fatigue analysis through data recording to scientifically schedule training and recovery is the specific application logic of the Excel tool in injury prevention."
       },
       {
-        "concept": "运动解剖学",
-        "reason": "数据记录的理论基础来源于用户自学运动解剖学后对身体机制的理解，两者共同构成了科学训练的闭环。"
+        "concept": "Sports anatomy",
+        "reason": "The theoretical basis for data recording stems from the user's self-study of sports anatomy and understanding of bodily mechanisms; together, they form a closed loop of scientific training."
       }
     ],
     "difficulty": "hard",
@@ -2369,25 +2369,25 @@
       "preferences",
       "life_milestones"
     ],
-    "reasoning": "将‘工具使用’（Excel）与‘历史事件’（ITBS 受伤）及‘理论知识’（解剖学/疲劳分析）进行跨维度连接，考察用户如何将职业技能转化为解决运动伤痛的系统方案。"
+    "reasoning": "Connects 'tool usage' (Excel) with 'historical events' (ITBS injury) and 'theoretical knowledge' (anatomy/fatigue analysis) across dimensions, testing how the user transforms professional skills into a systematic solution for sports injuries."
   },
   {
     "id": "q_100",
-    "trigger_type": "实体相关记忆联想",
-    "question": "说到达成半马 PB 或完成长距离训练后的成就感，总会联想到通过那个社交平台分享数据来获得认同。",
-    "trigger_concept": "掌控兴奋感",
+    "trigger_type": "Entity-Associated Memory Association",
+    "question": "Speaking of the sense of achievement after hitting a half-marathon PB or completing a long-distance run, it always brings to mind sharing data on that social platform to gain recognition.",
+    "trigger_concept": "Excitement of control",
     "candidate_set": [
       {
-        "concept": "Strava 打卡",
-        "reason": "Strava 是用户记录跑步/骑行数据并进行社交分享的主要平台，用于获取‘社交认同’以强化自我效能感。"
+        "concept": "Strava check-in",
+        "reason": "Strava is the user's primary platform for recording running/cycling data and social sharing, used to gain 'social recognition' and reinforce self-efficacy."
       },
       {
-        "concept": "朋友圈分享",
-        "reason": "用户也会在微信朋友圈打卡，这是其获取更广泛社交圈（包括家人如父亲）认同的渠道。"
+        "concept": "WeChat Moments sharing",
+        "reason": "The user also checks in on WeChat Moments, which serves as a channel to gain recognition from a broader social circle, including family members like their father."
       },
       {
-        "concept": "半马 PB 目标",
-        "reason": "这种兴奋感往往直接源于打破了‘半马 1 小时 40 分’的具体目标，情绪与具体 KPI 紧密挂钩。"
+        "concept": "Half-marathon PB goal",
+        "reason": "This excitement often stems directly from breaking the specific goal of a '1 hour 40 minute half-marathon,' tightly linking the emotion to a concrete KPI."
       }
     ],
     "difficulty": "hard",
@@ -2395,6 +2395,6 @@
       "emotional_mapping",
       "preferences"
     ],
-    "reasoning": "从抽象情绪（掌控兴奋感）出发，需要联想到具体的行为出口（Strava/朋友圈分享）以及触发该情绪的具体成就指标（半马 PB 目标），涉及情绪 - 行为 - 目标的三重映射。"
+    "reasoning": "Starting from an abstract emotion (excitement of control), this requires associating specific behavioral outlets (Strava/WeChat Moments sharing) and the specific achievement metrics that trigger the emotion (half-marathon PB goal), involving a triple mapping of emotion-behavior-goal."
   }
 ]
