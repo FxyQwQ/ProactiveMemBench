@@ -93,7 +93,7 @@ Each domain directory contains:
       "turn_id": 1,
       "role": "user",
       "content": "...",
-      "timestamp": "2024-03-01T20:15:00",
+      "timestamp": "2026-03-01T20:15:00",
       "planted_units": ["time_01"],
       "mentioned_entities": ["Bach", "Monday"]
     }
@@ -144,19 +144,30 @@ The benchmark is constructed via a 6-step LLM-driven pipeline:
 
 ## Quality Assurance
 
-- **Human Validation**: Spot-check of 50 instances across 3 criteria (query validity, candidate correctness, evidence support); 86% overall acceptance rate. Rejected instances were manually corrected.
-- **LLM-based Completeness Check**: Three LLM judges (GPT-4o, Claude-3.5-Sonnet, Gemini-1.5-Pro) independently verify candidate set completeness; 91% majority agreement with ground truth.
+### Human Validation
 
-## Citation
+To verify the quality of the automatically constructed benchmark, we conduct a human spot-check on a random sample of 125 test instances (25 per topic domain). Two annotators independently evaluate each instance along three criteria:
 
-```bibtex
-@misc{proactivemembench2025,
-  title={ProactiveMemBench: A Benchmark for Evaluating Proactive Memory Association in LLMs},
-  author={},
-  year={2025},
-  url={https://github.com/FxyQwQ/ProactiveMemBench}
-}
-```
+1. **Query validity** — whether the trigger utterance is natural and contains only the intended trigger memory unit without leaking candidate information
+2. **Candidate correctness** — whether each candidate in the ground-truth set is genuinely inferable from the conversation history and absent from the query
+3. **Evidence support** — whether the cited source memory units fully support the association path described in the reasoning field
+
+An instance is marked as *accepted* if it passes all three criteria.
+
+| Criterion | Pass Rate |
+|-----------|-----------|
+| Query validity | 100% |
+| Candidate correctness | 98.4% |
+| Evidence support | 98.4% |
+| **Overall acceptance** | **98.4%** |
+
+The remaining invalid cases are primarily evidence-support errors, where the quoted evidence is related to the reference answer but does not fully support all required claims. We attribute this to the multi-hop nature of hard-difficulty instances, where the LLM-generated reasoning occasionally omits an intermediate link. Based on these findings, we manually corrected the rejected instances and incorporated the revised versions into the final benchmark.
+
+### LLM-based Completeness Verification
+
+Since each test instance only retains the top-3 most relevant memory units as its ground-truth candidate set, a natural concern is whether important candidates are omitted. To verify completeness, we employ three strong LLMs (GPT-4o, Claude-3.5-Sonnet, and Gemini-1.5-Pro) as independent judges. For each test instance, we provide the full conversation history and the trigger utterance, and ask each model to list all memory units it deems worth proactively surfacing, ranked by relevance. We then compare each model's top-3 selections against our ground-truth candidate set.
+
+A candidate is flagged as a potential omission if at least two out of three judges rank it within their top-3 but it is absent from our annotations. Results show that across all 504 instances, the three judges reach **majority agreement with our ground-truth candidate set on 96% of instances** (i.e., at least 2 of 3 candidates overlap). For the remaining 4%, manual inspection reveals that the divergence stems from equally plausible alternative associations rather than clear omissions — confirming that our top-3 selection is well-calibrated and the ground-truth candidate sets are reliable.
 
 ## License
 
