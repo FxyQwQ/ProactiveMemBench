@@ -1,0 +1,224 @@
+{
+  "sessions": [
+    {
+      "session_id": 1,
+      "timestamp_range": "2024-03-05 ~ 2024-03-12",
+      "assigned_pairs": [
+        "time_01",
+        "entity_12",
+        "multihop_10"
+      ],
+      "session_theme": "周三冰箱清空挑战：从剩余食材到 Fusion 料理的产品化思维",
+      "conversation_seed": "晓雅在周三晚上面对冰箱里的剩余食材，启动'清空冰箱挑战'，利用设计思维将 disparate 食材重组为 Fusion 料理，并记录在食谱笔记中，仿佛在进行一次食物产品的迭代开发。"
+    },
+    {
+      "session_id": 2,
+      "timestamp_range": "2024-03-14 ~ 2024-03-21",
+      "assigned_pairs": [
+        "time_02",
+        "entity_10",
+        "multihop_06"
+      ],
+      "session_theme": "周日早市烟火气：双流白家批发市场的极致新鲜采购",
+      "conversation_seed": "周日上午，晓雅穿梭在双流白家批发市场，亲手挑选极致新鲜的菌菇和核心食材，这种早市的烟火气为她周五晚上的治愈慢炖汤提供了灵感来源，并计划将采购故事分享至小红书。"
+    },
+    {
+      "session_id": 3,
+      "timestamp_range": "2024-03-23 ~ 2024-03-30",
+      "assigned_pairs": [
+        "time_04",
+        "entity_05",
+        "multihop_12"
+      ],
+      "session_theme": "压力下的辛辣救赎：一碗销魂豌杂面的情绪宣泄",
+      "conversation_seed": "面对繁重的方案修改和工作压力，晓雅拒绝外卖，选择亲手制作销魂豌杂面。切菜的节奏和辛辣的味觉成为她的情绪宣泄口，她在烹饪中进行设计复盘，将烦躁转化为味蕾的满足。"
+    },
+    {
+      "session_id": 4,
+      "timestamp_range": "2024-04-02 ~ 2024-04-09",
+      "assigned_pairs": [
+        "time_05",
+        "entity_01",
+        "emotion_02"
+      ],
+      "session_theme": "思乡味的传承：与母亲视频争论中的简化版开水白菜",
+      "conversation_seed": "孤独感涌上心头，晓雅与母亲张慧视频通话，试图复刻正宗回锅肉却引发关于'低油改良版'的争论。最终她选择慢火吊汤制作简化版开水白菜，在情感连接中寻找味觉记忆与健康的平衡。"
+    },
+    {
+      "session_id": 5,
+      "timestamp_range": "2024-04-11 ~ 2024-04-18",
+      "assigned_pairs": [
+        "time_06",
+        "entity_07",
+        "emotion_03"
+      ],
+      "session_theme": "镜头下的成就感：从小红书社区互动到创意摆盘",
+      "conversation_seed": "晓雅将精心制作的创意摆盘菜品进行摄影，自然光下修图调色后发布到小红书。闺蜜陈思思作为首席品鉴官的惊喜反应和社区认同感，让她获得了巨大的成就感，验证了她的'设计师厨神'身份。"
+    },
+    {
+      "session_id": 6,
+      "timestamp_range": "2024-04-20 ~ 2024-04-27",
+      "assigned_pairs": [
+        "time_07",
+        "behavior_11",
+        "emotion_06"
+      ],
+      "session_theme": "闺蜜间的精致投喂：周一便当里的友情升温",
+      "conversation_seed": "周末与闺蜜陈思思探店后，晓雅在周一早上准备了精致便当作为回礼。看到朋友惊喜的反应和收到用户反馈般的菜单调整建议，两人在分享快乐中友情升温，便当成为了社交互动的载体。"
+    },
+    {
+      "session_id": 7,
+      "timestamp_range": "2024-04-29 ~ 2024-05-06",
+      "assigned_pairs": [
+        "time_08",
+        "entity_03",
+        "emotion_10"
+      ],
+      "session_theme": "邻里间的食材交换：进口牛肉与全麦面包的默契",
+      "conversation_seed": "晓雅与邻居王浩然进行了一次食材交换，用自制的高蛋白低脂全麦面包换取了对方的进口牛肉。这种基于健康理念的邻里默契，让她感受到了独居生活中被关爱的温情互动。"
+    },
+    {
+      "session_id": 8,
+      "timestamp_range": "2024-05-08 ~ 2024-05-15",
+      "assigned_pairs": [
+        "time_09",
+        "entity_02",
+        "behavior_09"
+      ],
+      "session_theme": "父亲的远程投喂：新鲜土鸡与铸铁锅的验收仪式",
+      "conversation_seed": "父亲林建国寄来的新鲜土鸡和野生菌菇到达，晓雅像验收产品一样检查食材质量。她拿出父亲送的 Le Creuset 铸铁锅，准备炖汤，视频通话中父母的关切让她倍感温暖，正宗回锅肉的味道仿佛就在嘴边。"
+    },
+    {
+      "session_id": 9,
+      "timestamp_range": "2024-05-17 ~ 2024-05-24",
+      "assigned_pairs": [
+        "time_10",
+        "entity_04",
+        "behavior_06"
+      ],
+      "session_theme": "厨房里的设计实验室：低温慢煮与新派川菜的味型重构",
+      "conversation_seed": "晓雅将设计思维应用于烹饪，利用精密电子秤和低温慢煮机进行新派川菜实验。她像调试产品一样重构味型，探索可食用的产品设计，享受多任务并行的高效厨房带来的实验乐趣。"
+    },
+    {
+      "session_id": 10,
+      "timestamp_range": "2024-05-26 ~ 2024-06-02",
+      "assigned_pairs": [
+        "time_11",
+        "entity_08",
+        "multihop_05"
+      ],
+      "session_theme": "里程碑回顾：从惠灵顿牛排的失败到技艺融合的自信",
+      "conversation_seed": "回顾 2023 年的里程碑，晓雅想起挑战惠灵顿牛排时的失败与成功。那段经历不仅提升了烘焙技艺，更实现了西餐与川味的融合，成为她职业自信的重要来源，证明了设计师也能攻克高难度菜品。"
+    },
+    {
+      "session_id": 11,
+      "timestamp_range": "2024-06-04 ~ 2024-06-11",
+      "assigned_pairs": [
+        "time_12",
+        "entity_11",
+        "multihop_08"
+      ],
+      "session_theme": "美食评论家的视角：隐蔽 Bistro 与网红店的品味对决",
+      "conversation_seed": "外出就餐时，晓雅对比了网红店与隐蔽 Bistro 的差异。她关注食材原产地，撰写大众点评长评，烦躁情绪在品味美食中得到缓解，她以专业设计师的挑剔眼光审视着主厨餐桌的每一个细节。"
+    },
+    {
+      "session_id": 12,
+      "timestamp_range": "2024-06-13 ~ 2024-06-20",
+      "assigned_pairs": [
+        "entity_09",
+        "emotion_12",
+        "multihop_09"
+      ],
+      "session_theme": "职业高光时刻：2021 年会川味鹅肝酱带来的设计自信",
+      "conversation_seed": "想起 2021 年年会上凭借川味鹅肝酱伴手礼获得满堂彩的经历，晓雅重拾职业自信。她将视觉传达中的色彩构成应用于创意摆盘，利用 Siemens 蒸烤箱制作法式甜点，朋友圈的点赞再次验证了她的双重身份。"
+    },
+    {
+      "session_id": 13,
+      "timestamp_range": "2024-06-22 ~ 2024-06-29",
+      "assigned_pairs": [
+        "behavior_01",
+        "behavior_08",
+        "emotion_07"
+      ],
+      "session_theme": "秩序与洁净：Mise en place 与零油污的设计执念",
+      "conversation_seed": "晓雅在烹饪前严格执行 Mise en place（食材分装），利用精密电子秤称量。烹饪间隙随手清洁，保持台面零油污，这种设计执念带来的秩序感让她在实验中充满好奇心和乐趣。"
+    },
+    {
+      "session_id": 14,
+      "timestamp_range": "2024-07-01 ~ 2024-07-08",
+      "assigned_pairs": [
+        "behavior_02",
+        "behavior_09",
+        "entity_02"
+      ],
+      "session_theme": "铸铁锅的养护哲学：父亲寄来的土鸡与油膜状态检查",
+      "conversation_seed": "晓雅仔细检查 Le Creuset 铸铁锅的油膜状态，确保最佳导热性能。她再次验收父亲寄来的菌菇和土鸡，准备用这口锅炖汤，将对厨具的仪式感与对家人的情感连接紧密结合。"
+    },
+    {
+      "session_id": 15,
+      "timestamp_range": "2024-07-10 ~ 2024-07-17",
+      "assigned_pairs": [
+        "behavior_03",
+        "entity_06",
+        "emotion_04"
+      ],
+      "session_theme": "周五独居治愈时刻：关闭音乐聆听食物的声音",
+      "conversation_seed": "周五晚上，晓雅卸下重担，关闭音乐，专注聆听 Siemens 蒸烤箱中食物发出的声音。慢炖汤的咕嘟声和法式甜点的香气构成了独居治愈的 ritual，让她在专注当下中找回内心的平静。"
+    },
+    {
+      "session_id": 16,
+      "timestamp_range": "2024-07-19 ~ 2024-07-26",
+      "assigned_pairs": [
+        "behavior_04",
+        "behavior_07",
+        "multihop_07"
+      ],
+      "session_theme": "从摆盘到分享：色彩构成与小红书发布的完整闭环",
+      "conversation_seed": "晓雅运用色彩构成原理进行创意摆盘，用镊子调整至构图完美。随后在自然光下拍摄，修图调色后发布小红书。闺蜜的惊喜反应和产品迭代般的信心来源，完成了从视觉设计到社交分享的闭环。"
+    },
+    {
+      "session_id": 17,
+      "timestamp_range": "2024-07-28 ~ 2024-08-04",
+      "assigned_pairs": [
+        "behavior_10",
+        "entity_01",
+        "multihop_04"
+      ],
+      "session_theme": "低油川菜的味觉补偿：Vitamix 料理机与母亲的味觉争论",
+      "conversation_seed": "为了健康，晓雅坚持制作低油版川菜，利用 Vitamix 料理机制作香料酱汁以补偿风味挂壁感。这与母亲张慧关于正宗回锅肉的视频争论形成了有趣对比，展现了新旧观念在厨房中的碰撞与融合。"
+    },
+    {
+      "session_id": 18,
+      "timestamp_range": "2024-08-06 ~ 2024-08-13",
+      "assigned_pairs": [
+        "behavior_12",
+        "emotion_01",
+        "multihop_02"
+      ],
+      "session_theme": "砧板上的情绪释放：方案修改后的切菜节奏",
+      "conversation_seed": "面对方案修改带来的心情烦躁，晓雅通过制作销魂豌杂面来释放情绪。切菜的节奏和砧板声成为她的压力释放阀，她在周三晚上将这种情绪宣泄转化为食谱笔记中的新灵感。"
+    },
+    {
+      "session_id": 19,
+      "timestamp_range": "2024-08-15 ~ 2024-08-22",
+      "assigned_pairs": [
+        "multihop_01",
+        "emotion_05",
+        "time_05"
+      ],
+      "session_theme": "跨越千里的亲情汤：父亲土鸡与母亲技法的融合",
+      "conversation_seed": "晓雅利用父亲寄来的新鲜土鸡，结合母亲张慧的慢火吊汤技法，在周五晚上制作了简化版开水白菜。这道菜不仅缓解了思乡之情，更让她在品尝中感受到了被父母关爱的温暖。"
+    },
+    {
+      "session_id": 20,
+      "timestamp_range": "2024-08-24 ~ 2024-08-31",
+      "assigned_pairs": [
+        "multihop_03",
+        "multihop_11",
+        "emotion_10"
+      ],
+      "session_theme": "社区网络中的美食节点：邻居、父亲与闺蜜的食材交响",
+      "conversation_seed": "晓雅将邻居王浩然的进口牛肉、父亲验收的菌菇以及为闺蜜陈思思准备的精致便当元素融合。利用设计思维和低温慢煮机，她创造出连接邻里默契与亲情的融合菜，展现了她在社区网络中的独特美食节点地位。"
+    }
+  ]
+}

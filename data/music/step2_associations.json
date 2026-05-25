@@ -1,0 +1,2979 @@
+[
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从‘听觉品味的互补（City Pop/黑胶）’自然过渡到‘现场音乐体验的互补（独立乐队/人群观察）’，两者共同构建了主角作为建筑师对音乐不同维度的感知方式，虽无实体重叠，但逻辑连贯。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "德彪西"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "强关联。Pair A 提到在书房死磕‘德彪西’，Pair B 直接延伸至具体曲目《月光》及相关的‘通感’体验，实体与语境高度重合，形成从设备到具体审美体验的深层连接。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "录音",
+      "钢琴/琴声"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者都涉及‘录音’和‘钢琴’，但语境割裂：Pair A 是面向未来的‘创作素材捕捉’，Pair B 是面向过去的‘怀旧情感寄托’。虽然行为相似，但动机和情感流向相反，连贯性中等。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "书房"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.6,
+    "association_path": "形成了鲜明的‘调节机制’对比：Pair A 是在户外通过‘通感’获取灵感，Pair B 是在室内（书房）通过‘秩序’平复焦虑。两者共同展示了主角利用音乐在不同场景下进行心理调节的行为模式。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "建筑设计",
+      "通感/光影"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "极高的概念一致性。Pair A 提出‘极简主义音乐映射建筑立面’的理论，Pair B 立即提供‘印象派音乐映射立面光影’的具体实践案例。两者互为理论与实践，完美阐释了主角的设计方法论。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "钢琴",
+      "雅马哈 U1"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "实体‘钢琴’（特别是雅马哈 U1）作为连接点，串联起‘家族传承（母亲/星海）’与‘代际碰撞（表弟/摇滚）’两个维度，展现了钢琴在主角生活中承载的多重社会与情感关系。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "手机录音",
+      "即兴演奏/灵感"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "行为逻辑的高度互补。Pair A 描述对外（甲方）的空间氛围营造，Pair B 描述对内（自我）的灵感瞬间捕捉。两者都使用了‘录音’作为关键工具，体现了主角在职业输出与个人输入之间的闭环。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_02",
+    "shared_entities": [
+      "音乐类型偏好"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "仅通过‘时间片段’和‘听音乐’这一通用行为连接。Pair A 是晨间仪式，Pair B 是通勤调节，缺乏深层的主题或实体交集，属于较弱的生活流并列关系。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联极弱。Pair A 聚焦于苏苏推荐的 City Pop 和黑胶，Pair B 聚焦于久石让、怀旧和少年宫经历。除‘音乐’这一宽泛概念外，缺乏具体的人物、风格或情境交集，对话跳跃感强。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "肖邦《夜曲》",
+      "情感宣泄"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "强情感共鸣。Pair A 描述用肖邦《夜曲》宣泄失落，Pair B 进一步挖掘该曲目与祖父（林建国）及东方旋律的深层联系。从‘情绪反应’深入到‘记忆根源’，逻辑流畅且情感浓度高。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "杭州少年宫",
+      "陈秀英/林建国 (家庭关系)",
+      "音乐成长背景"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者共享核心场景'杭州少年宫'及家庭音乐传承背景。Pair_a 强调证书作为母女（陈秀英）的骄傲，Pair_b 强调同一地点的练琴录音作为对爷爷（林建国）的怀念。虽然具体长辈不同，但'少年宫练琴'这一共同经历构成了极强的叙事连贯性，属于同一人物生命史的不同侧面，对话衔接自然流畅。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "现代建筑",
+      "焦虑/秩序 (隐含)",
+      "音乐与建筑的通感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.4,
+    "association_path": "Pair_a 讨论 Philip Glass 极简主义与现代建筑立面的类比；Pair_b 涉及焦虑、巴赫及建筑结构。两者通过'音乐结构映射建筑空间'这一抽象概念连接。虽然实体重叠少（仅'现代建筑'相关），但在'建筑师通过音乐寻找设计秩序/缓解焦虑'的主题上高度相关，逻辑上可形成从'设计灵感'到'情绪调节'的转折。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "德彪西/坂本龙一 (印象派/氛围音乐)",
+      "水/空间通感",
+      "设计灵感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "Pair_a 描述在西湖边听德彪西《水中倒影》获得设计通感；Pair_b 描述深夜听坂本龙一《Async》感受孤独的空间美感。两者均体现'特定环境 + 氛围音乐=空间美学洞察'的行为模式。虽无直接实体重叠，但意境和认知逻辑高度一致，适合用于探讨'音乐如何塑造空间感知'的深度对话。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "巴赫",
+      "秩序/线性旋律"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.1,
+    "association_path": "Pair_a 聚焦于用巴赫《平均律》对抗焦虑、重建秩序；Pair_b 涉及林建国、二胡、肖邦及东方线性旋律。除了'音乐作为情感/思维调节工具'这一宽泛联系外，两者在具体曲目（巴赫 vs 肖邦/二胡）、情感基调（理性秩序 vs 怀旧/东方韵味）及人物关联上差异较大，直接对话略显跳跃。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "秩序感",
+      "空间氛围",
+      "日常习惯"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.4,
+    "association_path": "Pair_a 描述晨间通过 BBC Radio 3 和图纸建立'理性秩序感'；Pair_b 涉及阿杰、坂本龙一及会议室'空间氛围'。连接点在于'声音环境对工作空间心理状态的影响'。但由于缺乏具体实体重叠，且一个是个人晨间习惯，另一个似乎指向特定社交/工作场景（阿杰、会议室），对话连贯性中等，需依赖上下文强行关联。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "音乐场景",
+      "公共空间",
+      "听觉体验"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "Pair_a 涉及地铁、City Pop、黑胶（私人/通勤聆听）；Pair_b 涉及 Livehouse、独立乐队、公共空间设计（现场/公共聆听）。两者都探讨'音乐与空间'的关系，但场景截然不同（通勤 vs 演出场所）。若无额外上下文，从'地铁听歌'直接跳转到'Livehouse 空间设计'显得突兀，关联强度较弱。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "空间氛围",
+      "现代性"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "Pair_a 讨论 Philip Glass 极简主义与建筑立面的宏观节奏；Pair_b 讨论阿杰、坂本龙一与公司会议室氛围。两者仅在'音乐影响空间感'这一极抽象层面有微弱联系。实体无重叠，主题焦点分散（建筑立面设计 vs 会议室人际/氛围），难以形成自然的对话流。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "巴赫",
+      "德彪西",
+      "焦虑/平静",
+      "建筑设计工作流"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "两者完美互补，描述了建筑师在面对工作压力（赶图/复杂剖面）时的两种不同音乐调节策略：Pair_a 用巴赫《平均律》处理'焦虑爆发'（重秩序），Pair_b 用德彪西《月光》进入'心流状态'（重灵感）。实体（巴赫、德彪西、建筑设计）高度重合，逻辑上构成完整的工作情绪管理闭环，对话极其连贯。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "肖邦",
+      "苏苏",
+      "黑胶/唱片",
+      "音乐学习/收集"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "Pair_a 提到向张教授回课肖邦《夜曲》受挫；Pair_b 提到在唱片店淘苏苏推荐的黑胶并记录灵感。共享实体'肖邦'、'苏苏'（隐含推荐关系）及'唱片/音乐'主题。逻辑上可从'专业学习的挫折'自然过渡到'业余淘碟寻找灵感'或'苏苏的音乐品味'，人物和兴趣点高度重合，关联性强。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "林建国",
+      "久石让",
+      "《Summer》",
+      "二胡",
+      "旧录音",
+      "杭州少年宫",
+      "怀旧"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "这是极高强度的重复与深化关系。Pair_a 和 Pair_b 描述的是完全相同的事件、情感、人物（爷爷林建国）、物品（旧录音、二胡）和音乐（久石让《Summer》）。Pair_b 几乎是 Pair_a 的详细行为版，实体重叠度极高，语义完全一致，对话连贯性达到顶峰（互为解释或补充细节）。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "time_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均为家庭音乐记忆的触发点，但风格截然相反（摇滚现场 vs 古典/民乐怀旧）。虽无实体重叠，但在‘音乐作为情感载体’这一主题上形成对比联想，对话中可作为‘不同代际/风格偏好’的转折话题。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "Pair A 聚焦家庭亲情与坚持（母亲、钢琴），Pair B 聚焦职场氛围与现代电子乐（阿杰、坂本龙一）。两者在人物、场景、音乐类型及情感基调上均无直接交集，强行关联显得生硬，缺乏自然的对话流转逻辑。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "林子豪",
+      "林建国"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度关联。Pair A 描述表弟林子豪（摇滚）与‘我’（古典钢琴）的合奏；Pair B 涉及爷爷林建国（二胡/民乐）与肖邦（古典）。这构成了完整的家族音乐图谱：祖孙三代的音乐传承与融合（民乐 - 古典 - 摇滚），人物关系紧密，话题自然延伸自‘家庭音乐聚会’到‘家族音乐根源’。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者都探讨了音乐中的‘悲剧美学’与‘孤独感’（阿炳的苦难 vs 坂本龙一的疏离）。虽然音乐风格和具体人物不同，但在情感深度和审美哲学层面存在共鸣，适合在深度探讨‘音乐情感本质’时进行切换。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_04",
+    "shared_entities": [
+      "坂本龙一"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "共享实体仅为广义的音乐人背景（实际 Pair A 是坂本龙一，Pair B 是德彪西，无直接实体重叠，此处修正为无实体重叠，仅主题相关）。两者分别讨论现代极简/氛围音乐在建筑方案汇报中的应用，与印象派钢琴演奏技巧的批评。关联点在于‘建筑师对音乐的理解与应用’，但场景从会议室切换至琴房，话题跨度较大。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "灵感",
+      "环境音乐"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的行为逻辑连贯性。Pair A 描述灵感迸发时即兴创作并录音；Pair B 描述在唱片店淘碟时记录音乐与空间的对应关系。两者共同构成了主角‘建立建筑 - 音乐灵感素材库’的完整工作流，从‘内部创造’自然过渡到‘外部采集’。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "纺织厂",
+      "陈秀英",
+      "坚定"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "完美匹配。Pair B 实际上是 Pair A 中核心故事（母亲陈秀英在纺织厂买钢琴）的直接延续或多跳推理结果（关联到硕士毕业展）。实体完全重叠，叙事逻辑无缝衔接，是同一故事线的不同片段。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "entity_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair A 提及与表弟争论‘古典是否过时’并体验摇滚；Pair B 讨论 Philip Glass 的极简主义与现代建筑的相似性。关联点在于‘音乐风格的现代性探讨’，可以从摇滚的现场能量引申至极简主义的重复美学，作为对‘现代音乐形式’的补充讨论。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "Pair A 是西湖边的自然通感体验（德彪西），Pair B 是公司会议室的职场氛围营造（坂本龙一）。虽然都涉及音乐与空间，但场景（自然 vs 职场）、心境（休闲 vs 工作）及人物完全割裂，缺乏自然的对话过渡理由。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "张教授",
+      "德彪西",
+      "西湖",
+      "通感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度关联。Pair A 建立日常习惯（听古典、看图纸、求秩序）；Pair B 通过张教授之口点出该习惯背后的理论核心（德彪西、西湖、通感）。Pair B 解释了 Pair A 中行为的美学渊源，人物（张教授）、地点（西湖）、作品（德彪西）及核心概念（通感）完全闭环。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "从‘久石让/叙事性记忆’跳转到‘手机录音/即兴小样’，缺乏直接的人物或场景连接，仅通过‘音乐创作/记录’这一宽泛主题勉强关联，逻辑链条较弱。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.25,
+    "association_path": "两者均为‘音乐与日常生活仪式’的描述（晨间广播 vs 晚间练琴），虽无实体重叠，但在‘音乐家/爱好者的时间管理’语境下具有高度的主题连贯性。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "强语义关联：Pair A 提到‘基于流线创作的钢琴曲’与‘建筑与音乐融合’，Pair B 的'Philip Glass/极简主义/重复性’正是实现这种建筑感音乐的理论支撑和风格对应，概念高度互补。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "阿杰"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.25,
+    "association_path": "实体‘阿杰’直接重叠。逻辑流畅：Pair A 中张教授批评主角缺乏‘朦胧感’，Pair B 中主角通过与阿杰的‘即兴演奏 + 采样’协作，将这种感性转化为具体的设计落地，形成了‘问题 - 解决’的叙事闭环。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "Pair A 聚焦‘坂本龙一/孤独/白噪音’的静态内省，Pair B 突然引入‘林子豪/电吉他/即兴’的动态互动，两者在情绪基调（孤独 vs 协作）和音乐风格（电子氛围 vs 摇滚）上存在断裂，关联度低。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_07",
+    "shared_entities": [
+      "林子豪"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "实体‘林子豪’重叠（Pair A 为表弟，Pair B 提及爷爷林建国，暗示家族关系）。但话题从‘古典与摇滚的碰撞’跳跃到‘久石让与童年记忆’，虽然都是家族音乐记忆，但具体情境转换略显生硬。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "阿杰"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "隐含实体‘阿杰’关联（Pair B 明确提及）。逻辑路径：Pair A 主角在西湖采集‘德彪西’灵感，Pair B 暗示将这些灵感通过‘手机录音’交给阿杰处理成‘环境音乐小样’，构成了‘采风 - 制作’的工作流。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "阿杰",
+      "坂本龙一",
+      "《Async》",
+      "白噪音"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "极高关联度。Pair A 提出‘缺乏朦胧与留白’的问题，Pair B 立即给出解决方案：与阿杰合作，利用‘坂本龙一/白噪音’来实现这种质感。实体高度重合，逻辑严丝合缝。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "Pair A 使用‘坂本龙一’营造严肃空间节奏，Pair B 突然转向‘久石让/怀旧/少年宫’，两者在音乐功能（专业氛围 vs 个人怀旧）和情感色彩上差异巨大，缺乏自然的过渡逻辑。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "Philip Glass"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "实体'Philip Glass'重叠。逻辑连贯：Pair A 描述深夜‘即兴创作/录音’的生产过程，Pair B 描述在通勤途中消费同类音乐（极简主义）以调节状态，展现了音乐人‘创作 - 生活’的完整闭环。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "两者虽都涉及音乐与心境（City Pop 放松 vs 德彪西通感），但实体完全无重叠，场景（拥挤地铁 vs 西湖/教授）和人物截然不同，缺乏直接对话衔接点。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "完全无关。前者是私人休闲（喝酒听黑胶），后者是工业/学术背景（纺织厂/毕业展），无共同实体、主题或逻辑联系。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "苏苏",
+      "黑胶唱片",
+      "地铁 1 号线",
+      "City Pop"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "高度关联。两者共享核心人物'苏苏'、媒介'黑胶/City Pop'及场景'地铁'。从周末淘唱片自然过渡到工作日通勤听歌的习惯，构建了完整的人物生活画像。"
+  },
+  {
+    "pair_a_id": "multihop_03",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "无关联。两组分别为不同的多跳推理路径，涉及完全不同的人物（张教授 vs 陈秀英）、地点（西湖 vs 纺织厂）和主题，无法形成连贯语义。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "德彪西"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "中等关联。通过'德彪西'这一音乐家实体连接，但语境不同：前者是独自练习德彪西，后者是讨论林建国与二胡/肖邦。虽同属音乐话题，但缺乏具体情节互动。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "德彪西",
+      "《月光》",
+      "林建国"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.75,
+    "association_path": "较强关联。共享'德彪西《月光》'和人物'林建国'（虽 A 中未明示林建国，但 B 中明确，若假设上下文已知则关联强；仅看文本，A 提德彪西，B 提林建国和久石让，实体重叠实际较低，此处修正：A 中无林建国，B 中有。重新评估：A 涉及德彪西/月光/建筑，B 涉及林建国/久石让/怀旧。实体重叠应为 0 或极低，除非隐含张教授即林建国？不，ID 不同。修正评分：实体重叠 1（无直接重叠，仅音乐主题），语义相关度 3（都是音乐引发的心流/怀旧）。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "地铁 1 号线",
+      "City Pop",
+      "极简主义",
+      "Philip Glass",
+      "建筑图纸"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "高度关联。两者描述了同一主角在不同时间段（通勤 vs 早晨）利用音乐（Philip Glass/City Pop）辅助建筑工作的习惯，实体和主题高度重合，逻辑连贯。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "entity_07",
+    "shared_entities": [
+      "苏苏",
+      "黑胶唱片",
+      "久石让",
+      "林建国"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "中等关联。A 提到淘黑胶和苏苏，B 提到久石让和林建国。若'苏苏'与'林建国'无直接关系，则主要通过'音乐记忆/黑胶'这一抽象主题连接，实体重叠较少（仅音乐类型）。注：A 中无久石让或林建国，B 中无苏苏或黑胶店。实际实体重叠为 0。修正：两者仅在'音乐作为记忆载体'这一深层语义上相关，表面实体无重叠。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "德彪西",
+      "《月光》",
+      "Philip Glass",
+      "书房"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "高度关联。两者均发生在'书房'，都涉及用特定音乐（德彪西/Philip Glass）调节建筑创作时的心理状态（情感不足/焦虑），实体和情境高度互补。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "德彪西",
+      "《水中倒影》"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "弱关联。A 聚焦德彪西《水中倒影》与西湖的通感体验，B 聚焦与表弟合奏摇滚/古典的亲情互动。除均为音乐相关外，人物、场景、情感基调均无交集。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均通过家庭长辈（爷爷/妈妈）与特定乐器/音乐的记忆连接来构建个人叙事，但具体人物、乐器和情感指向（温暖记忆 vs 坚持力量）完全不同，缺乏直接对话衔接点。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "形成了完美的‘静/动’与‘私/公’空间对比：书房内的深度聆听（德彪西/交响乐）与通勤路上的功能性听歌（Philip Glass/City Pop），共同构建了主角完整的音乐生活图谱，逻辑连贯性强。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "Pair A 描述的是日常通勤的即时情绪调节，Pair B 是深层的职业信念支撑。虽然都涉及音乐，但语境跨度太大，从‘地铁听歌’直接跳跃到‘母亲买琴的回忆’显得突兀，缺乏自然过渡。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "Pair A 讨论德彪西演奏的情感缺失，Pair B 实体列表包含钢琴和书房。关联在于‘钢琴’这一媒介，但 Pair B 缺乏具体叙述，仅能推测是在书房练琴场景，连接较为松散。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都是关于‘孤独/独处’时的音乐陪伴：一个是童年温暖的回忆（久石让），一个是成年后城市疏离感的接纳（坂本龙一）。情感基调从‘暖’到‘冷’的对比构成了合理的心理独白流。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "钢琴",
+      "即兴演奏"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合。Pair A 描述捕捉灵感时的即兴钢琴演奏并录音，Pair B 实体明确包含‘钢琴’、‘即兴演奏’及人物‘林子豪’（可能是录音对象或合作者），这是同一行为场景的直接延续或不同视角的描述。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "手机录音",
+      "即兴演奏"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "Pair A 是听‘旧录音’怀旧，Pair B 实体涉及‘手机录音’和‘即兴演奏’。关联点在于‘录音’这一行为，但一个是回顾过去（爷爷），一个是创作当下（阿杰/小样），时间维度和情感指向不同，连接中等。"
+  },
+  {
+    "pair_a_id": "behavior_05",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "Pair A 是在唱片店寻找灵感，Pair B 实体列表是家里的钢琴和书房。虽然都是音乐相关，但场景从‘外部探索’直接跳到‘内部固定资产’，缺乏中间的行为逻辑链条，连贯性较差。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "Pair A 讨论钢琴采样与白噪音的技术协作，Pair B 实体涉及 Livehouse 和低音震动。虽然都涉及‘声音’与‘空间’，但 Pair A 是微观的声学设计，Pair B 是宏观的公共空间体验，话题转换略显生硬。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "巴赫《平均律》",
+      "建筑结构",
+      "焦虑"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "几乎完全匹配。Pair A 明确提到用巴赫《平均律》对抗焦虑并类比建筑结构，Pair B 的实体列表直接复现了这些核心概念（焦虑、巴赫、建筑结构），属于同一思维过程的直接映射。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "西湖",
+      "德彪西",
+      "通感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者均围绕‘西湖’场景与‘德彪西’音乐引发的‘通感’体验展开，pair_b 虽提及《月光》而 pair_a 提及《水中倒影》，但核心语境（印象派音乐与建筑/空间的通感联系）高度一致，逻辑衔接极其紧密。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都涉及‘音乐调节工作/设计状态’的主题（pair_a 用坂本龙一 calming 会议室，pair_b 用巴赫应对焦虑/建筑结构），但缺乏具体实体重叠，关联主要建立在抽象的功能类比上，连贯性中等。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "pair_a 讲述西湖边的通感灵感，pair_b 讲述母亲与钢琴的亲情激励。虽然都隐含‘坚持设计/音乐’的底色，但场景、人物、情感触发点完全不同，话题跳跃较大，难以自然衔接。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都是关于‘音乐与记录/分享’的行为模式。pair_a 是独自捕捉灵感并口述建筑流线，pair_b 是与朋友共享黑胶知识。虽有‘音乐 + 记录/交流’的共性，但一个是创作捕捉，一个是社交休闲，语境切换略显生硬。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.3,
+    "association_path": "两者紧密围绕‘音乐与建筑设计的跨界融合’。pair_a 从理论层面比喻极简主义音乐与建筑立面，pair_b 从实践层面展示钢琴即兴与空间声学方案的协作。虽无实体重叠，但专业语境高度互补，逻辑顺畅。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都是关于‘孤独/怀旧时刻的音乐陪伴’。pair_a 是温暖的怀旧（爷爷、久石让），pair_b 是冷峻的孤独（坂本龙一、疏离感）。情感基调一暖一冷，虽可形成对比对话，但直接连贯性一般。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "pair_a 是怀旧温情（爷爷、久石让），pair_b 是焦虑冷静（巴赫、Philip Glass）。两者都利用音乐调节情绪，但触发情境（思念 vs 赶图焦虑）和音乐功能（回忆 vs 结构化思绪）不同，关联度中等。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "entity_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都涉及‘钢琴练习与成长’。pair_a 是当前的练习日常（德彪西、张教授），pair_b 是过去的成就证明（证书、母亲、少年宫）。时间线上有承接可能（从过去努力到现在坚持），但缺乏直接实体链接，需靠推断。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "德彪西"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极高关联。两者均描述‘德彪西音乐（《月光》与《水中倒影》）如何辅助建筑设计心流’。pair_a 是室内绘图前的准备，pair_b 是室外实景的通感验证，共同构建了‘音乐 - 视觉 - 建筑’的完整认知闭环。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "pair_a 是去 Livehouse 听摇滚释放压力（被动接受），pair_b 是灵感迸发时弹钢琴录音（主动创作）。虽然都涉及‘音乐与情绪/灵感’，但音乐类型（摇滚 vs 即兴古典/环境）、行为模式及场景差异巨大，连贯性较弱。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均围绕‘音乐作为精神避难所’的主题，但场景截然不同（私密书房 vs 公共通勤），实体无重叠，对话转换略显生硬，属于主题并列而非逻辑递进。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "西湖",
+      "德彪西",
+      "《水中倒影》"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "Pair_b 是 Pair_a 的详细行为展开版，实体高度重合，语义完全一致，逻辑上是从‘意图/习惯’到‘具体执行细节’的完美连贯。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "entity_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘音乐成长史’连接：从过去的证书与母亲（Pair_a）过渡到现在的专业设备与个人空间（Pair_b），虽无实体重叠，但构建了清晰的人物成长叙事线。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "对比两种截然不同的创作/工作状态：Pair_a 是兴奋时的主动捕捉（不协和和弦），Pair_b 是孤独时的被动共鸣（白噪音），共同构建了创作者复杂的情感光谱。"
+  },
+  {
+    "pair_a_id": "multihop_05",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均为多跳实体集合，缺乏自然语言上下文。仅能通过‘钢琴/音乐学习’这一隐含线索强行关联，实体间无直接交集，对话连贯性极低。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "情感基调冲突：Pair_a 是温情的怀旧（爷爷、夏天），Pair_b 是冷峻的都市疏离感（深夜、孤独）。虽然都涉及音乐慰藉，但情绪流向相反，难以自然衔接。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "关联极弱。Pair_a 关注坂本龙一在商务场景的功能性使用，Pair_b 关注苏苏与 City Pop 的黑胶品味。音乐类型、场景、人物均无交集，话题跳跃过大。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "场景割裂。Pair_a 是独处的晨间仪式（BBC Radio），Pair_b 是社交的晚间放松（苏苏、黑胶）。除‘听音乐’这一泛行为外，无具体逻辑纽带。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "逻辑断层。Pair_a 描述当下的即兴创作行为，Pair_b 是一组关于过去荣誉和怀旧歌曲的实体标签。缺乏谓语和情境支撑，无法形成有效对话流。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.75,
+    "association_path": "核心理念高度契合：Pair_a 从理论层面阐述‘建筑与音乐的秩序同构’（巴赫 vs 哥特式），Pair_b 从实践层面展示‘建筑与音乐的融合成果’（毕业展演奏）。构成了完美的‘理论 - 实践’闭环。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_06",
+    "shared_entities": [
+      "德彪西"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者通过作曲家'德彪西'紧密连接。Pair A 练习《月光》，Pair B 聆听《水中倒影》，两者均强调德彪西音乐中'朦胧'、'水'的通感意象对艺术感知（演奏技巧 vs 设计灵感）的启发，语义深度极高。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "两者仅在'音乐作为背景/陪伴'这一宽泛功能上有微弱联系。Pair A 是晨间新闻/古典电台仪式，Pair B 是怀旧情感触发，缺乏具体实体或深层主题交集。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "虽无直接实体重叠，但存在强烈的'建筑设计 vs 音乐结构'隐喻关联。Pair A 用德彪西进入心流，Pair B 涉及 Philip Glass 极简主义与现代建筑立面，两者都探讨了音乐结构如何映射或辅助建筑思维。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "通过核心情感状态'放松'强关联。Pair A 是私密空间的酒精与黑胶放松，Pair B 是公共通勤空间的 City Pop 心理逃避，形成了'不同场景下的音乐疗愈'对话。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "Philip Glass"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "共享实体'Philip Glass'。Pair A 利用其重复音型对抗焦虑，Pair B 提及即兴演奏（可能涉及该风格），但 Pair B 描述为空，导致语境断裂，关联主要依赖实体本身。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "林子豪",
+      "林建国"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "共享家族实体（表弟林子豪、爷爷林建国），但行为动机截然不同：前者是职业观察（人群动态），后者是私人怀旧。实体重叠度高但语义场景割裂。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "高度平行的'职业仪式感'。Pair A 是练琴前的哈农热身，Pair B 是汇报前的音乐氛围营造。两者都展示了专业人士如何利用音乐程序化地进入工作状态。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "entity_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "Pair A 提及 City Pop 和极简主义，Pair B 专注久石让。除'音乐调节情绪'外无具体交集，且 Pair A 中的极简主义与 Pair B 的叙事性旋律风格差异较大。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "通过'坚持与秩序'的主题连接。Pair A 是母亲买钢琴带来的精神坚持，Pair B 是晨间广播与图纸带来的理性秩序。属于价值观层面的弱关联。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "entity_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "Pair A 建立晨间秩序（BBC Radio 3），Pair B 阐述秩序的美学来源（巴赫=哥特教堂）。前者是行为习惯，后者是该习惯背后的哲学隐喻，构成'行为 - 认知'的互补。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "entity_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均涉及音乐对情绪/记忆的调节作用（巴赫冷静 vs 久石让温暖），但音乐风格（古典严谨 vs 通俗叙事）和具体情境（焦虑工作 vs 童年回忆）差异较大，缺乏直接的话题衔接点。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "虽然都提及音乐（肖邦/二胡 vs BBC Radio 3）和某种秩序感/美感，但前者是深层的艺术通感联想，后者是晨间例行公事的行为描述，语境跨度大，难以自然过渡。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "time_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.25,
+    "association_path": "两者构成了完整的‘输入 - 输出’闭环：Pair A 是在通勤途中通过听极简主义音乐（Philip Glass）来平复心情（消费音乐），Pair B 是在深夜书房进行即兴创作并录音（生产音乐）。从‘听众’到‘创作者’的身份转换逻辑顺畅。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "即兴演奏",
+      "钢琴"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "高度关联。Pair A 描述了在毕业展上‘即兴创作’钢琴曲的高光时刻，Pair B 的实体标签直接包含‘即兴演奏’和‘钢琴’，且涉及人物‘林子豪’（可能是当时的合作者或观众），话题可自然从‘那次成功的即兴’延伸到‘平时的即兴习惯’或‘相关人物’。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "关联点在于‘空间氛围的营造’。Pair A 讲在会议室用音乐营造软装氛围，Pair B 涉及‘公共空间设计’和‘低音震动’（Livehouse 体验）。可以从‘小空间（会议室）的音乐控场’对比联想至‘大空间（Livehouse/公共建筑）的声场设计’。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "极强的因果/时间线关联。Pair A 是音乐成长的起点（证书、母亲的支持），Pair B 是音乐与专业结合的高光终点（毕业展、成就感）。这是典型的‘初心与回报’叙事，对话可从‘过去的坚持’自然流向‘现在的成就’。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "关联较弱。Pair A 是个人情感化的考级经历（传统/古典路径），Pair B 是 Philip Glass 的极简主义与现代建筑的理性类比。除非强行通过‘音乐对建筑的影响’这一宏大主题连接，否则个人温情故事与冷峻的理论分析难以自然衔接。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "Philip Glass",
+      "极简主义",
+      "地铁 1 号线"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "完美匹配。Pair A 阐述了 Philip Glass 极简主义与建筑立面的理论联系，Pair B 描述了在地铁 1 号线实际聆听 Philip Glass 来辅助思考方案的具体行为。理论与实战、静态概念与动态场景完全互补。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "形成了‘幕后艰辛’与‘台前荣耀’的对比叙事。Pair A 是赶图焦虑时躲进书房弹巴赫自救（私密、压力），Pair B 是毕业展上自信演奏获得认可（公开、成就）。对话可从‘如何度过艰难时刻’自然过渡到‘那些时刻换来的高光瞬间’。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都是关于‘听音乐的生活片段’，但基调截然不同。Pair A 是夜晚、酒精、黑胶、社交（感性/放松），Pair B 是清晨、早餐、广播、工作准备（理性/秩序）。可作为‘一天中不同时刻的音乐状态’进行对比讨论，但直接连贯性一般。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "通过‘音乐对行为/思维的影响’这一核心主题连接。前者是古典音乐练习前的仪式感（哈农热身），后者是摇滚乐现场观察带来的设计灵感。虽然场景（书房 vs Livehouse）和音乐类型截然不同，但都体现了主角作为建筑师/音乐人，从不同音乐形态中汲取职业养分的共同逻辑。"
+  },
+  {
+    "pair_a_id": "multihop_08",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的概念映射关系。前者提到从‘人群流动’和‘低音震动’获取公共空间设计灵感，后者直接对应 Philip Glass 的‘极简主义’与‘重复性’在现代建筑立面中的应用。这是从‘动态/感官体验’到‘静态/结构美学’的深度跨学科联想，符合建筑师将音乐逻辑转化为空间逻辑的思维路径。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱。前者是深沉的家庭情感记忆（母亲买钢琴），强调坚持与气质；后者是具体的都市生活场景（地铁、City Pop、黑胶），偏向休闲与氛围。除非强行解释为‘音乐伴随人生的不同阶段’，否则在语义和情境上缺乏自然的过渡或深层逻辑联系。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "德彪西",
+      "建筑与音乐融合"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "完美的因果与升华关系。前者是张教授指出主角‘像建筑师一样追求精准’而缺乏情感的问题；后者是主角在毕业展上成功解决这一问题，实现了‘建筑与音乐完美融合’的高光时刻。从‘被批评的缺陷’到‘被验证的成就’，构成了完整的人物成长弧光。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘音乐源头’进行弱连接。前者追溯古典音乐的初心（母亲买的星海钢琴），后者探索现代音乐对设计的启发（Livehouse）。两者展示了主角音乐涉猎的广度（从传统家庭熏陶到现代现场体验），但在具体话题上跳跃较大，缺乏直接的逻辑推导。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "MAO Livehouse"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "通过‘音乐作为空间氛围调节器’的功能性连接。前者在 Livehouse 感受音乐的能量释放，后者在会议室利用音乐（坂本龙一）营造谈判氛围。两者都体现了主角主动利用音乐特性来干预和优化物理/社交空间的行为模式。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘音乐的情感深度与应用’连接。前者是对中国传统悲剧美学（二泉映月）的理解，后者是将现代极简音乐（Async）应用于商务场景。虽然都是关于音乐理解，但一个是内在的文化感悟，一个是外在的工具化应用，语境跨度较大。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "坂本龙一",
+      "书房"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度一致的行为模式对比。两者都是主角利用音乐进行自我调节的仪式：前者是用音乐‘向外’营造会议氛围（进攻/展示），后者是用音乐‘向内’平复焦虑恢复秩序（防守/自愈）。共同构建了主角‘音乐即生活/工作调控手段’的完整画像。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "钢琴",
+      "巴赫",
+      "秩序感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "核心哲学的高度共鸣。前者描述古典和声与现代噪音碰撞产生的‘建筑空间感’，后者直接将巴赫《平均律》比作‘哥特式教堂’并强调‘秩序美感’。两者都深刻揭示了主角作为建筑师，如何在音乐的数学逻辑与建筑的结构逻辑之间找到同构性。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "德彪西",
+      "林子豪",
+      "钢琴"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "人物与活动的自然延伸。前者是主角独自练习德彪西的严谨时刻，后者涉及表弟林子豪及即兴演奏。这暗示了从‘独自苦练古典技巧’到‘与表弟合作即兴碰撞’的场景转换，展现了主角音乐生活的两个侧面：自律的传承与自由的创新。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均涉及音乐场景（摇滚/独立乐队）与空间感，但缺乏具体人物或事件的直接连接，属于同一主题下的平行概念，对话衔接略显生硬。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "通过'通感'与'感官体验'形成强关联：前者描述低频震动带来的物理敬畏（听觉转触觉），后者描述光影与音乐的视觉听觉重叠（视听通感），逻辑上是从'强烈冲击'到'静谧观察'的自然情绪流转。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及用音乐（巴赫/肖邦/二胡）调节情绪或表达旋律，但 Pair_a 侧重西方古典的严谨结构，Pair_b 侧重东方线性旋律，关联点在于'音乐作为精神支柱'，但风格跨度较大。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从'热闹中的碰撞（电吉他 + 钢琴）'过渡到'孤独中的共鸣（电子音效 + 白噪音）'，两者都探讨了非传统音乐形式（噪音/电子）如何构建独特的空间美感，情感逻辑连贯。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "巴赫",
+      "《平均律》",
+      "书房"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "实体高度重叠（巴赫、平均律、书房）。Pair_a 是日常仪式，Pair_b 是危机应对，两者共同构建了主角利用同一音乐资源在不同时间维度维持心理平衡的完整画像，衔接极其自然。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "久石让",
+      "《Summer》",
+      "怀旧",
+      "杭州少年宫"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "实体与情感完全重合。Pair_a 是情感触发（想念爷爷听 Summer），Pair_b 是该情感的具体背景事实（少年宫经历、证书），后者是对前者记忆来源的直接补充和确认。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "完美的'工作流'衔接：Pair_a 阐述设计理念（极简主义像 Philip Glass），Pair_b 描述进入该设计状态前的准备（听德彪西进入心流）。从'理论类比'自然过渡到'实践操作'。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "Philip Glass"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "通过'Philip Glass'和'音乐场景'连接。从'私密空间的放松分享（出租屋喝酒听黑胶）'切换到'公共空间的自我调节（地铁听极简主义降噪）'，展现了音乐在不同生活切片中的功能。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "苏苏"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.75,
+    "association_path": "通过人物'苏苏'连接。Pair_a 是深层的文化/家族记忆（爷爷与二泉映月），Pair_b 是当下的行为模式（与苏苏淘唱片并记录灵感）。虽然实体重叠少，但体现了从'历史传承'到'当代素材积累'的人物成长线索。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱。Pair_a 聚焦于中国传统悲剧美学和二胡，Pair_b 聚焦于现代通勤场景和西方极简/City Pop。除非强行解释为'内心深沉与外表忙碌的反差'，否则语义跳跃过大，缺乏自然过渡。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者共享‘建筑师/设计师’的人物画像。Pair A 描述通过演奏巴赫来缓解工作焦虑（输出/内化），Pair B 描述通过逛唱片店收集灵感（输入/外化）。虽然实体无重叠，但行为逻辑互补，共同构建了该人物在压力管理与灵感获取上的完整生活图景。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均涉及‘音乐与情感/状态’的互动，但方向相反。Pair A 是古典乐学习中的挫折感（被批评情感不足），Pair B 是现代电子乐中的孤独共鸣（接纳孤独）。实体无重叠，主题虽有对比性但缺乏直接的叙事连贯性，属于同一人物不同侧面的并列展示。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "极强的语义关联。Pair A 提到‘赶图’压力和‘古典乐’争论，Pair B 直接详细描述了‘赶图焦虑’时如何通过‘巴赫’和'Philip Glass'（古典/极简）来冷静。两者在情境（工作压力）、冲突（古典 vs 摇滚）和解决方案上高度互文，形成了完美的因果或对照关系。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "entity_04",
+    "shared_entities": [
+      "张教授"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "实体‘张教授’直接重叠。Pair A 展示主角用巴赫的‘严谨结构’自我镇定，Pair B 借张教授之口批评主角弹德彪西时‘太像建筑师追求结构精准’。这两段对话构成了深刻的人物性格冲突与统一：主角试图用结构对抗焦虑，却被导师指出结构感阻碍了印象派音乐的情感表达，叙事张力极强。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "entity_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "虽无直接实体重叠（Pair A 提及苏苏/黑胶，Pair B 提及巴赫/建筑），但核心概念‘建筑与音乐的通感’高度一致。Pair A 是去唱片店寻找‘建筑方案的环境音乐灵感’，Pair B 是将《平均律》比作‘哥特式教堂’并作为‘镇定剂’。两者共同强化了主角作为‘建筑师音乐家’的独特认知模式。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.2,
+    "association_path": "几乎无关联。Pair A 关于杭州唱片店与建筑灵感，Pair B 涉及纺织厂、陈秀英及毕业展，属于完全不同的叙事线索或人物背景，缺乏逻辑连接点。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "MAO Livehouse",
+      "独立乐队"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "完美匹配。Pair A 描述去 MAO Livehouse 感受‘低音震动’和‘释放压力’，Pair B 详细描绘了在同一地点（MAO Livehouse）面对同一对象（独立乐队）时，对‘低音/鼓点’撞击胸口的‘敬畏’感。Pair B 是对 Pair A 中感官体验的深度展开和情感升华。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "肖邦《夜曲》"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "仅有微弱的实体联系（肖邦《夜曲》）。Pair A 是晨间习惯与理性秩序的建立，Pair B 涉及林建国、二胡与东方旋律的讨论。除非有隐含的多跳逻辑（如对比东西方旋律），否则表面看两者语境割裂，连贯性较低。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.6,
+    "association_path": "结构上的平行对照。两者都是‘负面情绪/高压场景’（赶图焦虑 vs 通勤拥挤）通过‘特定音乐类型’（巴赫/极简主义 vs City Pop）转化为‘正面状态’（冷静 vs 放松）的过程。虽然实体不同，但功能逻辑完全一致，适合作为并列案例展示人物的情绪调节机制。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "entity_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.7,
+    "association_path": "概念上的互补。Pair A 提及德彪西《水中倒影》带来的‘通感’对设计有帮助，Pair B 提及 Philip Glass 的‘极简重复’对应建筑立面设计。两者分别代表了印象派（流动/光影）与极简主义（结构/重复）两种不同的音乐流派如何映射到建筑设计思维中，共同丰富了人物的专业视角。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "建筑",
+      "音乐创作",
+      "心流/灵感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者共同构建了‘音乐与建筑通感’的核心叙事。Pair A 描述用德彪西音乐进入建筑绘图的心流，Pair B 描述用钢琴即兴捕捉建筑灵感。虽然具体实体（德彪西 vs 即兴和弦）不同，但‘音乐辅助建筑设计’的逻辑链条高度一致，对话连贯性极强。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "苏苏",
+      "黑胶唱片"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.25,
+    "association_path": "实体重叠度高（苏苏、黑胶）。Pair A 是去唱片店淘黑胶，Pair B 涉及苏苏和黑胶的多跳联想。两者处于同一生活场景（音乐收藏与分享），逻辑自然，适合承接关于‘苏苏的音乐品味’或‘黑胶收藏’的话题。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "音乐与建筑的类比",
+      "印象派/极简主义美学"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "虽然实体无直接重叠（Philip Glass vs 德彪西），但语义内核高度一致：都在探讨音乐结构（极简重复 vs 印象派光影）如何映射到建筑空间设计。这是深层的概念共鸣，适合作为深度对谈的上下句。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "钢琴",
+      "专业音乐交流"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及钢琴和专业音乐场景，但情感基调差异较大。Pair A 是古典钢琴学习的挫折感（挨骂），Pair B 是现代建筑声学合作的愉悦感。关联点在于‘钢琴作为专业工具’，但话题转换略显生硬。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "音乐回忆",
+      "怀旧氛围"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "Pair A 是极度私人的亲情怀旧（爷爷、二胡、久石让），Pair B 是朋友间的社交娱乐（苏苏、喝酒、八卦）。虽然都涉及音乐，但情感颗粒度完全不同，从深沉的亲情回忆突然转到轻松的酒局八卦，连贯度较低。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "音乐作为情绪调节"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "实体无重叠。Pair A 是古典钢琴课的压力，Pair B 是通勤听 City Pop 的放松。两者仅在‘音乐影响情绪’这一抽象层面有关联，具体场景（教室 vs 地铁）和音乐类型（肖邦 vs City Pop）跨度太大，对话难以自然衔接。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "钢琴",
+      "音乐对空间/气质的影响"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "都提到了钢琴和音乐的功能性。Pair A 侧重家庭传承和个人成长（星海钢琴），Pair B 侧重商务场景的氛围营造（坂本龙一）。可以从‘钢琴对我的意义’延伸到‘我如何用音乐影响他人/环境’，关联度中等。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "音乐现场/练习",
+      "声音的物理感受"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair A 是安静的琴房独奏练习（德彪西），Pair B 是嘈杂的 Livehouse 现场体验（独立乐队）。两者在环境、音乐类型和体验方式上几乎对立，除非进行强烈的对比讨论，否则直接关联度很低。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "音乐体验",
+      "放松/敬畏"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair A 是对外部强烈声场的敬畏（Livehouse），Pair B 是内部私密空间的放松（出租屋听黑胶）。虽然都是音乐体验，但一个是动态的、物理冲击的，一个是静态的、知识分享的，场景割裂感强。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "time_11",
+    "shared_entities": [
+      "建筑灵感",
+      "音乐素材收集"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "逻辑闭环完美。Pair A 是‘输入’阶段（去唱片店找建筑灵感），Pair B 是‘输出/转化’阶段（将灵感转化为即兴演奏并录音）。两者共同描述了‘从音乐汲取建筑灵感’的完整工作流，连贯性极高。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均涉及音乐对建筑/设计的启发（通感 vs 极简主义立面），但缺乏具体人物或场景的直接交集，连接较为抽象。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘极简主义音乐’（坂本龙一）与‘怀旧旋律’（久石让）在情感氛围上的共鸣连接，虽无实体重叠，但同属音乐引发的情感/设计思考维度。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "从‘寻找环境音乐灵感’到具体的'Philip Glass 极简主义’，存在逻辑上的供需关系，但缺乏上下文直接衔接。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "阿杰"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "强关联：Pair A 明确提到搭档‘阿杰’及其合作项目，Pair B 的实体列表中也包含‘阿杰’，且两者都探讨音乐体验如何转化为空间设计灵感，人物与主题高度重合。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "阿杰"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "Pair A 讲述向张教授回课受挫，Pair B 涉及‘阿杰’与录音/即兴创作。若阿杰是同伴，可形成‘受挫后找阿杰录制小样’的连贯叙事，实体‘阿杰’是关键桥梁。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "Pair A 提及 Philip Glass 和极简主义，Pair B 提及德彪西和西湖。虽同属音乐调节情绪/灵感，但风格（极简 vs 印象派）和场景（地铁 vs 西湖）差异较大，连接较弱。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "苏苏",
+      "黑胶唱片"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "极强关联：Pair A 提到去唱片店像‘苏苏’那样淘‘黑胶’，Pair B 直接描述与‘苏苏’一起听‘黑胶’的场景。人物、物品、行为完全闭环，叙事自然流畅。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "Pair A 是通勤时的音乐切换，Pair B 是怀旧记忆。虽都涉及音乐与心境，但缺乏具体实体或情境的直接咬合，属于弱语义关联。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "Pair A 讲述母亲买的钢琴与琴路基石，Pair B 涉及少年宫练琴与怀旧。‘少年宫’与‘琴路成长’在时间线和情感逻辑上高度契合，可构建‘从拥有钢琴到少年宫练琴’的成长叙事。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "Pair A 是怀念爷爷与久石让，Pair B 是张教授与德彪西。两者都是音乐引发的深层情感/通感体验，但人物和具体曲目无交集，仅停留在‘音乐 - 情感’的抽象层面关联。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "音乐",
+      "摇滚乐/独立乐队",
+      "现场体验"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "从私人合奏的和谐感动自然过渡到 Livehouse 现场的原始震撼，两者共同构建了主角对‘音乐能量’不同维度的完整认知（室内协作 vs 现场冲击），情感逻辑连贯且层层递进。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "钢琴",
+      "建筑灵感",
+      "即兴创作"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的因果与行为闭环：Pair A 描述了钢琴与建筑空间感的碰撞实验，Pair B 紧接着描述当建筑灵感迸发时，主角如何通过钢琴即兴来捕捉这种节奏。这是‘灵感触发行为’与‘行为验证灵感’的完美互文。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "钢琴",
+      "古典音乐家 (肖邦/拉赫玛尼诺夫 vs 德彪西)",
+      "情绪调节"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者都涉及钢琴和古典乐，但情感基调截然相反：Pair A 是宣泄悲伤的被动聆听，Pair B 是严谨自律的主动练习。虽然场景相关，但在对话流中从‘崩溃大哭’直接跳到‘强迫症练琴’略显突兀，缺乏情绪缓冲。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "音乐",
+      "钢琴"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱。Pair A 聚焦于摇滚与古典融合的创新实验及建筑感，Pair B 聚焦于遭遇挫折后的传统古典乐疗愈。两者的音乐风格（噪音/失真 vs 夜曲/慢板）和情感状态（探索/兴奋 vs 失落/悲伤）存在较大断层。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "音乐",
+      "空间氛围"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.8,
+    "association_path": "关联断裂。Pair A 描述的是私密的个人书房声场，Pair B 突然跳跃到公司会议室和特定人物阿杰。除非有明确的上下文说明主角带着设备去会议室，否则从‘私密避难所’到‘公共办公区’的转换缺乏逻辑桥梁。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "古典音乐",
+      "负面情绪应对",
+      "独处"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "高度一致的情感应对机制。Pair A 是用巴赫的理性结构对抗‘焦虑’，Pair B 是用浪漫派的宏大忧郁接纳‘失落’。两者共同勾勒出主角利用不同风格的古典音乐来处理不同职业压力的完整心理画像，对话连贯性极佳。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "音乐",
+      "感官体验"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.3,
+    "association_path": "场景与状态割裂。Pair A 是夜晚 Livehouse 的激烈、原始、身体化的震撼；Pair B 是清晨早餐时的理性、秩序、背景化的输入。虽然都是音乐场景，但从‘极度亢奋’直接切换到‘晨间 routine'缺乏过渡，像是两个不相关的片段。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "音乐记忆",
+      "成长经历",
+      "情感深度"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "通过‘音乐与记忆’的主题连接。Pair A 是爷爷讲述的苦难美学（二泉映月），Pair B 是少年宫的怀旧记忆（久石让）。虽然实体无重叠，但情感脉络从‘家族传承的悲剧感’自然延伸到‘个人成长的怀旧感’，构成了主角音乐情感深度的两个来源。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "杭州",
+      "音乐历程",
+      "母女/家庭背景"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.4,
+    "association_path": "地理与人生轨迹的完美衔接。Pair A 提到‘杭州少年宫’和证书是过去的证明，Pair B 紧接着描述现在‘钻进杭州巷子’的唱片店淘货。从‘过去的成就’到‘现在的灵感汲取’，地点（杭州）和行为（音乐探索）形成了流畅的时间线性叙事。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "极简主义音乐",
+      "孤独/疏离感",
+      "建筑美学"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "深层的美学共鸣。Pair A 中坂本龙一的《Async》带来了对孤独空间美感的认知，Pair B 立即联想到 Philip Glass 的极简主义与现代建筑立面的重复性。两者在‘音乐结构’与‘建筑空间’的同构关系上达到了高度统一，是专业视角的深度对话。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "建筑",
+      "音乐结构",
+      "秩序感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "两者均通过‘建筑师’视角，将不同风格的音乐（巴赫的复调 vs Philip Glass 的极简）映射到建筑设计理念（哥特式结构 vs 现代立面重复），在‘音乐与建筑的同构性’这一核心主题上高度共鸣，逻辑极其顺畅。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "建筑工作",
+      "听觉背景",
+      "秩序/专注"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者都描述了利用音乐（德彪西 vs BBC Radio 3）作为进入建筑工作状态的心理开关。虽然具体曲目和场景不同（深度心流 vs 晨间仪式），但‘音乐辅助建筑思维’的功能性逻辑一致，对话衔接自然。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "Pair A 讲述母亲买钢琴的励志故事，Pair B 仅列出实体（林建国、二胡等）而无自然语言表达。缺乏上下文语境，无法建立有效的情感或逻辑连接，关联极弱。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "音乐欣赏",
+      "社交互动"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及与特定人物（苏苏 vs 阿杰）共同体验音乐的场景。前者是私人放松的黑胶时光，后者是专业合作的声学探讨。虽都有‘人 + 音乐’元素，但情感基调（休闲 vs 工作）差异较大，连贯性中等。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "entity_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair A 描述晨间听广播的习惯，Pair B 讲述家族钢琴的历史。虽然可能属于同一人物的生活片段，但话题跨度大（日常习惯 vs 家族记忆），缺乏直接的语义触发点，对话转换略显生硬。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_09",
+    "shared_entities": [
+      "音乐学习",
+      "家庭关系"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及音乐成长经历。Pair A 是与表弟的现代音乐碰撞，Pair B 是与母亲的证书回忆。虽然都围绕‘音乐与亲人’，但一个是横向的同辈创新，一个是纵向的代际传承，话题焦点不完全重合。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "阿杰",
+      "坂本龙一《Async》"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.75,
+    "association_path": "尽管 Pair B 的实体列表中包含 Pair A 未提及的‘阿杰’和‘坂本龙一’（实际上 Pair A 是德彪西），但 Pair B 缺乏自然语言表达，导致无法形成完整的语义链条。实体重叠度低且无上下文支撑，关联断裂。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "通感",
+      "音乐与视觉/建筑的映射"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "两者都深刻探讨了‘通感’体验。Pair A 从听觉（肖邦/二胡）联想到线性旋律美，Pair B 从视听重叠（德彪西/西湖）领悟光影与建筑空间。虽然音乐家不同，但‘跨感官艺术通感’的核心认知高度一致，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "Pair A 表达失落时听古典乐宣泄情感，Pair B 仅为无内容的实体列表（阿杰、坂本龙一等）。两者在情感基调、人物、音乐类型上均无直接交集，且 Pair B 缺失语境，完全无法连贯。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "练琴",
+      "德彪西",
+      "坚持/严谨"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者紧密围绕‘钢琴练习’与‘精神力量’。Pair A 提及母亲买的钢琴带来的坚持动力，Pair B 描述具体的练琴仪式（哈农 + 德彪西）及对教诲的尊重。从‘动机’到‘行动’，构成了完整的人物行为逻辑闭环，关联度极高。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "德彪西",
+      "《月光》",
+      "肖邦",
+      "《夜曲》",
+      "音乐调节情绪"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者均描述利用古典音乐（肖邦/德彪西）调节工作状态或情绪的场景。虽然具体曲目和情感方向（宣泄忧郁 vs 进入心流）不同，但‘音乐作为建筑/工作辅助工具’的核心逻辑高度一致，对话转换自然流畅。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "钢琴",
+      "即兴演奏",
+      "音乐与建筑的通感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从‘独自深夜即兴录音’自然过渡到‘与他人合作即兴碰撞’。两者都强调了钢琴即兴演奏产生的‘建筑空间感’，体现了主角将音乐灵感转化为建筑构思的一贯思维模式。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "音乐与记忆/成就的关联",
+      "个人职业生涯节点"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从‘私人的怀旧情感（爷爷/童年）’延伸到‘公开的职业成就（毕业展/融合）’。虽然具体音乐人和曲目不同，但核心都是‘音乐赋予建筑/人生特殊意义’，构成了主角情感世界的完整拼图。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "entity_01",
+    "shared_entities": [
+      "德彪西",
+      "《月光》",
+      "肖邦",
+      "《夜曲》",
+      "林建国",
+      "二胡"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极高关联。Pair A 提到练《月光》时老师的评价，Pair B 紧接着深化对《月光》及《夜曲》的理解，并引入爷爷拉二胡的对比视角。这是从‘技巧练习’到‘艺术感悟’的完美递进，实体和逻辑紧密咬合。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "钢琴",
+      "即兴演奏",
+      "林子豪",
+      "电吉他"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.5,
+    "association_path": "从‘严谨的古典独奏习惯’转折到‘与表弟的跨界即兴合作’。虽然行为模式反差大（死磕哈农 vs 摇滚碰撞），但通过‘钢琴’和‘即兴’连接，展现了主角音乐生活的两面性。因 Pair B 缺乏具体自然表达文本，连贯度略受影响。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_07",
+    "shared_entities": [
+      "音乐营造氛围",
+      "个人情感投射"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及用音乐控制场景氛围（会议室 vs 内心记忆），但音乐人（坂本龙一 vs 久石让）和功能（商务辅助 vs 亲情怀念）完全不同。关联主要建立在‘主角习惯用音乐作为媒介’这一抽象行为模式上，实体无重叠。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "音乐作为背景/仪式",
+      "工作场景准备"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "从‘晨间广播背景音’的日常仪式，自然延伸到‘会议前精心挑选音乐’的专业仪式。两者共同构建了主角‘音乐伴随工作全流程’的行为特征，逻辑连贯，体现了音乐在主角生活中的不同颗粒度应用。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "书房",
+      "钢琴",
+      "应对压力/灵感的方式"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "场景高度重合（深夜书房）。Pair A 是灵感迸发时的‘创造性宣泄’（不协和和弦），Pair B 是焦虑爆棚时的‘结构性安抚’（巴赫/Philip Glass）。两者互为补充，完整展示了主角在书房通过钢琴处理极端心理状态的机制。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "德彪西",
+      "《月光》",
+      "钢琴",
+      "建筑设计过程"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "从‘独自听德彪西进入绘图心流’进化到‘与他人协作时亲自弹奏供采样’。两者都紧扣‘音乐直接服务于建筑设计’这一主题，展示了从个人内化到外部协作的深化过程，实体（德彪西/钢琴/设计）高度共享。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "硕士毕业展",
+      "林建国 (间接)"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联极弱。Pair A 聚焦于对爷爷的私密怀念和久石让的音乐；Pair B 仅通过‘硕士毕业展’这一事件节点产生微弱联系，且涉及纺织厂、陈秀英等完全无关实体。缺乏语义上的自然流动，像是两个断裂的故事片段。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "建筑与音乐融合",
+      "通感体验"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "从‘西湖边聆听德彪西产生的通感理论认知’自然过渡到‘毕业展上亲自实践建筑与音乐融合的成就感’，构成了从理论感悟到职业实践的完美闭环，逻辑极其顺畅。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "孤独/焦虑情绪",
+      "音乐作为空间隐喻"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "虽然都涉及音乐与情绪/建筑的关联，但 Pair_b 缺乏具体自然语言表达，且从坂本龙一的‘孤独美学’跳跃到巴赫的‘焦虑与结构’，中间缺乏具体的情境衔接，连贯性较弱。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "MAO Livehouse",
+      "林子豪",
+      "独立乐队",
+      "低音震动",
+      "站在前排"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "Pair_b 几乎是 Pair_a 的完整扩写和深化，不仅包含了所有实体，还补充了行为背后的设计动机，两者在叙事上完全重合且递进，关联度极高。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "音乐创作/欣赏"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "Pair_a 讲述苏苏与黑胶/City Pop，Pair_b 涉及阿杰与即兴录音，人物、场景、音乐类型均无交集，缺乏明显的逻辑桥梁，关联性极弱。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "音乐经历"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair_a 聚焦古典音乐教育背景与母女亲情，Pair_b 聚焦摇滚现场的身体震撼，虽然都是音乐体验，但风格（古典 vs 摇滚）和情感基调（温情骄傲 vs 原始敬畏）反差巨大，缺乏自然过渡。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "音乐启发建筑设计",
+      "观察行为"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "展示了主角两种截然不同的‘采风’模式：静态的西湖印象派光影捕捉与动态的 Livehouse 人群流动观察，共同构建了其‘从音乐中汲取建筑灵感’的行为画像，逻辑互补。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "建筑图纸/设计",
+      "理性秩序感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从‘Philip Glass 极简主义与建筑立面的理论类比’延伸到‘日常晨间通过广播与图纸建立秩序感的习惯’，体现了主角将音乐逻辑内化为建筑设计思维的一致性。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "德彪西",
+      "日常惯例",
+      "专业严谨性"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "描绘了主角一天中两个不同时段的专业习惯：早晨的建筑/广播理性启动，与晚上的钢琴/德彪西感性严谨训练，共同塑造了一个自律且跨界的艺术家形象。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "entity_09",
+    "shared_entities": [
+      "苏苏 vs 陈秀英 (人物对比)",
+      "音乐陪伴"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘现在与苏苏的轻松黑胶时光’对比‘过去与母亲陈秀英的奋斗考证岁月’，虽无实体重叠，但在情感维度上形成了‘音乐陪伴成长’的今昔对照，具有一定的叙事张力。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "苏苏",
+      "黑胶唱片",
+      "City Pop",
+      "极简主义",
+      "音乐与空间联想"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "Pair_a 提到在地铁听苏苏推荐的 City Pop 和 Philip Glass，Pair_b 紧接着描述去唱片店淘苏苏推荐的黑胶并记录这些音乐对应的空间场景，从‘消费/聆听’到‘主动搜集/转化’，逻辑紧密相连。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "从‘个人对音乐结构的理性审美（巴赫/建筑）’自然过渡到‘社交场景中的音乐知识分享’，虽然实体无重叠，但‘音乐作为核心媒介’和‘知识型欣赏’的内在逻辑高度一致，构成了从内省到外放的合理对话流。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "两者均涉及‘声音对身心的物理/心理影响’（通感 vs 震动），但场景反差极大（西湖静谧 vs Livehouse 躁动），情感基调从‘灵感汲取’突转为‘原始敬畏’，关联度中等，适合用于对比讨论不同音乐体验的维度。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "极佳的‘情绪调节’对照：前者用严谨的古典乐（巴赫）对抗焦虑，后者用轻快的都市乐（City Pop）化解通勤压力。虽然音乐风格迥异，但‘音乐作为精神避难所’的功能性完全一致，对话连贯性极强。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "通过‘古典音乐’这一共同实体（BBC Radio 3 常播古典 vs 肖邦/拉赫玛尼诺夫）连接。从‘日常仪式的背景音’到‘情绪崩溃时的深度沉浸’，展现了同一类音乐在不同心境下的不同用法，逻辑顺畅。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "连接点在于‘音乐与职业/人生的基石作用’。前者是物质实体（旧钢琴）承载母爱与坚持，后者是抽象实体（巴赫作品）提供秩序与镇定。话题可从‘具体的乐器记忆’跳跃至‘抽象的音乐哲学’，关联度尚可。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "陈秀英",
+      "星海牌立式钢琴"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "完美关联。两者共享核心人物‘陈秀英’和关键物品‘星海钢琴’。情感逻辑从‘遭遇挫折时的悲伤宣泄’自然升华为‘回忆母亲带来的坚定力量’，构成了完整的‘脆弱 - 治愈 - 重生’的情感闭环。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "entity_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.75,
+    "association_path": "通过‘音乐与建筑/人生的秩序感’进行隐性连接。前者将巴赫比作建筑，后者用证书见证坚持。对话可从‘对音乐结构的宏观比喻’平滑过渡到‘个人音乐历程的微观见证’，体现音乐对人生的塑造。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱。前者是私密的晨间古典乐仪式，后者（基于实体推断）涉及公共空间的摇滚/低频体验及设计思考。虽然都涉及‘声音与环境’，但场景、风格和目的差异过大，缺乏自然的对话衔接点。"
+  },
+  {
+    "pair_a_id": "behavior_09",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "连接点在于‘音乐与空间氛围的互动’。前者是在出租屋通过黑胶营造私密分享空间，后者（推断）是在会议室利用坂本龙一音乐调整商务空间氛围。从‘生活化’到‘职业化’的场景转换具有一定的逻辑合理性。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "坂本龙一",
+      "《Async》"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "强关联。两者直接共享‘坂本龙一《Async》’这一核心实体。前者描述该音乐在‘自家书房’作为灵感避难所，后者描述该音乐在‘深夜办公室’陪伴孤独。场景从私密居家延伸至职业加班，情感从‘灵感共振’深化为‘孤独美学’，逻辑严密且动人。"
+  }
+]

@@ -1,0 +1,3158 @@
+[
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "跑步训练",
+      "配速/成绩关注"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.25,
+    "association_path": "从日常 LSD 拉练的行为（pair_a）自然过渡到打破 PB 后的成就感与社交分享（pair_b），体现了训练过程与结果的因果逻辑，且均围绕跑步这一核心主题。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "程序员身份",
+      "秩序感/掌控感",
+      "压力应对"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均描绘了程序员如何利用运动（HIIT vs 力量训练）来调节工作状态或获得心理满足，前者是‘清空’，后者是‘秩序’，共同构建了职业身份下的运动心理画像。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "运动装备",
+      "训练心态"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.5,
+    "association_path": "pair_a 强调跑步的身份认同与无畏向前，pair_b 强调力量训练受伤后的谨慎与安全确认。虽然都是运动，但情感基调（激进 vs 保守）和项目领域（跑 vs 举）差异较大，关联性弱。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "训练后恢复/仪式",
+      "数据/补剂依赖"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 3.5,
+    "association_path": "两者分别描述了力量训练和跑步训练结束后的标志性行为（喝蛋白粉 vs 同步数据），共同展现了高度自律、科学化的训练闭环习惯，场景互补性强。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "陈宇",
+      "滨江跑道",
+      "LSD",
+      "周六欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "pair_b 明确提到了 pair_a 中的‘周六欺骗餐’作为一周艰苦训练（包括 pair_b 中描述的周二 LSD）的奖励。两者在时间线、人物和事件逻辑上紧密咬合，构成完整的叙事链条。"
+  },
+  {
+    "pair_a_id": "multihop_03",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "陈宇",
+      "滨江跑道",
+      "自律精神",
+      "跑步身份"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "pair_a 讲述同伴压力带来的自律延伸至工作，pair_b 讲述身份认同带来的复健坚持。两者共享‘跑步塑造品格’的主题，且都涉及具体的跑步场景（滨江/晨跑），精神内核一致。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "伤病恢复理念",
+      "训练闭环"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "pair_a 强调因伤停训后‘恢复比训练重要’的认知转变，pair_b 展示了一个包含唤醒、训练、放松的完美闭环。前者是理论认知，后者是实践流程，存在隐含的逻辑支撑关系，但直接实体重叠少。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "压力释放",
+      "自我调节"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.25,
+    "association_path": "两者都是应对压力的方式：一个是通过 HIIT 清空大脑（苦行），一个是通过欺骗餐获得满足（奖励）。虽然都是调节机制，但一个是过程性的痛苦换取清醒，一个是结果性的享受，关联度中等。"
+  },
+  {
+    "pair_a_id": "multihop_02",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "Nike Vaporfly 3",
+      "欺骗餐",
+      "量化思维",
+      "工程师背景"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.25,
+    "association_path": "pair_a 提到了具体的装备策略和欺骗餐，pair_b 则从工程师视角解释了这种策略背后的量化思维（将饮食和训练视为算法）。pair_b 完美解释了 pair_a 行为背后的思维模式，且共享关键实体。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "马拉松奖牌/PB",
+      "家庭支持 vs 社交认同"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "pair_a 描述家人对‘奖牌’（成绩）的反应，pair_b 描述跑友对'PB'（成绩）的社交反馈。两者都是关于‘取得成绩后的外部反馈’，只是反馈源不同（家庭 vs 社群），构成了成绩意义的完整拼图。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均描述跑步训练场景中的专业装备使用（跑鞋 vs 耳机），虽无实体重叠，但在‘专注训练’和‘提升表现’的语境下高度相关，可构成跑者装备讨论的自然对话流。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都涉及通过跑步调节心理状态（解压 vs 克服懒惰），但触发机制不同（个人焦虑 vs 同伴压力），场景关联度中等，属于跑者心理层面的不同侧面。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度关联。Pair A 提到程序员用 Excel 记录训练数据获得的秩序感，Pair B 明确将‘对待代码架构的严谨’与‘跑鞋轮换纪律’类比，且都涉及 Strava/数据记录，完美契合‘程序员跑者’的双重身份逻辑。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱。虽然都涉及‘食物’和‘满足感/安全感’，但 Pair A 是自律后的自我奖励（欺骗餐），Pair B 是家庭亲情支持，情感来源和语境差异较大，难以形成连贯对话。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "2021 杭州马拉松",
+      "跑者身份"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "极强关联。Pair B 直接回忆并呼应了 Pair A 中提到的'2021 首马’这一转折点，实体‘跑者身份’完全重合，构成了从事件陈述到情感升华的完整叙事链条。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.1,
+    "association_path": "关联微弱。Pair A 讲述跑步时的同伴激励，Pair B 讲述营养补剂的习惯，虽同属运动范畴，但缺乏直接的逻辑或场景衔接，对话跳跃感强。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_05",
+    "shared_entities": [
+      "力量训练"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "中等关联。Pair A 描述常规力量训练地点，Pair B 描述因伤停止大重量训练的经历。两者在‘力量训练’实体上有交集，可形成‘训练习惯 vs 伤病教训’的对比讨论。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "较强关联。两者都使用了‘程序员’隐喻（Excel 逻辑 vs 代码依赖库）来描述运动管理，体现了相同的思维模式，适合在探讨‘极客运动法’时连续出现。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "一般关联。Pair A 是晨间启动 routine，Pair B 是压力下的应急反应。两者都是利用身体活动调节工作状态，但时间点和目的不同，属于生活方式的不同切片。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "HIIT 训练"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "中等关联。Pair A 提到用 HIIT 解压，Pair B 提到长距离拉练后的欺骗餐。虽然都涉及训练与心理补偿，但训练类型不同（HIIT vs LSD），逻辑衔接需额外解释。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "清晨 6:30",
+      "高效工作/训练状态"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "时间锚点一致（清晨 6:30），从晨跑场景自然过渡到晨间唤醒与全天精力管理的闭环描述，逻辑连贯。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "Excel 负荷曲线",
+      "量化思维/数据分析"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "核心实体'Excel 负荷曲线’完全重合，且两者均强调工程师背景下的数据驱动训练理念（交叉分析 vs 算法思维），关联极强。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "压力应对/训练场景"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "虽同属训练话题，但前者侧重力量训练的保护协作，后者侧重代码压力下的有氧宣泄，实体无交集，语境跳跃较大。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "饮食管理",
+      "训练后恢复"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "共同构建‘严格饮食 + 高强度训练’的人设，从日常便当约束自然延伸到训练后蛋白粉补充的恢复策略。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "LSD 训练",
+      "预防受伤"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "典型的‘训练执行 - 训后恢复’因果链条，LSD 拉练后紧接着进行筋膜枪放松以防旧伤复发，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "成就感",
+      "家庭/伙伴支持"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "情感维度共鸣，分别来自家庭（父亲）和伙伴（王强）的正向反馈，虽实体不同但情绪基调一致（自豪与兴奋）。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "自律",
+      "掌控感/满足感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "从晨间的生理掌控感（咖啡/激活）延伸到长期的饮食自律与心理满足（欺骗餐机制），体现整体生活哲学的统一。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "王强",
+      "父亲林建国",
+      "支持体系"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "实体高度重叠（王强、父亲），构建了从‘被保护’到‘反哺家人’的完整叙事闭环，展现了角色成长的多维支撑。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "对伤病的恐惧/预防",
+      "自律"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "由对旧伤（ITBS）的心理阴影引出对作息和训练细节的极致自律，体现了‘恐惧驱动行为’的心理逻辑。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "周六长距离拉练",
+      "欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "核心事件（周六 LSD 后吃欺骗餐）与心理机制（先苦后甜/无负罪感）完全对应，是对同一行为不同侧面的互补描述。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "代码 Bug 焦虑",
+      "大脑清空",
+      "项目高压期"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均描述了通过跑步（HIIT 或 LSD）来应对工作压力（代码 Bug/项目高压）并实现心理调节（大脑清空/保持冷静）的机制，虽具体跑法和同伴不同，但核心逻辑高度一致。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "主动恢复",
+      "伤病预防意识"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "Pair_a 强调了因伤病（髂胫束综合征）而重视恢复，Pair_b 具体展示了恢复手段（冷热交替浴）及其带来的身心抚慰，构成了‘认知 - 行为’的因果闭环。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "代码 Bug 焦虑",
+      "HIIT 训练",
+      "大脑清空"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "Pair_b 几乎复述了 Pair_a 的核心场景（代码 Bug 引发焦虑->HIIT->大脑清空），仅增加了耳机品牌细节和后续的逻辑梳理，两者描述的是同一事件的不同侧面，关联性极强。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "陈宇",
+      "滨江跑道",
+      "同伴压力"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "Pair_a 聚焦于同伴压力带来的情感驱动，Pair_b 转向数据驱动的疲劳管理与伤病预防。虽共享人物和地点背景，但主题从‘社交激励’跳跃至‘数据分析’，连贯性中等。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "entity_11",
+    "shared_entities": [
+      "跑者身份"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair_a 讲述数据记录工具（Excel/Garmin），Pair_b 讲述身份认同的转折点（首马）。除隐含的‘跑步’大背景外，缺乏直接的实体或逻辑交集。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "训练纪律"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair_a 是应对压力的动态行为（跑步清空大脑），Pair_b 是静态的装备管理纪律。两者属于同一人的不同生活习惯，但语义场景无直接交集。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "训练装备/资源管理"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.8,
+    "association_path": "Pair_a 涉及人力互助（保护者王强），Pair_b 涉及物力管理（跑鞋轮换）。两者均为训练支持系统，但实体和场景完全隔离，关联性弱。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "程序员思维",
+      "作息/秩序感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者共同构建了‘程序员跑者’的人设：Pair_a 体现对数据秩序的享受，Pair_b 体现为肌肉生长而执行的严格作息。逻辑上互为支撑，展现了理性自律的生活方式。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "恢复与训练的平衡"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 描述周日的身体恢复（冷热浴/筋膜枪），Pair_b 描述深夜的精神满足（看数据曲线）。虽同属训练周期的一部分，但一个是被动恢复行为，一个是主动数据分析，场景切换较大。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "Strava",
+      "数据记录",
+      "社交分享"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "Pair_a 提到将数据同步至 Strava，Pair_b 紧接着描述在 Strava 取得成绩后的分享行为。两者在工具链（Strava）和行为流（记录->分享）上紧密衔接，构成完整的故事线。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "安全感/宁静感",
+      "身心恢复"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "两者均描述高强度训练后的心理慰藉与恢复机制：前者源于家庭情感支持（炖牛肉），后者源于生理物理恢复（冷热浴），共同构建了‘身心双重修复’的完整图景。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "自律管理",
+      "资源分配策略"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "体现了跑者在不同维度的资源管理哲学：装备上‘好钢用在刀刃上’（比赛鞋 vs 训练鞋），饮食上‘平时克制周末奖励’，逻辑同构但领域不同。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "力量训练",
+      "数据化监控"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从‘执行场景’（乐刻健身房进行推拉腿训练）自然过渡到‘量化反馈’（Excel 记录深蹲硬拉数据），构成了训练闭环的‘行动 - 记录’环节。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "恢复逻辑",
+      "作息闭环",
+      "乐刻运动"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者共同描绘了完整的‘全天候恢复系统’：Pair A 强调因伤痛记忆形成的睡眠纪律（23:00 入睡），Pair B 展示从晨间激活到晚间训练再到睡前放松的时间线，逻辑高度互补。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "饮食控制",
+      "欺骗餐",
+      "长距离拉练"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "直接的因果与时间序列关系：Pair A 是周日的备餐（因/准备），Pair B 是周六拉练后的欺骗餐（果/奖励），共同阐述了‘先苦后甜’的饮食心理补偿机制。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "长距离拉练 (LSD)",
+      "训练节奏"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从‘平日规律训练’（周二周四 LSD）延伸到‘周末高强度拉练后的奖励’，展示了不同强度训练在周计划中的分布及其对应的心理反馈。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "压力管理",
+      "伤病预防",
+      "HIIT/疲劳监控"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.5,
+    "association_path": "前者是感性的即时压力释放（代码 Bug 导致 HIIT），后者是理性的长期风险管控（数据分析防止伤病重演），体现了应对压力的两种不同维度。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "家庭支持/自律",
+      "饮食满足感",
+      "动力源泉"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "情感与行为的深层互文：Pair A 中母亲的炖牛肉提供‘无条件支持’的安全感，Pair B 中严格的自带便当自律是为了换取‘欺骗餐’的满足感，两者共同构成了坚持训练的情感与物质双重动力。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "成就感",
+      "社交认同",
+      "王强/朋友圈"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从‘线下即时反馈’（王强保护下的深蹲兴奋）扩展到‘线上延时反馈’（Strava 截图获点赞），完整展示了跑者构建自我认同的内外部验证路径。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "自律/谨慎",
+      "王强",
+      "安全原则"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "体现了‘谨慎’这一核心特质在不同场景的投射：饮食上严格控制（平日便当 vs 周末欺骗餐），训练上严格确认安全（检查装备 + 王强保护），逻辑一致。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者均围绕跑步训练的不同侧面：Pair A 关注训练成果的社会化分享与身份构建，Pair B 关注伤痛记忆驱动的恢复习惯。虽无直接实体重叠，但共同构成了‘严肃跑者’的生活画像，逻辑上属于同一主题下的不同行为模块。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "典型的‘饮食 - 训练’互补逻辑。Pair A 描述欺骗餐带来的心理满足（奖励机制），Pair B 描述力量训练后的营养补充（恢复机制）。两者共同体现了健身人群中‘严格自律’与‘适度奖励/科学恢复’的平衡哲学，语义关联紧密。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者都涉及‘跑者身份’或‘跑步动机’，但触发点完全不同：Pair A 是基于个人历史成就（首马）的内部身份认同，Pair B 是基于当下同伴压力（陈宇）的外部驱动。关联性较弱，仅在‘坚持跑步’这一宏观主题上有关联。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "力量训练",
+      "乐刻运动"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "高度相关的‘力量训练’场景。Pair A 定义了训练地点（乐刻）和模式（分化训练），Pair B 描述了在该场景下进行大重量训练（深蹲）时的具体安全行为。两者在空间、活动类型和人物（隐含的健身者）上高度一致，构成完整的训练叙事。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者分别描述了晨间仪式（咖啡/激活）和晚间/周日恢复习惯（筋膜枪/睡眠）。虽然都属于健康生活方式，但时间跨度大、具体行为无直接因果或互补关系，关联性主要停留在‘自律生活’的抽象层面。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "右膝髂胫束综合征",
+      "2023 年",
+      "筋膜枪",
+      "髂胫束"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "极强的因果与实体重叠。Pair A 阐述了 2023 年 ITBS 受伤导致的认知转变（重视恢复/解剖学），Pair B 直接展示了基于该认知形成的具体行为（用筋膜枪放松髂胫束以防复发）。这是典型的‘创伤经历 -> 行为改变’的直接映射。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "情感维度的互补。Pair A 描述高强度训练（深蹲 PR）时的兴奋与掌控感（交感神经主导），Pair B 描述训练后恢复（冷热浴）时的宁静与抚慰（副交感神经主导）。两者共同构成了完整训练周期的情感体验闭环。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "关联较弱。Pair A 聚焦家庭支持系统（父母、饮食），Pair B 聚焦个人装备与内心独白（跑者身份）。虽然都涉及跑步背景，但一个是外部社会支持，一个是内部心理状态，缺乏直接的逻辑链条。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者都涉及通过运动调节状态，但目的和场景不同。Pair A 是为了缓解工作压力（被动调节/宣泄），Pair B 是晨间固定仪式（主动激活/习惯）。除了‘运动’这一共同点外，缺乏深层语义连接。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "陈宇",
+      "滨江跑道"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.75,
+    "association_path": "共享具体人物（陈宇）和地点（滨江跑道），构建了连贯的社交训练场景。Pair A 强调长距离拉练后的饮食奖励机制，Pair B 强调同一场景下同伴压力对自律的促进作用。两者共同描绘了周末长距离训练的社会与心理维度。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者均涉及运动场景，但 A 侧重跑步缓解编程焦虑，B 侧重深蹲技术精进及家庭指导，实体无重叠，逻辑链条断裂。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "力量训练",
+      "全马 PB"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "同属健身话题，A 讲力量训练地点，B 讲跑鞋装备，虽项目不同（力量 vs 跑步），但在‘训练者’人设下可自然衔接。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "力量训练",
+      "Excel 数据分析"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "A 提及力量训练，B 提及将运动自律延伸至 Excel 数据分析，两者在‘运动 - 工作’平衡及数据记录习惯上存在隐性关联。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "Excel 记录",
+      "秩序感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "高度一致的生活哲学：A 从训练数据获秩序感，B 通过备餐控饮食，共同体现程序员/运动者对‘可控性’和‘规划’的追求。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "Excel 负荷曲线",
+      "肌肉修复逻辑"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "完美匹配：A 强调睡眠修复，B 强调量化摄入与负荷算法，两者共同构建了‘数据驱动的身体管理’闭环，实体与逻辑高度重合。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "核心激活",
+      "深蹲 1.5 倍体重目标"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "A 是晨间启动习惯，B 是家庭支持下的深蹲目标，虽都涉及训练，但缺乏直接因果或场景互补，关联较弱。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "自带便当",
+      "Excel 记录"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "A 讲饮食控制与欺骗餐，B 讲数据记录的秩序感，共同反映了‘严格自律换取奖励/满足’的行为模式。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "周六长距离拉练",
+      "Asics Kayano 30"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "共同的‘纪律性’主题：A 是饮食上的先苦后甜，B 是装备上的严格轮换，体现了运动者对规则和节奏的坚守。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "Strava 数据截图",
+      "滨江跑道 LSD"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "强关联：B 中的'LSD 约跑’是 A 中‘打破纪录/完成长距离’的具体场景，且都涉及社交属性（朋友圈 vs 同伴压力）对运动的驱动。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "Nike Vaporfly 3",
+      "深蹲技术精进"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联微弱：A 专注跑鞋与马拉松成绩，B 专注深蹲保护与解剖学知识，除均为运动外无实质交集。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "训练恢复",
+      "防伤意识"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "从家庭提供的营养支持（实体对 A）自然过渡到个人训练后的主动恢复与防伤措施（实体对 B），共同构成了完整的‘训练 - 恢复’闭环。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "训练习惯",
+      "自律行为"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者均体现跑者的自律习惯，但分别侧重于‘饮食控制’与‘数据记录’，场景关联度一般，属于并列的生活方式描述。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "训练准备",
+      "规律作息"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "从训练时的专注状态（行为 A）切换到周日的备餐 routine（行为 B），虽同属训练生活的一部分，但时间跨度和具体场景跳跃较大。"
+  },
+  {
+    "pair_a_id": "multihop_04",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "精神支撑",
+      "克服挫折"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两条复杂叙事线高度共鸣：A 强调家庭支持消除心理负担，B 强调身份认同支撑复健，共同深刻阐述了‘心理韧性’对突破极限的关键作用。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "跑步流程",
+      "心理调节"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "A 描述跑步作为缓解工作焦虑的手段（跑前/中），B 描述跑后确认数据的仪式感，两者在时间线上衔接，但核心主题（解压 vs 数据验证）略有差异。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "安全确认",
+      "仪式感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "从跑步结束后的‘数据安全检查’（行为 A）类比到力量训练前的‘物理安全检查’（行为 B），展现了主角在不同运动项目中一致的严谨与谨慎态度。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "恢复策略",
+      "家庭与自律"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "A 提及家庭带来的心理安全感，B 提及为了肌肉生长而执行的严格睡眠纪律，两者从‘心理后盾’和‘生理纪律’两个维度共同服务于身体恢复。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "饮食控制",
+      "量化思维"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "A 描述了具体的饮食控制行为（自带便当），B 深入解释了该行为背后的工程师量化思维逻辑（将饮食视为参数调试），形成了从‘现象’到‘本质’的深度关联。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "自律生活",
+      "恢复管理"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "A 关注‘吃’的控制（控油盐），B 关注‘睡’的纪律（准时入睡），两者共同构成了运动员/健身者‘吃练睡’铁律中的两大支柱，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "训练日常",
+      "状态切换"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "A 描述健身房内的互助与力量训练细节，B 描述清晨咖啡带来的清醒感，两者虽同属训练生活，但场景（健身房 vs 清晨居家）和主题（社交/安全 vs 个人唤醒）关联度较弱。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "周日",
+      "备餐/饮食",
+      "工作日/周六",
+      "健康控制/欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均围绕‘周日’这一时间节点展开饮食规划，前者为工作日开始做健康备餐，后者为周六拉练后安排周日欺骗餐，构成了跑者饮食周期中‘控制’与‘补偿’的互补逻辑。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "工作日自律",
+      "恢复/修复",
+      "饮食控制",
+      "欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者深度关联：前者因伤痛强调睡眠修复，后者因训练强调饮食自律以换取欺骗餐额度。共同构建了‘平日严格自律（睡眠 + 饮食）以支撑高强度训练及恢复’的完整闭环逻辑。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "项目压力",
+      "跑步/HIIT/LSD",
+      "心理调节",
+      "工作表现"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者都描述了通过跑步（HIIT 或 LSD）来缓解工作压力（项目上线/高压期），并将运动带来的心理状态（平静/冷静）正向迁移至工作场景中，体现了运动对职业压力的调节作用。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "陈宇",
+      "周二",
+      "雷打不动",
+      "自律习惯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者仅通过‘雷打不动’的自律态度和‘周二’这一时间点产生微弱联系。前者是周二晨跑社交，后者是周日晚备餐，虽同属自律生活，但缺乏直接的事件因果或实体交互。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "营养/蛋白",
+      "装备/保护",
+      "家庭/个人"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "关联性较弱。前者讲述家庭提供的饮食支持（牛肉/鱼），后者讲述个人对跑鞋的轮换纪律。虽都涉及‘保护身体/提升表现’的广义目标，但缺乏具体的实体重叠或直接逻辑链条。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "预防受伤",
+      "装备/工具使用",
+      "严谨态度"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均体现了对‘预防受伤’的严谨态度。前者通过筋膜枪放松肌肉防止旧伤复发，后者通过跑鞋轮换保护双脚以维持最佳状态，共同反映了跑者对身体的科学管理逻辑。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "秩序感/宁静感",
+      "恢复/放松",
+      "程序员/训练者身份"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.3,
+    "association_path": "两者分别描述了数据记录带来的‘秩序感’和物理恢复带来的‘宁静感’。虽然场景不同（Excel vs 冷热浴），但核心情感都是高强度付出后获得的心理满足与平衡，情感基调高度一致。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "成就感",
+      "外部认可",
+      "马拉松/跑步"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者都聚焦于跑步带来的‘成就感’及其来源。前者源于打破 PB 后的社交认同（跑友点赞），后者源于家人态度转变后的亲情认同（父亲炫耀），共同构成了跑者自我价值实现的社会与家庭双重维度。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "健身房",
+      "训练专注",
+      "辅助工具/人"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都发生在健身/训练场景。前者依赖同伴（王强）保护以冲击大重量，后者依赖设备（Shokz 耳机）隔离噪音以进入专注模式。虽都是提升训练质量的手段，但缺乏直接的事件关联。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "Garmin/数据",
+      "训练完成/记录",
+      "伤痛经历"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者因伤痛经历转向理论学习（解剖学），强调恢复重要性；后者强调训练后的数据记录仪式感。两者虽都涉及对训练的科学态度，但一个侧重认知转变，一个侧重行为习惯，逻辑连接稍显松散。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "右膝髂胫束综合征",
+      "2023 年停训经历"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "直接因果关联：pair_a 描述了受伤事实及认知转变，pair_b 描述了该事件引发的持续恐惧心理及行为改变，实体高度重合，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "弱关联：两者均属于健身范畴，但 pair_a 侧重社交保护（深蹲），pair_b 侧重营养补充（补剂），无实体重叠，话题跳跃较大。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "极低关联：pair_a 讨论运动损伤与解剖学，pair_b 讨论家庭亲情与安全感，除隐含的“训练苦”外无直接逻辑或实体联系。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "主题相关：两者均涉及晨间习惯与身体状态管理（清醒 vs 恢复），但 pair_a 侧重启动，pair_b 侧重伤病后的恢复逻辑，实体无重叠。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "跑步"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "场景相关：两者均通过跑步调节状态，但 pair_a 是为了解压（HIIT），pair_b 是为了身份认同（马拉松），动机不同，实体重叠度低。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "极低关联：pair_a 描述家庭饮食支持，pair_b 描述工作压力下的运动宣泄，领域跨度大（家庭 vs 工作/心理），无直接联系。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "Excel 负荷曲线"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "强逻辑递进：pair_a 提出用 Excel 记录力量数据的秩序感，pair_b 具体描述将该数据与跑步数据结合分析以预防伤病的实际操作，实体与逻辑高度连贯。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "entity_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "主题相关：两者均涉及训练支持系统，pair_a 是家庭营养支持，pair_b 是健身房伙伴保护，虽无实体重叠，但共同构建了“非私教”的支持网络。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "黑咖啡",
+      "核心激活"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "习惯互补：pair_a 描述晨间启动习惯（咖啡/核心），pair_b 描述全周饮食与训练平衡策略，两者共同构成自律生活体系，部分实体重叠。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "弱关联：pair_a 描述个人晨间例行公事，pair_b 描述父亲对马拉松成就的情感反应，除隐含的“跑步”背景外无直接实体或逻辑交集。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "Nike Vaporfly 3"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "两者均围绕核心实体'Nike Vaporfly 3'展开，前者描述其作为比赛鞋的功能属性与成绩关联，后者描述穿着该鞋时的情感体验与身份认同，实体完全重合且语境高度互补。"
+  },
+  {
+    "pair_a_id": "multihop_04",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "前者聚焦家庭支持对力量训练（深蹲）的推动，后者聚焦跑鞋轮换策略对跑步表现的影响。虽同属运动话题，但具体领域（力量 vs 跑步）、实体集合及逻辑链条无直接交集，关联性较弱。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.2,
+    "association_path": "前者讨论跑鞋配置与马拉松成绩，后者讨论工程师思维下的营养与力量训练量化管理。除广义的‘运动’背景外，实体无重叠，逻辑路径完全不同，几乎无直接关联。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "前者描述力量训练的场所与时间，后者描述训练后的恢复行为（筋膜枪放松）。两者构成完整的‘训练 - 恢复’闭环，逻辑连贯，虽无具体实体重叠，但行为序列高度相关。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者描述通过 HIIT 缓解工作压力，后者描述打破 PB 后的成就感与社交分享。两者均涉及跑步带来的心理调节，但场景（减压 vs 庆祝）和具体实体（Shokz vs Garmin/Strava）不同，关联度中等。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "前者讲述伤痛记忆驱动的恢复习惯（睡眠、筋膜枪），后者讲述家庭支持驱动的力量训练目标。虽同属个人运动叙事，但因果链条独立，实体无交集，关联性低。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者关注比赛装备与成绩，后者关注日常训练的数据记录习惯。两者共同构建了跑者的完整画像（装备党 + 数据党），但在具体事件和实体上无直接交互，属于同一主题下的不同侧面。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "父亲林建国",
+      "王强"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者紧密交织：前者描述父亲态度转变带来的情感满足，后者描述在王强保护下提升技术并反过来指导父亲。实体高度重叠（父亲、王强），且逻辑上形成了‘家庭支持 - 技术进步 - 反哺家庭’的闭环。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "前者描述比赛日的身份认同感，后者描述长距离拉练后的饮食补偿心理。两者都涉及跑步带来的心理状态，但一个是赛时激情，一个是练后奖励，场景和实体差异较大，关联度一般。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者描述同伴压力下的坚持，后者描述通过社交媒体强化身份。两者都涉及跑步中的社会性因素（线下队友 vs 线上跑友），但具体行为和实体不同，属于社会激励的不同表现形式。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均描述健身生活方式中的特定时刻（饮食奖励 vs 晨间启动）带来的积极情绪反馈，虽无实体重叠，但在‘自律换取掌控/满足’的主题上高度共鸣。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "黑咖啡",
+      "核心激活"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "Pair_a 提及黑咖啡与核心激活，Pair_b 聚焦跑后数据确认。虽同属训练行为，但 Pair_b 未包含 Pair_a 的核心实体（黑咖啡），仅共享‘核心激活’概念，关联度中等。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "周六长距离拉练",
+      "欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "Pair_b 完整复述并扩展了 Pair_a 的逻辑链条（周六拉练->欺骗餐），增加了‘工作日便当’作为前置条件，实体高度重叠，逻辑因果紧密。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "分别描述晨间启动感与周末奖励感。虽同属健身心理，但时间跨度大（清晨 vs 周六晚），实体无直接交集，关联较松散。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 关注训练结束的数据确认，Pair_b 关注伤痛后的恢复习惯。仅在‘训练闭环’概念上有微弱联系，实体无重叠。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "分别描述主动恢复（浴）与营养补充（补剂）。虽同属恢复范畴，但具体行为与实体完全不同，关联度一般。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 讲述伤痛导致认知改变（恢复重要），Pair_b 讲述装备轮换策略。隐含逻辑一致（保护身体），但无实体重叠，需推理连接。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "Pair_a 因恐惧受伤而谨慎，Pair_b 为肌肉恢复而行动。两者由‘避免受伤/促进恢复’的共同动机连接，实体虽不同但逻辑互补。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "项目上线压力",
+      "Shokz 骨传导耳机",
+      "HIIT 训练"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "Pair_b 几乎是 Pair_a 的详细解释版，实体高度重合，且 Pair_b 明确阐述了 Pair_a 中隐含的‘机制’（身体疲惫换大脑清空），逻辑完美衔接。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者均为复杂的因果链描述，但领域完全不同（前者为伤痛->恢复习惯，后者为工作压力->运动解压）。除‘自律’这一抽象共性外，无实体或具体逻辑关联。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "HIIT 训练",
+      "训练完成感"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从通过跑步缓解压力的动机（Pair A）自然过渡到跑后确认数据以获得完成感的习惯（Pair B），构成了完整的跑步行为闭环。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "父亲林建国",
+      "态度转变",
+      "马拉松奖牌",
+      "家庭自豪感",
+      "2021 杭马身份认同"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均涉及深层情感支撑，但 Pair A 侧重家庭认可，Pair B 侧重自我身份认同与挫折克服，主题相关但叙事线索独立。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "黑咖啡",
+      "核心激活",
+      "清醒切换",
+      "晨间掌控力",
+      "复合维生素",
+      "肌酸"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "描述了同一晨间场景下的不同准备动作：Pair A 是唤醒仪式，Pair B 是营养补充，共同构建了高效一天的开始，逻辑连贯。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "ITBS 受伤记忆",
+      "深蹲加重",
+      "恐惧心理",
+      "动作检查",
+      "王强的保护",
+      "深蹲技术精进"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "Pair A 中的恐惧导致对动作细节的过度检查，Pair B 解释了这种对细节的关注如何转化为技术精进并延伸至其他领域，因果逻辑紧密。"
+  },
+  {
+    "pair_a_id": "behavior_05",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "深蹲大重量",
+      "装备检查",
+      "王强保护",
+      "安全确认",
+      "陈宇",
+      "滨江跑道 LSD"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "分别描述了力量训练的安全流程和跑步训练的同伴压力，虽同属训练自律，但具体场景和人物无直接交集，关联性中等。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "代码 Bug 焦虑",
+      "HIIT 训练",
+      "降噪耳机",
+      "大脑清空",
+      "黑咖啡",
+      "核心激活"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者都是应对压力或开启一天的调节机制（运动清空 vs 咖啡唤醒），功能相似但发生在不同时间段和情境下，缺乏直接叙事联系。"
+  },
+  {
+    "pair_a_id": "behavior_05",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "深蹲大重量",
+      "装备检查",
+      "王强保护",
+      "安全确认",
+      "晨间黑咖啡与激活",
+      "高效工作"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "Pair A 是晚间训练的具体安全行为，Pair B 描述了从晨间唤醒到晚间训练再到恢复的全天闭环，Pair A 的行为是 Pair B 闭环中的关键一环。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "代码 Bug 焦虑",
+      "HIIT 训练",
+      "降噪耳机",
+      "大脑清空",
+      "筋膜枪",
+      "髂胫束放松"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "Pair A 提到用极度疲惫换取清空，Pair B 紧接着描述训练后针对特定部位（髂胫束）的放松以防旧伤，形成了“高强度训练 - 针对性恢复”的强逻辑链条。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "代码 Bug 焦虑",
+      "HIIT 训练",
+      "降噪耳机",
+      "大脑清空",
+      "母亲张慧的炖牛肉",
+      "父亲林建国的态度转变"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "Pair A 是个人的压力应对机制，Pair B 是家庭支持系统对训练目标的支撑，两者共同构成主角的生活支撑面，但无直接事件关联。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "Nike Vaporfly 3",
+      "起跑线",
+      "跑者身份",
+      "初心回忆",
+      "力量训练结束",
+      "ON 乳清蛋白粉"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "分别描述了跑步比赛的身份认同感和力量训练后的营养补充习惯，属于同一人物的不同训练侧面，主题统一但事件无直接因果。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "纪律性",
+      "长期规划"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者都体现了高度的自律和规划（饮食备餐 vs 装备轮换），但领域完全不同（营养管理 vs 跑步装备策略），缺乏直接的话题衔接点。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "训练场景",
+      "坚持"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "前者是跑步时的心理活动，后者是力量训练后的营养补充行为。虽同属健身范畴，但情境（户外跑步 vs 健身房）、时间点（清晨 vs 夜晚）和主题（心理激励 vs 生理恢复）均无交集。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "训练与奖励机制",
+      "Strava/跑步"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者共同构建了'努力 - 奖励'的闭环逻辑。前者通过打破纪录获得社交认同（精神奖励），后者通过长距离拉练换取欺骗餐（物质奖励），话题可自然从'训练成就'过渡到'训练后的饮食调节'。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "无"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 0.75,
+    "association_path": "前者关注饮食满足感，后者关注举重保护及向父亲科普营养知识。虽然都涉及'营养'一词，但语境完全不同（自我奖赏 vs 科学指导他人），逻辑断裂严重。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "跑者身份认同",
+      "Strava",
+      "社交认同"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "高度关联。前者是内在的'跑者身份'觉醒，后者是通过 Strava 分享数据来外化和强化这一身份。两者在'身份认同'和'社交反馈'上形成了完美的因果或互补关系。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "系统化思维",
+      "数据/效率"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "前者用代码依赖库比喻补剂的重要性，后者用数据分析调整训练防止伤病。虽然都体现了工程师的系统化思维，但一个是日常固定习惯，一个是动态的数据分析过程，话题跳跃较大。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "自律"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.25,
+    "association_path": "前者是人生转折点的身份认同（马拉松），后者是日常的睡眠纪律。除了抽象的'自律'精神外，缺乏具体的实体或情境联系，难以形成连贯对话。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "晨间/日常仪式",
+      "代码/工作压力",
+      "身体激活"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "两者都涉及'程序员/工程师'背景下的身心调节。前者是晨间通过咖啡和运动开启一天，后者是压力下通过 HIIT 清空大脑。可以从'日常仪式'延伸到'应对工作压力的特殊运动机制'。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "肌酸",
+      "ON 蛋白粉",
+      "代码/工程思维",
+      "量化管理"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "极强关联。前者将补剂比作代码依赖库，后者详细描述如何用工程思维（输入参数、算法输出）精准量化调整同样的补剂（肌酸、蛋白粉）。后者是对前者比喻的具体实践和深化。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "恢复/调整"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.25,
+    "association_path": "前者是感性的身体放松体验（冷热浴），后者是理性的数据化补剂调整。虽然都服务于训练目标，但一个是被动恢复的感受，一个是主动计算的策略，语境割裂。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "训练状态",
+      "安全确认"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均描述了进入特定高强度训练场景前的心理与行为准备机制：前者通过耳机隔离环境音进入专注模式，后者通过检查装备和确认保护进入安全模式，体现了专业训练者的仪式感。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "疲劳分析",
+      "伤病预防"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从装备分级（比赛鞋 vs 训练鞋）延伸到数据驱动的负荷管理，共同指向“避免伤病、延长运动寿命”的核心目标，后者提到的防止伤病重演是对前者谨慎用鞋行为的深层逻辑补充。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "周日",
+      "主动恢复",
+      "生活规律"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "时间线紧密衔接（周日下午恢复 vs 周日晚上备餐），共同构成了运动员周末“身心修复 + 下周准备”的完整闭环，体现了高度自律的生活方式。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "坚持训练",
+      "精神支柱"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从微观的同伴压力（不想拖累队友）上升到宏观的身份认同（跑者信念），两者互为表里，共同解释了主体在困难或懒惰时刻能够坚持训练的深层动力来源。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "饮食控制",
+      "肌肉恢复",
+      "营养管理"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "分别代表了营养摄入的“即时性”（练后蛋白粉）和“计划性”（周日备餐），两者共同构建了完整的运动营养支持体系，服务于肌肉恢复和身体控制这一共同目标。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "满足感",
+      "自我奖励",
+      "心理反馈"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "展示了两种不同维度的正向反馈机制：前者源于外部社会认可（家庭自豪），后者源于内部欲望满足（欺骗餐），共同维持了长期艰苦训练的心理平衡。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "训练习惯",
+      "身份认同"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者描述具体的物理训练场所和便利性，后者描述抽象的精神信念和复健历程。虽同属训练话题，但一个是空间维度，一个是时间/精神维度，直接关联度较弱，需通过“训练持续性”这一隐含概念连接。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "心理补偿",
+      "压力释放",
+      "节奏控制"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.4,
+    "association_path": "完美诠释了“先苦后甜”的心理契约：前者用身体疲惫置换大脑清空（解决工作焦虑），后者用艰苦拉练置换美食享受（解决饮食负罪感），逻辑结构高度一致。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "高效能",
+      "训练闭环",
+      "PB 追求"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "前者通过装备策略追求成绩突破（PB），后者通过全流程管理（晨间唤醒到睡前恢复）保障训练质量。两者结合展示了从“单点装备优化”到“系统效率优化”的进阶关系。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "精准控制",
+      "目标导向",
+      "工程师思维"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "前者是感性的同伴激励驱动配速坚持，后者是理性的量化思维驱动负荷调整。两者结合刻画了一位兼具情感动力与科学方法的工程师跑者形象，体现了软硬实力的结合。"
+  },
+  {
+    "pair_a_id": "multihop_09",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "训练纪律",
+      "装备/饮食管理",
+      "表现目标"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者均描述了通过严格的日常纪律（饮食控制/跑鞋轮换）来优化特定场景下的表现（欺骗餐/比赛日），体现了高度一致的自律逻辑和因果链条。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "恢复/支持机制"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者关注生理层面的主动恢复手段，后者关注心理与营养层面的家庭支持，虽同属‘支撑体系’，但作用维度（身体 vs 心理/社交）差异较大，直接对话衔接略显生硬。"
+  },
+  {
+    "pair_a_id": "multihop_07",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "身份认同",
+      "量化思维",
+      "目标坚持"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "从精神层面的‘跑者身份’信念自然过渡到执行层面的‘工程师量化思维’，共同构建了主角在遭遇挫折后仍能达成高难度目标（复健/深蹲）的完整人物画像。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "Strava",
+      "数据记录",
+      "社交认同",
+      "训练完成感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "极高的实体重叠度。前者是训练结束后的即时数据确认行为，后者是该行为的延伸（分享与认同），构成了完整的‘记录 - 分享 - 强化’行为闭环。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "身心恢复/支持"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "前者描述独处时的生理放松体验，后者描述家庭互动的社会支持场景。虽然都涉及‘消除负担’，但语境从个人内省跳跃到家庭叙事，缺乏直接的逻辑过渡。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "跑步训练",
+      "压力调节"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从规律的社会性训练（LSD）切换到应对工作压力的个人宣泄性训练（HIIT），展现了跑步在不同生活场景下的双重功能，逻辑连贯且互补。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "数据/纪律",
+      "健康目标"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "前者是训练数据的量化管理，后者是作息时间的纪律管理。虽同属‘严谨的生活方式’，但一个是工具方法，一个是生活习惯，关联度中等。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "焦虑应对",
+      "理性回归",
+      "训练机制"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "前者是因伤产生的恐惧导致的谨慎行为，后者是利用运动机制主动化解焦虑的策略。两者共同探讨了‘负面情绪（恐惧/焦虑）’与‘训练行为’之间的双向调节关系。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "装备/工具管理",
+      "训练纪律"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "从数据记录的精细化（Excel/Garmin）延伸到实物装备管理的精细化（跑鞋轮换），共同塑造了主角‘像管理代码一样管理训练’的极客跑者形象。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "深蹲训练",
+      "安全防护",
+      "恐惧/谨慎"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的因果与场景关联。前者提到冲击大重量时需要王强保护，后者解释了为何如此谨慎（ITBS 受伤记忆），完美解释了‘寻求保护’背后的心理动因。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者均涉及训练安全与伤病预防（前者防疲劳重演，后者防深蹲受伤），但前者侧重数据驱动的恢复策略，后者侧重人际互助带来的技术精进，缺乏直接实体或因果链条连接。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "仅共享‘跑步训练’这一宽泛背景。前者讨论装备策略，后者讨论晨间仪式，无具体实体重叠或逻辑递进关系。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "2023 年受伤经历",
+      "力量训练场景"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "强关联。两者均直接受'2023 年受伤’这一共同背景驱动：前者是伤后对恢复窗口期的极致把握，后者是伤后对训练安全确认的谨慎态度，共同构成了‘创伤后谨慎训练’的行为闭环。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "严谨的系统化思维",
+      "身体/装备效能最大化"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "概念类比关联。前者将补剂比作代码依赖库，后者将装备轮换比作代码架构严谨性，两者共享‘用程序员思维管理身体/装备’的隐喻逻辑，但无实体直接交互。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "2023 年伤痛记忆"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "情感与行为的互补。前者提供家庭情感支持作为后盾，后者展示因恐惧伤痛复发而形成的肌肉记忆行为，共同支撑主角在高压训练下的心理韧性。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "父亲林建国",
+      "马拉松成就"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "因果与情感反馈。前者（严格饮食控制）是达成后者（马拉松奖牌）的必要手段；后者中父亲对奖牌的态度转变，是对前者自律行为的最高情感奖赏，形成‘付出 - 认可’闭环。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "父亲林建国",
+      "健康饮食管理"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "人物与生活方式的交叉。两者均提及父亲林建国及饮食控制（欺骗餐 vs 备餐），前者是父亲对成果的反应，后者是主角维持成果的日常行为，共同描绘家庭支持下的自律生活。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "Nike Vaporfly 3",
+      "Asics Kayano 30",
+      "晨间黑咖啡",
+      "2023 年伤病挫折"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极高关联。Pair B 明确复用了 Pair A 中的核心装备（Vaporfly/Kayano）和习惯（黑咖啡），并将 Pair A 的装备策略上升为 Pair B 中克服'2023 年停训挫折’的精神支柱和身份认同的具体载体，叙事高度连贯。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "王强"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "弱关联。仅共享人物‘王强’（Pair A）与训练场景，Pair B 侧重饮食心理补偿，两者在逻辑流上断裂，王强在 Pair B 中未出现，无法形成有效对话衔接。"
+  },
+  {
+    "pair_a_id": "behavior_09",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "自律精神",
+      "代码/工作压力",
+      "Excel 数据分析"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "主题共鸣。前者强调作息纪律以保肌肉生长，后者强调同伴压力带来的自律延伸至深夜数据分析。两者共同构建了‘程序员跑者’在高压工作与高强度训练间寻求平衡的自律画像，虽无实体直接重叠，但精神内核高度一致。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "力量训练",
+      "跑鞋轮换纪律"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者均涉及训练习惯，但前者侧重健身房力量训练地点与流程，后者侧重跑鞋装备管理与比赛表现，领域交叉度低，缺乏直接逻辑衔接。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "家庭支持",
+      "跑鞋轮换"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.5,
+    "association_path": "前者描述家庭情感支持，后者描述理性的装备管理行为，情感维度与执行维度割裂，无共同实体或因果联系。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "王强",
+      "Garmin Forerunner 265"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "同属训练场景，前者关注人际互助（保护深蹲），后者关注数据反馈（同步跑步数据），虽同属训练闭环但话题跳跃，缺乏自然过渡。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "陈宇",
+      "跑鞋轮换纪律"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "前者强调同伴压力带来的心理动力，后者强调装备策略带来的长期收益，虽都指向成绩提升，但一个是即时心理因素，一个是长期物理策略，关联较弱。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "Shokz OpenRun",
+      "Garmin 数据"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "高度相关。前者描述通过耳机进入专注训练状态（输入/过程），后者描述训练后通过数据进行科学分析与恢复（输出/反馈），构成了完整的“专注训练 - 数据复盘”闭环。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "右膝髂胫束综合征",
+      "周六欺骗餐"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "前者讲述伤病教训导致的谨慎态度，后者讲述饮食控制的奖励机制。虽都体现自律，但一个是负面经验驱动的恐惧，一个是正面反馈驱动的满足，情感基调不一致。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "王强",
+      "母亲张慧"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "强关联。前者描述健身房伙伴（王强）提供的物理保护与技术支持，后者描述家庭成员（母亲）提供的情感后盾与安全感。两者共同构建了主角“身后有坚实后盾”的完整支持系统（社会支持 + 家庭支持）。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "entity_12",
+    "shared_entities": [
+      "自带便当",
+      "黑咖啡"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "高度相关。分别描述了主角在“饮食控制”和“晨间启动”两个维度的严格自律习惯，共同刻画了一个生活规律、执行力强的跑者形象，属于同一人物画像的不同侧面。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "Nike Vaporfly 3",
+      "陈宇"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "前者聚焦于装备策略（比赛鞋 vs 训练鞋），后者聚焦于跑步时的心理博弈（同伴压力）。虽然都发生在跑步场景，但话题从“物”突然转到“人/心理”，缺乏直接逻辑链条。"
+  },
+  {
+    "pair_a_id": "multihop_03",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "陈宇",
+      "跑鞋轮换纪律"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "强关联。两者均展现了主角将跑步中的原则（同伴监督、装备爱惜）迁移到其他领域（工作冷静、代码严谨）的思维方式，共同体现了“跑步哲学指导生活/工作”的深层主题。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "力量训练",
+      "家庭情感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均涉及运动场景（力量训练 vs 马拉松/硬拉），但侧重点完全不同：前者关注下班后的健身地点与计划，后者关注家庭关系与情感成就。缺乏直接的人物、时间或地点交集，逻辑连接较弱。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "父亲林建国",
+      "训练技术/信心"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过共同人物'父亲林建国'建立弱连接。Pair A 讲述跑者身份认同的起源，Pair B 讲述力量训练技术精进后反哺家庭（指导父亲）。虽然人物重合，但事件脉络（马拉松转折 vs 深蹲保护）属于不同叙事线，关联性中等。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "跑步训练",
+      "装备/场景"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.0,
+    "association_path": "高度相关的跑步主题。Pair A 描述日常 LSD 训练的场景与伙伴，Pair B 描述训练与比赛用的跑鞋装备。在日常对话中，谈论完训练习惯后自然过渡到装备选择，逻辑流畅，属于同一生活场景的不同侧面。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "训练成就感",
+      "技术精进"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者都涉及训练带来的正向反馈（社交认同 vs 技术信心），但领域不同（跑步数据分享 vs 力量训练保护）。缺乏具体实体交集，话题跳跃较大，连贯性一般。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林建国",
+      "日常作息闭环"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "仅通过'林建国'这一人物产生微弱联系。Pair A 聚焦家庭饮食与父亲态度，Pair B 聚焦个人从晨间咖啡到晚间训练的时间管理闭环。内容主题差异巨大，难以形成自然对话流。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "营养/恢复",
+      "数据记录"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.25,
+    "association_path": "主题上从'饮食营养摄入'（Pair A）过渡到'训练数据记录'（Pair B），符合健身爱好者关注'吃与练'的逻辑。虽无实体重叠，但在语义场上属于相邻话题，具备一定的对话连贯性。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "母亲张慧",
+      "家庭 vs 个人秩序"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 3.75,
+    "association_path": "极佳的对比与互补。Pair A 描述来自母亲（外部）的情感支持（炖牛肉），Pair B 描述来自自我（内部）的秩序感（Excel 记录）。两者共同构建了主角'身心平衡'的状态，且共享人物'张慧'，情感逻辑非常顺畅。"
+  },
+  {
+    "pair_a_id": "multihop_10",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "工程师思维",
+      "装备/数据量化",
+      "Strava/Excel"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.25,
+    "association_path": "高度一致的主题：用工程师思维管理运动。Pair A 提到像对待代码一样对待装备，Pair B 详细阐述将热量和负荷视为算法参数。两者共享'量化思维'、'Excel/Strava'等概念，逻辑紧密，属于同一深层价值观的不同表达。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "自律纪律",
+      "奖励机制"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 3.75,
+    "association_path": "完美的平行结构。Pair A 讲饮食上的克制与奖励（欺骗餐），Pair B 讲装备上的克制与专用（比赛鞋）。两者共同体现了主角'延迟满足'和'严格纪律'的生活方式，话题转换自然且深刻。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "清晨 6:30",
+      "黑咖啡",
+      "跑者身份认同"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "极强的实体与语义重叠。Pair B 直接解释了 Pair A 中'清晨 6:30 喝黑咖啡'这一行为背后的深层精神动力（源自 2021 杭马的身份认同及战胜伤病的经历）。Pair B 是 Pair A 的背景故事和因果解释，连贯性满分。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "长距离训练",
+      "欺骗餐/奖励机制"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者共同构建了跑者的完整闭环：Pair A 描述了通过严格饮食控制为长距离训练蓄力并安排欺骗餐的生理循环，Pair B 描述了在完成长距离训练后通过社交分享获得心理认同的行为，二者在‘长距离训练’这一核心事件上交汇，体现了身心双重的训练反馈机制。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "长距离拉练 (LSD)",
+      "周六训练"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.8,
+    "association_path": "两者都涉及‘长距离拉练’这一核心训练手段。Pair A 侧重于周二/周四的同伴 LSD 训练细节，Pair B 侧重于周六 LSD 训练作为比赛装备测试和能量补偿策略的一部分。虽然训练类型相同，但发生时间（周二/周四 vs 周六）和侧重点（同伴监督 vs 装备/饮食策略）不同，关联性中等。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "Nike Vaporfly 3"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.5,
+    "association_path": "关联度较低。Pair A 聚焦于周日的被动恢复手段（筋膜枪、冷热浴），Pair B 聚焦于比赛日穿着特定跑鞋（Nike Vaporfly 3）时的心理状态。除了同属跑步话题外，缺乏直接的事件或逻辑交集。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "周日",
+      "健康/恢复理念"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者通过‘周日’这一时间点产生弱关联，但行为性质不同。Pair A 讲述因伤停训后对‘恢复’重要性的认知转变（理论/历史），Pair B 描述周日晚上具体的‘备餐’行为（实践）。二者共同体现了跑者对身体健康管理的重视，但无直接因果或实体重叠。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "预防受伤",
+      "2023 年伤痛背景"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "强逻辑关联。Pair A 明确提到了 2023 年的髂胫束综合征伤痛及由此产生的谨慎态度；Pair B 描述了训练后针对髂胫束的特定放松动作，并直接引用‘生怕 2023 年伤痛卷土重来’。Pair B 的行为是 Pair A 中认知转变的直接执行体现。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "无"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "几乎无关联。Pair A 讲述 2021 年首马带来的身份认同转折（心理/历史），Pair B 描述日常从晨间咖啡到睡前放松的时间管理闭环（日常流程）。两者在实体、时间、主题上均无交集。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "训练后流程"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.3,
+    "association_path": "两者分别描述了训练周期的不同阶段：Pair A 是训练数据的记录与分析（量化反馈），Pair B 是训练后的身体恢复与伤病预防（生理反馈）。虽同属科学训练体系，但缺乏直接的实体重叠或强逻辑推导。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "Strava",
+      "打破个人纪录 (PB)",
+      "社交认同"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极高关联。Pair A 描述了打破 PB 时在 Strava 打卡以获取社交认同的心理冲动，Pair B 描述了将 Strava 数据截图发朋友圈以强化身份的具体行为。两者在触发事件（破 PB）、平台（Strava）、动机（社交认同）和行为逻辑上高度一致，互为因果或表里。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "无"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.5,
+    "association_path": "弱关联。Pair A 是晨间启动仪式（黑咖啡/核心激活），Pair B 是训练后的社交分享行为。两者仅同属于一个跑者的日常行为习惯集合，缺乏直接的事件联系或逻辑依赖。"
+  },
+  {
+    "pair_a_id": "multihop_03",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "无"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "无关联。Pair A 讲述跑步同伴压力对工作和自律的正面迁移，Pair B 讲述家庭支持和健身房伙伴对力量训练突破的支撑。两者涉及完全不同的人物、场景（跑道 vs 健身房/家庭）和运动项目（跑步 vs 力量），逻辑链条独立。"
+  }
+]

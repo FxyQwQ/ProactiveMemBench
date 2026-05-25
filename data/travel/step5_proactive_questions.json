@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "q_001",
+    "trigger_type": "时间相关记忆联想",
+    "question": "刚坐上早高峰的地铁，有点无聊。",
+    "trigger_concept": "地铁",
+    "candidate_set": [
+      {
+        "concept": "小红书/Instagram",
+        "reason": "用户习惯在通勤地铁上浏览这些平台收集灵感"
+      },
+      {
+        "concept": "京都巷弄摄影",
+        "reason": "用户常在此时收藏京都的人文摄影机位"
+      },
+      {
+        "concept": "清迈街头",
+        "reason": "用户常在此时整理清迈的 City Walk 灵感板"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_01"
+    ],
+    "reasoning": "触发‘地铁’场景，模型应联想到用户固定的通勤行为习惯（刷图、存灵感）及偏好的目的地（京都、清迈）。"
+  },
+  {
+    "id": "q_002",
+    "trigger_type": "时间相关记忆联想",
+    "question": "今天是周三晚上，准备放松一下。",
+    "trigger_concept": "周三晚上",
+    "candidate_set": [
+      {
+        "concept": "意大利语学习",
+        "reason": "用户固定在此时段学习基础意大利语"
+      },
+      {
+        "concept": "多邻国",
+        "reason": "用户使用的语言学习工具"
+      },
+      {
+        "concept": "罗马/佛罗伦萨",
+        "reason": "学习语言的目的是为未来去这两个城市深度游做准备"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_02"
+    ],
+    "reasoning": "触发特定时间点‘周三晚上’，模型应联想到用户雷打不动的语言学习计划及其背后的旅行目标。"
+  },
+  {
+    "id": "q_003",
+    "trigger_type": "时间相关记忆联想",
+    "question": "这周末是本月最后一天了。",
+    "trigger_concept": "本月最后一个周末",
+    "candidate_set": [
+      {
+        "concept": "Sony A7C II 照片整理",
+        "reason": "用户习惯此时导出并调色当月拍摄的照片"
+      },
+      {
+        "concept": "Lightroom",
+        "reason": "用户常用的修图软件"
+      },
+      {
+        "concept": "朋友圈九宫格",
+        "reason": "用户习惯此时挑选 9 张照片发布或写游记"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_03"
+    ],
+    "reasoning": "触发月底时间点，模型应联想到用户固定的照片归档和分享仪式，涉及具体设备和平台。"
+  },
+  {
+    "id": "q_004",
+    "trigger_type": "时间相关记忆联想",
+    "question": "终于周五晚上了，想看看有什么特价。",
+    "trigger_concept": "周五晚上",
+    "candidate_set": [
+      {
+        "concept": "机票价格波动",
+        "reason": "用户习惯此时查看机票价格"
+      },
+      {
+        "concept": "挪威峡湾",
+        "reason": "用户关注的 Bucket List 目的地之一"
+      },
+      {
+        "concept": "秘鲁马丘比丘",
+        "reason": "用户关注的另一个长途目的地"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_04"
+    ],
+    "reasoning": "触发‘周五晚上’和‘特价’，模型应联想到用户固定的预算规划习惯及具体关注的长途目的地。"
+  },
+  {
+    "id": "q_005",
+    "trigger_type": "时间相关记忆联想",
+    "question": "快过年了，得跟家里商量个事。",
+    "trigger_concept": "快过年了",
+    "candidate_set": [
+      {
+        "concept": "林建国（爸爸）",
+        "reason": "用户计划春节前与父亲讨论行程"
+      },
+      {
+        "concept": "青藏铁路",
+        "reason": "父亲的心愿，用户承诺明年陪他去"
+      },
+      {
+        "concept": "火车时刻表",
+        "reason": "父亲作为地理老师酷爱收集的资料，需提前确认"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_05"
+    ],
+    "reasoning": "触发春节前夕，模型应联想到用户与父亲的特定互动（规划青藏铁路之旅）及父亲的喜好特征。"
+  },
+  {
+    "id": "q_006",
+    "trigger_type": "时间相关记忆联想",
+    "question": "又到季度末了，该做个复盘。",
+    "trigger_concept": "季度末",
+    "candidate_set": [
+      {
+        "concept": "张薇",
+        "reason": "用户固定的长途旅伴，负责 Excel 比价"
+      },
+      {
+        "concept": "Excel 行程表",
+        "reason": "张薇擅长的技能，两人合作模式的核心"
+      },
+      {
+        "concept": "新西兰或冰岛",
+        "reason": "两人常规划的未来长途目的地"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_06"
+    ],
+    "reasoning": "触发季度末时间点，模型应联想到用户与闺蜜张薇的固定协作模式及常规划的目的地。"
+  },
+  {
+    "id": "q_007",
+    "trigger_type": "时间相关记忆联想",
+    "question": "杭州马上要进梅雨季了，好压抑。",
+    "trigger_concept": "梅雨季节前",
+    "candidate_set": [
+      {
+        "concept": "江浙沪周末短途",
+        "reason": "用户应对梅雨和压力的固定策略"
+      },
+      {
+        "concept": "安静古镇或海边",
+        "reason": "用户偏好用于治愈焦虑的地点类型"
+      },
+      {
+        "concept": "工作压力大",
+        "reason": "触发此类短途旅行的核心情绪原因"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_07"
+    ],
+    "reasoning": "触发季节性天气变化，模型需联想到用户的情绪调节机制（短途旅行）及具体的地点偏好，涉及情感映射。"
+  },
+  {
+    "id": "q_008",
+    "trigger_type": "时间相关记忆联想",
+    "question": "今年 8 月入职纪念日快到了，想搞点大的。",
+    "trigger_concept": "8 月入职纪念日",
+    "candidate_set": [
+      {
+        "concept": "冰川徒步",
+        "reason": "用户庆祝完成大项目的偏好活动"
+      },
+      {
+        "concept": "冰岛或川西",
+        "reason": "用户进行挑战性旅行的首选地"
+      },
+      {
+        "concept": "跳伞",
+        "reason": "用户释放能量的另一种高刺激活动"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_08"
+    ],
+    "reasoning": "触发特定纪念日，模型需联想到用户‘兴奋/庆祝’情绪下的特殊旅行行为模式（高挑战性活动）。"
+  },
+  {
+    "id": "q_009",
+    "trigger_type": "时间相关记忆联想",
+    "question": "双十一快到了，购物车还没清空呢。",
+    "trigger_concept": "双十一",
+    "candidate_set": [
+      {
+        "concept": "相机镜头/三脚架",
+        "reason": "用户在此期间重点购买的旅行装备"
+      },
+      {
+        "concept": "感冒药",
+        "reason": "用户会让妈妈帮忙囤积的旅行常备药"
+      },
+      {
+        "concept": "陈秀兰（妈妈）",
+        "reason": "负责为用户准备后勤保障（塞满背包）的人"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_09"
+    ],
+    "reasoning": "触发购物节，模型需联想到用户独特的购物清单（非衣物而是装备和药品）及与母亲的互动模式。"
+  },
+  {
+    "id": "q_010",
+    "trigger_type": "时间相关记忆联想",
+    "question": "冬天来了，听说极光季开始了。",
+    "trigger_concept": "冬季极光季",
+    "candidate_set": [
+      {
+        "concept": "老 K",
+        "reason": "用户在此时会咨询的摄影圈网友/专家"
+      },
+      {
+        "concept": "冰岛/挪威冷门机位",
+        "reason": "用户与老 K 交流的核心内容"
+      },
+      {
+        "concept": "拍摄参数设置",
+        "reason": "用户作为摄影爱好者关注的技术细节"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_10"
+    ],
+    "reasoning": "触发季节性自然现象，模型需联想到用户特定的社交互动（找老 K）及专业爱好（摄影参数/机位）。"
+  },
+  {
+    "id": "q_011",
+    "trigger_type": "时间相关记忆联想",
+    "question": "最近工作有点迷茫，找不到方向。",
+    "trigger_concept": "迷茫",
+    "candidate_set": [
+      {
+        "concept": "2021 年冰岛 Gap 旅行",
+        "reason": "用户曾在类似情绪下通过该经历找到方向"
+      },
+      {
+        "concept": "重读日记/照片",
+        "reason": "用户缓解迷茫的具体行为"
+      },
+      {
+        "concept": "罗马/京都博物馆",
+        "reason": "用户通过历史对话寻找方向的备选方案"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_11"
+    ],
+    "reasoning": "触发负面情绪，模型需联想到用户过往的成功应对经验（冰岛经历）及特定的治愈行为（看展、读日记）。"
+  },
+  {
+    "id": "q_012",
+    "trigger_type": "时间相关记忆联想",
+    "question": "刚从国外回来一周，家里堆满了东西。",
+    "trigger_concept": "归来后一周内",
+    "candidate_set": [
+      {
+        "concept": "冰箱贴",
+        "reason": "用户必买的纪念品，需此时整理摆放"
+      },
+      {
+        "concept": "明信片",
+        "reason": "用户习惯此时寄给自己或朋友"
+      },
+      {
+        "concept": "旅行闭环仪式感",
+        "reason": "用户通过整理纪念品完成的心理过程"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_12"
+    ],
+    "reasoning": "触发旅行结束后的时间点，模型需联想到用户独特的收尾仪式（整理冰箱贴、寄明信片）。"
+  },
+  {
+    "id": "q_013",
+    "trigger_type": "时间相关记忆联想",
+    "question": "最近一直在想去罗马深度游的事，就是担心语言不通。",
+    "trigger_concept": "罗马",
+    "candidate_set": [
+      {
+        "concept": "周三晚上学意大利语",
+        "reason": "用户已为此建立的固定学习习惯"
+      },
+      {
+        "concept": "多邻国",
+        "reason": "用户正在使用的学习工具"
+      },
+      {
+        "concept": "与老人聊天",
+        "reason": "用户学习语言的具体动机（想在广场与当地人交流）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_02"
+    ],
+    "reasoning": "用户提出目的地需求，模型应主动联想到用户已为此付出的时间成本和具体行动（周三学语言），体现 proactive 记忆。"
+  },
+  {
+    "id": "q_014",
+    "trigger_type": "时间相关记忆联想",
+    "question": "最近压力好大，想找个地方发呆。",
+    "trigger_concept": "压力大",
+    "candidate_set": [
+      {
+        "concept": "梅雨季前的江浙沪短途",
+        "reason": "用户应对压力的固定时间窗口和策略"
+      },
+      {
+        "concept": "海边民宿",
+        "reason": "用户偏好的治愈地点"
+      },
+      {
+        "concept": "大理或镰仓",
+        "reason": "用户曾去过的类似治愈系目的地"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_07",
+      "emotion_travel_map"
+    ],
+    "reasoning": "用户表达情绪，模型需结合时间规律（梅雨前）和地点偏好，主动提供用户惯用的解决方案。"
+  },
+  {
+    "id": "q_015",
+    "trigger_type": "时间相关记忆联想",
+    "question": "我打算明年带我爸出去转转。",
+    "trigger_concept": "带爸爸旅行",
+    "candidate_set": [
+      {
+        "concept": "青藏铁路",
+        "reason": "父亲的最大愿望，用户已承诺明年实施"
+      },
+      {
+        "concept": "春节前的行程讨论",
+        "reason": "用户与父亲规划此类旅行的固定时间点"
+      },
+      {
+        "concept": "火车时刻表",
+        "reason": "父亲作为地理老师最关心的细节"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_05"
+    ],
+    "reasoning": "用户提出模糊计划，模型需精确联想到具体的目的地（青藏铁路）、时间节点（春节前）及父亲的特殊兴趣点。"
+  },
+  {
+    "id": "q_016",
+    "trigger_type": "时间相关记忆联想",
+    "question": "刚完成一个大项目，累瘫了但很爽。",
+    "trigger_concept": "完成大项目",
+    "candidate_set": [
+      {
+        "concept": "8 月入职纪念日奖励",
+        "reason": "用户将此类成就与特定时间点关联进行庆祝"
+      },
+      {
+        "concept": "冰岛冰川徒步",
+        "reason": "用户释放能量、庆祝成功的标志性活动"
+      },
+      {
+        "concept": "跳伞",
+        "reason": "用户另一种高挑战性的庆祝方式"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_08"
+    ],
+    "reasoning": "用户描述成就状态，模型需联想到用户独特的‘奖励机制’（特定时间 + 高难度活动），体现对 User Profile 深层逻辑的理解。"
+  },
+  {
+    "id": "q_017",
+    "trigger_type": "时间相关记忆联想",
+    "question": "我想买个大疆 Pocket 3 或者新镜头。",
+    "trigger_concept": "购买摄影装备",
+    "candidate_set": [
+      {
+        "concept": "双十一囤货",
+        "reason": "用户购买此类装备的固定时间窗口"
+      },
+      {
+        "concept": "让妈妈买感冒药",
+        "reason": "用户在同一时间段会让母亲协助准备的物资"
+      },
+      {
+        "concept": "为长途旅行做储备",
+        "reason": "用户购买行为的根本目的"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_09"
+    ],
+    "reasoning": "用户提及购物意向，模型需联想到特定的购物时机（双十一）以及伴随发生的家庭互动（妈妈买药），构建完整场景。"
+  },
+  {
+    "id": "q_018",
+    "trigger_type": "时间相关记忆联想",
+    "question": "最近又在研究极光拍摄了。",
+    "trigger_concept": "极光拍摄",
+    "candidate_set": [
+      {
+        "concept": "冬季（11 月 -2 月）",
+        "reason": "用户进行此项活动的固定季节"
+      },
+      {
+        "concept": "找老 K 交流",
+        "reason": "用户在此时段的固定社交行为"
+      },
+      {
+        "concept": "冰岛/挪威冷门机位",
+        "reason": "交流的具体内容和技术细节"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_10"
+    ],
+    "reasoning": "用户提及兴趣点，模型需补全时间背景（冬季）、关键人物（老 K）及具体行动（问机位），展示多跳联想能力。"
+  },
+  {
+    "id": "q_019",
+    "trigger_type": "时间相关记忆联想",
+    "question": "翻到了几年前去冰岛的照片，感慨万千。",
+    "trigger_concept": "冰岛照片",
+    "candidate_set": [
+      {
+        "concept": "2021 年 Gap 旅行",
+        "reason": "照片对应的具体时间和人生转折点"
+      },
+      {
+        "concept": "职业迷茫期的解药",
+        "reason": "那次旅行对用户职业生涯的特殊意义（转岗契机）"
+      },
+      {
+        "concept": "重读日记",
+        "reason": "用户现在感到迷茫时会做的动作"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_11",
+      "life_events"
+    ],
+    "reasoning": "用户触发回忆，模型需深度联想到该事件的时间背景（2021）、情感背景（迷茫/转岗）及用户当前的应对习惯（读日记）。"
+  },
+  {
+    "id": "q_020",
+    "trigger_type": "时间相关记忆联想",
+    "question": "每次旅行回来，总觉得少了点什么。",
+    "trigger_concept": "旅行回来",
+    "candidate_set": [
+      {
+        "concept": "整理冰箱贴",
+        "reason": "用户缺失的仪式感环节之一"
+      },
+      {
+        "concept": "寄明信片给自己",
+        "reason": "用户缺失的另一个关键收尾动作"
+      },
+      {
+        "concept": "月底发朋友圈九宫格",
+        "reason": "用户完成旅行闭环的最后一步"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_12"
+    ],
+    "reasoning": "用户表达模糊感受，模型需精准指出用户特有的‘旅行收尾仪式’（冰箱贴、明信片、发圈），暗示用户可能还没做这些事。"
+  },
+  {
+    "id": "q_021",
+    "trigger_type": "实体相关记忆联想",
+    "question": "最近在看京都的旅行攻略，有点怀念那里的氛围。",
+    "trigger_concept": "京都",
+    "candidate_set": [
+      {
+        "concept": "张薇",
+        "reason": "用户曾与室友张薇共同去过日本关西，她是该目的地的关键旅伴记忆。"
+      },
+      {
+        "concept": "伏见稻荷大社",
+        "reason": "这是用户 2018 年第一次独自出国旅行时建立自信的关键地点。"
+      },
+      {
+        "concept": "祗园",
+        "reason": "用户偏好在此处进行人文扫街摄影，区别于东京的喧嚣。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_01",
+      "entity_12"
+    ],
+    "reasoning": "用户提及京都，模型应联想到与其强绑定的旅伴（张薇）以及具有里程碑意义的特定景点（伏见稻荷大社），而非泛泛的日本常识。"
+  },
+  {
+    "id": "q_022",
+    "trigger_type": "实体相关记忆联想",
+    "question": "想带爸妈出去转转，但不知道他们能不能适应国外。",
+    "trigger_concept": "带爸妈出国",
+    "candidate_set": [
+      {
+        "concept": "新加坡",
+        "reason": "用户曾成功带父母去过新加坡，这是改变母亲态度的关键转折点。"
+      },
+      {
+        "concept": "环球影城",
+        "reason": "父母在新加坡环球影城玩得像孩子一样，是家庭游的高光记忆。"
+      },
+      {
+        "concept": "林建国",
+        "reason": "父亲作为地理老师，是用户旅行前的‘历史顾问’，需考虑他的兴趣点。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_02",
+      "entity_06"
+    ],
+    "reasoning": "提到带父母，模型必须调取唯一的成功家庭游案例（新加坡）及父母的具体反应，以提供有依据的建议。"
+  },
+  {
+    "id": "q_023",
+    "trigger_type": "实体相关记忆联想",
+    "question": "阿杰又在群里喊我去徒步了，有点犹豫。",
+    "trigger_concept": "阿杰",
+    "candidate_set": [
+      {
+        "concept": "新西兰 Milford Track",
+        "reason": "用户曾与阿杰在此徒步，由此确立了‘舒适型徒步’的偏好边界。"
+      },
+      {
+        "concept": "皇后镇跳伞",
+        "reason": "阿杰曾拉用户去跳伞，是其释放压力和职业转岗前的关键经历。"
+      },
+      {
+        "concept": "体力有限",
+        "reason": "用户意识到自己不适合纯硬核户外，这是与阿杰旅行后得出的自我认知。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_03",
+      "entity_10"
+    ],
+    "reasoning": "提到阿杰，模型应联想到具体的共同经历（新西兰、跳伞）以及这些经历对用户旅行风格定义的深远影响。"
+  },
+  {
+    "id": "q_024",
+    "trigger_type": "实体相关记忆联想",
+    "question": "准备去罗马了，正在做功课。",
+    "trigger_concept": "罗马",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "父亲虽未去过，但常通过视频通话为用户讲解罗马历史，是精神向导。"
+      },
+      {
+        "concept": "斗兽场",
+        "reason": "用户在此处有与父亲‘云游’的特殊情感连接。"
+      },
+      {
+        "concept": "历史背景",
+        "reason": "用户每次去欧洲前都会和父亲讨论当地历史，这是固定的行前仪式。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_04"
+    ],
+    "reasoning": "提到罗马，核心联想应是父亲林建国作为‘历史顾问’的角色，这是该目的地对用户独特的意义所在。"
+  },
+  {
+    "id": "q_025",
+    "trigger_type": "实体相关记忆联想",
+    "question": "翻到以前在清迈拍的照片，那时候还挺热闹的。",
+    "trigger_concept": "清迈",
+    "candidate_set": [
+      {
+        "concept": "林悦",
+        "reason": "用户曾与表妹林悦同游此地，但因旅行风格冲突（博物馆 vs 网红店）而留下深刻印象。"
+      },
+      {
+        "concept": "周末夜市",
+        "reason": "用户在此寻找人文摄影素材，而表妹只关注甜品，是冲突发生的具体场景。"
+      },
+      {
+        "concept": "风格冲突",
+        "reason": "这次旅行让用户决定以后长途旅行尽量找同龄人或独行。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_05"
+    ],
+    "reasoning": "提到清迈，模型应联想到与表妹的 неудачный旅行经历，这是用户选择旅伴策略转变的关键事件。"
+  },
+  {
+    "id": "q_026",
+    "trigger_type": "实体相关记忆联想",
+    "question": "瑞士的雪山真的很美，特别是因特拉肯那边。",
+    "trigger_concept": "因特拉肯",
+    "candidate_set": [
+      {
+        "concept": "张薇",
+        "reason": "张薇擅长用 Excel 规划行程，曾精准计算过此地的最佳观景时间。"
+      },
+      {
+        "concept": "少女峰",
+        "reason": "两人合作完美的具体体现，张薇负责数据，用户负责体验。"
+      },
+      {
+        "concept": "Excel 行程表",
+        "reason": "这是张薇在旅行中的标志性贡献，与因特拉肯之旅紧密绑定。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_06"
+    ],
+    "reasoning": "提到因特拉肯，必须联想到最佳旅伴张薇及其独特的贡献方式（Excel 规划），体现两人的互补性。"
+  },
+  {
+    "id": "q_027",
+    "trigger_type": "实体相关记忆联想",
+    "question": "有点想吃东南亚的路边摊了，那种烟火气。",
+    "trigger_concept": "东南亚路边摊",
+    "candidate_set": [
+      {
+        "concept": "槟城乔治市",
+        "reason": "用户曾带妈妈在此吃炒粿条，成功缓解了母亲的饮食焦虑。"
+      },
+      {
+        "concept": "炒粿条",
+        "reason": "具体的食物记忆，连接了用户与母亲的情感。"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "妈妈对卫生的担忧在此地被治愈，是重要的家庭记忆点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_07"
+    ],
+    "reasoning": "从泛指的‘东南亚路边摊’联想到具体的‘槟城’和‘妈妈’，体现了用户通过美食连接亲情的独特记忆路径。"
+  },
+  {
+    "id": "q_028",
+    "trigger_type": "实体相关记忆联想",
+    "question": "在整理佛罗伦萨的照片，光线太难掌握了。",
+    "trigger_concept": "佛罗伦萨",
+    "candidate_set": [
+      {
+        "concept": "老 K",
+        "reason": "摄影圈网友老 K 曾推荐过此地的拍摄技巧和机位。"
+      },
+      {
+        "concept": "乌菲兹美术馆",
+        "reason": "用户在此应用了老 K 教的低感光度技巧拍摄《春》。"
+      },
+      {
+        "concept": "自然光",
+        "reason": "用户偏好的摄影风格，也是老 K 强调的重点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_08"
+    ],
+    "reasoning": "提到佛罗伦萨和摄影困难，模型应联想到专业摄影师老 K 的指导，这是用户在该地提升技艺的关键外部资源。"
+  },
+  {
+    "id": "q_029",
+    "trigger_type": "实体相关记忆联想",
+    "question": "一个人在越南旅行时，偶尔会觉得特别孤独。",
+    "trigger_concept": "越南孤独",
+    "candidate_set": [
+      {
+        "concept": "会安古镇",
+        "reason": "用户在此地放灯笼时产生了强烈的孤独感。"
+      },
+      {
+        "concept": "榨菜",
+        "reason": "孤独时特别想念妈妈塞在包里的榨菜，是情感慰藉的具体符号。"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "妈妈的关爱（塞榨菜）是用户对抗孤独的精神支柱。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_09"
+    ],
+    "reasoning": "从‘越南孤独’这一情绪状态，精准联想到具体地点‘会安’和具象化的慰藉物‘榨菜’，体现深层情感记忆。"
+  },
+  {
+    "id": "q_030",
+    "trigger_type": "实体相关记忆联想",
+    "question": "想要挑战一下自己，做些刺激的事情。",
+    "trigger_concept": "挑战刺激",
+    "candidate_set": [
+      {
+        "concept": "皇后镇跳伞",
+        "reason": "用户曾在阿杰鼓励下在此跳伞，是释放压力和庆祝的典型行为。"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "他是用户尝试极限运动的推动者。"
+      },
+      {
+        "concept": "职业转岗",
+        "reason": "这次疯狂宣泄发生在用户从运营转岗 UX 研究之前，具有人生节点意义。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_10"
+    ],
+    "reasoning": "用户表达挑战意愿，模型应联想到其人生中最高强度的挑战经历（皇后镇跳伞）及其背后的推动者和人生背景。"
+  },
+  {
+    "id": "q_031",
+    "trigger_type": "实体相关记忆联想",
+    "question": "到了巴黎不想去景点挤，只想找个地方发呆。",
+    "trigger_concept": "巴黎发呆",
+    "candidate_set": [
+      {
+        "concept": "蒙马特高地",
+        "reason": "用户曾与张薇在此避开圣心堂人群，选择喝咖啡看路人。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "这种‘城市漫步’风格是与张薇合作时的典型模式。"
+      },
+      {
+        "concept": "咖啡馆",
+        "reason": "用户每城必探店的习惯，也是在巴黎放松的具体载体。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_11"
+    ],
+    "reasoning": "用户表达在巴黎的非典型需求，模型应联想到与张薇在蒙马特高地的具体‘反景点’经历，提供契合其风格的建议。"
+  },
+  {
+    "id": "q_032",
+    "trigger_type": "实体相关记忆联想",
+    "question": "回想起 2018 年那次独自出门，真是成长了很多。",
+    "trigger_concept": "2018 年独自旅行",
+    "candidate_set": [
+      {
+        "concept": "日本关西",
+        "reason": "这是用户第一次独自出国的目的地。"
+      },
+      {
+        "concept": "伏见稻荷大社",
+        "reason": "穿过千本鸟居是用户建立独立自信的具体场景。"
+      },
+      {
+        "concept": "错过列车",
+        "reason": "用户在此期间学会了独自处理此类突发状况，是成长的标志。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_12"
+    ],
+    "reasoning": "提到 2018 年和独自旅行，模型需精准定位到‘日本关西’和‘伏见稻荷大社’，并提取‘处理突发状况’这一成长细节。"
+  },
+  {
+    "id": "q_033",
+    "trigger_type": "实体相关记忆联想",
+    "question": "下次计划里得把爸爸的梦想清单加进去了。",
+    "trigger_concept": "爸爸的梦想",
+    "candidate_set": [
+      {
+        "concept": "青藏铁路",
+        "reason": "父亲年轻时受限，现在最大的愿望是坐一次青藏铁路，用户已承诺明年陪去。"
+      },
+      {
+        "concept": "林建国",
+        "reason": "父亲作为地理老师对火车时刻表和地图的酷爱，是这一梦想的根源。"
+      },
+      {
+        "concept": "明年计划",
+        "reason": "用户已有明确的时间承诺，这是即将发生的家庭大事。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "family_info"
+    ],
+    "reasoning": "从泛指的‘爸爸的梦想’联想到具体的‘青藏铁路’和‘明年计划’，体现用户对父亲心愿的深刻记忆和承诺。"
+  },
+  {
+    "id": "q_034",
+    "trigger_type": "实体相关记忆联想",
+    "question": "最近在学意大利语，为了下次去那边做准备。",
+    "trigger_concept": "学意大利语",
+    "candidate_set": [
+      {
+        "concept": "罗马",
+        "reason": "用户曾去过罗马，并与父亲讨论过其历史，是学习语言的动机来源之一。"
+      },
+      {
+        "concept": "佛罗伦萨",
+        "reason": "用户曾在此进行深度人文摄影，是语言应用的潜在场景。"
+      },
+      {
+        "concept": "周三晚上",
+        "reason": "这是用户固定的语言学习时间规律。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "daily_habits",
+      "travel_background"
+    ],
+    "reasoning": "提到学意大利语，模型应联想到用户去过的具体意大利城市（罗马、佛罗伦萨）以及其固定的学习习惯（周三晚上）。"
+  },
+  {
+    "id": "q_035",
+    "trigger_type": "实体相关记忆联想",
+    "question": "工作压力好大，想找个安静的地方躲几天。",
+    "trigger_concept": "工作压力大",
+    "candidate_set": [
+      {
+        "concept": "镰仓",
+        "reason": "用户压力大时倾向于去海边或安静古镇，镰仓是典型代表。"
+      },
+      {
+        "concept": "大理",
+        "reason": "另一个用户用于‘慢’治愈的目的地选项。"
+      },
+      {
+        "concept": "喝咖啡听海浪",
+        "reason": "用户在此类情绪下的具体行为模式，不需要密集行程。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_travel_map"
+    ],
+    "reasoning": "基于‘工作压力’这一情绪触发器，模型应主动推荐用户画像中明确记录的治愈系目的地（镰仓、大理）和行为模式。"
+  },
+  {
+    "id": "q_036",
+    "trigger_type": "实体相关记忆联想",
+    "question": "我在看冰岛的极光照片，真想念那里的黑夜。",
+    "trigger_concept": "冰岛极光",
+    "candidate_set": [
+      {
+        "concept": "2021 年 Gap 月",
+        "reason": "用户曾在 2021 年辞职gap 期间独自环岛自驾，是人生的转折点。"
+      },
+      {
+        "concept": "职业瓶颈期",
+        "reason": "那次旅行帮助用户重新思考职业规划，从而转岗成功。"
+      },
+      {
+        "concept": "老 K",
+        "reason": "在冰岛极光团认识的专业摄影师，至今仍有交流。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "life_events",
+      "social_circle"
+    ],
+    "reasoning": "提到冰岛极光，模型需进行多跳联想：从地点->2021 年 Gap 经历->职业转折，同时关联到在该地结识的人物老 K。"
+  },
+  {
+    "id": "q_037",
+    "trigger_type": "实体相关记忆联想",
+    "question": "想收集一些特别的旅行纪念品，不要那种批量生产的。",
+    "trigger_concept": "特别纪念品",
+    "candidate_set": [
+      {
+        "concept": "冰箱贴",
+        "reason": "用户只收集每个城市一个冰箱贴，是其独特的收藏习惯。"
+      },
+      {
+        "concept": "明信片",
+        "reason": "用户会寄给自己或朋友，赋予其通信功能而非单纯收藏。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "用户曾给一起旅行的张薇寄过明信片，是纪念品流向的具体对象。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "preferences",
+      "entity_01"
+    ],
+    "reasoning": "从‘特别纪念品’联想到用户具体的‘冰箱贴/明信片’偏好，并进一步关联到这些物品的接收者（如张薇），形成完整的行为链条。"
+  },
+  {
+    "id": "q_038",
+    "trigger_type": "实体相关记忆联想",
+    "question": "如果要去新西兰，我可能不会再选那种纯硬核的路线了。",
+    "trigger_concept": "新西兰非硬核",
+    "candidate_set": [
+      {
+        "concept": "Milford Track",
+        "reason": "用户曾与阿杰在此徒步，意识到自己体力有限，不适合纯硬核。"
+      },
+      {
+        "concept": "舒适型徒步",
+        "reason": "这是用户基于那次经历确立的新旅行风格标签。"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "他是那次硬核体验的发起者，也是用户界定自身边界的参照系。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_03",
+      "social_circle"
+    ],
+    "reasoning": "用户表达对新西兰路线的修正意愿，模型需追溯到具体的‘Milford Track’经历和‘阿杰’，解释其风格转变的根源。"
+  },
+  {
+    "id": "q_039",
+    "trigger_type": "实体相关记忆联想",
+    "question": "每次出门前，我妈总要把我的包塞爆。",
+    "trigger_concept": "妈妈塞包",
+    "candidate_set": [
+      {
+        "concept": "感冒药",
+        "reason": "妈妈每次必塞的物品之一，代表其对中国式安全的执念。"
+      },
+      {
+        "concept": "榨菜",
+        "reason": "另一必塞物品，曾在用户孤独时提供巨大慰藉。"
+      },
+      {
+        "concept": "新加坡之旅",
+        "reason": "这是妈妈态度转变的契机，从反对到成为‘后勤保障部长’。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "family",
+      "entity_09"
+    ],
+    "reasoning": "从‘妈妈塞包’这一行为，联想到具体物品（感冒药、榨菜）及其背后的情感故事（新加坡之旅后的态度转变、孤独时的慰藉）。"
+  },
+  {
+    "id": "q_040",
+    "trigger_type": "实体相关记忆联想",
+    "question": "我觉得我和表妹可能不太适合一起长途旅行了。",
+    "trigger_concept": "不适合和表妹旅行",
+    "candidate_set": [
+      {
+        "concept": "泰国之旅",
+        "reason": "两人曾同游泰国，是风格冲突爆发的具体事件。"
+      },
+      {
+        "concept": "博物馆 vs 网红店",
+        "reason": "冲突的核心内容，用户想看人文，表妹只想打卡。"
+      },
+      {
+        "concept": "同龄人",
+        "reason": "基于此次教训，用户得出的结论是以后尽量找同龄人或独行。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_05"
+    ],
+    "reasoning": "用户表达与表妹旅行的困境，模型需精准回溯到‘泰国’的具体冲突细节（博物馆 vs 网红店），并引出用户由此形成的旅伴选择原则。"
+  },
+  {
+    "id": "q_041",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近项目上线压力大到失眠，真想找个地方躲起来。",
+    "trigger_concept": "压力大/失眠",
+    "candidate_set": [
+      {
+        "concept": "镰仓",
+        "reason": "与'压力大/失眠'触发点直接关联的首选治愈地，联想路径最短"
+      },
+      {
+        "concept": "海边民宿",
+        "reason": "针对'躲起来'需求的具体住宿形态，信息量大且具象"
+      },
+      {
+        "concept": "大理",
+        "reason": "作为备选的高关联度安静古镇，强化逃避现实的场景感"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_01"
+    ],
+    "reasoning": "用户表达负面情绪（压力），模型需联想到其特定的情感 - 行为映射（压力->镰仓/大理/海边/咖啡），这是用户画像中明确定义的应对机制。"
+  },
+  {
+    "id": "q_042",
+    "trigger_type": "情感相关记忆联想",
+    "question": "做用户研究遇到瓶颈期，感觉找不到方向了。",
+    "trigger_concept": "迷茫/瓶颈",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "人物关联最强，是解决'迷茫'的情感核心与智慧来源"
+      },
+      {
+        "concept": "罗马",
+        "reason": "首选的人文历史城市，直接对应用户寻找灵感的场景"
+      },
+      {
+        "concept": "斗兽场",
+        "reason": "罗马中具体的静思地点，比泛化的城市概念更具记忆价值"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_02"
+    ],
+    "reasoning": "触发词为职业迷茫，模型应联想到用户通过‘与历史对话’来解决此类问题的独特模式，以及关键人物父亲的角色。"
+  },
+  {
+    "id": "q_043",
+    "trigger_type": "情感相关记忆联想",
+    "question": "终于搞定那个大项目了！必须奖励自己一次疯狂的旅行。",
+    "trigger_concept": "兴奋/庆祝",
+    "candidate_set": [
+      {
+        "concept": "冰岛",
+        "reason": "庆祝时偏好的挑战性地，最能体现'疯狂旅行'的特质"
+      },
+      {
+        "concept": "冰川徒步",
+        "reason": "释放能量的具体活动，将抽象的兴奋转化为具象行为"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "关键人物，解释了用户庆祝方式（硬核户外）的灵感来源"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_03"
+    ],
+    "reasoning": "用户表达喜悦，模型需联想到其‘兴奋->挑战自然’的行为模式，以及关键人物阿杰在其中的影响。"
+  },
+  {
+    "id": "q_044",
+    "trigger_type": "情感相关记忆联想",
+    "question": "一个人在杭州加班到深夜，突然特别想家。",
+    "trigger_concept": "孤独/想家",
+    "candidate_set": [
+      {
+        "concept": "槟城",
+        "reason": "孤独时首选的烟火气目的地，直接回应'想家'情绪"
+      },
+      {
+        "concept": "炒粿条",
+        "reason": "最具记忆价值的感官细节，具体化了美食治愈的概念"
+      },
+      {
+        "concept": "夜市",
+        "reason": "承载烟火气和慰藉心灵的核心场景，关联度极高"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_04"
+    ],
+    "reasoning": "触发词为孤独，模型应联想到用户通过‘美食和烟火气’来治愈的具体地点和食物记忆。"
+  },
+  {
+    "id": "q_045",
+    "trigger_type": "情感相关记忆联想",
+    "question": "翻到以前在新加坡环球影城拍的全家福，心里暖烘烘的。",
+    "trigger_concept": "怀念/温情",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "照片中的核心人物，父子/父女情感是'温情'的源头"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "照片中的另一核心人物，家庭完整性的关键要素"
+      },
+      {
+        "concept": "2023 年",
+        "reason": "标志性的时间节点，赋予了这次旅行特殊的纪念意义"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_06"
+    ],
+    "reasoning": "用户提及具体温情场景，模型需联想到该事件背后的关键人物（父母）及其对用户旅行观念的深远影响。"
+  },
+  {
+    "id": "q_046",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每次遇到难题，我就想起 18 年一个人在日本错过列车的经历。",
+    "trigger_concept": "自信/成就感",
+    "candidate_set": [
+      {
+        "concept": "2018 年",
+        "reason": "确立自信的关键时间节点，是回忆的锚点"
+      },
+      {
+        "concept": "京都",
+        "reason": "发生'错过列车'这一转折性事件的具体地点"
+      },
+      {
+        "concept": "转岗",
+        "reason": "自信带来的最大实际成果，体现了经历对人生的深远影响"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_07"
+    ],
+    "reasoning": "用户回顾过往成功经历，模型需联想到该经历发生的具体时空背景，以及它如何塑造了用户现在的职业轨迹。"
+  },
+  {
+    "id": "q_047",
+    "trigger_type": "情感相关记忆联想",
+    "question": "站在因特拉肯的少女峰下，觉得手里的 KPI 焦虑突然变得微不足道。",
+    "trigger_concept": "内心平静/治愈",
+    "candidate_set": [
+      {
+        "concept": "大自然",
+        "reason": "用户心中消解焦虑的核心概念，概括性最强"
+      },
+      {
+        "concept": "雷克雅未克",
+        "reason": "与少女峰并列的宏大自然景观地，强化治愈主题"
+      },
+      {
+        "concept": "极光",
+        "reason": "极具视觉冲击力和记忆价值的自然现象，象征内心的平静"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_05"
+    ],
+    "reasoning": "用户表达自然带来的治愈感，模型需联想到其他具有同等治愈功能的地点（冰岛/极光），并可能关联到常去的旅伴。"
+  },
+  {
+    "id": "q_048",
+    "trigger_type": "情感相关记忆联想",
+    "question": "想起在清迈跟表妹因为逛博物馆还是打卡网红店闹别扭，就觉得心累。",
+    "trigger_concept": "遗憾/反思",
+    "candidate_set": [
+      {
+        "concept": "林悦",
+        "reason": "冲突的直接对象，是'遗憾'情绪的根源"
+      },
+      {
+        "concept": "张薇",
+        "reason": "反思后确认的理想旅伴，代表了用户当前的价值观转变"
+      },
+      {
+        "concept": "独行",
+        "reason": "基于反思得出的重要行为结论，信息量大"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_08"
+    ],
+    "reasoning": "用户提及人际冲突，模型需联想到冲突对象（表妹）以及通过对比产生的正面联想（闺蜜张薇）和后续行为改变（倾向独行）。"
+  },
+  {
+    "id": "q_049",
+    "trigger_type": "情感相关记忆联想",
+    "question": "虽然现在去不了南极，但光是研究路线就让我对未来充满期待。",
+    "trigger_concept": "期待/憧憬",
+    "candidate_set": [
+      {
+        "concept": "Bucket List",
+        "reason": "核心概念，直接承载用户的'期待'与梦想清单"
+      },
+      {
+        "concept": "挪威峡湾",
+        "reason": "清单中的核心目的地，具体化了未来的憧憬"
+      },
+      {
+        "concept": "摄影机位",
+        "reason": "用户研究路线时的独特视角，体现了个性化的期待方式"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_09"
+    ],
+    "reasoning": "用户提及一个梦想地，模型需联想到清单上的其他目的地，以及用户研究这些目的地时的具体行为特征（关注摄影）。"
+  },
+  {
+    "id": "q_050",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在佛罗伦萨盯着《春》看的那一刻，感觉个人的得失真的不算什么。",
+    "trigger_concept": "敬畏/震撼",
+    "candidate_set": [
+      {
+        "concept": "乌菲兹美术馆",
+        "reason": "发生震撼体验的具体地点，与《春》直接绑定"
+      },
+      {
+        "concept": "艺术",
+        "reason": "引发'敬畏'感的核心媒介，主题升华的关键"
+      },
+      {
+        "concept": "林建国",
+        "reason": "深化艺术体验的关键人物，解释了用户为何能产生如此深刻的感悟"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_10"
+    ],
+    "reasoning": "用户表达艺术带来的震撼，模型需联想到其他类似的艺术圣地，以及父亲在其中扮演的‘历史顾问’角色，深化情感连接。"
+  },
+  {
+    "id": "q_051",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在异国他乡打开背包，摸到妈妈硬塞进来的东西，那一刻心里特别踏实。",
+    "trigger_concept": "安心/踏实",
+    "candidate_set": [
+      {
+        "concept": "陈秀兰",
+        "reason": "情感的核心来源，母亲的具体化身，直接关联‘妈妈硬塞’的动作。"
+      },
+      {
+        "concept": "榨菜",
+        "reason": "最具代表性的‘家乡味’符号，比感冒药更能触发文化认同和踏实感。"
+      },
+      {
+        "concept": "新加坡",
+        "reason": "母子关系转折的关键地点，解释了母亲为何从反对转为全力支持（塞东西）。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_11"
+    ],
+    "reasoning": "用户提及母亲的关怀行为，模型需具体化这些物品（药/榨菜），并关联到母亲态度转变的起源事件（新加坡之旅）。"
+  },
+  {
+    "id": "q_052",
+    "trigger_type": "情感相关记忆联想",
+    "question": "还记得 21 年在冰岛环岛自驾那两天，手机没信号，不用回钉钉消息，那种彻底的自由让我决定转岗。",
+    "trigger_concept": "自由/解脱",
+    "candidate_set": [
+      {
+        "concept": "转岗",
+        "reason": "那次旅行带来的最直接、最重要的人生结果，是故事的高潮。"
+      },
+      {
+        "concept": "2021 年",
+        "reason": "明确的时间锚点，标记了用户人生的关键转折年份。"
+      },
+      {
+        "concept": "职业瓶颈",
+        "reason": "触发旅行的根本原因（Push 因素），与‘自由’形成强烈对比，增加叙事张力。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_12"
+    ],
+    "reasoning": "用户回顾关键人生转折事件，模型需联想到该事件的前因（瓶颈）后果（转岗），强化因果链条。"
+  },
+  {
+    "id": "q_053",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近工作压力好大，好想再去一次镰仓海边发呆。",
+    "trigger_concept": "压力大",
+    "candidate_set": [
+      {
+        "concept": "咖啡",
+        "reason": "镰仓发呆的具体行为场景，极具画面感，是缓解压力的核心动作。"
+      },
+      {
+        "concept": "海边民宿",
+        "reason": "具体的住宿偏好，构建了‘发呆’的空间环境，增强沉浸感。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "关键的社交变量。用户虽想独行，但系统需判断是否转化为邀约，具有交互价值。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_01",
+      "emotion_05"
+    ],
+    "reasoning": "用户明确表达压力和目的地，模型不仅要确认目的地，还要联想其他同类治愈地，并尝试关联可能的旅伴或具体活动细节，体现深度记忆。"
+  },
+  {
+    "id": "q_054",
+    "trigger_type": "情感相关记忆联想",
+    "question": "看到罗马斗兽场的照片，又想起了爸爸以前给我讲的历史故事。",
+    "trigger_concept": "罗马/历史",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "故事的另一主角，父亲的身份和历史老师的背景直接解释了‘讲历史故事’的来源。"
+      },
+      {
+        "concept": "青藏铁路",
+        "reason": "连接过去（讲故事）与未来（陪父亲旅行）的关键纽带，最具行动导向的概念。"
+      },
+      {
+        "concept": "迷茫",
+        "reason": "用户寻找历史答案的内在心理动因，深化了‘罗马’对用户的特殊意义。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_02",
+      "entity_04"
+    ],
+    "reasoning": "从‘罗马/父亲’出发，模型需联想到用户去罗马的特定情感动机（迷茫），以及父亲当前的愿望（青藏铁路），实现从过去记忆到未来计划的跨越。"
+  },
+  {
+    "id": "q_055",
+    "trigger_type": "情感相关记忆联想",
+    "question": "搞定这个大项目真不容易，正想着叫上阿杰去新西兰跳伞庆祝一下。",
+    "trigger_concept": "庆祝/阿杰",
+    "candidate_set": [
+      {
+        "concept": "冰岛",
+        "reason": "与新西兰并列的庆祝地选项，代表了用户偏好的‘挑战型’庆祝方式。"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "引入家庭视角的冲突点。高风险活动必然引发母亲担忧，增加对话的趣味性和深度。"
+      },
+      {
+        "concept": "冰川徒步",
+        "reason": "具体的替代活动方案，与跳伞同属高能量释放活动，提供实质性的建议选项。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_03",
+      "emotion_11"
+    ],
+    "reasoning": "用户提出庆祝计划，模型不仅联想到其他庆祝地（冰岛），还进行多跳联想：高风险活动->妈妈的安全担忧->妈妈标志性的关怀物品（感冒药），构建复杂的情感互动场景。"
+  },
+  {
+    "id": "q_056",
+    "trigger_type": "情感相关记忆联想",
+    "question": "一个人吃饭好孤独，好怀念槟城乔治市的夜市。",
+    "trigger_concept": "孤独/槟城",
+    "candidate_set": [
+      {
+        "concept": "炒粿条",
+        "reason": "槟城夜市最具体的味觉记忆，直接对应‘怀念’的情感载体。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "解决‘孤独’的首选潜在伴侣。需辨析用户是想继续独行还是寻求陪伴，交互价值高。"
+      },
+      {
+        "concept": "成都",
+        "reason": "提供替代性的解决方案。若无法去槟城，成都是另一处可治愈孤独的烟火气城市。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_04",
+      "emotion_08"
+    ],
+    "reasoning": "用户表达孤独和具体地点，模型需联想到具体食物，其他同类地点，并结合人际关系记忆（表妹的冲突 vs 闺蜜的默契）来推断用户此刻是想彻底独处还是寻找特定同伴。"
+  },
+  {
+    "id": "q_057",
+    "trigger_type": "情感相关记忆联想",
+    "question": "翻看 2018 年日本独行的照片，那时候真勇敢啊。",
+    "trigger_concept": "2018 年/日本",
+    "candidate_set": [
+      {
+        "concept": "错过列车",
+        "reason": "2018 年独行中最具戏剧性的事件，是‘勇敢’这一评价的具体证据和记忆锚点。"
+      },
+      {
+        "concept": "转岗",
+        "reason": "将过去的‘勇敢’与现在的职业成就联系起来，展示了成长的因果链条。"
+      },
+      {
+        "concept": "京都",
+        "reason": "2018 年独行的具体发生地，为回忆提供清晰的空间背景。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_07",
+      "emotion_12"
+    ],
+    "reasoning": "从回忆过去（2018）出发，模型需提取具体事件细节（错过列车），并跨越时间线联想到该事件对后续人生重大决策（转岗、冰岛之行）的深远影响，构建长程因果链。"
+  },
+  {
+    "id": "q_058",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在乌菲兹美术馆站了半天，感觉灵魂都被洗涤了。",
+    "trigger_concept": "艺术/震撼",
+    "candidate_set": [
+      {
+        "concept": "佛罗伦萨",
+        "reason": "乌菲兹美术馆的所在地，明确地理位置，是艺术体验的空间载体。"
+      },
+      {
+        "concept": "林建国",
+        "reason": "父亲的历史视角能升华艺术体验，关联用户深层的家庭记忆和知识背景。"
+      },
+      {
+        "concept": "迷茫",
+        "reason": "揭示用户寻求‘灵魂洗涤’的深层心理动机，将艺术体验转化为心理疗愈。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_10",
+      "emotion_02"
+    ],
+    "reasoning": "用户表达艺术体验，模型需关联地点、关键人物（父亲），并进一步推断用户产生此类行为的潜在情感状态（是否正处迷茫期），实现从行为到深层心理的主动关怀。"
+  },
+  {
+    "id": "q_059",
+    "trigger_type": "情感相关记忆联想",
+    "question": "妈妈又给我塞了一包榨菜，说国外吃不惯。",
+    "trigger_concept": "妈妈/榨菜",
+    "candidate_set": [
+      {
+        "concept": "陈秀兰",
+        "reason": "动作的发出者，母亲的具体名字，强化人物关系。"
+      },
+      {
+        "concept": "感冒药",
+        "reason": "与榨菜共同构成‘母爱套餐’的另一半，体现母亲关怀的全面性和习惯性。"
+      },
+      {
+        "concept": "新加坡",
+        "reason": "解释母亲行为转变的背景故事（从反对到支持），增加对话的信息厚度。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_11",
+      "emotion_06"
+    ],
+    "reasoning": "从具体的‘榨菜’细节出发，模型需完整还原母亲的人物形象、态度转变的关键事件（新加坡）、配套物品（感冒药）以及用户的情感反馈（安心），展现对家庭情感纽路的深刻理解。"
+  },
+  {
+    "id": "q_060",
+    "trigger_type": "情感相关记忆联想",
+    "question": "好想去挪威峡湾徒步，把它加入我的愿望清单。",
+    "trigger_concept": "挪威/愿望清单",
+    "candidate_set": [
+      {
+        "concept": "南极",
+        "reason": "愿望清单中的终极目标，代表了用户旅行野心的顶点，最具激励性。"
+      },
+      {
+        "concept": "秘鲁",
+        "reason": "愿望清单中另一重要且具体的目的地，丰富了‘清单’的内容维度。"
+      },
+      {
+        "concept": "工作压力大",
+        "reason": "规划旅行的潜在触发原因。将‘愿望’与‘现状’连接，提供情感共鸣和关怀切入点。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_09",
+      "emotion_01"
+    ],
+    "reasoning": "用户提出未来计划，模型需补充清单上的其他项目，结合用户的摄影师身份细化关注点，并敏锐地捕捉到‘规划未来’这一行为背后可能隐藏的当下情绪（如工作压力），实现跨维度的情感联想。"
+  },
+  {
+    "id": "q_061",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "最近想订一家京都的住宿，正在看有没有合适的。",
+    "trigger_concept": "京都住宿",
+    "candidate_set": [
+      {
+        "concept": "老町屋改造",
+        "reason": "直接关联京都地域特色与用户偏好的设计感，是住宿的具体形态。"
+      },
+      {
+        "concept": "床品质量",
+        "reason": "用户极度重视的硬性指标，直接决定住宿体验和次日行程状态。"
+      },
+      {
+        "concept": "公共交流空间",
+        "reason": "用户独特的社交需求（观察人群），区别于普通住宿的关键特征。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_01"
+    ],
+    "reasoning": "用户仅提到地点和住宿需求，模型需主动联想到其严格的筛选标准（设计感、非多人间、重床品）及在京都的具体偏好（老町屋、公共空间）。"
+  },
+  {
+    "id": "q_062",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "马上要飞雷克雅未克了，正在选座。",
+    "trigger_concept": "飞雷克雅未克选座",
+    "candidate_set": [
+      {
+        "concept": "靠窗位",
+        "reason": "用户长途飞行必选靠窗位，认为看云层变化很治愈"
+      },
+      {
+        "concept": "不开夜车",
+        "reason": "若后续涉及冰岛自驾，用户坚持绝对不开夜车的安全原则"
+      },
+      {
+        "concept": "沿途风景",
+        "reason": "用户将交通时间视为旅行一部分，享受风景变化"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_02"
+    ],
+    "reasoning": "用户提到飞行选座，模型应联想到其固定的'靠窗位'习惯，并可顺势提及该用户在交通方式上对风景的重视及自驾安全底线。"
+  },
+  {
+    "id": "q_063",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "到了会安古镇，想拍点灯笼夜的照片。",
+    "trigger_concept": "会安拍照",
+    "candidate_set": [
+      {
+        "concept": "Sony A7C II + 20-70mm 镜头",
+        "reason": "用户固定的核心摄影装备，直接决定成像风格和操作方式。"
+      },
+      {
+        "concept": "自然光",
+        "reason": "用户坚持的拍摄原则，对夜景灯笼拍摄的光线处理有决定性影响。"
+      },
+      {
+        "concept": "拒绝过度磨皮",
+        "reason": "用户核心的审美价值观，定义了照片的最终质感和后期风格。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_03"
+    ],
+    "reasoning": "用户表达拍摄意图，模型需联想到其特定的器材配置（Sony+Pocket 3）及审美偏好（自然光、真实质感）。"
+  },
+  {
+    "id": "q_064",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚在槟城乔治市找地方吃晚饭。",
+    "trigger_concept": "槟城晚餐",
+    "candidate_set": [
+      {
+        "concept": "苍蝇馆子/路边摊",
+        "reason": "用户明确的就餐场景偏好，直接缩小了搜索范围。"
+      },
+      {
+        "concept": "炒粿条",
+        "reason": "槟城最具代表性的地道美食，符合用户“最对味”的需求。"
+      },
+      {
+        "concept": "拒绝游客团餐",
+        "reason": "用户核心的避雷原则，是筛选餐厅的首要否定条件。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_04"
+    ],
+    "reasoning": "用户询问晚餐，模型应联想到其'找当地人馆子'的习惯及'必喝咖啡'的附加行为模式。"
+  },
+  {
+    "id": "q_065",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "准备离开佛罗伦萨了，想买点纪念品。",
+    "trigger_concept": "佛罗伦萨纪念品",
+    "candidate_set": [
+      {
+        "concept": "特色冰箱贴",
+        "reason": "用户唯一的收集癖好，具有极高的记忆价值和唯一性。"
+      },
+      {
+        "concept": "当地明信片",
+        "reason": "用户固定的旅行闭环仪式，具有特定的社交和情感功能。"
+      },
+      {
+        "concept": "拒绝义乌小商品",
+        "reason": "用户购买纪念品的核心底线，直接排除了大部分通用商品。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_05"
+    ],
+    "reasoning": "用户提到买纪念品，模型需联想到其挑剔的购买清单（冰箱贴、明信片、实用品）及特定的赠送习惯。"
+  },
+  {
+    "id": "q_066",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "下个月要去罗马了，正在做行前准备。",
+    "trigger_concept": "去罗马行前准备",
+    "candidate_set": [
+      {
+        "concept": "与爸爸讨论历史",
+        "reason": "用户每次去欧洲前都会和'历史顾问'爸爸林建国讨论当地历史背景"
+      },
+      {
+        "concept": "妈妈塞感冒药和榨菜",
+        "reason": "用户临行前会接受妈妈陈秀兰塞满背包的药品和榨菜作为安心符"
+      },
+      {
+        "concept": "地理老师建议",
+        "reason": "爸爸的职业背景使其成为用户的历史/地理咨询对象"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_06"
+    ],
+    "reasoning": "用户提到去欧洲（罗马）的准备，模型应联想到其独特的家庭互动仪式：向爸爸请教历史和接受妈妈的物资补给。"
+  },
+  {
+    "id": "q_067",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "打算规划一次意大利的长途旅行，在想要不要找人一起。",
+    "trigger_concept": "意大利长途旅伴",
+    "candidate_set": [
+      {
+        "concept": "张薇",
+        "reason": "用户最稳定且互补的首选旅伴，是解决“找人一起”的最直接答案。"
+      },
+      {
+        "concept": "分工合作模式",
+        "reason": "用户与理想旅伴的核心协作机制，决定了旅行规划的效率和质量。"
+      },
+      {
+        "concept": "避免与表妹同行",
+        "reason": "基于过往冲突得出的重要负面约束，直接影响人选决策。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_07"
+    ],
+    "reasoning": "用户询问旅伴，模型需联想到其完美的搭档张薇及其分工模式，同时对比之前与表妹旅行失败的教训，解释为何选择特定类型的旅伴。"
+  },
+  {
+    "id": "q_068",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "到了巴黎，不知道怎么安排当地的游览方式比较好。",
+    "trigger_concept": "巴黎游览方式",
+    "candidate_set": [
+      {
+        "concept": "City Walk",
+        "reason": "用户最核心的游览方式，完美契合“用双脚丈量城市”的需求。"
+      },
+      {
+        "concept": "公共交通",
+        "reason": "用户在城市内移动的首选方式，体现融入当地生活的理念。"
+      },
+      {
+        "concept": "半自由行",
+        "reason": "用户宏观的旅行组织形式，平衡了自主性与便利性。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_08"
+    ],
+    "reasoning": "用户询问游览方式，模型应联想到其'半自由行 + City Walk'的核心旅行哲学，并具体到使用公共交通的细节。"
+  },
+  {
+    "id": "q_069",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚从新西兰回来，照片堆在相机里还没动。",
+    "trigger_concept": "新西兰回来整理照片",
+    "candidate_set": [
+      {
+        "concept": "每月最后一个周末",
+        "reason": "用户固定的照片整理时间触发器，具有极强的规律性。"
+      },
+      {
+        "concept": "Lightroom 调色",
+        "reason": "用户处理照片的核心工具和工序，体现对画质的追求。"
+      },
+      {
+        "concept": "挑选 9 张发朋友圈",
+        "reason": "用户固定的社交分享仪式，是照片整理工作的最终出口。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_09"
+    ],
+    "reasoning": "用户提到照片未整理，模型需联想到其固定的'月度复盘'时间规律及具体的数字内容产出流程（调色、发圈、写博客）。"
+  },
+  {
+    "id": "q_070",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "最近工作有点迷茫，想去京都散散心。",
+    "trigger_concept": "工作迷茫去京都",
+    "candidate_set": [
+      {
+        "concept": "参观博物馆/寺庙",
+        "reason": "用户应对迷茫时的首选活动，通过人文历史寻找方向。"
+      },
+      {
+        "concept": "静默时段",
+        "reason": "用户独特的心理调节机制，行程中必不可少的独处环节。"
+      },
+      {
+        "concept": "爸爸讲过的历史",
+        "reason": "用户静默思考时的核心精神支柱和联想内容，情感连接最深。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_10"
+    ],
+    "reasoning": "用户表达情绪（迷茫）和地点（京都），模型需联想到其特定的应对行为：寻找人文古迹、设置'静默时间'以及内心的对话机制。"
+  },
+  {
+    "id": "q_071",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "终于完成大项目了，想找个地方好好庆祝一下！",
+    "trigger_concept": "完成项目庆祝",
+    "candidate_set": [
+      {
+        "concept": "挑战性活动",
+        "reason": "用户庆祝兴奋时的首选行为模式，如跳伞、冰川徒步。"
+      },
+      {
+        "concept": "安全底线",
+        "reason": "用户在进行高风险活动时的核心约束条件，不可逾越。"
+      },
+      {
+        "concept": "阿杰的建议",
+        "reason": "用户此类庆祝方式的灵感来源和信任背书，关联性强。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_11"
+    ],
+    "reasoning": "用户表达庆祝意愿，模型需联想到其'兴奋=挑战'的行为模式，同时精准区分其'舒适型徒步'的体力边界及关键人物阿杰的影响。"
+  },
+  {
+    "id": "q_072",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "又是周五晚上了，习惯性打开机票软件看看。",
+    "trigger_concept": "周五晚上看机票",
+    "candidate_set": [
+      {
+        "concept": "挪威峡湾/秘鲁",
+        "reason": "用户 Bucket List 中的具体目的地，是看机票时的核心关注对象。"
+      },
+      {
+        "concept": "长期预算规划",
+        "reason": "用户看机票背后的实质行为目的，为未来 1-2 年做预演。"
+      },
+      {
+        "concept": "保持期待",
+        "reason": "该行为对用户心理层面的核心价值，是维持生活动力的方式。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_12"
+    ],
+    "reasoning": "用户提到周五晚上的习惯动作，模型需联想到其背后的目的（规划 Bucket List 目的地）及具体的关注对象（特价信息、远期路线）。"
+  },
+  {
+    "id": "q_073",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "想在清迈找个地方喝咖啡，顺便逛逛。",
+    "trigger_concept": "清迈喝咖啡",
+    "candidate_set": [
+      {
+        "concept": "探店 2-3 家特色咖啡馆",
+        "reason": "直接响应'喝咖啡'的核心需求，且符合用户雷打不动的仪式感。"
+      },
+      {
+        "concept": "周末夜市",
+        "reason": "精准匹配'顺便逛逛'的诉求，是用户在清迈偏好的具体场景。"
+      },
+      {
+        "concept": "拒绝游客团餐餐厅",
+        "reason": "定义了用户寻找咖啡馆和闲逛时的筛选标准（当地人聚集地），关联性强。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_04",
+      "behavior_07"
+    ],
+    "reasoning": "结合饮食偏好（behavior_04）和旅伴习惯（behavior_07）。用户提到喝咖啡，模型联想到其'必探店'的定量习惯，并可延伸至若与特定旅伴同行时的协作细节。"
+  },
+  {
+    "id": "q_074",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "准备去冰岛自驾，有点担心路况。",
+    "trigger_concept": "冰岛自驾",
+    "candidate_set": [
+      {
+        "concept": "不开夜车",
+        "reason": "直接回应'担心路况'的安全焦虑，是用户自驾的最高优先级原则。"
+      },
+      {
+        "concept": "享受沿途风景",
+        "reason": "解释了用户自驾的核心动机，将驾驶从赶路转化为体验，信息量大。"
+      },
+      {
+        "concept": "舒适型徒步",
+        "reason": "补充了冰岛行程中除自驾外的主要活动风格，体现用户非硬核的旅行偏好。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_02",
+      "behavior_11"
+    ],
+    "reasoning": "用户提到自驾担忧，模型需主动提醒其'不开夜车'的原则，并关联到其在冰岛的其他行为模式（舒适型户外、摄影机位探索）。"
+  },
+  {
+    "id": "q_075",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "每次旅行回来都觉得少了点什么，好像没结束一样。",
+    "trigger_concept": "旅行结束感觉",
+    "candidate_set": [
+      {
+        "concept": "寄明信片给自己或朋友",
+        "reason": "被视为旅行真正画上句号的闭环动作，直接解决'没结束'的感觉。"
+      },
+      {
+        "concept": "写游记博客",
+        "reason": "记录心理变化而非流水账，是用户完成旅行体验和精神复盘的关键。"
+      },
+      {
+        "concept": "每月最后一个周末整理照片",
+        "reason": "固定的复盘仪式，通过具体的时间行为将旅行记忆固化，具有强记忆价值。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_05",
+      "behavior_09"
+    ],
+    "reasoning": "用户表达旅行未完结感，模型需联想到其完整的'收尾闭环'行为：寄明信片、整理照片、写博客，解释这些动作如何赋予旅行终结感。"
+  },
+  {
+    "id": "q_076",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "要去欧洲了，正在收拾行李。",
+    "trigger_concept": "去欧洲收拾行李",
+    "candidate_set": [
+      {
+        "concept": "Sony A7C II 及镜头",
+        "reason": "欧洲人文风景记录的核心工具，是用户行李中不可或缺的高价值物品。"
+      },
+      {
+        "concept": "妈妈塞的感冒药和榨菜",
+        "reason": "极具画面感和情感张力的细节，体现了家庭对用户行前准备的具体影响。"
+      },
+      {
+        "concept": "与爸爸讨论历史",
+        "reason": "针对'欧洲'目的地的特有准备环节，将行前心理建设与目的地特质强关联。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_06",
+      "behavior_03",
+      "behavior_01"
+    ],
+    "reasoning": "多跳联想。从'去欧洲'触发家庭互动（父母），同时关联到必带装备（相机）和行前确认事项（住宿），构建完整的行前画像。"
+  },
+  {
+    "id": "q_077",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "在罗马斗兽场前，感觉人好多，想静一静。",
+    "trigger_concept": "罗马斗兽场想静一静",
+    "candidate_set": [
+      {
+        "concept": "回想爸爸讲的历史",
+        "reason": "在斗兽场特定场景下，通过回忆父亲讲解实现内心对话，是最自然的联想路径。"
+      },
+      {
+        "concept": "让同伴自己去逛",
+        "reason": "用户处理'想静一静'需求时的具体社交行为，体现了独立的旅行习惯。"
+      },
+      {
+        "concept": "静默时段",
+        "reason": "概括了用户应对迷茫或需要思考时的通用策略，定义了该行为的性质。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_10",
+      "behavior_06"
+    ],
+    "reasoning": "深度情感与行为关联。用户在景点想静一静，模型需联想到其特定的'静默仪式'（分开行动、回忆父亲教诲），并将此行为与其解决迷茫的心理机制联系起来。"
+  },
+  {
+    "id": "q_078",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "想再去一次泰国，但上次体验不太好。",
+    "trigger_concept": "泰国体验不好",
+    "candidate_set": [
+      {
+        "concept": "与表妹林悦风格冲突",
+        "reason": "直接解释了'上次体验不太好'的根本原因，是触发重游计划的关键背景。"
+      },
+      {
+        "concept": "只找同龄人或独行",
+        "reason": "基于过去教训得出的最重要决策改变，直接指导未来的旅行方式。"
+      },
+      {
+        "concept": "清迈夜市/博物馆之争",
+        "reason": "提供了冲突的具体场景（深度游 vs 打卡游），使'体验不好'的概念具象化。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_07"
+    ],
+    "reasoning": "因果推理。用户提到负面体验，模型需精准定位到'与表妹的风格冲突'这一具体事件，并引出用户由此形成的'旅伴筛选新原则'。"
+  },
+  {
+    "id": "q_079",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "打算去挪威峡湾，正在做预算规划。",
+    "trigger_concept": "挪威峡湾预算",
+    "candidate_set": [
+      {
+        "concept": "Bucket List 目的地",
+        "reason": "定义了挪威峡湾在用户心中的地位，解释了为何值得进行复杂的预算规划。"
+      },
+      {
+        "concept": "半自由行模式",
+        "reason": "明确了用户针对此类长途高预算目的地的具体执行策略，信息量大。"
+      },
+      {
+        "concept": "舒适型徒步",
+        "reason": "关联了用户在挪威的主要活动偏好，确保预算规划涵盖正确的体验类型。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_12",
+      "behavior_11",
+      "behavior_08"
+    ],
+    "reasoning": "综合规划联想。从'挪威峡湾'这一 Bucket List 目的地，联想到用户的固定规划时间（周五晚）、预期的活动强度（舒适型）及交通组织方式（半自由行）。"
+  },
+  {
+    "id": "q_080",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚拍了一组在巴黎蒙马特的街头人像。",
+    "trigger_concept": "巴黎街头人像",
+    "candidate_set": [
+      {
+        "concept": "拒绝过度磨皮",
+        "reason": "直接体现用户街头人像摄影的核心审美原则，最具记忆价值。"
+      },
+      {
+        "concept": "自然光拍摄",
+        "reason": "定义了用户在蒙马特街头创作的技术手段，与'街头'氛围强关联。"
+      },
+      {
+        "concept": "月底整理发圈",
+        "reason": "明确了这组照片的最终归宿和时间节点，完成了从拍摄到分享的闭环。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_03",
+      "behavior_04",
+      "behavior_09"
+    ],
+    "reasoning": "多跳行为链。从'拍摄人像'联想到摄影原则（自然光、不磨皮），再延伸到该地点的饮食习惯（喝咖啡），最后关联到照片的最终归宿（月底发圈），形成完整的行为闭环。"
+  },
+  {
+    "id": "q_081",
+    "trigger_type": "多跳记忆联想",
+    "question": "最近项目上线压力大到想逃，第一反应就是想去镰仓海边发呆，就像上次在京都那样，要是没有张薇帮我规划路线，我也没法那么安心地在祗园扫街治愈自己。",
+    "trigger_concept": "工作压力大",
+    "candidate_set": [
+      {
+        "concept": "镰仓",
+        "reason": "用户情感地图中明确指出的应对‘工作压力大/焦虑’时的首选治愈地（海边/慢节奏）。"
+      },
+      {
+        "concept": "京都",
+        "reason": "作为与镰仓同类的‘人文历史深度游’且具治愈属性的日本目的地，是用户过往缓解压力的成功体验地。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "用户最稳定的长途旅伴，以其擅长做 Excel 行程表的特质，解决了用户在压力状态下无法专注规划的痛点。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_01",
+      "multihop_01"
+    ],
+    "reasoning": "从情绪状态（压力）直接联想到特定的应对行为（去镰仓/京都），再进一步联想到实现该行为的关键支持者（张薇），构成‘情绪 - 地点 - 人物’的简单链条。"
+  },
+  {
+    "id": "q_082",
+    "trigger_type": "多跳记忆联想",
+    "question": "有时候工作迷茫了，我就想起站在罗马斗兽场前听我爸讲古罗马历史的感觉，老爷子虽然没去过罗马，但他那满脑子的历史地理知识，现在全用在研究明年我们要去的青藏铁路时刻表上了。",
+    "trigger_concept": "迷茫",
+    "candidate_set": [
+      {
+        "concept": "罗马斗兽场",
+        "reason": "用户情感地图中‘感到迷茫’时选择的典型人文历史场景，用于通过与历史对话寻找方向。"
+      },
+      {
+        "concept": "林建国",
+        "reason": "用户的父亲，退休地理老师，是用户在欧洲旅行前咨询历史背景的‘历史顾问’，也是连接用户与历史知识的桥梁。"
+      },
+      {
+        "concept": "青藏铁路",
+        "reason": "父亲林建国未完成的心愿目的地，用户承诺明年陪他去，是将历史兴趣转化为未来家庭旅行计划的具体载体。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_02",
+      "multihop_02"
+    ],
+    "reasoning": "从抽象情绪（迷茫）跳转到具体场景（罗马斗兽场），再关联到该场景下的知识来源人物（父亲），最后延伸至该人物当前的愿望（青藏铁路），需要跨越时间维度和虚实场景。"
+  },
+  {
+    "id": "q_083",
+    "trigger_type": "多跳记忆联想",
+    "question": "这次升职必须得去新西兰皇后镇跳个伞庆祝一下，毕竟那是阿杰当年带我入坑的地方，不过我现在学聪明了，虽然受他影响爱上了户外，但我只搞‘舒适型徒步’，像 Milford Track 那种硬核的还是留给他吧。",
+    "trigger_concept": "兴奋庆祝",
+    "candidate_set": [
+      {
+        "concept": "新西兰皇后镇",
+        "reason": "用户情感地图中‘兴奋/庆祝’时选择的挑战性高、风景壮丽的目的地。"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "前同事兼户外狂热分子，是引导用户接触新西兰徒步和自然风光的关键人物。"
+      },
+      {
+        "concept": "舒适型徒步",
+        "reason": "用户在与阿杰经历硬核徒步后，自我定位形成的独特旅行风格，区别于纯粹的硬核户外。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_03",
+      "multihop_03"
+    ],
+    "reasoning": "从情绪（庆祝）推导至目的地（皇后镇），再追溯至该目的地的引路人（阿杰），最后对比引出用户基于自身体力限制形成的风格偏好（舒适型徒步），涉及人物影响与自我认知的转变。"
+  },
+  {
+    "id": "q_084",
+    "trigger_type": "多跳记忆联想",
+    "question": "一个人在杭州加班特别想家的时候，就怀念槟城乔治市夜市的炒粿条，那是妈妈也能接受的味道，其实不管去哪，只要摸到背包里我妈硬塞的感冒药和榨菜，那种安全感就跟在槟城吃路边摊一样踏实。",
+    "trigger_concept": "孤独想家",
+    "candidate_set": [
+      {
+        "concept": "槟城夜市",
+        "reason": "用户情感地图中‘孤独/想家’时选择的烟火气重、美食丰富的慰藉地。"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "用户的母亲，从反对旅行转变为‘后勤保障部长’，是用户安全感的重要来源。"
+      },
+      {
+        "concept": "感冒药",
+        "reason": "母亲每次旅行前必塞的物品，象征着母亲的关怀，是用户在孤独时获得心理慰藉的具体物件。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_04",
+      "multihop_04"
+    ],
+    "reasoning": "从情绪（想家）联想到抚慰地点（槟城），再自然过渡到提供该地点安全感的人物（母亲）及其标志性物品（感冒药），逻辑链条紧密且情感色彩浓厚。"
+  },
+  {
+    "id": "q_085",
+    "trigger_type": "多跳记忆联想",
+    "question": "每周五晚上我都会查查杭州飞挪威峡湾的机票价格，看看有没有特价，其实去挪威主要是想拍极光，到时候还得问问老 K 最近哪个冷门机位光污染少，他在那方面太专业了。",
+    "trigger_concept": "周五晚上",
+    "candidate_set": [
+      {
+        "concept": "挪威峡湾",
+        "reason": "用户 Bucket List 中的目的地，也是其周五晚上查看特价机票时的重点关注对象。"
+      },
+      {
+        "concept": "老 K",
+        "reason": "摄影圈网友，专业摄影师，是用户获取冷门拍摄机位和参数建议的技术顾问。"
+      },
+      {
+        "concept": "极光",
+        "reason": "用户前往挪威的核心拍摄目标，也是与老 K 进行专业交流的主要话题。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_04",
+      "multihop_05"
+    ],
+    "reasoning": "从特定时间习惯（周五查票）推导至目标目的地（挪威），再关联到该目的地下的核心活动（拍极光）及该活动的专家资源（老 K），体现了用户‘规划 - 目标 - 执行支持’的完整闭环。"
+  },
+  {
+    "id": "q_086",
+    "trigger_type": "多跳记忆联想",
+    "question": "上次在清迈夜市，表妹林悦只顾着打卡网红店，我想拍人文照片，两人节奏完全合不来，那次之后我就明白了，长途旅行还是得找像张薇这样的人，她做表我拍照，分工明确才不会闹别扭。",
+    "trigger_concept": "清迈夜市",
+    "candidate_set": [
+      {
+        "concept": "林悦",
+        "reason": "用户的表妹，曾与用户在泰国旅行中因风格差异（网红店 vs 博物馆/人文）产生冲突的旅伴。"
+      },
+      {
+        "concept": "风格冲突",
+        "reason": "用户与林悦旅行失败的核心原因，促使用户重新思考旅伴选择标准的关键事件属性。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "作为‘风格冲突’的反面案例，张薇是用户理想的互补型旅伴，代表了完美的合作模式。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_05",
+      "multihop_06"
+    ],
+    "reasoning": "从具体地点事件（清迈夜市冲突）出发，识别冲突对象（林悦）和冲突性质（风格差异），进而通过对比推理出用户最终选择的理想解决方案（张薇），需要理解人物关系的动态变化。"
+  },
+  {
+    "id": "q_087",
+    "trigger_type": "多跳记忆联想",
+    "question": "用我的 Sony A7C II 在会安拍灯笼夜的时候，周围很热闹，心里却莫名觉得孤独，那时候特别想念家里，尤其是想到我妈硬塞进包里的榨菜，那是唯一能治好我孤独感的东西。",
+    "trigger_concept": "Sony A7C II",
+    "candidate_set": [
+      {
+        "concept": "会安灯笼",
+        "reason": "用户使用 Sony A7C II 拍摄的经典场景，该场景下的热闹氛围反而反衬出用户内心的孤独感。"
+      },
+      {
+        "concept": "孤独感",
+        "reason": "用户在特定拍摄场景（会安灯笼夜）下产生的情绪波动，是连接摄影行为与家庭记忆的中间态。"
+      },
+      {
+        "concept": "陈秀兰",
+        "reason": "通过‘榨菜’这一意象关联到的母亲，是用户在孤独时刻情感慰藉的最终归宿。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_03",
+      "multihop_07"
+    ],
+    "reasoning": "从工具（相机）跳转到具体拍摄场景（会安灯笼），再深入挖掘该场景下的心理状态（孤独），最后溯源至缓解该心理状态的情感锚点（母亲），涉及从物理设备到深层情感的多次跨越。"
+  },
+  {
+    "id": "q_088",
+    "trigger_type": "多跳记忆联想",
+    "question": "在因特拉肯那趟旅行，多亏有张薇在，她做的 Excel 表简直神了，要不是她算准了时间和座位，我们根本抢不到少女峰齿轮火车上的最佳观景位，那雪景绝对看不到那么美。",
+    "trigger_concept": "因特拉肯",
+    "candidate_set": [
+      {
+        "concept": "张薇",
+        "reason": "用户在瑞士旅行中的关键伙伴，以其独特的技能保障了旅行体验。"
+      },
+      {
+        "concept": "Excel",
+        "reason": "张薇的核心贡献工具，体现了两人在旅行中‘她做表我拍照’的完美分工。"
+      },
+      {
+        "concept": "少女峰",
+        "reason": "因 Excel 规划而获得最佳体验的具体景点，是工具价值转化为实际旅行成果的证明。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_06",
+      "multihop_08"
+    ],
+    "reasoning": "从地点（因特拉肯）直接关联到同行者（张薇）及其核心技能（Excel），再具体化到该技能优化的特定景点体验（少女峰），逻辑直观且因果明确。"
+  },
+  {
+    "id": "q_089",
+    "trigger_type": "多跳记忆联想",
+    "question": "回想 2018 年第一次一个人在京都错过列车都能搞定，那种经历给了我巨大的自信，正是这份‘我能解决任何问题’的底气，让我后来敢于在职业瓶颈期辞职，从运营转岗去做用户研究。",
+    "trigger_concept": "2018 年",
+    "candidate_set": [
+      {
+        "concept": "京都独行",
+        "reason": "用户 2018 年的里程碑事件，确立了其独立处理突发状况的能力。"
+      },
+      {
+        "concept": "自信",
+        "reason": "京都独行经历带来的核心心理资产，是连接旅行经历与职业决策的关键桥梁。"
+      },
+      {
+        "concept": "转岗",
+        "reason": "用户基于旅行获得的自信而做出的重大职业决策，是从产品运营转向用户研究的关键动作。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_12",
+      "multihop_09"
+    ],
+    "reasoning": "从时间点（2018 年）回溯具体事件（京都独行），提炼出抽象的心理品质（自信），再将该品质映射到职业生涯的重大转折（转岗），构建了‘事件 - 心理 - 行为’的长链条因果推理。"
+  },
+  {
+    "id": "q_090",
+    "trigger_type": "多跳记忆联想",
+    "question": "双十一我不买衣服，就盯着相机镜头看，想着下次去冰岛拍极光得装备升级一下，毕竟老 K 之前说过，要想在冰岛那种暗光环境下出片，镜头的光圈和参数设置太关键了，得提前准备好。",
+    "trigger_concept": "双 11",
+    "candidate_set": [
+      {
+        "concept": "相机镜头",
+        "reason": "用户在双 11 期间的特定购物目标，服务于未来的旅行拍摄计划。"
+      },
+      {
+        "concept": "冰岛",
+        "reason": "相机镜头的主要使用场景，也是用户 Bucket List 中的重要目的地。"
+      },
+      {
+        "concept": "老 K",
+        "reason": "提供冰岛拍摄技术参数建议的专家，是用户购买决策背后的知识支撑。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_09",
+      "multihop_10"
+    ],
+    "reasoning": "从购物节点（双 11）推导至购买对象（镜头），再关联到该对象的使用场景（冰岛），最后追溯至影响该场景下装备选择的专业意见来源（老 K），体现了消费行为背后的专业考量。"
+  },
+  {
+    "id": "q_091",
+    "trigger_type": "多跳记忆联想",
+    "question": "在巴黎蒙马特，我和张薇根本没去挤圣心堂，而是找家小咖啡馆坐了一下午，这才是我们定义的‘城市漫步’，不看景点，只喝咖啡看路人，这种节奏只有跟她在一起才能完美实现。",
+    "trigger_concept": "巴黎蒙马特",
+    "candidate_set": [
+      {
+        "concept": "咖啡馆",
+        "reason": "用户在巴黎蒙马特与张薇共同选择的活动场所，体现了其‘重体验轻打卡’的旅行哲学。"
+      },
+      {
+        "concept": "张薇",
+        "reason": "能够与用户在‘城市漫步’理念上高度契合、共同享受慢节奏的专属旅伴。"
+      },
+      {
+        "concept": "城市漫步",
+        "reason": "用户与张薇共同定义并实践的旅行方式，是对传统观光模式的颠覆。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_11",
+      "multihop_11"
+    ],
+    "reasoning": "从具体地点（巴黎蒙马特）描述具体行为（喝咖啡），关联到行为伙伴（张薇）及该行为所代表的旅行理念（城市漫步），逻辑流畅，侧重于生活方式的共鸣。"
+  },
+  {
+    "id": "q_092",
+    "trigger_type": "多跳记忆联想",
+    "question": "看到爸妈在新加坡环球影城笑得像孩子一样，我才深刻体会到旅行也是连接亲情的纽带，从那以后我把‘家庭友好’纳入了必选项，所以明年哪怕再忙，也要陪我爸去实现他坐青藏铁路的愿望。",
+    "trigger_concept": "新加坡环球影城",
+    "candidate_set": [
+      {
+        "concept": "父母开心",
+        "reason": "用户在新加坡环球影城观察到的关键情感时刻，是其旅行观念转变的触发点。"
+      },
+      {
+        "concept": "家庭友好",
+        "reason": "用户基于父母开心的体验而新增的旅行考量因素，标志着其旅行风格的成熟与包容。"
+      },
+      {
+        "concept": "明年计划",
+        "reason": "‘家庭友好’理念落地后的具体行动，即陪伴父亲完成青藏铁路之旅的承诺。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "life_events",
+      "multihop_12"
+    ],
+    "reasoning": "从具体事件（新加坡环球影城）提炼情感反馈（父母开心），上升为价值观转变（家庭友好），最后落实为未来行动计划（明年陪父旅行），展示了用户成长的心路历程。"
+  },
+  {
+    "id": "q_093",
+    "trigger_type": "多跳记忆联想",
+    "question": "每次去欧洲前都会和我爸讨论当地的历史背景，他虽然只去过北京上海，但作为退休中学地理老师，他对火车时刻表的痴迷现在全用在了研究明年我们要去的青藏铁路线上。",
+    "trigger_concept": "林建国",
+    "candidate_set": [
+      {
+        "concept": "历史背景",
+        "reason": "用户与父亲交流的核心内容，体现了父亲作为‘历史顾问’的角色价值。"
+      },
+      {
+        "concept": "火车时刻表",
+        "reason": "父亲年轻时的收藏爱好，如今转化为研究青藏铁路路线的具体工具。"
+      },
+      {
+        "concept": "青藏铁路",
+        "reason": "父亲心愿的终极目的地，也是父子/父女共同旅行计划的焦点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_04",
+      "multihop_02"
+    ],
+    "reasoning": "从人物（父亲）出发，关联其知识输出（历史背景）和兴趣爱好（火车时刻表），最终汇聚于共同的未来目标（青藏铁路），刻画了父亲的人物画像及亲子互动模式。"
+  },
+  {
+    "id": "q_094",
+    "trigger_type": "多跳记忆联想",
+    "question": "在冰岛环岛自驾的那段极致孤独和壮丽自然中，我重新思考了职业规划，回国后决定从产品运营转岗为用户研究，那次经历让我找到了更热爱的工作方向。",
+    "trigger_concept": "2021 年",
+    "candidate_set": [
+      {
+        "concept": "冰岛",
+        "reason": "用户 2021 年 Gap 期间的旅行地，是其职业思考的物理空间。"
+      },
+      {
+        "concept": "孤独感",
+        "reason": "用户在冰岛旅行中的核心心理体验，是触发深度自我反思的情绪催化剂。"
+      },
+      {
+        "concept": "转岗",
+        "reason": "用户在冰岛经历洗礼后做出的职业决策结果，是从运营到用研的关键转折。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "life_events",
+      "emotion_07"
+    ],
+    "reasoning": "从时间节点（2021 年）定位到地点（冰岛），深入分析该地点的心理氛围（孤独），最终推导出该经历导致的职业行为改变（转岗），是一条典型的‘环境 - 心理 - 行为’因果链。"
+  },
+  {
+    "id": "q_095",
+    "trigger_type": "多跳记忆联想",
+    "question": "我的 Sony A7C II 配上 20-70mm 镜头，最喜欢在自然光下捕捉街头人文瞬间，就像在会安拍灯笼或者在罗马街头抓拍路人，不喜欢那种过度磨皮的人像照。",
+    "trigger_concept": "Sony A7C II",
+    "candidate_set": [
+      {
+        "concept": "20-70mm 镜头",
+        "reason": "用户摄影装备的核心组成部分，与其偏好的焦段和拍摄风格紧密相关。"
+      },
+      {
+        "concept": "自然光",
+        "reason": "用户摄影风格的首要原则，决定了其拍摄时间和场景的选择。"
+      },
+      {
+        "concept": "会安灯笼",
+        "reason": "用户运用上述装备和风格进行创作的典型场景案例之一。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_03",
+      "preferences"
+    ],
+    "reasoning": "从核心设备（相机）扩展到配套镜头，再阐述其拍摄原则（自然光），最后举例说明应用场景（会安），是对用户摄影爱好的直接描述性联想。"
+  },
+  {
+    "id": "q_096",
+    "trigger_type": "多跳记忆联想",
+    "question": "我不买义乌小商品，只收集每个城市的冰箱贴、当地特色的明信片以及有实用价值的餐具，就像在佛罗伦萨买的陶瓷盘，既是纪念品又能日常使用。",
+    "trigger_concept": "旅行纪念品",
+    "candidate_set": [
+      {
+        "concept": "冰箱贴",
+        "reason": "用户收集纪念品的首选品类，遵循‘每个城市一个’的规则。"
+      },
+      {
+        "concept": "明信片",
+        "reason": "用户偏好的纪念品类型，具有寄给自己或朋友的社交/记录属性。"
+      },
+      {
+        "concept": "餐具",
+        "reason": "用户看重的具有实用价值的纪念品类别，体现了其务实的消费观。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "preferences",
+      "behavior_03"
+    ],
+    "reasoning": "从广义概念（纪念品）出发，列举用户明确偏好的三个具体子类（冰箱贴、明信片、餐具），属于基于用户明确偏好的直接分类联想。"
+  },
+  {
+    "id": "q_097",
+    "trigger_type": "多跳记忆联想",
+    "question": "通勤地铁上我会浏览小红书收藏潜在的旅行目的地图片，整理灵感板，特别是看到挪威峡湾或者秘鲁马丘比丘这种 Bucket List 上的地方，就会特别兴奋。",
+    "trigger_concept": "地铁",
+    "candidate_set": [
+      {
+        "concept": "小红书",
+        "reason": "用户在通勤时间获取旅行灵感和图片的主要平台。"
+      },
+      {
+        "concept": "Bucket List",
+        "reason": "用户心中向往的目的地清单，是其在浏览内容时重点关注的对象。"
+      },
+      {
+        "concept": "挪威峡湾",
+        "reason": "用户 Bucket List 中的具体目的地之一，是激发其兴奋情绪的具体实例。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "daily_habits",
+      "travel_background"
+    ],
+    "reasoning": "从场景（地铁通勤）推导至行为（刷小红书），再聚焦于行为关注的核心内容（Bucket List），最后具体化到列表中的实例（挪威峡湾），反映了用户的日常信息获取习惯。"
+  },
+  {
+    "id": "q_098",
+    "trigger_type": "多跳记忆联想",
+    "question": "每月最后一个周末我会整理当月拍摄的照片，进行调色和归档，挑选 9 张发朋友圈或写一篇简短的游记博客，记录像大理这样的短途旅行点滴。",
+    "trigger_concept": "每月最后一个周末",
+    "candidate_set": [
+      {
+        "concept": "游记博客",
+        "reason": "用户整理照片后的产出形式之一，用于深度记录旅行体验。"
+      },
+      {
+        "concept": "朋友圈",
+        "reason": "用户分享精选照片（9 张）的主要社交渠道。"
+      },
+      {
+        "concept": "大理",
+        "reason": "用户短途旅行的典型目的地，是其月度整理内容的常见素材来源。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "daily_habits",
+      "emotion_01"
+    ],
+    "reasoning": "从固定时间（月末周末）关联到固定行为（整理照片），再延伸至行为的产出物（博客/朋友圈）及内容素材（大理），是对用户常规生活节奏的描述。"
+  },
+  {
+    "id": "q_099",
+    "trigger_type": "多跳记忆联想",
+    "question": "阿杰曾邀请我去新西兰徒步 Milford Track，那次经历让我爱上了自然风光，但也让我意识到自己体力有限，不适合纯硬核户外，更偏向‘舒适型徒步’。",
+    "trigger_concept": "阿杰",
+    "candidate_set": [
+      {
+        "concept": "新西兰",
+        "reason": "阿杰邀请用户旅行的目的地，是用户接触硬核户外的起点。"
+      },
+      {
+        "concept": "Milford Track",
+        "reason": "具体的硬核徒步路线，是用户评估自身体力极限的试金石。"
+      },
+      {
+        "concept": "舒适型徒步",
+        "reason": "用户基于 Milford Track 经历后确立的自我旅行风格定位。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_10",
+      "behavior_11"
+    ],
+    "reasoning": "从人物（阿杰）引出具体事件（新西兰徒步），再通过该事件的体验反馈（体力有限），推导出用户的风格定位（舒适型徒步），体现了他人影响下的自我认知过程。"
+  },
+  {
+    "id": "q_100",
+    "trigger_type": "多跳记忆联想",
+    "question": "在学习基础意大利语的时候，我会想象自己站在乌菲兹美术馆前，或者在佛罗伦萨的街头喝咖啡，这种语言学习与旅行憧憬的结合让我动力十足。",
+    "trigger_concept": "意大利语",
+    "candidate_set": [
+      {
+        "concept": "乌菲兹美术馆",
+        "reason": "用户学习意大利语时联想到的具体文化地标，代表其人文历史深度游的兴趣。"
+      },
+      {
+        "concept": "佛罗伦萨",
+        "reason": "用户曾到访且深爱的城市，是其语言学习情境模拟的主要场景。"
+      },
+      {
+        "concept": "咖啡",
+        "reason": "用户在佛罗伦萨等欧洲城市必做的日常活动，是连接语言学习与生活体验的纽带。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "daily_habits",
+      "travel_background"
+    ],
+    "reasoning": "从学习行为（学意大利语）跳跃到想象中的场景（乌菲兹美术馆），再细化到该场景下的具体活动（喝咖啡），需要结合用户的旅行经历、兴趣爱好及日常习惯进行综合构建。"
+  }
+]

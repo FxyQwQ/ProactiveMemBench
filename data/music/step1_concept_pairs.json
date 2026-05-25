@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "time_01",
+    "type": "时间触发器",
+    "time_pattern": "工作日早晨 7:30",
+    "music_entity": "BBC Radio 3 古典音乐电台",
+    "natural_expression": "每天早上七点半，我一边吃早餐一边把 BBC Radio 3 当作背景音，这已经是我开启一天工作的固定仪式了。",
+    "involved_entities": [
+      "BBC Radio 3",
+      "早餐时间"
+    ]
+  },
+  {
+    "id": "time_02",
+    "type": "时间触发器",
+    "time_pattern": "通勤路上（地铁 1 号线）",
+    "music_entity": "City Pop 歌单 / 极简主义作品",
+    "natural_expression": "在挤地铁 1 号线的时候，如果今天方案改得很烦，我就听 Philip Glass 的极简主义来平复心情；要是心情不错，就会切换成 City Pop 跟着节奏晃悠。",
+    "involved_entities": [
+      "地铁 1 号线",
+      "City Pop",
+      "极简主义"
+    ]
+  },
+  {
+    "id": "time_03",
+    "type": "时间触发器",
+    "time_pattern": "周三、周五晚上 20:00-21:30",
+    "music_entity": "哈农指法练习 / 德彪西《月光》",
+    "natural_expression": "周三和周五晚上雷打不动要练琴，先弹半小时哈农热身，然后死磕德彪西的《月光》，张老师总说我技巧够了，但那种朦胧的音色还得再磨磨。",
+    "involved_entities": [
+      "哈农",
+      "德彪西",
+      "《月光》",
+      "张教授"
+    ]
+  },
+  {
+    "id": "time_04",
+    "type": "时间触发器",
+    "time_pattern": "每两个月一次的周末",
+    "music_entity": "肖邦《夜曲》或自选曲目回课",
+    "natural_expression": "每隔两个月我就得去张教授家‘挨骂’回课，上次弹肖邦的《夜曲》又被批评情感不够细腻，看来还得继续琢磨。",
+    "involved_entities": [
+      "张教授",
+      "肖邦",
+      "《夜曲》"
+    ]
+  },
+  {
+    "id": "time_05",
+    "type": "时间触发器",
+    "time_pattern": "周末下午",
+    "music_entity": "杭州本地独立唱片店黑胶唱片",
+    "natural_expression": "周末下午我最喜欢钻进杭州巷子里的独立唱片店，像苏苏那样淘几张黑胶，听听有没有适合下次建筑方案的环境音乐灵感。",
+    "involved_entities": [
+      "独立唱片店",
+      "苏苏",
+      "黑胶唱片"
+    ]
+  },
+  {
+    "id": "time_06",
+    "type": "时间触发器",
+    "time_pattern": "天气晴朗的周末午后",
+    "music_entity": "德彪西《水中倒影》",
+    "natural_expression": "只要西湖边天气好，我就会带着蓝牙音箱去长椅上坐坐，听着《水中倒影》看真实的湖水，那种通感对我的设计很有帮助。",
+    "involved_entities": [
+      "西湖",
+      "德彪西",
+      "《水中倒影》"
+    ]
+  },
+  {
+    "id": "time_07",
+    "type": "时间触发器",
+    "time_pattern": "项目汇报前",
+    "music_entity": "坂本龙一《Async》",
+    "natural_expression": "每次去会议室给甲方讲方案前，我都会先放一段坂本龙一的《Async》，这种氛围能让大家都静下来，进入我们想要的空间节奏里。",
+    "involved_entities": [
+      "坂本龙一",
+      "《Async》",
+      "公司会议室"
+    ]
+  },
+  {
+    "id": "time_08",
+    "type": "时间触发器",
+    "time_pattern": "工作压力大/焦虑时",
+    "music_entity": "巴赫《平均律》或 Philip Glass 作品",
+    "natural_expression": "一旦赶图赶到焦虑爆发，我就躲进书房弹巴赫的《平均律》，那种严谨的结构和重复旋律能让我瞬间冷静下来。",
+    "involved_entities": [
+      "巴赫",
+      "《平均律》",
+      "Philip Glass",
+      "书房"
+    ]
+  },
+  {
+    "id": "time_09",
+    "type": "时间触发器",
+    "time_pattern": "偶尔的周末夜晚",
+    "music_entity": "MAO Livehouse 独立乐队演出",
+    "natural_expression": "偶尔周末晚上我会去 MAO Livehouse 站在前排，感受表弟那种摇滚乐的低音震动，虽然我和林子豪常争论古典乐是否过时，但这种现场能量确实能释放压力。",
+    "involved_entities": [
+      "MAO Livehouse",
+      "林子豪",
+      "独立乐队"
+    ]
+  },
+  {
+    "id": "time_10",
+    "type": "时间触发器",
+    "time_pattern": "怀旧/思念亲人时",
+    "music_entity": "久石让《Summer》或儿时练琴录音",
+    "natural_expression": "有时候特别想爷爷了，我就会翻出小时候的练琴录音，或者听久石让的《Summer》，想起小时候他给我讲《二泉映月》的那个夏天。",
+    "involved_entities": [
+      "久石让",
+      "《Summer》",
+      "林建国",
+      "二胡"
+    ]
+  },
+  {
+    "id": "time_11",
+    "type": "时间触发器",
+    "time_pattern": "灵感迸发/深夜",
+    "music_entity": "即兴钢琴创作 / 手机录音",
+    "natural_expression": "深夜在书房有了建筑灵感时，我会直接在钢琴上即兴弹奏一些不协和和弦，并马上用手机录下来，作为之后环境音乐小样的素材。",
+    "involved_entities": [
+      "即兴演奏",
+      "手机录音",
+      "环境音乐"
+    ]
+  },
+  {
+    "id": "time_12",
+    "type": "时间触发器",
+    "time_pattern": "与室友苏苏聚会时",
+    "music_entity": "黑胶唱片鉴赏",
+    "natural_expression": "和苏苏在出租屋喝酒时，她负责从收藏里挑黑胶，我负责给她讲曲目背后的故事，这是我们最放松的时刻。",
+    "involved_entities": [
+      "苏苏",
+      "黑胶唱片",
+      "出租屋"
+    ]
+  },
+  {
+    "id": "entity_01",
+    "type": "实体触发器",
+    "core_entity": "肖邦《夜曲》",
+    "related_entities": [
+      "林建国",
+      "二胡"
+    ],
+    "relation": "人物绑定",
+    "natural_expression": "虽然肖邦是西方浪漫主义的代表，但每次弹《夜曲》时，我总能想起爷爷拉二胡时的吟唱感，那种东方的线性旋律美和肖邦的装饰音其实有着异曲同工之妙。",
+    "involved_entities": [
+      "肖邦",
+      "《夜曲》",
+      "林建国",
+      "二胡"
+    ]
+  },
+  {
+    "id": "entity_02",
+    "type": "实体触发器",
+    "core_entity": "星海牌立式钢琴",
+    "related_entities": [
+      "陈秀英"
+    ],
+    "relation": "人物绑定",
+    "natural_expression": "家里那台老星海钢琴是妈妈当年在纺织厂省吃俭用买回来的，虽然现在我在书房用的是雅马哈 U1，但那台星海承载了她坚信‘音乐能改变气质’的执着，是我琴路上最重的基石。",
+    "involved_entities": [
+      "星海牌立式钢琴",
+      "陈秀英",
+      "雅马哈 U1"
+    ]
+  },
+  {
+    "id": "entity_03",
+    "type": "实体触发器",
+    "core_entity": "电吉他",
+    "related_entities": [
+      "林子豪"
+    ],
+    "relation": "比较",
+    "natural_expression": "表弟林子豪总觉得古典乐过时，偏爱他的电吉他和摇滚乐队，但当我们尝试用我的钢琴即兴伴奏他的失真 riff 时，那种古典和声与现代噪音的碰撞，反而产生了意想不到的建筑空间感。",
+    "involved_entities": [
+      "电吉他",
+      "林子豪",
+      "钢琴",
+      "摇滚乐"
+    ]
+  },
+  {
+    "id": "entity_04",
+    "type": "实体触发器",
+    "core_entity": "德彪西《月光》",
+    "related_entities": [
+      "张教授"
+    ],
+    "relation": "评价",
+    "natural_expression": "张教授总批评我弹德彪西的《月光》技巧有余而情感不足，他说我太像建筑师追求结构精准，却忘了印象派音乐需要的是那种捉摸不定的朦胧与留白。",
+    "involved_entities": [
+      "德彪西",
+      "《月光》",
+      "张教授"
+    ]
+  },
+  {
+    "id": "entity_05",
+    "type": "实体触发器",
+    "core_entity": "黑胶唱片",
+    "related_entities": [
+      "苏苏"
+    ],
+    "relation": "人物绑定",
+    "natural_expression": "苏苏虽然不懂乐理也不会乐器，但她对黑胶唱片的选曲品味极佳，往往能挑出一些我从未注意过的 City Pop 冷门佳作，弥补了我作为学院派在听觉视野上的局限。",
+    "involved_entities": [
+      "黑胶唱片",
+      "苏苏",
+      "City Pop"
+    ]
+  },
+  {
+    "id": "entity_06",
+    "type": "实体触发器",
+    "core_entity": "坂本龙一《Async》",
+    "related_entities": [
+      "阿杰"
+    ],
+    "relation": "场景绑定",
+    "natural_expression": "我和搭档阿杰在讨论空间声学方案时，坂本龙一的《Async》是我们的共同语言，他常邀请我用钢琴为他的白噪音项目采样，我们将这种极简的电子质感融入建筑的氛围设计中。",
+    "involved_entities": [
+      "坂本龙一",
+      "《Async》",
+      "阿杰",
+      "白噪音"
+    ]
+  },
+  {
+    "id": "entity_07",
+    "type": "实体触发器",
+    "core_entity": "久石让动画原声",
+    "related_entities": [
+      "林建国",
+      "童年"
+    ],
+    "relation": "评价",
+    "natural_expression": "很多人觉得久石让的音乐过于通俗，但对我来说，他的旋律里藏着爷爷讲述《二泉映月》时的那种叙事性，尤其是《Summer》，直接连通了我童年最温暖的记忆通道。",
+    "involved_entities": [
+      "久石让",
+      "动画原声",
+      "林建国",
+      "《二泉映月》"
+    ]
+  },
+  {
+    "id": "entity_08",
+    "type": "实体触发器",
+    "core_entity": "巴赫《平均律》",
+    "related_entities": [
+      "建筑结构"
+    ],
+    "relation": "比较",
+    "natural_expression": "作为建筑师，我常把巴赫的《平均律》比作音乐中的哥特式教堂，其严谨的对位法和数学逻辑，与我画建筑蓝图时的结构推演有着同样的秩序美感，是我焦虑时的最佳镇定剂。",
+    "involved_entities": [
+      "巴赫",
+      "《平均律》",
+      "建筑结构"
+    ]
+  },
+  {
+    "id": "entity_09",
+    "type": "实体触发器",
+    "core_entity": "中国音乐家协会业余十级证书",
+    "related_entities": [
+      "陈秀英",
+      "少年宫"
+    ],
+    "relation": "人物绑定",
+    "natural_expression": "那张业余十级证书不仅是我从杭州少年宫坚持到高中的证明，更是妈妈陈秀英作为纺织女工最大的骄傲，它见证了我们母女俩在音乐路上相互扶持的二十年。",
+    "involved_entities": [
+      "业余十级证书",
+      "陈秀英",
+      "杭州少年宫"
+    ]
+  },
+  {
+    "id": "entity_10",
+    "type": "实体触发器",
+    "core_entity": "Philip Glass 极简主义作品",
+    "related_entities": [
+      "现代建筑设计"
+    ],
+    "relation": "比较",
+    "natural_expression": "Philip Glass 那种不断重复又微调的极简主义旋律，像极了我正在探索的现代建筑立面设计，通过单一元素的无限复制与微小变异，构建出宏大的空间节奏。",
+    "involved_entities": [
+      "Philip Glass",
+      "极简主义",
+      "现代建筑"
+    ]
+  },
+  {
+    "id": "entity_11",
+    "type": "实体触发器",
+    "core_entity": "《二泉映月》",
+    "related_entities": [
+      "林建国",
+      "阿炳"
+    ],
+    "relation": "人物绑定",
+    "natural_expression": "爷爷林建国虽未专业演奏过《二泉映月》，但他讲述阿炳故事时的神情，让我明白了这首曲子背后的苦难与坚韧，这种中国式的悲剧美学深深影响了我对音乐情感深度的理解。",
+    "involved_entities": [
+      "《二泉映月》",
+      "林建国",
+      "阿炳"
+    ]
+  },
+  {
+    "id": "entity_12",
+    "type": "实体触发器",
+    "core_entity": "雅马哈 U1 立式钢琴",
+    "related_entities": [
+      "自家书房",
+      "高保真音箱"
+    ],
+    "relation": "场景绑定",
+    "natural_expression": "书房角落的雅马哈 U1 和窗边的高保真音箱构成了我的私密声场，这里既是我深夜死磕德彪西音色的战场，也是我聆听交响乐、让建筑灵感与音乐共振的避难所。",
+    "involved_entities": [
+      "雅马哈 U1",
+      "自家书房",
+      "高保真音箱"
+    ]
+  },
+  {
+    "id": "emotion_01",
+    "type": "情感触发器",
+    "emotion": "焦虑/压力大",
+    "direction": "情感->音乐",
+    "music_behavior": "弹奏巴赫《平均律》或 Philip Glass 的极简主义作品",
+    "natural_expression": "当赶图赶到心跳加速、焦虑感爆棚时，我会躲进书房弹巴赫的《平均律》，那种严丝合缝的对位法结构，或者 Philip Glass 不断重复的音型，能像建筑骨架一样把我的思绪重新支撑起来，让我瞬间冷静。",
+    "involved_entities": [
+      "焦虑",
+      "巴赫",
+      "《平均律》",
+      "Philip Glass",
+      "书房"
+    ]
+  },
+  {
+    "id": "emotion_02",
+    "type": "情感触发器",
+    "emotion": "悲伤/失落",
+    "direction": "情感->音乐",
+    "music_behavior": "聆听肖邦《夜曲》或拉赫玛尼诺夫慢板乐章",
+    "natural_expression": "如果方案被甲方否决感到特别失落，我不会强行振作，而是戴上耳机独自听肖邦的《夜曲》或拉赫玛尼诺夫的慢板，允许自己沉浸在那种宏大的忧郁里，让眼泪和音乐一起宣泄出来。",
+    "involved_entities": [
+      "悲伤",
+      "肖邦",
+      "《夜曲》",
+      "拉赫玛尼诺夫"
+    ]
+  },
+  {
+    "id": "emotion_03",
+    "type": "情感触发器",
+    "emotion": "灵感迸发/兴奋",
+    "direction": "情感->音乐",
+    "music_behavior": "钢琴即兴演奏并手机录音",
+    "natural_expression": "每当脑海中突然浮现出绝妙的建筑流线，兴奋得坐不住时，我会冲到钢琴前随意敲击一些不协和和弦，尝试捕捉那种顿悟的节奏，并立刻用手机录下来，作为之后环境音乐小样的核心动机。",
+    "involved_entities": [
+      "灵感",
+      "即兴演奏",
+      "手机录音",
+      "环境音乐"
+    ]
+  },
+  {
+    "id": "emotion_04",
+    "type": "情感触发器",
+    "emotion": "怀旧/思念",
+    "direction": "情感->音乐",
+    "music_behavior": "聆听久石让《Summer》或翻阅儿时录音",
+    "natural_expression": "特别想念爷爷林建国的时候，我会翻出小时候在少年宫练琴的旧录音，或者循环播放久石让的《Summer》，那旋律总能把我拉回那个他拉着二胡、给我讲《二泉映月》故事的夏天。",
+    "involved_entities": [
+      "怀旧",
+      "久石让",
+      "《Summer》",
+      "林建国",
+      "二胡"
+    ]
+  },
+  {
+    "id": "emotion_05",
+    "type": "情感触发器",
+    "emotion": "平静/专注",
+    "direction": "音乐->情感",
+    "music_behavior": "聆听德彪西《月光》以进入心流状态",
+    "natural_expression": "在开始绘制复杂的剖面图前，我会先放一遍德彪西的《月光》，那朦胧的音色能帮我洗去杂念，让我迅速进入一种类似‘水中倒影’般清澈专注的心流状态，手中的笔也会随之变得流畅。",
+    "involved_entities": [
+      "平静",
+      "德彪西",
+      "《月光》",
+      "建筑设计"
+    ]
+  },
+  {
+    "id": "emotion_06",
+    "type": "情感触发器",
+    "emotion": "孤独/疏离",
+    "direction": "音乐->情感",
+    "music_behavior": "聆听坂本龙一《Async》",
+    "natural_expression": "深夜独自在办公室加班，感到一种城市特有的疏离感时，坂本龙一的《Async》是我的最佳伴侣，那些破碎的电子音效和白噪音并不试图安慰我，而是让我觉得这种孤独本身也是一种具有美感的空间存在。",
+    "involved_entities": [
+      "孤独",
+      "坂本龙一",
+      "《Async》",
+      "白噪音"
+    ]
+  },
+  {
+    "id": "emotion_07",
+    "type": "情感触发器",
+    "emotion": "感动/温暖",
+    "direction": "音乐->情感",
+    "music_behavior": "与表弟林子豪钢琴与电吉他合奏",
+    "natural_expression": "虽然我和表弟林子豪常争论古典与摇滚的优劣，但当我们偶尔放下成见，用我的钢琴伴奏他的电吉他失真 riff 时，那种跨越代际和风格的和谐共振，总让我感动于音乐连接人心的力量。",
+    "involved_entities": [
+      "感动",
+      "林子豪",
+      "钢琴",
+      "电吉他",
+      "摇滚乐"
+    ]
+  },
+  {
+    "id": "emotion_08",
+    "type": "情感触发器",
+    "emotion": "放松/惬意",
+    "direction": "音乐->情感",
+    "music_behavior": "通勤路上聆听 City Pop",
+    "natural_expression": "周五傍晚下班挤在地铁 1 号线的人潮中，只要戴上耳机切换到 City Pop 歌单，那些轻快的贝斯线和都市感的歌词，瞬间就能把拥挤的车厢变成流动的霓虹街道，让我感到无比的放松和惬意。",
+    "involved_entities": [
+      "放松",
+      "City Pop",
+      "地铁 1 号线",
+      "通勤"
+    ]
+  },
+  {
+    "id": "emotion_09",
+    "type": "情感触发器",
+    "emotion": "敬畏/震撼",
+    "direction": "音乐->情感",
+    "music_behavior": "在 MAO Livehouse 感受低音震动",
+    "natural_expression": "站在 MAO Livehouse 的前排，当独立乐队的鼓点和贝斯低频直接撞击胸口时，那种物理层面的震动让我对声音的能量产生深深的敬畏，这种原始的冲击力是我在精致的古典音乐厅里很少体验到的。",
+    "involved_entities": [
+      "敬畏",
+      "MAO Livehouse",
+      "独立乐队",
+      "低音"
+    ]
+  },
+  {
+    "id": "emotion_10",
+    "type": "情感触发器",
+    "emotion": "坚定/自信",
+    "direction": "音乐->情感",
+    "music_behavior": "回忆母亲陈秀英购买星海钢琴的往事",
+    "natural_expression": "每当在设计道路上遇到瓶颈想要放弃时，想起妈妈陈秀英当年在纺织厂省吃俭用买下那台星海钢琴的背影，我就感到一股坚定的力量，提醒我音乐和建筑一样，都需要长期的坚持才能改变气质。",
+    "involved_entities": [
+      "坚定",
+      "陈秀英",
+      "星海牌立式钢琴",
+      "纺织厂"
+    ]
+  },
+  {
+    "id": "emotion_11",
+    "type": "情感触发器",
+    "emotion": "通感/沉浸",
+    "direction": "音乐->情感",
+    "music_behavior": "在西湖边听德彪西《水中倒影》",
+    "natural_expression": "坐在西湖长椅上，看着真实的波光粼粼，耳边听着德彪西的《水中倒影》，视觉与听觉在这一刻完美重叠，这种通感体验让我深刻理解了印象派音乐如何像光影一样塑造建筑的空间氛围。",
+    "involved_entities": [
+      "通感",
+      "西湖",
+      "德彪西",
+      "《水中倒影》"
+    ]
+  },
+  {
+    "id": "emotion_12",
+    "type": "情感触发器",
+    "emotion": "满足/成就",
+    "direction": "音乐->情感",
+    "music_behavior": "在建筑展上现场弹奏自创曲目",
+    "natural_expression": "回想起硕士毕业展上，我摒弃背景轻音乐，亲自为我的建筑方案弹奏那段基于流线创作的钢琴曲，看到评委和观众眼中闪烁的光芒，那种建筑与音乐完美融合的成就感，是我职业生涯中最满足的时刻。",
+    "involved_entities": [
+      "满足",
+      "硕士毕业展",
+      "即兴创作",
+      "建筑与音乐融合"
+    ]
+  },
+  {
+    "id": "behavior_01",
+    "type": "行为模式触发器",
+    "music_activity": "早晨边吃早餐边听古典音乐电台",
+    "companion_behavior": "翻阅当天的建筑图纸或浏览设计网站",
+    "context": "工作日早晨 7:30，家中餐桌",
+    "natural_expression": "每天早上七点半，我习惯一边吃着简单的早餐，一边把 BBC Radio 3 当作背景音，手里还会顺手翻翻当天的建筑图纸；这种视觉与听觉的双重输入，能让我在踏入办公室前就建立起一种理性的秩序感。",
+    "involved_entities": [
+      "BBC Radio 3",
+      "早餐",
+      "建筑图纸",
+      "秩序感"
+    ]
+  },
+  {
+    "id": "behavior_02",
+    "type": "行为模式触发器",
+    "music_activity": "通勤路上佩戴降噪耳机听音乐",
+    "companion_behavior": "根据工作心情手动切换歌单（极简主义/City Pop）",
+    "context": "地铁 1 号线通勤途中",
+    "natural_expression": "在挤地铁 1 号线时，我的降噪耳机是隔绝喧嚣的屏障，我会像调校建筑灯光一样精细地切换歌单：方案改得焦头烂额时就听 Philip Glass 的极简主义来‘降噪’，心情放松时则切到 City Pop 让脚步轻快起来。",
+    "involved_entities": [
+      "降噪耳机",
+      "地铁 1 号线",
+      "歌单切换",
+      "Philip Glass",
+      "City Pop"
+    ]
+  },
+  {
+    "id": "behavior_03",
+    "type": "行为模式触发器",
+    "music_activity": "周三/周五晚间练琴",
+    "companion_behavior": "严格执行哈农指法热身后才进入曲目精修",
+    "context": "自家书房，雅马哈 U1 钢琴前",
+    "natural_expression": "周三和周五晚上的练琴时间雷打不动，我有个强迫症般的习惯：必须先弹半小时哈农指法热身，直到手指完全活动开，才敢去触碰德彪西《月光》中那些细腻的音色，否则总觉得对不起张教授的教诲。",
+    "involved_entities": [
+      "哈农指法",
+      "练琴",
+      "雅马哈 U1",
+      "德彪西",
+      "张教授"
+    ]
+  },
+  {
+    "id": "behavior_04",
+    "type": "行为模式触发器",
+    "music_activity": "向甲方汇报方案前播放氛围音乐",
+    "companion_behavior": "精心挑选曲目并调节蓝牙音箱音量以匹配空间感",
+    "context": "公司会议室",
+    "natural_expression": "每次在会议室给甲方讲方案前，我都会提前十分钟到场，精心挑选一段坂本龙一的《Async》，并仔细调节蓝牙音箱的音量，确保音乐能像隐形的软装一样，把会议节奏带入我们想要的空间氛围里。",
+    "involved_entities": [
+      "方案汇报",
+      "坂本龙一",
+      "蓝牙音箱",
+      "空间氛围",
+      "会议室"
+    ]
+  },
+  {
+    "id": "behavior_05",
+    "type": "行为模式触发器",
+    "music_activity": "周末探访独立唱片店",
+    "companion_behavior": "边听黑胶边记录适合建筑灵感的环境音乐线索",
+    "context": "杭州本地独立唱片店",
+    "natural_expression": "周末下午钻进杭州巷子里的独立唱片店时，我不仅是为了淘苏苏推荐的黑胶，更习惯随身带着小本子，听到特别的 City Pop 或极简主义曲目时，立刻记下它可能适用的建筑空间场景，作为未来的灵感素材库。",
+    "involved_entities": [
+      "独立唱片店",
+      "黑胶唱片",
+      "灵感记录",
+      "苏苏",
+      "环境音乐"
+    ]
+  },
+  {
+    "id": "behavior_06",
+    "type": "行为模式触发器",
+    "music_activity": "西湖边聆听德彪西《水中倒影》",
+    "companion_behavior": "携带便携蓝牙音箱并凝视湖面寻找通感",
+    "context": "西湖边的长椅",
+    "natural_expression": "天气好的周末，我会特意带上便携蓝牙音箱坐到西湖长椅上，播放德彪西的《水中倒影》，然后什么都不做，只是盯着真实的湖水波光，试图在视觉与听觉的重叠中捕捉那种印象派的光影质感，用于我的立面设计。",
+    "involved_entities": [
+      "西湖",
+      "便携蓝牙音箱",
+      "德彪西",
+      "《水中倒影》",
+      "通感"
+    ]
+  },
+  {
+    "id": "behavior_07",
+    "type": "行为模式触发器",
+    "music_activity": "焦虑时弹奏巴赫《平均律》",
+    "companion_behavior": "关闭书房灯光，仅保留台灯，专注于琴键的机械运动",
+    "context": "深夜，自家书房",
+    "natural_expression": "一旦赶图赶到焦虑爆发，我会关掉书房的大灯，只留一盏台灯，在黑暗中弹奏巴赫的《平均律》；那种在有限光线下专注于手指机械运动的仪式感，配合严谨的对位法，能迅速把我的思绪从混乱中拉回秩序。",
+    "involved_entities": [
+      "焦虑",
+      "巴赫",
+      "《平均律》",
+      "书房灯光",
+      "秩序感"
+    ]
+  },
+  {
+    "id": "behavior_08",
+    "type": "行为模式触发器",
+    "music_activity": "灵感迸发时即兴演奏",
+    "companion_behavior": "立刻掏出手机录音并口述记录建筑联想",
+    "context": "深夜，自家书房或办公室",
+    "natural_expression": "每当深夜在钢琴上即兴弹出有趣的不协和和弦时，我的肌肉记忆会驱使我在旋律消失前一秒掏出手机录音，并立刻对着录音口述刚才脑海中浮现的建筑流线，生怕稍纵即逝的灵感断层。",
+    "involved_entities": [
+      "灵感迸发",
+      "即兴演奏",
+      "手机录音",
+      "建筑流线",
+      "口述记录"
+    ]
+  },
+  {
+    "id": "behavior_09",
+    "type": "行为模式触发器",
+    "music_activity": "与室友苏苏聚会听黑胶",
+    "companion_behavior": "边喝小酒边讲解曲目背景故事",
+    "context": "出租屋客厅",
+    "natural_expression": "和苏苏在出租屋喝酒听黑胶时，我们有个默契的分工：她负责从收藏里挑出那些冷门佳作，我则负责一边品酒一边给她讲解曲目背后的作曲家八卦和历史背景，这种‘听觉 + 知识’的共享是我们最放松的时刻。",
+    "involved_entities": [
+      "苏苏",
+      "黑胶唱片",
+      "喝酒",
+      "曲目背景",
+      "出租屋"
+    ]
+  },
+  {
+    "id": "behavior_10",
+    "type": "行为模式触发器",
+    "music_activity": "观看 Livehouse 演出",
+    "companion_behavior": "站在前排感受低音震动并观察人群动态",
+    "context": "MAO Livehouse",
+    "natural_expression": "偶尔去 MAO Livehouse 看独立乐队时，我从不找座位，而是坚持站在前排，不仅是为了感受表弟林子豪那种摇滚乐的低音震动，更是为了观察人群在音乐中的流动形态，这往往能给我公共空间的设计带来意想不到的启发。",
+    "involved_entities": [
+      "MAO Livehouse",
+      "独立乐队",
+      "低音震动",
+      "人群动态",
+      "公共空间设计"
+    ]
+  },
+  {
+    "id": "behavior_11",
+    "type": "行为模式触发器",
+    "music_activity": "怀旧时聆听久石让《Summer》",
+    "companion_behavior": "翻找并播放小时候在少年宫的练琴旧录音",
+    "context": "家中书房或卧室",
+    "natural_expression": "特别想念爷爷林建国的时候，我不只会上网听久石让的《Summer》，还会特意翻出硬盘里小时候在杭州少年宫的练琴旧录音，听着那时略显稚嫩却充满热情的琴声，仿佛又回到了那个他拉着二胡给我讲故事的夏天。",
+    "involved_entities": [
+      "怀旧",
+      "久石让",
+      "《Summer》",
+      "旧录音",
+      "杭州少年宫",
+      "林建国"
+    ]
+  },
+  {
+    "id": "behavior_12",
+    "type": "行为模式触发器",
+    "music_activity": "与同事阿杰讨论空间声学",
+    "companion_behavior": "现场弹奏钢琴采样供其制作白噪音项目",
+    "context": "公司工作室或录音角",
+    "natural_expression": "和阿杰讨论空间声学方案时，我们不只是空谈理论，我习惯直接坐到钢琴前，根据他想要的氛围即兴弹奏几个片段供他采样，看着他实时将这些钢琴音色处理成白噪音，这种‘演奏 + 技术’的协作模式让我们的设计更具落地性。",
+    "involved_entities": [
+      "阿杰",
+      "空间声学",
+      "钢琴采样",
+      "白噪音",
+      "协作设计"
+    ]
+  },
+  {
+    "id": "multihop_01",
+    "type": "多跳触发器",
+    "chain": [
+      "地铁 1 号线",
+      "City Pop",
+      "苏苏",
+      "黑胶唱片"
+    ],
+    "hops": [
+      {
+        "from": "地铁 1 号线",
+        "to": "City Pop",
+        "relation": "通勤时根据心情切换的歌单",
+        "source_pair": "time_02"
+      },
+      {
+        "from": "City Pop",
+        "to": "苏苏",
+        "relation": "苏苏擅长挑选的冷门佳作类型",
+        "source_pair": "entity_05"
+      },
+      {
+        "from": "苏苏",
+        "to": "黑胶唱片",
+        "relation": "聚会时共同鉴赏的载体",
+        "source_pair": "time_12"
+      }
+    ],
+    "fragments": [
+      "挤在地铁 1 号线里的时候，我常听 City Pop 来缓解拥挤带来的烦躁。",
+      "说起 City Pop，还得感谢苏苏，她总能从黑胶唱片里淘出我从未听过的绝版单曲。"
+    ],
+    "proactive_trigger": "当用户提到通勤或地铁听歌时，可以联想到苏苏的黑胶收藏品味。",
+    "involved_entities": [
+      "地铁 1 号线",
+      "City Pop",
+      "苏苏",
+      "黑胶唱片"
+    ]
+  },
+  {
+    "id": "multihop_02",
+    "type": "多跳触发器",
+    "chain": [
+      "焦虑",
+      "巴赫《平均律》",
+      "建筑结构",
+      "现代建筑设计"
+    ],
+    "hops": [
+      {
+        "from": "焦虑",
+        "to": "巴赫《平均律》",
+        "relation": "用于平复心绪的演奏曲目",
+        "source_pair": "emotion_01"
+      },
+      {
+        "from": "巴赫《平均律》",
+        "to": "建筑结构",
+        "relation": "被比作音乐中的哥特式教堂，具有同样的秩序美感",
+        "source_pair": "entity_08"
+      },
+      {
+        "from": "建筑结构",
+        "to": "现代建筑设计",
+        "relation": "晓芸作为建筑师的核心工作内容",
+        "source_pair": "entity_10"
+      }
+    ],
+    "fragments": [
+      "每次赶图赶到焦虑发作，我就只能靠弹巴赫的《平均律》救命，那严谨的对位法太治愈了。",
+      "我觉得巴赫的音乐简直就是声音版的建筑结构，这种秩序感也正是我在现代建筑设计中追求的。"
+    ],
+    "proactive_trigger": "当用户表达工作压力或焦虑时，可以联想到其对建筑秩序美的追求。",
+    "involved_entities": [
+      "焦虑",
+      "巴赫《平均律》",
+      "建筑结构",
+      "现代建筑设计"
+    ]
+  },
+  {
+    "id": "multihop_03",
+    "type": "多跳触发器",
+    "chain": [
+      "张教授",
+      "德彪西《月光》",
+      "西湖",
+      "通感"
+    ],
+    "hops": [
+      {
+        "from": "张教授",
+        "to": "德彪西《月光》",
+        "relation": "批评晓芸演奏此曲情感不足的曲目",
+        "source_pair": "time_03"
+      },
+      {
+        "from": "德彪西《月光》",
+        "to": "西湖",
+        "relation": "在西湖边聆听同类风格曲目《水中倒影》以体验通感",
+        "source_pair": "time_06"
+      },
+      {
+        "from": "西湖",
+        "to": "通感",
+        "relation": "在西湖边通过视觉与听觉重叠获得的体验",
+        "source_pair": "emotion_11"
+      }
+    ],
+    "fragments": [
+      "张教授总说我弹德彪西的《月光》太像在做数学题，缺了点朦胧的意境。",
+      "所以我现在周末常去西湖边，听着德彪西看湖水，试图找回那种视觉和听觉打通的通感，也许下次回课能让他满意。"
+    ],
+    "proactive_trigger": "当用户提到恩师张教授或练琴瓶颈时，可以联想到其在西湖寻找灵感的经历。",
+    "involved_entities": [
+      "张教授",
+      "德彪西《月光》",
+      "西湖",
+      "通感"
+    ]
+  },
+  {
+    "id": "multihop_04",
+    "type": "多跳触发器",
+    "chain": [
+      "林建国",
+      "二胡",
+      "肖邦《夜曲》",
+      "东方线性旋律"
+    ],
+    "hops": [
+      {
+        "from": "林建国",
+        "to": "二胡",
+        "relation": "爷爷年轻时擅长演奏的乐器",
+        "source_pair": "entity_02"
+      },
+      {
+        "from": "二胡",
+        "to": "肖邦《夜曲》",
+        "relation": "将二胡的吟唱感与肖邦装饰音进行类比",
+        "source_pair": "entity_01"
+      },
+      {
+        "from": "肖邦《夜曲》",
+        "to": "东方线性旋律",
+        "relation": "认为肖邦音乐中蕴含东方线性旋律美",
+        "source_pair": "entity_01"
+      }
+    ],
+    "fragments": [
+      "小时候爷爷林建国拉二胡的样子，是我对旋律最美的记忆。",
+      "奇怪的是，现在我弹肖邦《夜曲》时，总觉得那些装饰音里藏着二胡特有的东方线性旋律美， maybe 这就是爷爷给我的启蒙吧。"
+    ],
+    "proactive_trigger": "当用户提到爷爷或传统民乐时，可以联想到其对西方古典乐的独特东方化解读。",
+    "involved_entities": [
+      "林建国",
+      "二胡",
+      "肖邦《夜曲》",
+      "东方线性旋律"
+    ]
+  },
+  {
+    "id": "multihop_05",
+    "type": "多跳触发器",
+    "chain": [
+      "陈秀英",
+      "星海牌立式钢琴",
+      "雅马哈 U1",
+      "自家书房"
+    ],
+    "hops": [
+      {
+        "from": "陈秀英",
+        "to": "星海牌立式钢琴",
+        "relation": "母亲省吃俭用购买的第一台钢琴",
+        "source_pair": "entity_02"
+      },
+      {
+        "from": "星海牌立式钢琴",
+        "to": "雅马哈 U1",
+        "relation": "从旧钢琴到现用钢琴的迭代对比",
+        "source_pair": "entity_02"
+      },
+      {
+        "from": "雅马哈 U1",
+        "to": "自家书房",
+        "relation": "雅马哈 U1 目前的摆放地点",
+        "source_pair": "entity_12"
+      }
+    ],
+    "fragments": [
+      "我妈陈秀英当年在纺织厂咬牙买的那台星海钢琴，虽然现在不弹了，但那份坚持一直陪着我。",
+      "现在书房角落这台雅马哈 U1 虽然音色更好，但每次坐在这儿练琴，我还是会想起那台老星海。"
+    ],
+    "proactive_trigger": "当用户提到母亲或家庭支持时，可以联想到其书房练琴场景背后的情感重量。",
+    "involved_entities": [
+      "陈秀英",
+      "星海牌立式钢琴",
+      "雅马哈 U1",
+      "自家书房"
+    ]
+  },
+  {
+    "id": "multihop_06",
+    "type": "多跳触发器",
+    "chain": [
+      "林子豪",
+      "电吉他",
+      "钢琴",
+      "即兴演奏"
+    ],
+    "hops": [
+      {
+        "from": "林子豪",
+        "to": "电吉他",
+        "relation": "表弟喜爱的乐器及摇滚风格",
+        "source_pair": "entity_03"
+      },
+      {
+        "from": "电吉他",
+        "to": "钢琴",
+        "relation": "两种乐器合奏产生风格碰撞",
+        "source_pair": "entity_03"
+      },
+      {
+        "from": "钢琴",
+        "to": "即兴演奏",
+        "relation": "晓芸用钢琴进行即兴伴奏的行为",
+        "source_pair": "emotion_03"
+      }
+    ],
+    "fragments": [
+      "我表弟林子豪是个电吉他狂魔，总说古典乐太老派。",
+      "不过上次他用失真 riff 即兴solo，我用钢琴跟着即兴伴奏，那种噪音与和声的碰撞，竟然让我灵感迸发，当场就录了一段小样。"
+    ],
+    "proactive_trigger": "当用户提到表弟或摇滚乐时，可以联想到其跨风格即兴创作的经历。",
+    "involved_entities": [
+      "林子豪",
+      "电吉他",
+      "钢琴",
+      "即兴演奏"
+    ]
+  },
+  {
+    "id": "multihop_07",
+    "type": "多跳触发器",
+    "chain": [
+      "阿杰",
+      "坂本龙一《Async》",
+      "公司会议室",
+      "空间氛围"
+    ],
+    "hops": [
+      {
+        "from": "阿杰",
+        "to": "坂本龙一《Async》",
+        "relation": "与同事讨论空间声学时的共同语言",
+        "source_pair": "entity_06"
+      },
+      {
+        "from": "坂本龙一《Async》",
+        "to": "公司会议室",
+        "relation": "在汇报前播放此曲以调节氛围",
+        "source_pair": "time_07"
+      },
+      {
+        "from": "公司会议室",
+        "to": "空间氛围",
+        "relation": "通过音乐调节会议的空间节奏",
+        "source_pair": "time_07"
+      }
+    ],
+    "fragments": [
+      "我和搭档阿杰都是坂本龙一《Async》的死忠粉，这曲子简直是我们工作的背景色。",
+      "每次在公司会议室给甲方讲方案前，我都会放这段，就是为了营造出那种我们想要的高级空间氛围。"
+    ],
+    "proactive_trigger": "当用户提到同事合作或项目汇报时，可以联想到其对空间氛围的音乐化营造。",
+    "involved_entities": [
+      "阿杰",
+      "坂本龙一《Async》",
+      "公司会议室",
+      "空间氛围"
+    ]
+  },
+  {
+    "id": "multihop_08",
+    "type": "多跳触发器",
+    "chain": [
+      "MAO Livehouse",
+      "独立乐队",
+      "低音震动",
+      "公共空间设计"
+    ],
+    "hops": [
+      {
+        "from": "MAO Livehouse",
+        "to": "独立乐队",
+        "relation": "观看演出的场所与对象",
+        "source_pair": "time_09"
+      },
+      {
+        "from": "独立乐队",
+        "to": "低音震动",
+        "relation": "在现场感受到的物理层面的声音能量",
+        "source_pair": "emotion_09"
+      },
+      {
+        "from": "低音震动",
+        "to": "公共空间设计",
+        "relation": "观察人群在震动中的流动形态启发设计",
+        "source_pair": "behavior_10"
+      }
+    ],
+    "fragments": [
+      "周末偶尔会去 MAO Livehouse 看独立乐队，站在前排感受那种直击胸口的低音震动。",
+      "其实我是在观察人群在这种声波里的流动样子，这种动态往往能给我做公共空间设计带来很多意想不到的启发。"
+    ],
+    "proactive_trigger": "当用户提到去 Livehouse 或看演出时，可以联想到其将音乐体验转化为设计灵感的专业习惯。",
+    "involved_entities": [
+      "MAO Livehouse",
+      "独立乐队",
+      "低音震动",
+      "公共空间设计"
+    ]
+  },
+  {
+    "id": "multihop_09",
+    "type": "多跳触发器",
+    "chain": [
+      "久石让《Summer》",
+      "怀旧",
+      "杭州少年宫",
+      "业余十级证书"
+    ],
+    "hops": [
+      {
+        "from": "久石让《Summer》",
+        "to": "怀旧",
+        "relation": "触发思念爷爷情感的曲目",
+        "source_pair": "emotion_04"
+      },
+      {
+        "from": "怀旧",
+        "to": "杭州少年宫",
+        "relation": "怀念起在少年宫练琴的童年时光",
+        "source_pair": "behavior_11"
+      },
+      {
+        "from": "杭州少年宫",
+        "to": "业余十级证书",
+        "relation": "从少年宫坚持学习最终获得的成果证明",
+        "source_pair": "entity_09"
+      }
+    ],
+    "fragments": [
+      "一听久石让的《Summer》，那种怀旧感就涌上来，特别想念小时候在杭州少年宫练琴的日子。",
+      "那时候每周雷打不动去上课，才换来了后来那张业余十级证书，那是我和我妈共同的勋章。"
+    ],
+    "proactive_trigger": "当用户提到童年回忆或久石让时，可以联想到其学琴历程中的关键里程碑。",
+    "involved_entities": [
+      "久石让《Summer》",
+      "怀旧",
+      "杭州少年宫",
+      "业余十级证书"
+    ]
+  },
+  {
+    "id": "multihop_10",
+    "type": "多跳触发器",
+    "chain": [
+      "Philip Glass",
+      "极简主义",
+      "现代建筑立面",
+      "重复性"
+    ],
+    "hops": [
+      {
+        "from": "Philip Glass",
+        "to": "极简主义",
+        "relation": "代表的音乐风格",
+        "source_pair": "time_02"
+      },
+      {
+        "from": "极简主义",
+        "to": "现代建筑立面",
+        "relation": "音乐风格与建筑立面设计的类比",
+        "source_pair": "entity_10"
+      },
+      {
+        "from": "现代建筑立面",
+        "to": "重复性",
+        "relation": "通过单一元素重复构建的设计手法",
+        "source_pair": "entity_10"
+      }
+    ],
+    "fragments": [
+      "赶图心烦的时候，Philip Glass 的极简主义是我的镇静剂。",
+      "你看他那种不断重复又微调的旋律，像极了我正在做的现代建筑立面设计，都是靠元素的重复性来构建宏大的节奏。"
+    ],
+    "proactive_trigger": "当用户提到极简主义音乐或 Philip Glass 时，可以联想到其建筑设计中的重复性美学。",
+    "involved_entities": [
+      "Philip Glass",
+      "极简主义",
+      "现代建筑立面",
+      "重复性"
+    ]
+  },
+  {
+    "id": "multihop_11",
+    "type": "多跳触发器",
+    "chain": [
+      "手机录音",
+      "即兴演奏",
+      "环境音乐小样",
+      "阿杰"
+    ],
+    "hops": [
+      {
+        "from": "手机录音",
+        "to": "即兴演奏",
+        "relation": "记录即兴灵感的工具",
+        "source_pair": "emotion_03"
+      },
+      {
+        "from": "即兴演奏",
+        "to": "环境音乐小样",
+        "relation": "即兴旋律发展为建筑方案的环境音乐素材",
+        "source_pair": "time_11"
+      },
+      {
+        "from": "环境音乐小样",
+        "to": "阿杰",
+        "relation": "将小样提供给音效设计师同事进行加工",
+        "source_pair": "behavior_12"
+      }
+    ],
+    "fragments": [
+      "半夜灵感来了，我会直接在钢琴上即兴弹一段，马上用手机录音存下来。",
+      "这些录音后来都成了环境音乐小样的底子，我经常发给阿杰，让他帮我处理成适合建筑空间的白噪音项目。"
+    ],
+    "proactive_trigger": "当用户提到记录灵感或手机录音时，可以联想到其与同事阿杰的协作流程。",
+    "involved_entities": [
+      "手机录音",
+      "即兴演奏",
+      "环境音乐小样",
+      "阿杰"
+    ]
+  },
+  {
+    "id": "multihop_12",
+    "type": "多跳触发器",
+    "chain": [
+      "纺织厂",
+      "陈秀英",
+      "坚定",
+      "硕士毕业展"
+    ],
+    "hops": [
+      {
+        "from": "纺织厂",
+        "to": "陈秀英",
+        "relation": "母亲的工作背景",
+        "source_pair": "entity_02"
+      },
+      {
+        "from": "陈秀英",
+        "to": "坚定",
+        "relation": "母亲的故事给予用户坚持的力量",
+        "source_pair": "emotion_10"
+      },
+      {
+        "from": "坚定",
+        "to": "硕士毕业展",
+        "relation": "带着这份坚定在毕业展上实现音乐与建筑融合",
+        "source_pair": "emotion_12"
+      }
+    ],
+    "fragments": [
+      "想起我妈陈秀英当年在纺织厂那种环境下还要省吃俭用买钢琴，我就觉得没有什么困难是过不去的。",
+      "正是这股坚定的劲儿，支撑我在硕士毕业展上大胆地亲自弹琴配合建筑展示，完成了那次完美的融合。"
+    ],
+    "proactive_trigger": "当用户提到家庭背景或母亲时，可以联想到其职业生涯高光时刻的精神动力。",
+    "involved_entities": [
+      "纺织厂",
+      "陈秀英",
+      "坚定",
+      "硕士毕业展"
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+{
+  "sessions": [
+    {
+      "session_id": 1,
+      "timestamp_range": "2024-03-05 ~ 2024-03-12",
+      "assigned_pairs": [
+        "time_01",
+        "behavior_12",
+        "multihop_01"
+      ],
+      "session_theme": "自动化喂养与健康隐患",
+      "conversation_seed": "林晓检查自动喂食器，想起麻薯的肠梗阻病史，确认渴望猫粮的安全性。"
+    },
+    {
+      "session_id": 2,
+      "timestamp_range": "2024-03-15 ~ 2024-03-22",
+      "assigned_pairs": [
+        "time_02",
+        "behavior_07",
+        "multihop_06"
+      ],
+      "session_theme": "玩具轮换与深度清洁",
+      "conversation_seed": "小李子拿出电动钓鱼竿，林晓顺势更换瓦楞纸抓板，讨论英国短毛猫的吸尘需求。"
+    },
+    {
+      "session_id": 3,
+      "timestamp_range": "2024-03-25 ~ 2024-04-02",
+      "assigned_pairs": [
+        "time_03",
+        "emotion_02",
+        "behavior_06"
+      ],
+      "session_theme": "出租屋的归家仪式感",
+      "conversation_seed": "回到出租屋，麻薯在猫窝旁迎接，林晓在显示器前感到工作陪伴的温馨。"
+    },
+    {
+      "session_id": 4,
+      "timestamp_range": "2024-04-05 ~ 2024-04-12",
+      "assigned_pairs": [
+        "time_04",
+        "behavior_08",
+        "multihop_02"
+      ],
+      "session_theme": "沐浴护理与皮肤预防",
+      "conversation_seed": "双周一次的进口沐浴露时间，林晓仔细检查皮肤，回顾猫藓病史与封闭阳台的重要性。"
+    },
+    {
+      "session_id": 5,
+      "timestamp_range": "2024-04-15 ~ 2024-04-23",
+      "assigned_pairs": [
+        "time_05",
+        "time_07",
+        "emotion_09"
+      ],
+      "session_theme": "季度体检与专业信任",
+      "conversation_seed": "季度宠物店之行转为安安宠医的体检，张医生的专业让林晓倍感安心。"
+    },
+    {
+      "session_id": 6,
+      "timestamp_range": "2024-04-26 ~ 2024-05-04",
+      "assigned_pairs": [
+        "time_06",
+        "behavior_09",
+        "multihop_05"
+      ],
+      "session_theme": "公园社交与安全链条",
+      "conversation_seed": "杭州宠物友好公园偶遇陈晨和金毛，分享视频时谈起指甲修剪和过往意外。"
+    },
+    {
+      "session_id": 7,
+      "timestamp_range": "2024-05-07 ~ 2024-05-15",
+      "assigned_pairs": [
+        "time_08",
+        "emotion_01",
+        "multihop_03"
+      ],
+      "session_theme": "键盘旁的焦虑平复",
+      "conversation_seed": "加班夜，麻薯在键盘边的呼噜声成为林晓最好的情绪支撑，抚平了设计稿带来的焦虑。"
+    },
+    {
+      "session_id": 8,
+      "timestamp_range": "2024-05-18 ~ 2024-05-26",
+      "assigned_pairs": [
+        "time_09",
+        "emotion_05",
+        "multihop_04"
+      ],
+      "session_theme": "母爱与自制零食",
+      "conversation_seed": "林母送来自制鸡肉干，视频通话中谈起曾经误食危机带来的责任感转变。"
+    },
+    {
+      "session_id": 9,
+      "timestamp_range": "2024-05-29 ~ 2024-06-06",
+      "assigned_pairs": [
+        "time_10",
+        "emotion_06",
+        "multihop_09"
+      ],
+      "session_theme": "沉默父爱与暖气关怀",
+      "conversation_seed": "林父虽话少却给猫买了新猫窝和暖气，照片反馈中流露无声的关爱。"
+    },
+    {
+      "session_id": 10,
+      "timestamp_range": "2024-06-09 ~ 2024-06-17",
+      "assigned_pairs": [
+        "time_11",
+        "behavior_03",
+        "multihop_11"
+      ],
+      "session_theme": "下班后的晚餐召唤",
+      "conversation_seed": "公司楼下的年度纪念，林晓赶回家用小李子罐头回应麻薯的晚餐呼唤，缓解设计师压力。"
+    },
+    {
+      "session_id": 11,
+      "timestamp_range": "2024-06-20 ~ 2024-06-28",
+      "assigned_pairs": [
+        "time_12",
+        "emotion_07",
+        "behavior_01"
+      ],
+      "session_theme": "细小物品与离家锁扣",
+      "conversation_seed": "林晓出门前反复检查阳台锁扣和细小物品，对肠梗阻的健康焦虑转化为严格的预防行为。"
+    },
+    {
+      "session_id": 12,
+      "timestamp_range": "2024-07-01 ~ 2024-07-09",
+      "assigned_pairs": [
+        "emotion_03",
+        "behavior_05",
+        "multihop_10"
+      ],
+      "session_theme": "零食存储与品牌安全",
+      "conversation_seed": "喂食joy时刻，林晓将帕特冻干锁进高处柜子，想起塑料包装引发的急诊记忆。"
+    },
+    {
+      "session_id": 13,
+      "timestamp_range": "2024-07-12 ~ 2024-07-20",
+      "assigned_pairs": [
+        "emotion_04",
+        "behavior_04",
+        "multihop_12"
+      ],
+      "session_theme": "职业幽默与收养感恩",
+      "conversation_seed": "对着 UI 设计稿调侃麻薯的监工行为，感慨 2021 年那个加班夜晚的收养决定带来如今幸福。"
+    },
+    {
+      "session_id": 14,
+      "timestamp_range": "2024-07-23 ~ 2024-07-31",
+      "assigned_pairs": [
+        "emotion_08",
+        "emotion_10",
+        "behavior_02"
+      ],
+      "session_theme": "社交纽带与睡眠记录",
+      "conversation_seed": "陈晨来访，大家翻看手机里麻薯的睡眠视频，感恩 2021 年冬天开始的陪伴。"
+    },
+    {
+      "session_id": 15,
+      "timestamp_range": "2024-08-03 ~ 2024-08-11",
+      "assigned_pairs": [
+        "emotion_11",
+        "behavior_10",
+        "multihop_07"
+      ],
+      "session_theme": "居住安全与寻求安慰",
+      "conversation_seed": "面对新项目压力，林晓在封闭阳台找到安全感，回顾 2023 年误食事件后加固的锁扣。"
+    },
+    {
+      "session_id": 16,
+      "timestamp_range": "2024-08-14 ~ 2024-08-22",
+      "assigned_pairs": [
+        "emotion_12",
+        "behavior_11",
+        "multihop_08"
+      ],
+      "session_theme": "梳毛满足与兽医沟通",
+      "conversation_seed": "吸尘器清理猫毛带来满足感，林晓在笔记本上记录与张医生关于去油和猫藓治疗的沟通细节。"
+    },
+    {
+      "session_id": 17,
+      "timestamp_range": "2024-08-25 ~ 2024-08-28",
+      "assigned_pairs": [
+        "time_04",
+        "emotion_04",
+        "behavior_06"
+      ],
+      "session_theme": "日常护理中的职业解压",
+      "conversation_seed": "双周沐浴日，林晓一边给麻薯洗澡一边吐槽设计稿，回家的问候 routine 治愈了职场幽默感。"
+    },
+    {
+      "session_id": 18,
+      "timestamp_range": "2024-08-29 ~ 2024-09-01",
+      "assigned_pairs": [
+        "time_03",
+        "emotion_10",
+        "behavior_12"
+      ],
+      "session_theme": "猫窝里的感恩之夜",
+      "conversation_seed": "在出租屋的猫窝旁，林晓感叹 2021 年的选择，自动喂食器保障了夜晚的安全。"
+    },
+    {
+      "session_id": 19,
+      "timestamp_range": "2024-09-02 ~ 2024-09-05",
+      "assigned_pairs": [
+        "time_11",
+        "emotion_05",
+        "behavior_08"
+      ],
+      "session_theme": "周年纪念与健康监测",
+      "conversation_seed": "公司楼下的周年纪念日，林晓带着自制鸡肉干的温暖，回家为麻薯做细致的皮肤检查。"
+    },
+    {
+      "session_id": 20,
+      "timestamp_range": "2024-09-06 ~ 2024-09-09",
+      "assigned_pairs": [
+        "time_09",
+        "emotion_08",
+        "multihop_04"
+      ],
+      "session_theme": "家庭互动与社交分享",
+      "conversation_seed": "林母再次送来鸡肉干，林晓将这份家庭温暖转化为与陈晨社交时的自信，分享麻薯的成长视频。"
+    }
+  ]
+}

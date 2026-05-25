@@ -1,0 +1,2897 @@
+[
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "进口牛肉",
+      "惠灵顿牛排"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均围绕高品质肉类食材（进口牛肉与惠灵顿牛排）及烹饪技艺展开，前者侧重邻里交换，后者侧重个人厨艺进阶，共同构建了‘高端食材处理’的语义场景。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "完美成品",
+      "成就感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "存在明确的因果逻辑：entity_08 中提到的‘完美成品’是 time_06 中‘拍大片发小红书’的前提条件，体现了从制作成功到社交分享的完整行为链条。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "进口牛肉"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "仅通过‘进口牛肉’这一实体产生微弱关联。语义上，前者关注压力下的辛辣解压（豌杂面），后者关注邻里间的健康交换（牛肉换面包），场景与情感基调差异较大。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "技艺融合",
+      "菜单调整"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "体现了技能习得与应用的关系：entity_08 描述了厨艺理论的融合与进阶，behavior_11 展示了将这种进阶后的厨艺应用于日常便当制作并收集反馈的过程。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "父亲/母亲",
+      "家庭烹饪"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均聚焦于家庭代际间的饮食传承与互动。前者是与母亲关于口味改良的争论，后者是对父亲食材与传家宝锅具的精心呵护，共同构成‘家庭情感维系’的主题。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "周五晚上",
+      "治愈时刻",
+      "法式甜点",
+      "2023 年里程碑",
+      "惠灵顿牛排",
+      "技艺融合"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度重合。time_03 描述的‘周五治愈时刻’中明确包含‘烤个法式甜点’，而 multihop_05 详细阐述了该甜点制作背后的技艺融合历程及职业自信来源，是同一事件的不同维度描述。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "entity_05",
+    "shared_entities": [
+      "食材",
+      "烹饪"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "属于烹饪生活流的时间与行为互补。time_02 是周日上午的食材采购，entity_05 是工作压力下的烹饪解压，虽无直接实体重叠，但共同构成了‘从采购到制作’的生活闭环。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "周五晚上",
+      "治愈时刻",
+      "法式甜点"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的语义绑定。emotion_04 定义了‘周五晚上’的‘治愈时刻’活动为制作‘法式甜点’，multihop_09 则具体描述了该甜点如何利用设计理论进行摆盘并获得社交反馈，前后呼应紧密。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "邻居王浩然",
+      "母亲张慧"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "关联度低。两者分别描述了与邻居的横向交换关系和与母亲的纵向代际互动，虽同属人际关系，但涉及人物、事件及情感模式完全不同，缺乏直接逻辑链路。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "邻居王浩然",
+      "进口牛肉"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "通过‘进口牛肉’和‘邻居王浩然’建立连接。time_01 是处理剩余食材的创意挑战，multihop_03 是特定食材（牛肉）的固定交换模式，两者在‘食材利用’和‘邻里互动’上有部分交集，但场景不同。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者均涉及健康饮食理念（全麦/低油），但前者侧重邻里社交情感，后者侧重烹饪技术补偿，缺乏直接的人物或事件交集，关联较弱。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_01",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "母亲张慧"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "通过人物关系网连接：Pair A 提及闺蜜思思作为试吃员，Pair B 提及母亲张慧对改良菜品的吐槽，共同构建了主角在亲友反馈中调整烹饪策略的生活场景。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "母亲张慧"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "仅通过‘母亲张慧’这一实体连接。Pair A 讲职业自信与西餐挑战，Pair B 讲思乡情感与中式汤品，虽同属家庭与烹饪主题，但情感基调（自信 vs 孤独）和菜系方向差异较大。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "2023 年里程碑",
+      "惠灵顿牛排",
+      "职业自信",
+      "烘焙技艺",
+      "西餐融合"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合。Pair B 详细阐述了 Pair A 中提到的‘惠灵顿牛排挑战’的前因（2021 年自信积累）后果（设计师到厨神跨越），是对 Pair A 事件的完整背景补充和逻辑延伸。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "entity_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "几乎无关联。Pair A 聚焦父亲提供的食材与厨具，Pair B 聚焦年会菜品与职业人设，缺乏共同实体或逻辑链条。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "精致便当",
+      "小红书",
+      "社区互动",
+      "分享快乐"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "紧密的行为 - 情感闭环。Pair A 描述在小红书寻求认同的行为，Pair B 具体化了这种认同的来源（闺蜜对便当的惊喜），解释了 Pair A 中‘认同感’的具体案例。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "设计执念",
+      "食谱笔记",
+      "周三晚上"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "通过‘设计师身份’连接。Pair A 体现将剩余食材产品化的思维（食物产品经理），Pair B 体现设计师对整洁的执念，共同刻画了主角将职业素养融入厨房管理的特征。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "父亲林建国",
+      "新鲜土鸡",
+      "母亲张慧",
+      "正宗回锅肉"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.8,
+    "association_path": "共享家庭食材与人物，但场景割裂。Pair A 是周末家庭互动的热闹场景，Pair B 是周五独居的治愈时刻，两者在时间线和情感氛围上形成对比而非连贯叙事。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "设计执念",
+      "随手清洁",
+      "周三晚上",
+      "食谱笔记"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "逻辑因果链。Pair B 提到压力释放后记录‘周三食谱笔记’，Pair A 描述了周三‘清空冰箱’挑战及笔记资产化，且两者都隐含了设计师对秩序（清洁/笔记）的追求，构成完整的工作流。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "精致便当",
+      "惊喜反应",
+      "信心来源",
+      "小红书发布"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度一致的行动逻辑。Pair B 明确指出闺蜜的反馈是发布小红书前的‘信心来源’，直接解释了 Pair A 中为何能在拥挤网红店烦躁后，仍有动力去构思长评（基于之前的成功反馈循环）。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "职业自信",
+      "创意"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均通过具体的美食成就（摆盘菜品/年会鹅肝酱）转化为内在的‘职业自信’与‘创意’动力，虽场景不同（社交媒体 vs 职场设计），但心理机制高度一致。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "职业自信",
+      "好奇心",
+      "实验"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是过往成功带来的‘自信’驱动新尝试，后者是‘好奇心’驱动的实验行为，两者共同构成了主角在烹饪上不断进阶的心理闭环（信心 + 探索）。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "新鲜食材",
+      "亲手挑选"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "强关联。前者强调对‘极致新鲜’食材的‘亲手挑选’过程，后者则是接收‘新鲜食材’后的情感回应与烹饪，构成了从采购到家庭烹饪的完整叙事链。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "社区认同",
+      "小红书"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "关联较弱。前者是线下的邻里实物交换温情，后者是线上的内容创作与认同，仅通过‘分享/互动’这一抽象概念连接，缺乏实体或场景的直接交集。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "职业自信",
+      "秩序感",
+      "设计"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "前者提到像对待美食一样进行‘设计’并拥有底气，后者具体描述了这种‘像执行设计稿一样’的备菜秩序（Mise en place），是心态到行为的具体映射。"
+  },
+  {
+    "pair_a_id": "multihop_02",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "食谱笔记",
+      "小红书分享"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "弱关联。两者都涉及记录与分享（食谱笔记 vs 小红书内容），但触发情境完全不同（压力释放 vs 治愈时刻），时间线也无直接衔接。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "成就感",
+      "小红书分享",
+      "信心"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "极强关联。前者描述发布小红书获取认同的常规流程，后者补充了发布前通过闺蜜反馈获取‘信心’的关键环节，两者共同完善了‘创作 - 反馈 - 发布 - 认同’的完整闭环。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "情绪调节"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "对比关联。两者均涉及情绪与食物的关系，但方向相反：前者是正向的‘分享快乐’，后者是负向的‘宣泄烦躁’，构成情感光谱的两极，但无直接叙事联系。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "进口牛肉",
+      "全麦面包"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "微弱关联。前者提及‘西餐融合’，后者提及‘进口牛肉’与‘全麦面包’交换，仅在‘食物类型’上有极宽泛的交集，缺乏深层逻辑或实体重叠。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "entity_11",
+    "shared_entities": [
+      "食材原产地",
+      "烹饪创意"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "中等关联。前者是主角自身的技艺融合里程碑，后者是主角作为食客对他人的‘烹饪创意’与‘食材’进行专业分析，体现了主角从创作者到鉴赏者的双重身份统一。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_05",
+    "shared_entities": [
+      "慢炖/吊汤工艺",
+      "情感疗愈",
+      "专注烹饪"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者均描述通过耗时长的烹饪过程（慢炖/吊汤）在特定情绪下（治愈/思乡）获得情感慰藉，核心逻辑高度一致。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "烹饪流程节点",
+      "精致主义"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者强调烹饪前的严谨准备（秩序感），后者强调烹饪后的展示分享（仪式感），虽同属精致烹饪流程，但关注点一内一外，关联度中等。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "time_09",
+    "shared_entities": [
+      "家庭连接",
+      "食材处理"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是用重口味食物对抗工作压力（独处解压），后者是用家乡食材连接亲情（互动慰藉），虽都涉及食物与情绪，但情绪导向相反（排斥 vs 拥抱）。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "周五晚上",
+      "专注/复盘"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "前者强调感官上的“静”（只听声音），后者强调思维上的“动”（记录复盘），虽都体现对烹饪的严肃态度，但行为模式截然不同。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "entity_07",
+    "shared_entities": [
+      "新菜品开发",
+      "社交反馈"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者聚焦于制作过程中的硬核技术与设计思维，后者聚焦于成品的社交传播与人际互动，属于烹饪生命周期的不同阶段，直接语义关联较弱。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "治愈/解压",
+      "烹饪作为调节手段"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者都阐述了将烹饪作为应对负面情绪（需要治愈/工作压力）的固定机制，虽然具体菜式和情绪类型不同，但功能逻辑高度相似。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "拒绝外卖/严选食材",
+      "父亲/家庭元素"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者通过快速制作重口味食物宣泄压力，后者通过严谨验收父亲寄来的食材表达重视，两者都体现了对“非工业化/非随意”食物的坚持，但场景差异较大。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "新菜品/便当"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "前者是制作新派川菜的技术手段，后者是分享便当给同一位闺蜜的情感反馈，构成了“精心制作 - 获得认可”的潜在因果链条。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "entity_04",
+    "shared_entities": [
+      "设计思维",
+      "精密电子秤",
+      "新派川菜"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "两者几乎描述完全相同的概念：用设计思维和精密工具处理新派川菜，实体重合度极高，语义几乎等价。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "父亲林建国",
+      "新鲜土鸡",
+      "情感转化"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "前者是克服烹饪困难后的自我激励，后者是利用父亲食材完成情感转化的具体案例，两者共同构建了“烹饪不仅是技艺更是情感载体”的主题。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "两者均涉及生活细节（邻里交换 vs 厨房清洁），但主题完全不同（社交温情 vs 个人洁癖/设计执念），无实体重叠，语义关联弱。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都围绕烹饪场景，但情感基调相反（压力释放 vs 呵护传家宝的仪式感），且无具体实体重叠，仅存在场景上的弱关联。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "entity_02",
+    "shared_entities": [
+      "Le Creuset 铸铁锅"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "通过'Le Creuset 铸铁锅’这一实体连接，但侧重点不同：前者讲烹饪技艺成长（惠灵顿牛排），后者讲食材来源与锅具维护，逻辑跳跃较大。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都涉及烹饪后的社交或情感环节（闺蜜互动 vs 独处治愈），虽无实体重叠，但在‘食物作为情感载体’这一主题上有一定共鸣。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "菜品摄影",
+      "小红书",
+      "闺蜜陈思思",
+      "修图调色",
+      "小红书发布"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合。Pair_b 详细描述了 Pair_a 中概括的行为流程（拍照、修图、发给闺蜜思思审图、发小红书），实体和逻辑完全一致，属于同一事件的不同详略描述。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "两者分别描述友情互动的快乐和职业成长的自信，虽都涉及‘食物带来的正向反馈’，但具体情境（便当 vs 年会大菜）和对象（闺蜜 vs 职业自我）差异巨大，关联度低。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都体现了主角对烹饪的‘专业化/设计化’态度（邻里交换理念 vs 工具精确控制），但实体无重叠，属于同一人物画像下的不同侧面。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "time_05",
+    "shared_entities": [
+      "菌菇"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "通过‘菌菇’（采购对象 vs 潜在食材）和‘母亲/家庭’隐含线索连接，但一个是常规采购行为，一个是情感驱动的特定菜品制作，场景割裂。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "双流白家批发市场",
+      "周五晚上",
+      "治愈时刻",
+      "慢炖汤",
+      "小红书分享"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "Pair_a 是完整的故事线（采购 - 烹饪 - 分享），Pair_b 提到了采购标准受其他因素影响。两者共享‘双流白家批发市场’和‘采购标准/新鲜度’的概念，逻辑上 Pair_b 解释了 Pair_a 中食材选择的深层动机，关联性强。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "2021 年年会",
+      "川味鹅肝酱",
+      "职业自信",
+      "Vitamix 料理机"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "Pair_a 提到‘川味鹅肝酱’带来的自信，Pair_b 描述使用'Vitamix 料理机’制作低油川菜（可能包含鹅肝酱技法）。两者共享核心事件（2021 年会/鹅肝酱）和工具（Vitamix），体现了从成功经验到具体技术应用的延伸。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "烹饪方式",
+      "厨房场景"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均涉及烹饪行为，但 A 侧重情感治愈与慢节奏，B 侧重效率与多任务处理，理念存在一定冲突，关联性较弱。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "周五晚上",
+      "治愈时刻",
+      "专注聆听",
+      "食物声音"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "B 是 A 的具体行为延伸，两者在时间、情境、核心动作（聆听食物声音）及心理状态上高度一致，构成完美的因果或细节补充关系。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "食材关注"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "A 为家庭自制创意菜，B 为外出就餐评论，虽都涉及食材，但场景（家 vs 餐厅）和行为模式（制作 vs 消费评价）完全不同，关联松散。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "剩余食材",
+      "创作"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.9,
+    "association_path": "A 聚焦于利用剩余食材的即兴创作冲动，B 描述的是邻里间的特定食材交换与技术应用，除“食材”外无直接逻辑交集。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "食材处理",
+      "高标准"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者都体现了对烹饪相关事物的高标准（A 为摄影呈现，B 为食材验收），但处于烹饪流程的不同阶段（后制 vs 前置），逻辑连贯性一般。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "食材",
+      "周末活动"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.2,
+    "association_path": "A 是食材获取（采购），B 是成品展示（摄影分享），构成了完整的“从市场到社交媒体”的行为链条，具有合理的时间顺序关联。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "烹饪",
+      "情感表达"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.9,
+    "association_path": "A 是私密的情感疗愈（复刻母亲菜），B 是公开的社交展示（发小红书），两者的动机（内敛 vs 外放）截然相反，难以形成自然对话。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "职业自信",
+      "烹饪成就"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "A 是日常的社交分享行为，B 是长期的职业成长里程碑，虽都源于烹饪带来的自信，但缺乏直接的事件触发联系。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "职业自信",
+      "小红书分享",
+      "成就感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "A 建立了“设计师厨神”的人设与自信来源，B 描述了基于此自信进行的具体分享行为及获取认同的心理闭环，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "邻居王浩然",
+      "进口牛肉",
+      "全麦面包",
+      "邻里默契"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "A 描述了客观的交换事件，B 描述了该事件引发的主体情感体验，两者描述的是同一核心事件的不同侧面，关联度极高。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "食材",
+      "餐饮消费"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均涉及对高品质食材的关注，但前者侧重餐厅体验与评论，后者侧重邻里间的食材交换，场景不同但核心对象（优质食物）有交集。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "烹饪行为",
+      "设计师身份",
+      "治愈/自信"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者都体现了主角将‘设计师’身份与‘烹饪’结合的特质，前者是通过菜品建立职业自信，后者是通过烹饪过程获得情感治愈，共同构建了人物画像。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "entity_03",
+    "shared_entities": [
+      "烹饪技术",
+      "食材"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "前者提到用设计思维和低温慢煮处理川菜，后者提供进口牛肉；逻辑上，进口的优质牛肉非常适合用低温慢煮技术处理，存在极强的互补性和操作关联。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "食材获取",
+      "烹饪过程"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "前者是情感驱动的烹饪（复刻妈妈味道），后者是品质驱动的食材采购；逻辑链条为：为了做出完美的‘开水白菜’（time_05），需要去批发市场挑选极致新鲜的蔬菜（entity_10）。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "厨艺进阶",
+      "家庭/个人里程碑"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.9,
+    "association_path": "两者分别代表了主角厨艺的两个侧面：一是基于家庭传统的改良（回锅肉），二是基于专业技能突破的创新（惠灵顿牛排），共同展示了厨艺成长的不同阶段。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "低温慢煮机",
+      "新派川菜/牛肉",
+      "设计思维",
+      "邻居王浩然"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合。multihop_03 直接综合了 behavior_06 中的技术手段（低温慢煮、设计思维）和 entity_03 中的人物与食材（王浩然、牛肉），描述了完整的因果链条。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "压力释放",
+      "创意料理",
+      "产品经理思维"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "两者都展示了主角在压力或特定情境下，利用烹饪作为解决方案（解压或清空冰箱），并将其上升到‘产品/资产管理’的高度（销魂面解压 vs 食谱笔记作为资产）。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "烹饪技法",
+      "情感连接"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者关注具体的低油烹饪技法（料理机打酱），后者关注情感驱动的炖汤过程；关联较弱，仅在于都体现了主角对烹饪细节的极致追求和情感投入。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "用户反馈",
+      "职业自信",
+      "迭代优化"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者都体现了‘产品经理’思维在烹饪中的应用：behavior_11 是通过便当获取实时用户反馈以迭代菜单，multihop_05 是通过过往成功（鹅肝酱）建立自信以推动更大项目（惠灵顿），逻辑一致。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "设计思维",
+      "时间管理",
+      "内容产出"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.7,
+    "association_path": "behavior_08 强调了设计师对整洁的执念，multihop_06 描述了从采购到烹饪再到分享的全过程；整洁的厨房环境（behavior_08）是产出高质量小红书内容（multihop_06）的重要前提和背景。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "time_11",
+    "shared_entities": [
+      "菜品摄影",
+      "惠灵顿牛排",
+      "成就感",
+      "职业自信"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均围绕烹饪成就展开：Pair A 描述通过社交媒体分享获得即时认同感，Pair B 描述通过克服技术挑战（惠灵顿牛排）获得深层职业自信，共同构成了从外部反馈到内部成长的完整心理闭环。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "成就感",
+      "被关爱感",
+      "社区互动",
+      "家庭连接"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者都涉及情感需求的满足，但方向不同：Pair A 指向公共领域的陌生人认同（小红书），Pair B 指向私人领域的亲情连接（父母）。关联性在于展示了主角情感支持系统的双重来源。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "惠灵顿牛排",
+      "融合菜",
+      "自豪感",
+      "克服困难"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "高度关联。Pair A 中的邻居询问‘如何把高蛋白食材做得好吃’可直接由 Pair B 中的‘惠灵顿牛排挑战经历’作为回答素材。前者是社交场景中的知识分享需求，后者是该知识背后的核心经验与自信来源。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "惠灵顿牛排",
+      "食谱笔记",
+      "产品迭代",
+      "技艺融合"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "因果与方法论的关联。Pair A 定义了‘惠灵顿牛排’为厨艺进阶的转折点（里程碑），Pair B 展示了主角将这种进阶过程方法论化（视为‘产品迭代’并记录笔记）的日常行为习惯，解释了主角为何能成功完成 Pair A 中的挑战。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "母亲张慧",
+      "精致便当",
+      "简化版开水白菜"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "对比关联。两者分别展示了主角处理人际关系的两种模式：Pair A 是与朋友（思思）的主动分享与快乐互动，Pair B 是在孤独时通过与母亲（张慧）的精神连接（复刻菜肴）来寻求慰藉。共同构建了主角的情感社交图谱。"
+  },
+  {
+    "pair_a_id": "entity_10",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "精致便当",
+      "极致新鲜",
+      "分享快乐"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "直接的因果链条。Pair A 描述了主角对食材‘极致新鲜’的苛求（去批发市场早市），这是制作 Pair B 中让闺蜜露出‘惊喜表情’的‘精致便当’的必要前提。没有 Pair A 的辛苦备料，就没有 Pair B 的友情升温。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_04",
+    "shared_entities": [
+      "周五晚上",
+      "治愈时刻",
+      "销魂豌杂面",
+      "工作压力大"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "场景互补与情绪对照。两者都是主角应对压力的方式，但风格截然不同：Pair A 是周五晚上的‘静’（慢炖、听声音、法式甜点），Pair B 是压力爆发时的‘动’（重口味、切菜节奏、豌杂面）。共同展示了主角调节情绪的双重机制。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "周五晚上",
+      "周三晚上",
+      "法式甜点",
+      "Fusion 料理",
+      "食谱笔记"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "时间线与行为模式的并列。Pair A 是周五的固定治愈仪式（按部就班），Pair B 是周三的即兴创作冲动（变废为宝）。两者共同体现了主角在规律生活与创意探索之间的平衡，虽无直接事件联系，但人物画像一致。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "工作压力",
+      "销魂豌杂面",
+      "切菜节奏",
+      "情绪宣泄"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极度紧密的细节补充关系。Pair A 宏观描述了用‘切菜节奏’和‘辛辣’解压的概念，Pair B 则微观具体化了这一过程（故意加大切辣椒力度、刀刃撞击砧板的声音）。Pair B 是 Pair A 所述心理机制的具体执行画面。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "2023 年里程碑",
+      "2021 年年会",
+      "惠灵顿牛排",
+      "川味鹅肝酱",
+      "职业自信"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "职业生涯的双峰映射。Pair A 代表技术层面的转折点（烘焙与西餐融合），Pair B 代表社交/职业认可层面的高光时刻（年会满堂彩）。两者共同构成了主角‘职业自信’的两大支柱，解释了其面对新挑战时的底气来源。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "精致便当",
+      "小红书发布"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "时间线上的紧密承接：pair_a 描述周末与闺蜜探店或做便当，pair_b 紧接着描述做完甜点或便当后的拍摄、修图及发给闺蜜审图的流程，人物、事件和逻辑高度连贯。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "弱关联：pair_a 讲述收到父亲食材并视频连线母亲做菜的家庭温情场景；pair_b 讲述个人挑战惠灵顿牛排成功的职业自豪感。两者虽都涉及烹饪，但人物、情感基调和具体事件无直接交集。"
+  },
+  {
+    "pair_a_id": "behavior_09",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "主题相关但场景独立：两者均涉及对烹饪细节的极致追求（pair_a 是食材验收，pair_b 是低油川菜的风味补偿），体现了主角严谨的烹饪态度，但具体事件和对象无直接联系。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "周五晚上"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "微弱的时间重合：仅在“周五晚上”这一时间点上有重叠，但 pair_a 侧重邻里社交交换，pair_b 侧重独居治愈时刻，情境和人物完全割裂。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "精神内核呼应：pair_a 描述对新食材的极客实验精神，pair_b 描述从失败到成功的跨越及技艺融合。两者都体现了主角在烹饪上的探索精神和专业成长，但无具体事件交集。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "周五晚上"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "时间与主题松散关联：pair_a 是周五晚上的放松治愈，pair_b 是回顾过去的职业里程碑。除了可能都在周五发生（推测）或都涉及烹饪外，缺乏直接逻辑链条。"
+  },
+  {
+    "pair_a_id": "behavior_09",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "行为模式对比：pair_a 是冷静理性的食材验收（像设计素材），pair_b 是情绪化的切菜宣泄。两者展示了主角在厨房中截然不同的两种状态（理性 vs 感性），构成人物性格的互补侧面。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "精密电子秤"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "设计理念的一致性：pair_a 提到像写用户体验报告一样分析餐厅，pair_b 提到像执行设计稿一样精准称量。两者都强烈体现了主角将“设计思维”应用于美食领域的核心特征。"
+  },
+  {
+    "pair_a_id": "behavior_06",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "厨房状态的反差：pair_a 展现高效、多任务并行的理性厨房流，pair_b 展现通过切菜节奏宣泄情绪感性时刻。两者共同丰富了主角的厨房形象，但事件本身无直接因果。"
+  },
+  {
+    "pair_a_id": "entity_07",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "邻居王浩然",
+      "进口牛肉"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "社交网络与食材来源的交织：pair_a 聚焦闺蜜作为品鉴官的角色，pair_b 聚焦邻居提供牛肉及交易默契。两者共同构建了主角围绕美食的社交生态圈（闺蜜 + 邻居），虽事件不同但人物和食材网络互通。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "融合创意菜",
+      "创意摆盘"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "从‘清空冰箱’制作融合菜（烹饪过程）自然过渡到菜品出锅后的摆盘与构图（呈现过程），构成完整的烹饪工作流。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者关注情感慰藉与特定菜品（开水白菜），后者关注清洁习惯与设计执念，两者在主题和实体上缺乏直接联系。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "创意摆盘",
+      "简化版开水白菜",
+      "思乡之情"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.5,
+    "association_path": "虽然共享‘摆盘’和‘开水白菜/思乡’概念，但前者侧重社交媒体分享行为，后者侧重食材来源与情感转化的叙事，场景跨度较大。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "食材"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "从‘采购食材’（时间/地点）自然延伸到烹饪前的‘食材称量分装’（Mise en place），符合烹饪准备的时间逻辑。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "工作压力大",
+      "成就感"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者分别描述压力下的解压行为（做面）和成功后的分享行为（发小红书），虽同属烹饪心理，但情绪基调（负面解压 vs 正面炫耀）相反，无直接因果。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "父亲林建国",
+      "新鲜食材"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者强调‘设计思维’与工具（低温慢煮），后者强调‘亲情互动’与传统菜（回锅肉），虽共享父亲与食材实体，但核心理念（理性设计 vs 感性传承）冲突。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "工作压力大",
+      "销魂豌杂面"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者是对外出就餐的专业点评习惯，后者是居家制作豌杂面解压的具体案例，虽共享‘压力’背景，但行为场景（探店 vs 自炊）完全不同。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "创意摆盘",
+      "小红书分享",
+      "创作冲动"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均描述烹饪带来的心理满足感，前者是完成后的‘成就感’与分享，后者是开始前的‘创作冲动’，共同构成烹饪的心理闭环。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "entity_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 1,
+      "association_reasonability": 1,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.0,
+    "association_path": "前者是应对工作压力的居家快餐行为，后者是闲暇时的探店点评行为，两者在时间、目的、对象上均无关联。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "周五晚上",
+      "慢火吊汤",
+      "独居"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均描绘独居生活中的‘治愈时刻’，前者通过复刻母亲菜肴连接情感，后者通过食物香气获得陪伴，主题高度一致（孤独与食物的慰藉）。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "两者均涉及烹饪场景，但 A 侧重心理激励（自豪感驱动创新），B 侧重具体操作（食材验收标准），缺乏直接的事件或情感因果链条，关联较弱。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "失败与成功",
+      "自豪感/职业自信",
+      "融合菜/创意"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度相似的情感逻辑：A 是牛排挑战带来的自豪感激励融合菜，B 是鹅肝酱成功带来的自信激励设计挑战。两者都是‘过往成功经历->当前自信/动力’的平行结构，主题高度一致。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "食谱笔记",
+      "采购标准/习惯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.8,
+    "association_path": "A 提到周三是记录食谱笔记的时间，B 提到采购习惯受分析习惯影响。虽然都涉及‘记录’和‘标准’，但 A 是创意实验，B 是避世与采购，时间线（周三 vs 周日）和行为动机不同，仅通过‘食物产品经理’的严谨态度微弱连接。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "entity_01",
+    "shared_entities": [
+      "销魂豌杂面/回锅肉",
+      "味觉",
+      "母亲/家庭"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "都涉及面食/肉类料理和家庭味觉记忆，但 A 是个人解压行为（重口味），B 是与母亲的代际口味冲突（低油 vs 下饭）。情境一个是工作压力的即时反应，一个是长期的亲情互动，关联性一般。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "小红书/大众点评",
+      "情绪调节"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "A 是正向情绪（成就感）驱动的分享行为，B 是负向情绪（烦躁）驱动的避世行为。虽然都涉及社交媒体（小红书 vs 大众点评），但情感极性和行为目的截然相反，缺乏连贯性。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "菜品摄影",
+      "修图",
+      "小红书",
+      "闺蜜陈思思"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "极强的行为连续性。A 描述了发布小红书获取认同的意愿，B 详细描述了实现这一意愿的具体工作流（拍摄、修图、闺蜜审图、发布）。B 是 A 的具体执行过程，实体重合度极高。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "周五晚上",
+      "食谱笔记"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.8,
+    "association_path": "都提到了‘周五晚上’和‘笔记’，但 A 是周五做饭慰藉思乡，B 是周三记录笔记（周五只是做饭时间之一，且 B 的核心是周三笔记）。时间点和核心事件（思乡汤 vs 解压面）不匹配，关联主要靠碎片化实体重叠。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_08",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "惠灵顿牛排"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.8,
+    "association_path": "实体几乎无交集。A 讲周末与闺蜜探店/做便当，B 讲 2023 年牛排挑战的技术里程碑。除非假设闺蜜参与了牛排挑战，否则两者在语义和叙事上完全独立。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "entity_12",
+    "shared_entities": [
+      "融合菜/Fusion",
+      "惠灵顿牛排"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.6,
+    "association_path": "A 提到牛排成功激励尝试融合菜，B 提到周三是融合菜的实验场。逻辑上 A 是动机，B 是实践场景，存在‘动机->行动’的合理推导，但缺乏具体的人物或时间直接衔接。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "食谱笔记"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 1
+    },
+    "overall_score": 1.6,
+    "association_path": "A 是周日采购，B 是工作压力下做面并记录周三笔记。除了都涉及‘食物’和‘笔记’这一宽泛概念外，时间（周日 vs 周三/即时）、事件（采购 vs 烹饪解压）均无直接联系，关联性极低。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "惠灵顿牛排",
+      "烘焙技艺",
+      "西餐融合",
+      "创意摆盘"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从挑战高难度菜品（惠灵顿）建立的职业自信，自然延伸到对成品呈现（摆盘、构图）的极致追求，体现了技能提升后对细节关注的深化。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "2023 年里程碑",
+      "惠灵顿牛排",
+      "职业自信"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.8,
+    "association_path": "两者共享‘惠灵顿牛排’和‘职业自信’等关键实体，但侧重点不同：前者描述烹饪时的感官专注（听觉），后者描述职业成长的宏观历程，逻辑关联较弱。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "周五晚上",
+      "Siemens 蒸烤箱",
+      "创意摆盘"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "共享‘周五晚上’的时间设定和'Siemens 蒸烤箱’设备，形成了从‘独自享受烹饪过程（听觉/嗅觉）’到‘完成后分享获取认同（视觉/社交）’的完整行为闭环。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "食材原产地",
+      "极致新鲜",
+      "亲手挑选"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "高度互补：前者关注外出就餐时对‘食材原产地’的专业分析，后者关注亲自去市场‘亲手挑选’新鲜食材，共同构建了用户对食材源头极致苛求的完整画像。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "工作压力",
+      "新鲜食材",
+      "情感连接"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.7,
+    "association_path": "两者均通过烹饪特定菜品（豌杂面 vs 回锅肉）来应对负面情绪（工作压力 vs 孤独），虽然触发情境不同，但核心逻辑都是‘食物作为情感疗愈媒介’。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_08",
+    "shared_entities": [
+      "周五晚上",
+      "法式甜点"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "仅共享‘周五晚上’时间和‘法式甜点’元素，但语境割裂：前者是独处的治愈时刻，后者是与邻居的社交交换，缺乏直接的逻辑推导或场景延续性。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "工作压力大",
+      "情绪释放",
+      "情感连接"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.6,
+    "association_path": "平行结构：分别描述了两种不同的‘味觉解压法’（开水白菜对应思乡，豌杂面对应工作压力），共同印证了用户利用烹饪调节心理状态的行为模式。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "创意摆盘",
+      "小红书",
+      "成就感"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "强因果链：前者提到给闺蜜做便当并视其为试吃员，后者详细描述了做完完美摆盘后修图发小红书并互动的过程，两者共同构成了‘创作 - 分享 - 反馈’的社交闭环。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "周五晚上",
+      "法式甜点",
+      "闺蜜陈思思",
+      "小红书"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "完美的时间线衔接：前者描述周五晚上制作甜点的过程，后者紧接着描述制作完成后拍照、修图并发送给闺蜜审图及发布的后续动作，场景连贯性极高。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "Vitamix 料理机",
+      "新派川菜/低油版川菜",
+      "酱汁"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "工具与应用的深度绑定：前者提出利用 Vitamix 实现‘设计思维’注入川菜的理论，后者具体展示了在‘低油’场景下使用该工具解决风味损失的实际操作，理论与实践高度对应。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_07",
+    "shared_entities": [
+      "闺蜜陈思思"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均描述了基于美食的社交互动：前者是邻里间的实物交换（牛肉换面包），后者是朋友间的情感与内容支持（品鉴与社交媒体反馈），共同构建了主角的‘美食社交圈’。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "慢炖",
+      "锅具"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "强因果与场景关联：'emotion_04'中提到的‘慢炖一锅汤’的具体执行，极大概率依赖'behavior_02'中对 Le Creuset 铸铁锅的精心养护，体现了从情感需求到严谨操作的闭环。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "烘焙",
+      "技艺"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "宏观成就与微观习惯的映射：'entity_08'是烘焙与西餐融合的里程碑成果，而'behavior_01'中的'Mise en place'（精准称量）正是实现这种高难度融合技艺的基础方法论和秩序保障。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "entity_08",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联较弱：前者是常规的周期性采购行为，后者是特定的历史性技术突破事件。除非采购的食材直接用于该次挑战，否则两者仅在‘厨艺生活’的大背景下存在松散联系。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "邻居王浩然"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "时间线与人物串联：两者分别描述了不同时间段（不定时交换 vs 周五晚上）的活动，通过‘邻居王浩然’这一人物产生微弱联系，展示了主角生活中不同维度的切片，但缺乏直接的事件因果。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "entity_11",
+    "shared_entities": [
+      "设计思维",
+      "食材"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "核心理念的一致性：两者完美互证了主角将‘设计思维’应用于美食的全流程——'time_10'是生产端的‘产品设计’（烹饪如设计），'entity_11'是消费/评价端的‘用户体验分析’（写评论如写报告）。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "工作压力大",
+      "销魂豌杂面",
+      "方案修改",
+      "辛辣味觉"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重叠与逻辑递进：'multihop_12'几乎是'emotion_01'的详细复盘和升华，前者描述即时反应（做面解压），后者描述完整闭环（解压后复盘工作），实体重合度极高。"
+  },
+  {
+    "pair_a_id": "entity_08",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "Fusion 料理",
+      "食谱笔记"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "技能演进与方法论复用：'entity_08'确立了‘融合菜’的技能转折点，'multihop_10'展示了该技能在日常（清空冰箱）中的常态化应用，并将‘食谱笔记’提升为资产，体现了从单次突破到系统化管理的成长。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "食谱笔记",
+      "复盘"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "心态与行动的呼应：'time_11'中因过往成功（惠灵顿）建立的‘职业自信’，驱动了'behavior_05'中对日常实验（清空冰箱）进行严谨的‘产品迭代’式记录，体现了自信带来的规范化操作。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "邻居王浩然",
+      "闺蜜陈思思",
+      "自制全麦面包"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "社交链条的完整呈现：'entity_03'是食材获取与邻里互动（输入），'behavior_07'是成品展示与闺蜜互动（输出/传播）。两者结合展示了主角从‘交换食材’到‘制作并分享美食内容’的完整社交闭环。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "entity_11",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.25,
+    "association_path": "两者均涉及饮食偏好与个人表达，但 A 侧重通过重口味家常菜进行情绪宣泄（解压），B 侧重通过高端隐蔽餐厅进行理性分析（写评），场景与情感基调差异较大，关联性较弱。"
+  },
+  {
+    "pair_a_id": "entity_01",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.25,
+    "association_path": "A 讲述传统家常菜的传承与改良争论，B 讲述利用剩余食材进行创新实验并记录食谱。两者共同构建了‘家庭烹饪者’从守正（回锅肉）到出奇（Fusion 料理）的完整画像，体现了对食物管理的深度参与。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "母亲张慧",
+      "正宗回锅肉",
+      "低油版川菜"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "强因果与互补关系。A 中提到向母亲学习制作‘正宗回锅肉’，B 中详细描述了制作‘低油版川菜’（即 A 中提到的改良版）时使用的具体技术手段（Vitamix 料理机）以解决口味损失问题。两者共同构成了‘传统传承’到‘现代健康改良’的完整闭环。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "邻居王浩然",
+      "进口牛肉",
+      "全麦面包"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "两者分别描述了主角与不同社交对象（闺蜜 vs 邻居）的互动。A 是主动分享（做便当），B 是被动交换（换面包）。虽然共享了部分实体背景，但属于两条平行的社交线索，缺乏直接的事件因果联系。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.25,
+    "association_path": "情感应对机制的对比。A 描述在‘孤独/想家’时通过慢火吊汤（内向、怀旧）来寻求连接；B 描述在‘烦躁’时通过探店 Bistro（外向、逃避）来平复心情。两者共同展示了主角针对不同负面情绪采用的不同饮食疗愈策略。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "烹饪流程的前后环节。A 强调对顶级食材（父亲寄来的土鸡菌菇）和器具（Le Creuset）的重视，是‘输入端’的讲究；B 强调出锅后的摆盘美学（色彩构成、镊子调整），是‘输出端’的极致。两者共同体现了主角对烹饪全流程的高标准要求。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "理念与执行的对应。A 中邻居询问‘如何把高蛋白食材做得好吃’，隐含了对技术的求知；B 展示了主角严谨的备餐习惯（Mise en place、精密称量），这正是能回答 A 中问题的核心技术支撑，体现了专业度。"
+  },
+  {
+    "pair_a_id": "entity_06",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "闺蜜陈思思",
+      "精致便当"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "独居生活与社交反馈的对照。A 描述周五晚上独自烹饪的‘安静陪伴’（自我治愈）；B 描述将做好的便当分享给闺蜜并获得反馈（社会验证）。两者展示了主角从‘自我满足’到‘获得他人认可’的价值实现过程。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.75,
+    "association_path": "弱关联。A 聚焦于核心家庭（父母）的血缘亲情与烹饪传承；B 聚焦于邻里之间的陌生人社交与健康理念交换。虽然都涉及‘食物’和‘情感’，但社交圈层和情感性质完全不同，难以形成连贯叙事。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "工作状态下的厨房行为对比。A 描述因工作压力大而进行‘情绪化烹饪’（重口味、快节奏切菜）；B 描述利用科技工具（低温慢煮机）进行‘效率化烹饪’（多任务并行）。两者展示了主角在应对压力或忙碌时，既有感性宣泄的一面，也有理性管理的一面。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "两者均涉及烹饪后的反思行为，但前者侧重情感交流（友情），后者侧重理性复盘（产品迭代），主题关联度一般。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "设计思维"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "共同点在于将‘设计师思维’迁移至厨房：前者用于食材实验，后者用于环境维护，体现了统一的行为逻辑。"
+  },
+  {
+    "pair_a_id": "behavior_05",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "复盘/分析习惯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "前者是具体的食谱记录行为，后者是采购标准的形成逻辑，虽都含‘分析’成分，但场景跨度较大（厨房内 vs 市场/探店）。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "食谱笔记",
+      "食材处理"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "形成了完整的闭环：前者定义‘食谱笔记’为核心资产，后者展示了从采购到分享的内容产出过程，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "情绪调节"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者都通过烹饪处理情绪，但前者是‘被关爱’驱动的温馨互动，后者是‘工作压力’驱动的宣泄，情感基调相反。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "专注/仪式感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者强调时间段的治愈属性，后者强调对特定食材（父亲寄送）的验收仪式，虽都有专注感，但缺乏直接事件联系。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.5,
+    "association_path": "前者是邻里间的食材交换与社交，后者是个人情绪宣泄的切菜行为，两者在实体和语义上几乎无关联。"
+  },
+  {
+    "pair_a_id": "entity_09",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "精致便当",
+      "闺蜜陈思思"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "强关联：前者建立‘设计师厨神’人设，后者具体展示了将该人设应用于‘闺蜜便当’并进行‘用户反馈’收集的完整行为链条。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "entity_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "前者涉及闺蜜社交，后者涉及父亲提供的食材，虽然都是烹饪背景，但人物关系和核心事件完全独立。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "精致便当"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "时间线上的因果关联：前者‘周五晚上’制作食物（虽原文提甜点/汤，但可引申为备餐），后者‘周一早上’分享便当，构成周末备餐到周一分享的流程。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "食材新鲜度",
+      "烹饪准备"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "从采购新鲜食材（pair_b）到制作并分享成品（pair_a）的线性烹饪流程关联，但场景氛围（批发市井 vs 精致社交）存在反差。"
+  },
+  {
+    "pair_a_id": "entity_12",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "剩余/新鲜食材",
+      "家庭烹饪",
+      "食谱创作"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "食材来源的互补性关联：pair_b 提供新鲜核心食材，pair_a 利用剩余食材进行创意转化，共同构成完整的家庭饮食管理闭环。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "精密电子秤",
+      "实验精神",
+      "新派/新食材"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度一致的‘极客烹饪’理念关联：两者均强调利用精密仪器（电子秤）和科学方法（设计思维/实验）来处理食材，追求极致精准。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "工作压力",
+      "情绪调节",
+      "烹饪治愈"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "深层情感逻辑关联：两者均描述通过特定的烹饪行为（慢炖/做面）来应对工作压力，实现情绪释放与心理治愈的过程。"
+  },
+  {
+    "pair_a_id": "entity_05",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "食物交换",
+      "人际互动"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "弱关联：pair_a 聚焦个人独处时的解压烹饪，pair_b 聚焦邻里间的社交交换，虽都涉及食物但动机与场景截然不同。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "Vitamix 料理机",
+      "法式甜点",
+      "设计思维应用"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "工具与设计理念的交叉关联：两者都体现了将专业设计思维（风味补偿/色彩构成）和特定工具（料理机/蒸烤箱）应用于烹饪创作中。"
+  },
+  {
+    "pair_a_id": "entity_03",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "食材获取",
+      "高品质追求"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "食材供应链的互补关联：pair_b 描述蔬菜的批发市场采购，pair_a 描述肉类的邻里交换，共同构建了多样化的优质食材获取网络。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "entity_06",
+    "shared_entities": [
+      "周三/周五时间轴",
+      "独居生活",
+      "烹饪习惯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 5
+    },
+    "overall_score": 3.8,
+    "association_path": "时间序列与生活节奏关联：两者分别描述了周中（清空冰箱）和周末（治愈时刻）的固定烹饪仪式，共同勾勒出独居者的每周生活图谱。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "新派川菜",
+      "烹饪技术",
+      "时间管理"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "烹饪场景的松散关联：pair_a 侧重家庭情感传承（回锅肉），pair_b 侧重现代高效技法（低温慢煮），仅在‘制作川菜’这一宽泛主题下有关联。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "审美追求",
+      "用餐仪式感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.6,
+    "association_path": "消费与生产端的审美呼应：pair_b 是极致的摆盘创作过程，pair_a 是对美食成品的深度品味与评价，构成‘创作 - 欣赏’的潜在闭环。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "烹饪解压",
+      "创作冲动"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均描述通过烹饪（做面 vs 做 Fusion 料理）来应对情绪或激发创作，虽具体情境不同（压力释放 vs 变废为宝），但在‘厨房作为情感/创意出口’这一核心语义上高度相关。"
+  },
+  {
+    "pair_a_id": "entity_02",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "专业厨具",
+      "烹饪流程"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者强调对特定食材和顶级锅具的情感珍视，后者关注现代烹饪技术与效率管理。虽同属高阶厨房行为，但侧重点分别为‘情感/器物’与‘技术/流程’，直接关联度中等。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "父亲林建国",
+      "新鲜土鸡"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "强实体重叠。Pair_b 中的‘父亲林建国’和‘新鲜土鸡’直接承接 Pair_a 中未出现但隐含的家庭食材背景（实际 Pair_a 是探店，此处修正：Pair_a 是探店评论，Pair_b 是家庭烹饪。重新评估：两者无直接实体重叠，Pair_a 讲探店写点评，Pair_b 讲用父亲寄的鸡做汤。之前的 shared_entities 提取错误。修正逻辑：两者无直接实体重叠，但都涉及‘对食物深度的关注’（一个关注原产地写长评，一个关注食材转化情感）。关联度应降低。"
+  },
+  {
+    "pair_a_id": "entity_11",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "Pair_a 关注外部餐饮体验与专业评论，Pair_b 关注家庭内部食材处理与情感寄托。虽都体现对食物的认真态度，但场景（外食 vs 家厨）和对象（网红/Bistro vs 父亲寄的鸡）完全不同，无直接实体或情节关联。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "烹饪完成后的行为"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair_a 描述烹饪过程中的亲情互动（视频连线），Pair_b 描述出锅后的摆盘美学。两者处于烹饪流程的不同阶段，且主题（亲情 vs 美学）差异较大，关联性弱。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "秩序感",
+      "控制感"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 通过选择环境和品味美食来平复烦躁，Pair_b 通过严谨的备菜流程（Mise en place）获得秩序感。两者都是利用食物相关的行为来调节心理状态，但具体手段（外食体验 vs 内厨准备）不同。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "方案修改",
+      "销魂豌杂面",
+      "切菜节奏",
+      "压力释放"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "极强关联。Pair_b 几乎是 Pair_a 情节的完整复述与延伸，明确包含了 Pair_a 中的所有关键实体（焦虑源、食物、动作、目的），并增加了后续记录笔记的情节，构成直接的因果链条。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "Pair_a 聚焦于维护特定锅具以烹饪父亲寄来的鸡，Pair_b 聚焦于因工作压力做豌杂面解压。两者在人物、食材、情绪、行为上均无交集，属于完全独立的事件。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "食材获取",
+      "社区分享"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者都涉及‘获取优质食材’和‘社交/社区反馈’（邻居交换 vs 小红书分享）。虽然具体人物和平台不同，但在‘食物作为社交货币’这一抽象概念上存在语义共鸣。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "技能成长",
+      "内容创作"
+    ],
+    "scores": {
+      "entity_overlap": 0,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 回顾个人技能里程碑建立自信，Pair_b 描述从选材到分享的内容生产闭环。两者都体现了主角在烹饪领域的专业追求和成就感，但一个是内在心理建设，一个是外在内容产出。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "周三晚上",
+      "食谱笔记",
+      "小红书/社区"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "高度相关。Pair_b 详细描述了‘周三晚上’利用剩余食材做 Fusion 料理并记录‘食谱笔记’的过程，这与 Pair_a 中提到的发布小红书、审图等流程形成互补。Pair_b 提供了 Pair_a 行为的具体内容来源（即周三的实验笔记），构成了内容生产的前后环节。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "食材"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "从‘邻居间的食材交换’自然过渡到‘利用剩余食材进行料理实验’，两者核心都围绕食材的获取与创造性利用，体现了对食物价值的共同关注。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "美食分享",
+      "社区互动"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.0,
+    "association_path": "从‘外出就餐写点评’到‘自制菜品发小红书’，构成了完整的美食爱好者行为闭环：无论是品尝还是制作，最终都指向通过内容分享获取社区认同。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "entity_10",
+    "shared_entities": [
+      "食材",
+      "烹饪"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者是压力下的即时烹饪解压，后者是周末对食材源头的极致追求。虽都涉及食物，但一个是情绪宣泄的‘果’，一个是生活仪式的‘因’，时间场景和动机差异较大。"
+  },
+  {
+    "pair_a_id": "entity_04",
+    "pair_b_id": "entity_05",
+    "shared_entities": [
+      "销魂豌杂面",
+      "切菜节奏",
+      "工作压力",
+      "拒绝外卖"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合。两者描述了完全相同的场景：在工作压力大时，通过亲手制作重口味豌杂面（强调切菜节奏和辣味）来拒绝外卖并解压，只是侧重点略有不同（前者强调工具，后者强调心理）。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "烹饪",
+      "情感"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "同为烹饪引发的情感反应，但方向截然相反：前者是‘负面压力->辛辣解压’的自我疗愈，后者是‘正面关爱->温馨烹饪’的情感传递。可作为对比案例，但直接连贯性较弱。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "烹饪行为"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.6,
+    "association_path": "前者关注微观的‘酱汁制作技术’，后者关注宏观的‘便当社交反馈’。虽然都是烹饪行为，但缺乏直接的逻辑递进或场景关联，属于同一主题下的不同切片。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "Le Creuset 铸铁锅",
+      "父亲寄来的食材",
+      "闺蜜陈思思"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的叙事连贯性。前者是对锅具和父亲寄来土鸡的预处理（养锅），后者是对父亲寄来菌菇的验收标准及最终用途（给思思做便当），共同构建了‘严选食材 + 顶级厨具->款待朋友’的完整故事线。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "邻居王浩然",
+      "进口牛肉"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "关联性弱。前者是个人独处时的压力宣泄（做面），后者是邻里社交时的食材交易（牛肉换面包）。除了可能隐含的‘高蛋白’概念外，场景、人物互动和情绪基调均无直接联系。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "食材"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 1.8,
+    "association_path": "几乎无关联。前者是回忆职业高光时刻带来的自信，后者是日常对食材质量的严格把控。两者在时间跨度、事件性质和情感维度上均缺乏交集。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "自信",
+      "压力"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "情感状态的对比。前者是回顾成功经历获得的‘职业自信’，后者是面对工作挫折产生的‘焦虑压力’。可作为人物心理状态的正反两面描写，但缺乏事件层面的直接因果或顺承关系。"
+  }
+]

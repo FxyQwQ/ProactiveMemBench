@@ -1,0 +1,224 @@
+{
+  "sessions": [
+    {
+      "session_id": 1,
+      "timestamp_range": "2024-03-05 ~ 2024-03-08",
+      "assigned_pairs": [
+        "entity_01",
+        "behavior_07",
+        "multihop_11"
+      ],
+      "session_theme": "晨间启动与跑后恢复的闭环",
+      "conversation_seed": "周二早晨在滨江跑道和陈宇一起 LSD 后，右膝有点紧，回家赶紧用筋膜枪放松髂胫束，想起之前停训的教训，现在晨间黑咖啡激活到晚间泡沫轴放松已成固定流程。"
+    },
+    {
+      "session_id": 2,
+      "timestamp_range": "2024-03-14 ~ 2024-03-17",
+      "assigned_pairs": [
+        "entity_09",
+        "behavior_08",
+        "emotion_05"
+      ],
+      "session_theme": "饮食纪律与周末奖励的平衡",
+      "conversation_seed": "坚持了一周自带便当和高蛋白饮食，就是为了周六长距离拉练后的那顿欺骗餐，这种心理补偿带来的满足感让我觉得之前的克制都值了。"
+    },
+    {
+      "session_id": 3,
+      "timestamp_range": "2024-03-23 ~ 2024-03-26",
+      "assigned_pairs": [
+        "entity_03",
+        "behavior_10",
+        "emotion_11"
+      ],
+      "session_theme": "装备轮换与跑者身份的初心",
+      "conversation_seed": "为了保护好 Nike Vaporfly 3 留给比赛日，平时拉练都用 Asics Kayano 30，这种对装备的爱惜让我站在起跑线时总能回忆起最初成为跑者的那份初心。"
+    },
+    {
+      "session_id": 4,
+      "timestamp_range": "2024-04-02 ~ 2024-04-05",
+      "assigned_pairs": [
+        "entity_11",
+        "emotion_11",
+        "multihop_07"
+      ],
+      "session_theme": "从挫折中重建身份认同",
+      "conversation_seed": "想起 2021 杭马确立的跑者身份，再看看 2023 年因伤停训的挫折，如今能坚持复健并享受晨间黑咖啡仪式，是对自我身份最有力的 affirmations。"
+    },
+    {
+      "session_id": 5,
+      "timestamp_range": "2024-04-11 ~ 2024-04-14",
+      "assigned_pairs": [
+        "entity_05",
+        "emotion_10",
+        "multihop_01"
+      ],
+      "session_theme": "伤痛记忆驱动的预防性恢复",
+      "conversation_seed": "2023 年 ITBS 的受伤记忆太深刻了，所以现在周日必须做筋膜枪放松并保证 23:00 入睡，这种冷热交替浴带来的宁静感是预防再次受伤的关键。"
+    },
+    {
+      "session_id": 6,
+      "timestamp_range": "2024-04-20 ~ 2024-04-23",
+      "assigned_pairs": [
+        "entity_06",
+        "behavior_05",
+        "emotion_07"
+      ],
+      "session_theme": "力量训练中的信任与技术掌控",
+      "conversation_seed": "挑战深蹲大重量时，有王强在旁边做保护协助让我非常安心，这种技术精进带来的掌控兴奋感，是突破 PR 的关键动力。"
+    },
+    {
+      "session_id": 7,
+      "timestamp_range": "2024-04-29 ~ 2024-05-02",
+      "assigned_pairs": [
+        "emotion_01",
+        "multihop_05",
+        "behavior_02"
+      ],
+      "session_theme": "代码焦虑的运动转化机制",
+      "conversation_seed": "遇到代码 Bug 焦虑时，戴上 Shokz 耳机进行 HIIT 训练能瞬间清空大脑，这种从压力到逻辑梳理的转化 pipeline 是我独有的解压方式。"
+    },
+    {
+      "session_id": 8,
+      "timestamp_range": "2024-05-08 ~ 2024-05-11",
+      "assigned_pairs": [
+        "emotion_09",
+        "multihop_10",
+        "behavior_12"
+      ],
+      "session_theme": "数据思维下的装备与补剂管理",
+      "conversation_seed": "作为程序员，看到 Excel 里的负荷曲线就充满秩序感，这种数据驱动的思维也延伸到了跑鞋轮换纪律和补剂精准调整上，直接关联到 Strava 上的社交认同。"
+    },
+    {
+      "session_id": 9,
+      "timestamp_range": "2024-05-17 ~ 2024-05-20",
+      "assigned_pairs": [
+        "entity_04",
+        "emotion_08",
+        "multihop_04"
+      ],
+      "session_theme": "家庭支持网络与营养后盾",
+      "conversation_seed": "母亲张慧炖的牛肉给了我极大的安全感和家庭支持，父亲林建国态度的转变以及王强的保护建议，共同支撑着我向深蹲 1.5 倍体重的目标迈进。"
+    },
+    {
+      "session_id": 10,
+      "timestamp_range": "2024-05-26 ~ 2024-05-29",
+      "assigned_pairs": [
+        "entity_08",
+        "behavior_04",
+        "multihop_06"
+      ],
+      "session_theme": "数据追踪驱动的恢复策略",
+      "conversation_seed": "Garmin Forerunner 265 同步数据到 Strava 后，我会结合 Excel 记录表分析负荷曲线，基于疲劳分析结果决定今晚是否进行冷热交替浴。"
+    },
+    {
+      "session_id": 11,
+      "timestamp_range": "2024-06-04 ~ 2024-06-07",
+      "assigned_pairs": [
+        "multihop_02",
+        "multihop_12",
+        "behavior_03"
+      ],
+      "session_theme": "周期化训练与程序员逻辑的融合",
+      "conversation_seed": "利用计算机专业背景，我用 MyFitnessPal 和 Excel 算法精准调整补剂，配合 Nike Vaporfly 3 的半马 PB 目标和 Asics 拉练，甚至力量训练后的蛋白粉摄入都在这个逻辑闭环里。"
+    },
+    {
+      "session_id": 12,
+      "timestamp_range": "2024-06-13 ~ 2024-06-16",
+      "assigned_pairs": [
+        "entity_02",
+        "behavior_06",
+        "behavior_09"
+      ],
+      "session_theme": "健身房习惯与生活作息纪律",
+      "conversation_seed": "下班后去乐刻运动文三路店做力量训练已成习惯，为了配合肌肉生长，我周日晚上会提前备餐分装，并严格执行 22:00 断网、23:00 入睡的作息纪律。"
+    },
+    {
+      "session_id": 13,
+      "timestamp_range": "2024-06-22 ~ 2024-06-25",
+      "assigned_pairs": [
+        "emotion_02",
+        "behavior_11",
+        "multihop_03"
+      ],
+      "session_theme": "社交认同与同伴压力的正向循环",
+      "conversation_seed": "打破半马 PB 后，Garmin 数据和 Strava 打卡带来的社交认同感爆棚，这离不开陈宇在滨江跑道 LSD 时的同伴压力，我们互相监督甚至用 Excel 分析彼此数据。"
+    },
+    {
+      "session_id": 14,
+      "timestamp_range": "2024-07-01 ~ 2024-07-04",
+      "assigned_pairs": [
+        "emotion_04",
+        "multihop_08",
+        "entity_12"
+      ],
+      "session_theme": "家庭自豪感与技术反馈的细节",
+      "conversation_seed": "父亲林建国看到马拉松奖牌后的态度转变让我充满家庭自豪感，这种情感动力让我更关注深蹲技术细节，哪怕他对营养品有疑问，我也能用王强教的安全反馈逻辑解释清楚，晨间 06:30 起床也因此更有动力。"
+    },
+    {
+      "session_id": 15,
+      "timestamp_range": "2024-07-10 ~ 2024-07-13",
+      "assigned_pairs": [
+        "emotion_06",
+        "entity_01",
+        "behavior_01"
+      ],
+      "session_theme": "同伴激励下的晨间仪式",
+      "conversation_seed": "陈宇在滨江跑道的坚持配速给了我很大的同伴压力，为了跟上他的节奏，我强化了 06:30 起床、黑咖啡和核心激活的晨间仪式，确保空腹状态下也能高效训练。"
+    },
+    {
+      "session_id": 16,
+      "timestamp_range": "2024-07-19 ~ 2024-07-22",
+      "assigned_pairs": [
+        "emotion_03",
+        "entity_05",
+        "behavior_05"
+      ],
+      "session_theme": "克服受伤恐惧的安全检查",
+      "conversation_seed": "每次深蹲加重时，ITBS 的受伤记忆还是会引发恐惧心理，所以我现在格外重视装备检查和王强的保护协助，通过严格的动作检查来重建安全感。"
+    },
+    {
+      "session_id": 17,
+      "timestamp_range": "2024-07-28 ~ 2024-07-31",
+      "assigned_pairs": [
+        "multihop_09",
+        "entity_09",
+        "emotion_05"
+      ],
+      "session_theme": "代谢额度积累与奖励_cycle",
+      "conversation_seed": "工作日严格自带便当控制饮食，其实是在积累代谢额度，为了周六长距离拉练后的欺骗餐，这种无负罪感的满足感是维持长期纪律的核心。"
+    },
+    {
+      "session_id": 18,
+      "timestamp_range": "2024-08-06 ~ 2024-08-09",
+      "assigned_pairs": [
+        "behavior_12",
+        "multihop_05",
+        "emotion_01"
+      ],
+      "session_theme": "补剂系统与压力管道的协同",
+      "conversation_seed": "随餐服用复合维生素和肌酸不仅是为了身体系统，更是为了支撑那个从代码 Bug 焦虑到 HIIT 清空大脑的压力转化管道，让思维更清晰。"
+    },
+    {
+      "session_id": 19,
+      "timestamp_range": "2024-08-15 ~ 2024-08-18",
+      "assigned_pairs": [
+        "entity_07",
+        "behavior_02",
+        "emotion_01"
+      ],
+      "session_theme": "项目压力下的专注隔离",
+      "conversation_seed": "项目上线压力大的时候，Shokz OpenRun 的专注模式和环境音隔离功能就是我的救命稻草，配合 HIIT 训练快速缓解代码 Bug 带来的焦虑。"
+    },
+    {
+      "session_id": 20,
+      "timestamp_range": "2024-08-24 ~ 2024-08-27",
+      "assigned_pairs": [
+        "emotion_12",
+        "behavior_01",
+        "multihop_11"
+      ],
+      "session_theme": "晨间掌控力到晚间恢复的全天流",
+      "conversation_seed": "黑咖啡和核心激活带来的晨间掌控力和清醒切换，能支撑一整天的高效工作和晚间力量训练，最终在睡前的泡沫轴放松中完成这一天的完美闭环。"
+    }
+  ]
+}

@@ -1,0 +1,3225 @@
+[
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "麻薯",
+      "林晓",
+      "封闭阳台"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两段描述均围绕林晓对麻薯的精细化照料展开，前者侧重日常出门前的安全检查（防意外），后者侧重洗澡后的健康检查与环境消毒（防病），共同构建了‘自 2023 年意外后’形成的严密防护闭环，逻辑紧密。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均为林晓照顾麻薯的具体行为模式，一个是周期性的清洁护理（每两周），一个是每日的安全惯例，虽频率不同但共同体现了主人的责任感，话题连贯。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两段均描写林晓因麻薯而产生的情感波动，前者是当下的互动温情（无奈又温暖），后者是家庭关系因猫而缓和的感动，情感基调一致，适合在分享养宠心路历程时连续提及。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从周六固定的清洁劳作（时间/行为）自然过渡到对当初收养决定的感恩（情感/回忆），体现了‘付出与回报’的心理逻辑，清洁行为强化了主人对猫咪健康的重视，呼应了庆幸给它一个家的主题。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "麻薯",
+      "林晓"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "具体的洗澡护理行为（time_04）是麻薯如今‘健康粘人’状态（multihop_12）的成因之一，两者构成因果支撑关系，从日常细节引申到对当初善举的宏观感激，叙事流畅。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "两段情感均源于对麻薯安全的极度关注：父亲买暖气是防冷，林晓收细小物品是防误食（呼应 2023 年肠梗阻意外）。两者共同揭示了‘意外创伤后’家庭全员对猫咪安全的高度敏感，内在逻辑极强。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两段分别描述了林晓与母亲、与闺蜜关于麻薯的社交互动，展现了麻薯作为情感纽带连接不同人际关系的功能，话题从家庭亲情自然扩展到朋友共鸣，适合在讲述‘养宠社交’时连续出现。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从回忆最初收养的起源（time_11）到讲述家人从反对到接纳的转变（emotion_05），构成了完整的‘收养故事线’，时间轴上从过去延伸至现在，情感上从个人善举扩展到家庭融合。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "前者是对专业医疗支持的安心（外部保障），后者是日常生活中的主动防范（内部习惯），两者共同构成了林晓保障麻薯安全的双重防线，逻辑上互为补充。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "一段是定期的洗澡护理行为，另一段是父亲转账的特定事件，虽然主角都是林晓和麻薯，但一个是常规维护，一个是家庭情感事件，直接语义关联较弱，需通过‘全方位关爱’这一宽泛主题强行连接。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "共享人物与宠物实体，但场景从周末户外社交切换至日常室内喂食，话题连贯性一般。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "均围绕林晓与麻薯的日常互动，从洗澡护理自然过渡到工作陪伴，体现人宠亲密关系。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "仅共享宠物实体，前者为喂食行为，后者为玩具选购与健康管理，逻辑关联较弱。"
+  },
+  {
+    "pair_a_id": "multihop_02",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "麻薯",
+      "猫藓"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度关联，前者描述家庭护理细节，后者延伸至兽医治疗及知识分享，共同构建完整的猫藓康复叙事链。"
+  },
+  {
+    "pair_a_id": "behavior_07",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "共享主人与宠物，但话题从激发捕猎天性的玩具轮换跳跃至父女情感互动，语境转换较大。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "均涉及林晓对麻薯的关爱情感，但前者聚焦居住决策的欣慰，后者侧重父女亲情，主题侧重不同。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.75,
+    "association_path": "仅共享宠物实体，前者关于防误食的安全习惯，后者关于玩具与活力激发，缺乏直接因果或场景联系。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "前者回忆收养起源，后者描述基于过往病史（猫藓）的日常检查，形成从过去到现在的护理逻辑闭环。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "均源于对过往危机的反思，前者感慨收养决定，后者详述因误食事故引发的具体防范行为，情感与行动呼应。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "共享人物与宠物，但场景从周末朋友聚会切换至工作日出门前的安全检查，话题跳跃明显。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均围绕林晓对麻薯的照料及家庭成员（母亲）对麻薯的关注展开，体现了人宠互动与家庭情感的交织。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "分别描述了工作时的互动和回家时的仪式，共同构建了林晓与麻薯之间深厚的情感纽带和日常依赖关系。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "虽都涉及林晓对麻薯的关爱，但前者侧重家庭关系转变的情感体验，后者侧重具体的健康护理行为，主题关联度中等。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘",
+      "UI 设计稿"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度重合，pair_b 直接延伸了 pair_a 中麻薯趴键盘的场景，进一步阐述了该行为对林晓情绪调节的深层意义。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "均体现林晓为麻薯提供良好生活环境的努力，但一个是定期护理行为，一个是居住选择的情感反馈，场景跨度较大。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "同属日常照料行为范畴，分别针对饮食召唤和玩具轮换，共同展现了林晓对麻薯生活习性的细致观察与照顾。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "核心主题一致，均强调林晓在与麻薯的互动（清洁或晚间仪式）中获得心理治愈和压力释放。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "分别从父亲的爱和猫咪的陪伴两个角度，描绘了麻薯作为情感寄托，帮助林晓抵御孤独、感受温暖的场景。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "共享主体为人和猫，但内容分别为具体的清洁家务和接收长辈关爱，事件性质差异较大，逻辑连接较弱。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "均体现了林晓基于过往经验（意外或猫藓）形成的特定安全检查习惯，反映了对麻薯高度的责任感和预防意识。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "情感因果链：pair_a 描述麻薯当前缓解焦虑的功能，pair_b 追溯这一关系的起源（2021 年收养），解释了为何麻薯对林晓如此重要，构成完整的情感闭环。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "emotion_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "场景并列：两者均描述林晓与麻薯的日常互动，但 pair_a 侧重清洁维护（周六），pair_b 侧重工作陪伴（键盘监督），缺乏直接的时间或因果逻辑连接。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.4,
+    "association_path": "主题弱相关：两者都涉及养猫生活，但 pair_a 聚焦社交共鸣（公园/闺蜜），pair_b 聚焦玩具轮换策略，实体交集少且语境跨度大。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "行为动机链：pair_b 提到的‘误食危机’是 pair_a 中‘仔细梳理/使用进口沐浴露’等精细化护理行为的潜在心理动因，体现了从惊险记忆到谨慎呵护的逻辑转化。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.3,
+    "association_path": "信任延伸：pair_a 建立了对专业医疗的信任感，pair_b 展示了日常生活中的细致照顾，两者共同构建了‘全方位守护’的形象，但无直接事件触发关系。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "健康与认可链：pair_a 中林晓对皮肤/猫藓的细致检查体现了高度责任感，这正是 pair_b 中林母态度转变（从反对到支持）的关键证据（‘展现出的责任感’）。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "出租屋"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "时空闭环：pair_a 是出门前的安全确认与告别，pair_b 是回家后的固定仪式，两者在时间轴上首尾呼应，完整描述了林晓每日往返公司与家的生活节奏。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "time_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.3,
+    "association_path": "多方关注：pair_a 是线下的专业医疗维护，pair_b 是线上的家庭情感维系，两者展示了麻薯在不同社会关系网（医生 vs 家人）中受到的关注，属于平行叙事。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘",
+      "设计稿"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "深度解析：pair_b 几乎是对 pair_a 现象的深度心理剖析和背景补充，解释了‘无奈’背后的‘温暖’来源以及‘平复心情’的具体机制（联想收养经历），逻辑紧密。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "emotion_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.3,
+    "association_path": "情感叠加：两者分别描述了来自父亲（亲情）和张医生（专业友情）的关爱，共同烘托林晓因麻薯而获得的广泛社会支持网络，属于情感维度的并列补充。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均描述林晓为适应麻薯的存在而调整自身行为（工作姿势 vs 出行准备），体现了人宠互动的深度融入，虽场景不同但核心逻辑一致。"
+  },
+  {
+    "pair_a_id": "multihop_07",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "误食/肠梗阻事件"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "强因果关联。两者均直接源于‘麻薯误食异物导致肠梗阻’这一核心创伤事件，分别展示了该事件对‘居住环境选择’和‘物品收纳习惯’的深远影响。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "杭州"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "弱关联。仅共享人物和地点背景。前者是社交娱乐场景，后者是居家安全防护，两者在叙事流中可并列存在，但无直接逻辑推导关系。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "行为与情感的互补。前者是因恐惧意外而产生的防御性行为（收纳），后者是日常维护带来的治愈感（清洁），共同构成了林晓养宠生活的心理闭环。"
+  },
+  {
+    "pair_a_id": "behavior_09",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "并列的行为模式。两者都展示了林晓作为主人的细致习惯（记录互动 vs 记录医嘱），体现了其性格的一致性，但场景（公园 vs 医院）和目的不同。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "情感共鸣。前者是麻薯给予林晓的陪伴（缓解孤独），后者是林晓感知到他人对麻薯的爱（感动），两者共同强化了麻薯作为家庭情感纽带的角色。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "对比张力。前者展现人宠互动的温馨趣味（键盘占位），后者展现基于病史的严谨照护（饮食控制），展示了养宠生活中感性与理性并存的侧面。"
+  },
+  {
+    "pair_a_id": "multihop_05",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "时间线呼应。前者是基于过去创伤（2023 意外）的当前预防措施，后者是对过去善举（2021 救助）的当前感恩，共同构建了完整的‘救助 - 成长 - 守护’叙事弧光。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "晚餐/罐头"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "高度连贯的日常流程。前者是喂食前的呼唤仪式，后者是下班后的喂食及互动流程，两者在时间线和行为逻辑上紧密衔接，共同描绘了傍晚的养宠日常。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "食物"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "行为与背景的深层联系。前者是表面的喂食互动，后者解释了该互动背后的严格约束（因肠梗阻病史而控制的饮食），揭示了温馨日常下的谨慎底色。"
+  },
+  {
+    "pair_a_id": "emotion_04",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者均描绘了林晓与麻薯在日常生活中的亲密互动：前者是工作时的陪伴，后者是进食时的响应，共同构建了人宠和谐共处的温馨场景。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "虽然主角相同，但前者侧重社交情感共鸣，后者侧重居家安全行为，两者在主题和情境上关联较弱，仅通过‘养宠责任’这一抽象概念连接。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从日常的喂食互动延伸到深度的健康护理，体现了林晓对麻薯从生活照顾到医疗关注的全面责任感，逻辑连贯。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "陈晨"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者都涉及林晓对麻薯的关爱（父亲的支持 vs 主人的预防），但一个是情感接收，一个是行动执行，且‘陈晨’在 B 段仅为背景人物，核心事件关联度一般。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "分别展示了周期性的专业护理和每日的喂食互动，共同构成了麻薯日常生活的时间线，体现了主人不同维度的照顾。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "情感与事实的强因果关联：A 段感慨当初收养决定的正确性，B 段详细描述了收养初期克服猫藓困难的护理过程，B 是 A 情感产生的具体依据。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "陈晨"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均源于麻薯的健康危机（肠梗阻与猫藓），展示了林晓如何将创伤记忆转化为长期的谨慎行为和知识分享，体现了成长与责任。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是工作场景的趣味互动，后者是饮食管理的严肃措施，虽都体现主人对猫的适应，但情境和目的差异较大，直接关联性较弱。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "通过‘爱’的不同表现形式连接：A 段是父辈含蓄的物质支持，B 段是主人因恐惧而形成的严格安全习惯，共同反映了多方对麻薯生命的重视。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "极强的因果链条：A 段的心理阴影（误食塑料绳）直接导致了 B 段的具体居住选择（封闭阳台）和日常行为（检查锁扣），逻辑紧密。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均描述林晓与麻薯的互动行为，但场景截然不同（工作干扰 vs 社交聚会），缺乏直接因果或时间连续性，仅通过共同人物和宠物维持弱关联。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "从情感依赖（焦虑消散）自然过渡到具体照料行为（检查皮肤），体现了林晓对麻薯健康的高度关注，逻辑上构成‘心理慰藉 - 生理呵护’的闭环。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘",
+      "呼噜声",
+      "UI 设计师压力"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度一致。Pair_a 描述工作时麻薯趴键盘的具体场景，Pair_b 将该行为上升为下班后的解压仪式，两者在‘键盘互动’与‘缓解设计压力’的主题上完美呼应。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.9,
+    "association_path": "Pair_a 聚焦喂食时的即时快乐，Pair_b 回顾收养历史与长期幸福。虽主体相同，但时间跨度和情感维度（瞬间反差 vs 长期感恩）差异较大，关联较松散。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "均为周期性照料行为（周六清洁 vs 外出前检查），体现责任感，但缺乏具体事件或因果链条连接，属于平行的日常惯例描述。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.6,
+    "association_path": "从‘对食物的热情’延伸到‘对玩具的兴趣管理’，共同构建了林晓如何维持麻薯生活热情的叙事，逻辑连贯，展现了主人对宠物心理的细腻把握。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "对比了独处（深夜加班陪伴）与群处（周末公园社交）两种状态下的麻薯行为，虽场景不同，但共同突出了麻薯在不同环境下对林晓的陪伴作用。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "Pair_a 描述当前的社交活动，Pair_b 回溯过去的收养决定。两者通过‘现在的幸福’与‘过去的善举’形成隐含的因果对照，但文本间无直接衔接词。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.1,
+    "association_path": "关联度低。Pair_a 是关于安全焦虑的负面记忆（肠梗阻），Pair_b 是关于社交共鸣的正面情绪。虽都涉及麻薯，但情感基调相反且无逻辑递进。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘",
+      "焦虑"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.9,
+    "association_path": "紧密围绕‘居住环境/工作场景’与‘焦虑平复’。Pair_a 强调物理空间（阳台）带来的安心，Pair_b 强调工作互动（键盘）带来的心理治愈，共同构建了麻薯作为林晓精神支柱的完整画像。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "emotion_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两段文本均围绕林晓照顾银渐层麻薯的日常与情感展开，前者描述具体的洗澡梳理行为，后者升华至对收养决定的感激，共同构建了‘精心照顾 - 情感回馈’的完整叙事闭环。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者均涉及林晓与麻薯的互动，但侧重点不同：前者是情感慰藉（加班时的陪伴），后者是预防性护理（外出前的检查）。虽主体一致，但场景和逻辑关联较弱，属于同一人物背景下的不同生活切片。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "进口沐浴露"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两段文本通过‘进口沐浴露’和‘林晓照顾麻薯’这一核心行为紧密连接。前者描述晚间娱乐与喂食，后者描述周末洗澡与皮肤检查，共同展现了林晓对麻薯全方位、高频次的精细化养护流程。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "前者描述麻薯在出租屋提供的情感支持，后者描述林晓为保障麻薯安全（特别是针对误食史）而选择封闭阳台房源的决策。两者共同体现了‘相依为命’的关系深度：麻薯治愈林晓，林晓全力守护麻薯的安全。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "time_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "仅共享‘林晓’和‘麻薯’两个实体。前者是关于专业宠物护理的时间安排，后者是家庭亲情互动的场景。两者在语义主题（专业护理 vs 家庭社交）和情境上缺乏直接逻辑联系，关联性较低。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者均描述林晓应对压力或关注健康的具体行为模式。前者是即时的情绪调节（吸猫），后者是长期的健康管理（记录医嘱）。虽都体现责任感，但一个是心理层面，一个是执行层面，逻辑链条较为松散。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "张医生"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "前者表达对兽医张医生的信任与安心，后者回顾收养初心及现在的幸福。两者结合展示了麻薯健康成长的两个关键支柱：专业的医疗支持（张医生）和主人的爱与坚持（收养决定），共同指向‘健康粘人’的现状。"
+  },
+  {
+    "pair_a_id": "behavior_11",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "前者记录医嘱以执行健康管理，后者描述日常仪式以释放工作压力。两者共同构成了林晓作为主人的‘责任 - 治愈’双向循环：通过专业护理确保麻薯健康，再通过麻薯的陪伴治愈自己的职场焦虑。"
+  },
+  {
+    "pair_a_id": "multihop_04",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "误食危机/事件"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两段文本通过‘麻薯误食事件’这一关键转折点强关联。前者讲述该事件如何改变了林母的态度（展现责任感），后者讲述该事件如何验证了林晓租房决策的正确性（封闭阳台）。共同证明了此次危机是林晓养猫历程中的重要成长节点。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "封闭阳台"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "共享‘封闭阳台’这一特定场景实体。前者表达对该环境安全性的欣慰（宏观决策），后者描述在该环境中具体的玩具轮换行为（微观互动）。关联在于环境提供了安全基础，主人在此基础上丰富宠物生活，但逻辑紧密度一般。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两句话均描述了林晓因麻薯 2023 年误食异物（塑料绳/塑料包装）导致健康危机后，产生的具体防御性行为改变（收纳细小物品/锁好包装），因果逻辑高度一致，构成了完整的‘创伤事件 - 行为修正’叙事闭环。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者均涉及林晓对麻薯的日常照料习惯，但侧重点不同：前者是定期的清洁维护（吸尘、洗窝），后者是基于特定创伤事件的预防性收纳。虽同属养宠日常，但缺乏直接的因果或强语义递进关系。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者聚焦于麻薯的医疗病史引发的饮食管理（理性、谨慎），后者聚焦于父亲通过猫表达的情感关怀（感性、温馨）。虽然主角都有麻薯和林晓，但主题维度（医疗 vs 亲情）跨度较大，关联性较弱。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者描述定期的专业宠物护理行为，后者描述家庭内部的情感互动事件。两者在时间、地点、人物关系（宠物店 vs 父亲）及事件性质上均无直接联系，仅共享基础人物实体。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者是社交场景下的情感共鸣（与闺蜜分享），后者是医疗背景下的严谨喂养策略。两者分别处于‘社交娱乐’和‘医疗护理’两个截然不同的语义场，缺乏逻辑衔接。"
+  },
+  {
+    "pair_a_id": "multihop_05",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均体现了林晓基于对麻薯特性的深入了解（过往病史或品种天性）而采取的精细化照料行为。前者是为了户外安全修剪指甲，后者是为了激发天性选购玩具，共同构建了‘科学养宠’的人物画像，逻辑连贯。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者是林晓对父爱的内心感悟（家庭维度），后者是林晓在社交场合的行为记录（社交维度）。虽然都涉及林晓和麻薯，但情感流向和行为场景完全不同，无直接关联。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均紧密围绕麻薯 2023 年的健康危机展开。前者是因曾患猫藓而进行的皮肤检查，后者是因曾患肠梗阻而进行的饮食控制。它们共同佐证了林晓‘一朝被蛇咬，十年怕井绳’的谨慎养宠态度，主题高度相关。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是晚间固定的互动喂食流程，后者是出门前的安全收纳习惯。两者都是林晓的日常例行公事，但一个是主动互动，一个是被动防御，场景和目的不同，关联性一般。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者描述与同事的户外社交活动，后者描述接收父亲转账的私人情感时刻。两者在时间、空间和人际关系网络上均无交集，仅共享基础实体，语义关联度低。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "银渐层"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "时间线递进与因果强化：从 2021 年收养决定（emotion_10）自然过渡到 2022 年基于宠物安全考虑的搬家决策（multihop_07），体现了主人对宠物责任感的深化。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "情感主题呼应：两者均围绕‘家庭接纳’与‘收养带来的幸福’，pair_b 是对 pair_a 中父母态度转变的宏观总结与升华。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "日常routine 并列：从工作日早晨的独自照料（time_01）扩展到周末的社交聚会（time_06），展示了养猫生活的不同侧面，但缺乏深层因果。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "行为与情感互补：定期护理（time_05）体现长期责任，即时安抚（emotion_01）体现情感依赖，共同构成人宠关系的全貌。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "焦虑"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "创伤记忆与应对机制：pair_a 描述因误食事件产生的警惕行为，pair_b 展示在焦虑时通过回忆收养初心和猫咪互动来平复心情，两者均涉及心理调节。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "emotion_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "家庭情感拼图：分别描述父亲（time_10）和母亲（emotion_05）对猫的态度转变，合起来完整展现了原生家庭从反对到全面接纳的过程。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "关爱表现形式：父亲的经济支持（emotion_06）与主人的日常细致护理（behavior_08）并行，体现多方对宠物健康的关注。"
+  },
+  {
+    "pair_a_id": "multihop_03",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘",
+      "2021 年"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "核心叙事闭环：两者高度重合，均聚焦于'2021 年收养’与‘键盘监督’这一特定场景，pair_b 更侧重于该场景带来的长远家庭幸福，是对 pair_a 即时情绪平复的延伸。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "孤独与焦虑的治愈：从深夜加班的孤独感（emotion_02）到项目进度的焦虑感（behavior_10），展示了猫咪在不同压力场景下对主人的慰藉作用。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "生活场景切换：从睡前的安全确认（behavior_12）到工作时的焦虑平复（multihop_03），展示了主人在不同时间段对宠物的关注点变化。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均描述林晓与麻薯之间的深度互动：前者是日常护理中的健康检查，后者是情绪焦虑时的寻求慰藉，共同体现了人猫之间紧密的依赖关系和情感纽带。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者分别描述了母亲和父亲对麻薯的关爱行为（寄零食、转账买暖气），共同构成了家庭长辈对林晓养猫这一生活方式从接纳到主动关爱的完整情感图景。"
+  },
+  {
+    "pair_a_id": "multihop_04",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者讲述林母态度转变的因果历程，后者描述林晓下班后的减压仪式。虽然都涉及麻薯和林晓的生活，但侧重点分别为家庭关系演变和个人职场解压，场景和逻辑关联度较弱。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是季度性的专业护理，后者是日常工作的陪伴场景。两者仅共享人物和宠物实体，但在时间频率、具体行为和语境上缺乏直接的逻辑递进或因果联系。"
+  },
+  {
+    "pair_a_id": "emotion_03",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者分别展示了麻薯对食物的本能反应和林晓对麻薯健康的细致关怀，共同描绘了日常喂养与护理中双向的情感流动和生活细节。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是双周一次的洗澡护理，后者是每日下班后的互动仪式。虽然都包含“梳毛”或清洁元素，但一个是深度清洁任务，一个是日常减压流程，场景切换较大。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均围绕林晓为保障麻薯安全所采取的措施展开：前者是信赖专业医疗资源带来的安心，后者是居住环境改造（封闭阳台）带来的安全感，共同体现主人的责任感。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均源于过去的健康危机（误食塑料绳、猫藓），转化为当下的预防性行为（收纳细小物品、检查皮肤），共同展示了林晓因过往教训而形成的精细化养育习惯。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "前者描述周末的社交娱乐活动，后者描述日常的安全防范习惯。虽然都涉及麻薯，但场景一外一内，一松一紧，缺乏直接的语义连贯性或逻辑推导关系。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是周末的户外社交场景，后者是工作日的室内独处解压场景。两者展示了林晓与麻薯互动的不同侧面（社交 vs 私密），但在叙事流上缺乏直接的过渡逻辑。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均围绕林晓对麻薯的深层情感投入展开，前者是创伤后的警惕（负面驱动），后者是亲情互动的温馨（正面驱动），共同构建了人物对宠物‘如家人般’的关怀形象。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "emotion_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "猫窝"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度连贯的生活场景：周六的深度清洁（time_03）维护了麻薯的居住环境，直接支撑了工作日回家后麻薯能提供高质量治愈（emotion_01）的前提，体现了‘照料 - 回馈’的因果闭环。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "从‘记录可爱瞬间’的行为（behavior_02）自然过渡到‘回顾病史并细致检查’的深层照料（multihop_02），展现了主人对宠物从表面喜爱到健康负责的全面关注。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "张医生",
+      "安安宠医"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "极强的实体重叠与逻辑因果：因为信任张医生（emotion_09），所以严格执行其针对麻薯肠梗阻病史提出的饮食建议（multihop_01），构成了完整的医疗信任与执行链条。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "情感维度的互补：前者体现家庭关系因宠物而缓和（外部情感支持），后者体现宠物直接缓解工作压力（内部生理/心理调节），共同说明麻薯是林晓的核心情感支柱。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "2023 年意外"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "核心动机一致：两个行为（检查阳台锁扣、修剪指甲）均直接源于'2023 年意外/肠梗阻’这一共同创伤记忆，展示了该事件对林晓日常安全习惯的全面重塑。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "关联较弱：前者聚焦于医患信任关系，后者聚焦于根据品种天性调整玩具策略。虽同属照料范畴，但缺乏直接的事件或逻辑因果联系，仅通过‘麻薯’这一实体弱连接。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "时间尺度上的对照：一个是年度定期体检（time_07），一个是每日出门前的安全检查（behavior_01）。虽都体现责任感，但场景跨度大，缺乏即时对话流的连贯性。"
+  },
+  {
+    "pair_a_id": "emotion_07",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "压力应对机制的对比：前者是因创伤记忆产生的焦虑触发点（看到细小物品紧张），后者是主动建立的解压仪式（下班后互动），共同描绘了林晓在职场压力与宠物安全焦虑间的平衡状态。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "场景切换：从周末的户外社交聚会（time_06）切换到工作日的居家放松仪式（multihop_11）。虽展示了生活的不同侧面，但缺乏具体的逻辑推导或实体强关联，属于并列的生活片段。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两个行为均描述林晓对麻薯的日常精细化照料（健康检查与生活起居），场景互补，共同构建了负责任的宠物主人形象。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "前者为回忆收养起源，后者为当前社交互动，虽主体一致但时间跨度与情境差异较大，关联主要基于人物关系的延续。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均体现麻薯作为情感纽带连接林晓与家庭成员（自我陪伴 vs 父亲关怀），主题上形成‘孤独被治愈’与‘亲情通过猫传递’的呼应。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "behavior_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "分别展示家庭内部（母亲）和专业外部（医生）对麻薯健康的关注，林晓在两者中均扮演执行者与记录者的角色，体现全方位的关爱。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.3,
+    "association_path": "前者侧重家庭互动与物质投喂，后者侧重个人劳动后的心理治愈，关联点在于麻薯都是林晓获得正向反馈的核心对象。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "键盘"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "高度重合，后者几乎是前者的深度扩展版，具体化了‘工作压力 - 猫咪互动 - 焦虑平复’的因果链条，并增加了回忆维度。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "前者描述深夜加班时的即时情感慰藉，后者描述白天的记录分享行为，虽都涉及人猫互动，但情感浓度与行为目的不同。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.1,
+    "association_path": "前者聚焦父女亲情通过猫的表达，后者聚焦工作焦虑通过猫的缓解，仅在‘猫是情绪调节器’这一宏观功能上存在弱关联。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "分别从医疗健康（定期体检）和行为 enrichment（玩具轮换）两个专业维度展示科学养猫的理念，逻辑互补。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.7,
+    "association_path": "前者是具体的睡前照料动作，后者是对这一系列照料行为背后初心（收养决定）的升华与感恩，形成了从‘行’到‘心’的完整闭环。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "林晓",
+      "小李子"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "通过共同实体‘小李子’罐头建立强关联：Pair A 描述喂食该罐头的日常，Pair B 描述喂食后处理该罐头包装的安全行为，构成完整的因果链条。"
+  },
+  {
+    "pair_a_id": "emotion_11",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "仅共享人物与宠物实体。Pair A 聚焦居住决策的欣慰感，Pair B 聚焦喂食互动的行为，场景与主题跨度较大，逻辑连接较弱。"
+  },
+  {
+    "pair_a_id": "behavior_10",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "共享人物与宠物。Pair A 展示宠物对主人的情绪疗愈，Pair B 展示主人对宠物的安全防护，共同构建了‘人宠相依’的深层情感逻辑。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "multihop_05",
+    "shared_entities": [
+      "林晓"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.5,
+    "association_path": "仅共享人物‘林晓’。Pair A 回顾收养起源，Pair B 描述基于过往意外（2023 年）的户外安全措施，时间线与事件焦点不一致，关联度一般。"
+  },
+  {
+    "pair_a_id": "behavior_04",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "共享人物与宠物。Pair A 描述工作时的陪伴干扰，Pair B 描述居家环境的安全改造，虽同属生活场景但缺乏直接的事件或逻辑触发点。"
+  },
+  {
+    "pair_a_id": "emotion_09",
+    "pair_b_id": "multihop_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "张医生",
+      "安安宠医"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度重叠的实体（医生、医院、宠物）。Pair A 表达对医生的信任感，Pair B 详细描述基于该信任产生的长期护理行为及知识分享，逻辑紧密连贯。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "共享人物与宠物。Pair A 描述深夜工作时的陪伴，Pair B 描述出门前的安全叮嘱，共同体现了主人在不同时间段对宠物的依赖与责任感。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "共享人物与宠物。Pair A 描述晨间照料，Pair B 描述深夜情感支持，通过‘早晚’时间对比展现人宠关系的全天候陪伴特性。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "共享人物与宠物。Pair A 是独处时的工作陪伴，Pair B 是社交时的互动分享，场景转换较大，仅通过‘麻薯’这一核心话题维持弱关联。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "共享人物与宠物。Pair A 聚焦第三方（父亲）的情感投射，Pair B 聚焦日常的喂食互动，两者在情感来源和行为主体上缺乏直接逻辑交集。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "time_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两句话均围绕林晓对麻薯的关爱展开，前者是日常陪伴，后者是父亲通过林晓传递的关爱，情感基调一致，人物与宠物关系紧密。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "虽然都涉及林晓和麻薯，但前者是社交放松场景，后者是创伤后的应激行为与喂养习惯，话题跨度较大，缺乏直接逻辑衔接。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者描述晨间照料 routine，后者描述因父爱引发的温馨互动，虽无直接因果，但共同构建了人宠和谐生活的不同侧面。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是宏观的情感回顾（收养决定），后者是微观的工作陪伴细节，两者在时间维度上形成呼应，体现长期的陪伴关系。"
+  },
+  {
+    "pair_a_id": "time_08",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "前者是深夜陪伴场景，后者是因过往意外产生的警惕心理，两者共同反映了林晓在照顾麻薯过程中的情感依赖与责任感。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "前者是定期体检，后者是日常防误食习惯，两者均源于对麻薯健康的重视，且后者明确提到了 2023 年的误食事件，与医疗背景高度相关。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "前者是清洁劳动带来的治愈感，后者是父女间关于宠物的情感交流，除主角相同外，场景与主题关联度较低。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "前者讨论玩具选择与天性激发，后者讨论父爱表达与保暖，两者仅在“为猫好”这一宽泛动机上有微弱联系，具体语境差异大。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "前者是季度专业护理，后者是每日下班后的解压仪式，分别代表了不同频率的照料行为，共同体现了主人对宠物身心健康的关注。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者均聚焦于林晓通过麻薯获得情绪价值：前者是通过社交分享获得共鸣，后者是通过肢体接触缓解焦虑，主题高度一致（宠物治愈主人）。"
+  },
+  {
+    "pair_a_id": "behavior_12",
+    "pair_b_id": "multihop_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "自动喂食器"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两句话均描述林晓针对麻薯的健康与安全（睡眠环境 vs 饮食控制）所采取的具体照料行为，且都明确提到了‘自动喂食器’这一共同实体，构成了完整的日常护理场景。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者仅共享人物与宠物关系。前者描述深夜独处时的情感慰藉，后者描述周末社交时的记录行为，场景（室内加班 vs 户外聚会）与情感基调（孤独治愈 vs 社交分享）差异较大，关联性较弱。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.0,
+    "association_path": "虽然都涉及麻薯的健康维护，但前者是定期的常规美容护理，后者是针对特定误食创伤的应激性存储习惯。两者在时间频率、具体动作及核心动机上缺乏直接逻辑衔接。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "emotion_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "两者均体现林晓与麻薯的深厚情感，但侧重点不同：前者是对过去收养时刻的年度回忆，后者是当下通过劳动获得秩序感的即时情绪。时间维度（年度回忆 vs 每周例行）跨度较大。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.6,
+    "association_path": "两句话共同构建了‘父母对麻薯态度转变’的完整叙事弧光。前者讲述母亲从反对到接纳（寄鸡肉干），后者讲述父亲笨拙的关爱（买暖气），共同反映了家庭因猫而凝聚的主题。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "两者均为林晓出于对麻薯安全的极度重视而养成的强制性习惯。前者防坠楼（检查阳台），后者防误食（锁包装），共同体现了‘创伤后应激’下的精细化照料逻辑。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "前者是具体的医疗行为（找张医生体检），后者是家庭关系变化的因果解释（母亲态度转变）。虽然都涉及麻薯的健康背景，但叙述焦点完全不在同一维度。"
+  },
+  {
+    "pair_a_id": "multihop_07",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "两者通过‘时间线’紧密相连。前者描述 2022-2023 年因误食事件后的安全改造措施，后者回溯 2021 年的收养初心并展望当下的幸福。共同构成了从‘善举’到‘责任’再到‘回报’的完整故事链。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "multihop_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "前者聚焦父女情感互动（转账买暖气），后者聚焦具体的皮肤病护理流程（洗澡检查）。除人物关系外，事件内容与逻辑无直接关联。"
+  },
+  {
+    "pair_a_id": "multihop_06",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.6,
+    "association_path": "前者描述针对猫藓康复期的玩具适配与活力激发，后者是对收养至今整体幸福状态的感慨。虽有因果隐含（因为照顾得好所以现在健康），但缺乏直接的实体或事件重叠。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "time_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均描述林晓与麻薯在特定时间节点（季度护理 vs 年度回忆）的互动，共同构建了人宠长期陪伴的时间线叙事。"
+  },
+  {
+    "pair_a_id": "time_07",
+    "pair_b_id": "multihop_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "虽共享核心人物与宠物，但前者侧重医疗常规，后者侧重家庭情感互动，场景跨度较大，逻辑连接较弱。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "均描述林晓照顾麻薯的日常行为习惯（安全防护 vs 娱乐互动），共同刻画了主人细致入微的养育形象。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "behavior_01",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.75,
+    "association_path": "高度关联。两者均源于'2023 年意外’这一共同背景，分别描述了由此产生的不同维度的安全习惯（收纳细小物品 vs 检查阳台锁扣），因果逻辑紧密。"
+  },
+  {
+    "pair_a_id": "emotion_06",
+    "pair_b_id": "behavior_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "前者聚焦父女情感与猫的关系，后者聚焦猫的玩具偏好管理，主题差异明显，缺乏直接语境衔接。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "multihop_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "2021 年收养经历"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "极强关联。pair_b 明确引用了 pair_a 中的'2021 年寒冷夜晚相遇’事件作为情感锚点，解释了猫的行为如何触发主人的回忆与情绪平复。"
+  },
+  {
+    "pair_a_id": "emotion_02",
+    "pair_b_id": "behavior_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.25,
+    "association_path": "形成完整的日夜照料闭环：前者描述深夜加班时猫的情感支持，后者描述睡前主人为猫做的安全确认，体现双向依赖。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "emotion_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "前者描述因误食事件养成的收纳习惯，后者描述因重视宠物安全而选择封闭阳台的欣慰，共同反映了主人对宠物安全隐患的高度警惕。"
+  },
+  {
+    "pair_a_id": "time_12",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "共享人物与宠物，但前者侧重物理安全措施（防误食），后者侧重情感陪伴（抗孤独），场景与主题关联度一般。"
+  },
+  {
+    "pair_a_id": "time_09",
+    "pair_b_id": "multihop_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.25,
+    "association_path": "前者涉及母亲对猫的关爱（食物），后者涉及住房安全决策（阳台），虽都体现对猫的重视，但具体事件线索无直接交集。"
+  },
+  {
+    "pair_a_id": "behavior_05",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两个行为均描述了林晓与麻薯之间的深度互动：前者是林晓为保护麻薯安全而采取的防御性行为（防误食），后者是林晓在压力下从麻薯处寻求情感慰藉的依赖性行为。两者共同构建了‘人与宠物相互守护’的情感闭环。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "time_11",
+    "shared_entities": [
+      "林晓",
+      "林父",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "时间维度上的因果与情感呼应。Pair_b 回顾了麻薯被收养的起源（寒冷的夜晚），Pair_a 展示了父亲因知晓这段历史（或单纯关爱麻薯）而在冬天提供物质支持（买暖气）。两者通过‘冬天’、‘寒冷/温暖’及‘对麻薯的爱’紧密连接，形成完整的家庭温情叙事。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者均为林晓与麻薯的日常互动场景，但侧重点不同。Pair_a 侧重于生理需求（喂食）引发的条件反射式互动，Pair_b 侧重于心理需求（焦虑）引发的情感疗愈互动。虽主体一致，但情境跨度较大，关联性中等。"
+  },
+  {
+    "pair_a_id": "time_11",
+    "pair_b_id": "behavior_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "Pair_a 是宏观的时间记忆（收养日），Pair_b 是微观的日常行为（喂晚餐）。虽然都涉及林晓和麻薯，但缺乏直接的事件逻辑联系或情感递进关系，属于同一故事背景下的松散片段。"
+  },
+  {
+    "pair_a_id": "emotion_05",
+    "pair_b_id": "multihop_06",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "两者均围绕‘如何更好地照顾麻薯’展开。Pair_a 是家庭情感层面（母亲接纳），Pair_b 是科学养育层面（根据天性选玩具）。共享实体仅为麻薯，林晓在 Pair_b 中未显式提及（虽隐含），逻辑连接较弱，属于不同维度的养宠记录。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.2,
+    "association_path": "两者展示了林晓养宠生活的不同侧面：Pair_a 是社交场景下的分享与共鸣，Pair_b 是私密空间内的仪式感与依恋。共同点是麻薯作为林晓情感生活的核心，但场景切换较大，连贯性一般。"
+  },
+  {
+    "pair_a_id": "emotion_01",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "呼噜声"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 5.0,
+    "association_path": "高度强关联。Pair_a 描述了‘压力->抱猫->呼噜声->焦虑消散’的即时反应，Pair_b 则将这一过程系统化、仪式化（下班三部曲），并明确指出了‘呼噜声’作为切换职场与居家模式的关键触发点。两者在因果逻辑、情感机制和实体重叠上完全一致。"
+  },
+  {
+    "pair_a_id": "behavior_08",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "两者均为林晓照顾麻薯的具体行为，但领域完全不同。Pair_a 是健康护理（检查皮肤/猫藓），Pair_b 是社交娱乐（公园聚会/拍照）。除主体相同外，缺乏深层语义联系。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.5,
+    "association_path": "两者分别描述了林晓日常生活的两个独立时间点：早晨的例行公事（喂食/铲屎）和与母亲的通讯时刻。虽然都涉及麻薯的近况关注，但事件本身无直接逻辑推导关系。"
+  },
+  {
+    "pair_a_id": "multihop_01",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均体现了林晓作为主人的精细化管理。Pair_a 针对‘饮食健康’（基于病史的少食多餐），Pair_b 针对‘心理健康’（基于压力的解压仪式）。虽然共享实体较少，但深层逻辑都是‘基于麻薯特定需求（病史/性格）的定制化照顾’，具有一定的主题一致性。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "emotion_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.1,
+    "association_path": "通过共同实体‘林晓’和‘麻薯’连接，前者描述清洁猫毛的日常，后者解释因误食史导致的对细小物品的紧张，两者共同构建了主人对宠物安全与卫生的高度关注逻辑。"
+  },
+  {
+    "pair_a_id": "time_04",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "仅共享人物与宠物实体，分别描述洗澡护理和回家仪式两个独立的生活片段，缺乏深层因果或情境互补，关联性较弱。"
+  },
+  {
+    "pair_a_id": "behavior_01",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "共享实体外，前者体现预防意外的安全习惯（源于 2023 年意外），后者体现利用宠物缓解焦虑，共同反映了‘意外创伤’对主人行为模式和心理依赖的深远影响。"
+  },
+  {
+    "pair_a_id": "time_06",
+    "pair_b_id": "time_07",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "均为带宠物外出的时间性描述（社交聚会 vs 医疗体检），场景和目的不同，仅存在基础的主题一致性。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "time_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.8,
+    "association_path": "前者是家庭内部深度清洁，后者是外部专业护理，两者在‘维持宠物健康与环境卫生’这一目标上形成互补，构成完整的养护闭环。"
+  },
+  {
+    "pair_a_id": "emotion_12",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 2,
+      "association_reasonability": 2,
+      "conversation_coherence": 2
+    },
+    "overall_score": 2.2,
+    "association_path": "虽然都涉及周末和麻薯，但前者侧重劳动后的内心治愈感，后者侧重社交场景下的记录行为，情感维度与行为场景割裂，关联度低。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "emotion_03",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.2,
+    "association_path": "通过‘喂食’这一核心行为紧密连接，前者是早晨添加干粮的日常，后者是听到罐头声音的反应，共同展现了人宠之间基于食物互动的亲密关系与情感反馈。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "multihop_11",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "小李子"
+    ],
+    "scores": {
+      "entity_overlap": 3,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "高度重合，pair_b 实际上是对 pair_a 中'20:00 下班后玩耍喂食’这一行为的深度解读，将具体动作升华为缓解职场压力的仪式感，逻辑极其紧密。"
+  },
+  {
+    "pair_a_id": "multihop_10",
+    "pair_b_id": "multihop_12",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 1,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.5,
+    "association_path": "通过‘麻薯’的生命历程连接，前者详述因误食导致的创伤后应激行为（锁柜子），后者回顾收养起源与现状幸福，两者共同构成了‘从危机到珍惜’的完整情感叙事弧光。"
+  },
+  {
+    "pair_a_id": "behavior_02",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 3.0,
+    "association_path": "共享实体，但行为指向完全不同：一个是分享可爱的社交行为，一个是防止误食的安全行为，仅在‘主人对宠物的关注’这一宽泛主题下相关。"
+  },
+  {
+    "pair_a_id": "time_02",
+    "pair_b_id": "emotion_02",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者均描述林晓与麻薯在出租屋场景下的深度情感互动，前者是日常陪伴，后者是情感慰藉，共同构建了人宠相依的生活图景。"
+  },
+  {
+    "pair_a_id": "time_10",
+    "pair_b_id": "behavior_10",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者分别展示了父亲和林晓本人对麻薯的关爱，以及麻薯对林晓的情绪治愈作用，体现了双向的情感流动和家庭温暖。"
+  },
+  {
+    "pair_a_id": "emotion_08",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "两者均涉及麻薯作为社交或家庭关系缓和的媒介，前者是朋友间的共鸣，后者是母女关系的破冰，主题上有关联但具体情境跨度较大。"
+  },
+  {
+    "pair_a_id": "time_05",
+    "pair_b_id": "behavior_08",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "皮肤"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者紧密围绕麻薯的皮肤健康管理，从季度专业护理到日常梳毛检查，构成了完整的健康维护逻辑链条。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "multihop_04",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 3,
+      "association_reasonability": 3,
+      "conversation_coherence": 3
+    },
+    "overall_score": 2.8,
+    "association_path": "前者是林晓对收养决定的内心独白，后者是母亲态度转变的过程，两者通过麻薯这一核心纽带连接，反映了养猫对家庭关系的深远影响。"
+  },
+  {
+    "pair_a_id": "multihop_08",
+    "pair_b_id": "multihop_10",
+    "shared_entities": [
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 2,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 3.5,
+    "association_path": "两者均源于麻薯过往的医疗危机（猫藓与误食），展示了林晓如何将痛苦经历转化为长期的专业护理习惯和安全防范措施。"
+  },
+  {
+    "pair_a_id": "time_03",
+    "pair_b_id": "behavior_06",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "出租屋"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.9,
+    "association_path": "两者均发生在余杭出租屋，分别描述了周末的深度清洁和每晚的回家仪式，共同勾勒出林晓与麻薯在特定空间内的规律生活轨迹。"
+  },
+  {
+    "pair_a_id": "emotion_10",
+    "pair_b_id": "behavior_09",
+    "shared_entities": [
+      "林晓",
+      "麻薯",
+      "陈晨"
+    ],
+    "scores": {
+      "entity_overlap": 5,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.2,
+    "association_path": "前者是对过去决定的感恩，后者是当下与朋友分享养宠快乐的行為，体现了林晓对麻薯持续的爱意及社交分享欲。"
+  },
+  {
+    "pair_a_id": "behavior_03",
+    "pair_b_id": "behavior_05",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 4,
+      "association_reasonability": 4,
+      "conversation_coherence": 4
+    },
+    "overall_score": 4.0,
+    "association_path": "两者均为林晓照顾麻薯的具体行为，前者是日常喂食互动，后者是基于过往教训的安全喂食习惯，展现了细致入微的养育方式。"
+  },
+  {
+    "pair_a_id": "time_01",
+    "pair_b_id": "time_12",
+    "shared_entities": [
+      "林晓",
+      "麻薯"
+    ],
+    "scores": {
+      "entity_overlap": 4,
+      "semantic_relevance": 5,
+      "association_reasonability": 5,
+      "conversation_coherence": 5
+    },
+    "overall_score": 4.8,
+    "association_path": "两者通过“误食”这一关键事件强关联，前者是日常晨间护理，后者是因过往误食事故而养成的每日安全检查习惯，因果逻辑清晰。"
+  }
+]

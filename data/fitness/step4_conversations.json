@@ -1,0 +1,4684 @@
+[
+  {
+    "session_id": 1,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "早啊，刚跟陈宇在滨江跑道跑完 10 公里 LSD，今天周二清晨 6:30 这趟跑得有点累，右膝外侧感觉特别紧。",
+        "timestamp": "2024-03-05T07:45:12+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "LSD 训练",
+          "周二早晨"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然早！既然膝盖有反应，回去千万别硬扛，是不是老毛病髂胫束又在抗议了？赶紧处理一下，别像 2023 年那样停训两个月。",
+        "timestamp": "2024-03-05T07:46:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "髂胫束",
+          "2023 年伤痛"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "放心，我有数了。刚到家，第一件事就是拿出筋膜枪，重点打大腿外侧的髂胫束和小腿，这套动作现在已经是肌肉记忆，生怕旧伤卷土重来。",
+        "timestamp": "2024-03-05T08:15:45+08:00",
+        "planted_pairs": [
+          "behavior_07"
+        ],
+        "mentioned_entities": [
+          "筋膜枪",
+          "髂胫束放松",
+          "肌肉记忆",
+          "预防受伤"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这就对了，科学恢复才是持续训练的关键。看你现在的流程这么规范，从晨练到恢复闭环做得很到位，今天工作状态应该不错吧？",
+        "timestamp": "2024-03-05T08:17:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "科学恢复",
+          "闭环"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "状态确实好，其实这都得归功于早上的习惯。清晨 6:30 那杯黑咖啡加上核心激活，直接给一天注入了高效能，让我写代码特别顺，才能准时在 19:30 下班去乐刻练腿。",
+        "timestamp": "2024-03-05T14:30:10+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "高效工作",
+          "晚间力量训练"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这就是良性循环啊！早上激活到位，白天效率高，晚上才有精力去冲击大重量。那你今晚练完腿，睡前的放松计划也安排好了吗？",
+        "timestamp": "2024-03-05T14:32:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "大重量",
+          "睡前放松"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "必须的，今晚练完肯定要做泡沫轴放松，这样才能保证睡眠质量，形成从唤醒到恢复的完美闭环，毕竟睡眠对肌肉修复太重要了。",
+        "timestamp": "2024-03-05T22:45:33+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "睡前泡沫轴放松",
+          "肌肉修复",
+          "闭环"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "完美！看来你现在对身体的掌控感很强。对了，这周四早上还和陈宇约了滨江跑道吗？膝盖要是还紧，配速稍微收一收。",
+        "timestamp": "2024-03-06T09:10:15+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "周四早晨"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "约了，雷打不动的周二周四 6:30 碰头。不过我会注意的，跑完回家第一时间还是那套筋膜枪伺候髂胫束，毕竟预防受伤比什么都重要，不想再体验停训的痛苦了。",
+        "timestamp": "2024-03-06T20:20:40+08:00",
+        "planted_pairs": [
+          "entity_01",
+          "behavior_07"
+        ],
+        "mentioned_entities": [
+          "周二/周四早晨",
+          "筋膜枪",
+          "髂胫束放松",
+          "预防受伤"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "有你这份谨慎和坚持，打破半马 1 小时 40 分的目标指日可待。保持这个从晨间咖啡激活到晚间泡沫轴放松的节奏，身体会给你最好的反馈。",
+        "timestamp": "2024-03-06T20:22:18+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "睡前泡沫轴放松",
+          "半马目标"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "借你吉言！其实我现在特别享受这种节奏感，每周二四清晨 6:30 和陈宇在滨江跑道互相监督配速，跑完那种多巴胺分泌的感觉太爽了。",
+        "timestamp": "2024-03-07T07:50:22+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "周二/周四早晨",
+          "LSD 训练"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "哈哈，这就是跑者的快乐吧！不过快乐归快乐，今天的放松功课可不能少，尤其是大腿外侧，记得用筋膜枪多滚几组。",
+        "timestamp": "2024-03-07T08:05:10+08:00",
+        "planted_pairs": [
+          "behavior_07"
+        ],
+        "mentioned_entities": [
+          "筋膜枪",
+          "髂胫束放松"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "放心吧，这已经是肌肉记忆了。只要跑完步，回家第一件事就是放松髂胫束和小腿，毕竟 2023 年那次 ITBS 让我学乖了，预防受伤绝对是头等大事。",
+        "timestamp": "2024-03-07T08:30:45+08:00",
+        "planted_pairs": [
+          "behavior_07"
+        ],
+        "mentioned_entities": [
+          "肌肉记忆",
+          "髂胫束放松",
+          "预防受伤",
+          "2023 年伤痛"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "吃一堑长一智，现在的你确实成熟多了。这种自律也体现在你全天的安排上吧？听说你早上喝完咖啡效率特别高？",
+        "timestamp": "2024-03-07T10:15:30+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "高效工作"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "对，清晨 6:30 的黑咖啡和核心激活是我一天的开关，让我能高效处理完 Bug，准时 19:30 下班去健身房，晚上练完还能精力充沛地做泡沫轴放松，这一整套闭环下来特别顺畅。",
+        "timestamp": "2024-03-07T16:40:12+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "高效工作",
+          "晚间力量训练",
+          "睡前泡沫轴放松"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "听着就让人觉得充满能量！这种从早到晚的良性循环，不仅保障了训练质量，也让生活更有秩序感。明天周五了，周末有什么长距离计划吗？",
+        "timestamp": "2024-03-07T16:42:55+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "训练质量",
+          "长距离计划"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "周六上午打算拉个 20 公里的 LSD，到时候还得靠这套恢复流程兜底。不管跑多远，回去筋膜枪放松髂胫束是雷打不动的，毕竟不想让旧伤复发。",
+        "timestamp": "2024-03-08T09:20:18+08:00",
+        "planted_pairs": [
+          "behavior_07"
+        ],
+        "mentioned_entities": [
+          "LSD 训练",
+          "筋膜枪",
+          "髂胫束放松",
+          "预防受伤"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "稳健！有你这样的恢复意识，冲击 PB 很有希望。对了，下周二早上还是老时间老地点和陈宇约跑吗？",
+        "timestamp": "2024-03-08T09:22:40+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "周二早晨"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "当然，每周二和周四清晨 6:30，我和陈宇在滨江跑道的 LSD 雷打不动。而且我现在越来越依赖这个晨间启动到晚间恢复的完整闭环了，感觉整个人都被盘活了。",
+        "timestamp": "2024-03-08T12:10:05+08:00",
+        "planted_pairs": [
+          "entity_01",
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "LSD 训练",
+          "晨间黑咖啡与激活",
+          "睡前泡沫轴放松"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "太棒了，这种高度自律且科学的生活方式，就是你不断突破极限的底气。继续保持这个节奏，期待听到你半马破 140 的好消息！",
+        "timestamp": "2024-03-08T12:12:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "半马目标",
+          "科学训练"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "entity_01": 5,
+      "behavior_07": 5,
+      "multihop_11": 5
+    }
+  },
+  {
+    "session_id": 2,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "这周终于熬到头了，连续五天自带糙米饭和鸡胸肉便当， strictly 控油盐，感觉嘴里都要淡出鸟来了。",
+        "timestamp": "2024-03-16T18:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "自带便当",
+          "饮食控制"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "哈哈，浩然大工程师辛苦了！这就是你常说的‘先苦后甜’吧？听说你今天上午刚跑完长距离拉练？",
+        "timestamp": "2024-03-16T18:32:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "对，早上在滨江跟陈宇跑了个 25 公里，配速稳住了。说实话，**只有周六上午完成长距离拉练后，我才会心安理得地安排晚上的欺骗餐**，不然心里总有点犯嘀咕。",
+        "timestamp": "2024-03-16T18:35:40+08:00",
+        "planted_pairs": [
+          "behavior_08"
+        ],
+        "mentioned_entities": [
+          "周六长距离拉练",
+          "晚上欺骗餐",
+          "心理补偿"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这种节奏确实很科学，既利用了运动后的高代谢窗口，又给了心理一个完美的释放出口。那你今晚打算去哪吃？还是老地方？",
+        "timestamp": "2024-03-16T18:37:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "定了家新开的 fusion 菜，准备好好犒劳一下自己。**工作日我都自带糙米饭和鸡胸肉便当，严格控油盐，只有周六晚上练完长距离后，才敢安排一顿欺骗餐奖励自己**，这简直是我的精神支柱。",
+        "timestamp": "2024-03-16T18:40:05+08:00",
+        "planted_pairs": [
+          "entity_09"
+        ],
+        "mentioned_entities": [
+          "自带便当",
+          "周六欺骗餐",
+          "长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "完全理解，这种明确的界限感让自律变得可持续。不然天天吃草，估计早就崩了。你妈知道你今晚要去吃大餐吗？",
+        "timestamp": "2024-03-16T18:42:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "她当然知道，甚至还有点期待，毕竟她做饭也清淡。其实**周六晚上吃完精心安排的欺骗餐，那种在严格控油盐一周后获得的美食满足感，让我觉得之前的每一克糙米饭和鸡胸肉都吃得值得**。",
+        "timestamp": "2024-03-16T18:45:10+08:00",
+        "planted_pairs": [
+          "emotion_05"
+        ],
+        "mentioned_entities": [
+          "周六欺骗餐",
+          "饮食控制",
+          "满足感",
+          "自我奖励"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这种‘无负罪感’的享受太重要了，看来你的 ITBS 伤病经历让你更懂得平衡了。那你今晚打算摄入多少碳水？",
+        "timestamp": "2024-03-16T18:47:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "不计算了，今天 MyFitnessPal 休息一天。只要想到明天周日还能做个瑜伽恢复，今晚就彻底放松，享受这种心理补偿带来的快乐。",
+        "timestamp": "2024-03-16T18:50:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "心理补偿"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "明智之举，身心都需要彻底充电。祝你今晚胃口大开，把这周的辛苦都吃回来，周一又是满血复活的后端大神！",
+        "timestamp": "2024-03-16T18:52:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "借你吉言！刚看到菜单上有和牛汉堡，瞬间觉得这周的鸡胸肉没白吃。这种延迟满足的感觉，比代码一次跑通还爽。",
+        "timestamp": "2024-03-16T19:10:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "哈哈，这个比喻很极客！确实，健身和写代码一样，都是长期主义的游戏。你之前的 PB 也是这么一点点‘编译’出来的。",
+        "timestamp": "2024-03-16T19:12:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "没错，没有平时的 Debug（控制饮食），哪来最后的 Release（突破 PB）。不过说真的，要是没有周六这顿欺骗餐，我可能真坚持不了这么严格的日常。",
+        "timestamp": "2024-03-16T19:15:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "这就是你策略高明的地方，把‘克制’变成了‘投资’。对了，你爸最近看你跑步还唠叨膝盖的事吗？",
+        "timestamp": "2024-03-16T19:17:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "最近好多了，上次我把全马奖牌拿回家，他态度大转变，现在反而问我那些蛋白粉安不安全，怕我乱吃。",
+        "timestamp": "2024-03-16T19:20:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "老人家都是关心则乱，看到实绩就放心了。那你今晚吃完打算直接回家休息，还是去乐刻做个简单的拉伸？",
+        "timestamp": "2024-03-16T19:22:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "吃点东西消化一下，回家用泡沫轴滚滚大腿外侧就行，今天不想太累。毕竟明天的主动恢复也很重要。",
+        "timestamp": "2024-03-16T19:25:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "放松到位才能更好出发。你这套‘工作日苦行僧，周末享乐派’的模式，确实值得很多跑友参考，既保证了训练量，又没牺牲生活质量。",
+        "timestamp": "2024-03-16T19:27:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "哈哈，过奖了，其实就是找个让自己舒服的平衡点。好了，菜上来了，我要开动啦，今晚不谈配速，只谈美味！",
+        "timestamp": "2024-03-16T19:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "快享用吧！好好感受这份来之不易的满足感，这是你应得的奖励。周末愉快，浩然！",
+        "timestamp": "2024-03-16T19:31:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "entity_09": true,
+      "behavior_08": true,
+      "emotion_05": true
+    }
+  },
+  {
+    "session_id": 3,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚结束周六的长距离拉练，20 公里下来膝盖感觉还行。特意没穿那双 Nike Vaporfly 3，还是老老实实用 Asics Kayano 30 跑的，毕竟比赛日还得靠碳板鞋冲成绩呢。",
+        "timestamp": "2024-03-23T10:15:00+08:00",
+        "planted_pairs": [
+          "entity_03",
+          "behavior_10"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "Asics Kayano 30",
+          "跑鞋轮换"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然大神这装备管理太专业了！Vaporfly 3 确实是比赛神器，平时 LSD 用 Kayano 30 这种支撑系保护膝盖也更稳妥。这次拉练配速怎么样？",
+        "timestamp": "2024-03-23T10:18:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Vaporfly 3",
+          "Kayano 30",
+          "LSD"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "配速稳在 5 分 10 秒左右吧，陈宇今天状态不错，跟住了。其实我对跑鞋有着严格的轮换纪律，日常训练只敢用 Kayano，那双珍贵的 Vaporfly 3 必须留到比赛日或强度课才能登场，这可是我的“仪式感”。",
+        "timestamp": "2024-03-23T10:25:12+08:00",
+        "planted_pairs": [
+          "behavior_10"
+        ],
+        "mentioned_entities": [
+          "跑鞋轮换",
+          "Asics Kayano 30",
+          "Nike Vaporfly 3",
+          "装备爱惜"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这种仪式感很棒啊，能让每次穿上比赛鞋都充满斗志。说到 Vaporfly 3，记得你全马 PB 就是穿着它跑出来的吧？",
+        "timestamp": "2024-03-23T10:28:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Vaporfly 3",
+          "全马 PB"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "没错，就是去年杭马，3 小时 45 分 12 秒。每次看到鞋底那点磨损，我就想起冲线那一刻。那双 Nike Vaporfly 3 是我的比赛专用鞋，穿着它跑出了 3 小时 45 分的全马 PB，平时训练我可舍不得穿，只敢用 Asics Kayano 30。",
+        "timestamp": "2024-03-23T10:35:20+08:00",
+        "planted_pairs": [
+          "entity_03"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "全马 PB",
+          "Asics Kayano 30"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "345 对于业余跑者来说已经是非常厉害的成绩了！而且你从大二体测不及格到现在，这蜕变简直像换了个人。这种装备的爱惜，是不是也让你更珍惜每次上赛场的机会？",
+        "timestamp": "2024-03-23T10:40:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "装备爱惜",
+          "跑者"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "是啊，以前跑步是为了应付体测，后来是为了减肥。但自从 2021 年首马之后，感觉完全变了。现在每次穿上 Nike Vaporfly 3 站在起跑线上，回想起 2021 年首马的蜕变，那种'我就是跑者'的身份认同感让我无视脚下的距离，只想不断向前。",
+        "timestamp": "2024-03-24T07:10:30+08:00",
+        "planted_pairs": [
+          "emotion_11"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "起跑线",
+          "跑者身份",
+          "初心回忆"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这句话太有力量了！'我就是跑者'，这种身份认同确实是支撑我们度过撞墙期和伤痛期的核心动力。看来你的装备不仅仅是工具，更是精神图腾啊。",
+        "timestamp": "2024-03-24T07:15:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "跑者",
+          "装备"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，被你这么说有点不好意思。不过确实，上周我爸还问我，花几千块买双鞋跑几个小时值不值。我当时就跟他说，这鞋陪我破了 PB，更重要的是，它提醒我别忘了为什么出发。为了保护好 Nike Vaporfly 3 留给比赛日，平时拉练都用 Asics Kayano 30，这种对装备的爱惜让我站在起跑线时总能回忆起最初成为跑者的那份初心。",
+        "timestamp": "2024-03-24T19:20:10+08:00",
+        "planted_pairs": [
+          "entity_03",
+          "behavior_10",
+          "emotion_11"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "Asics Kayano 30",
+          "装备爱惜",
+          "初心",
+          "跑者"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "叔叔现在应该理解了吧？毕竟看到儿子这么自律又有成就，骄傲还来不及呢。这种初心和纪律性，其实跟你做后端开发也挺像的，代码也要精心维护，架构也要为高并发（比赛）做准备。",
+        "timestamp": "2024-03-24T19:25:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "初心",
+          "纪律性"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "你这个类比绝了！确实，训练计划就像系统架构，日常 LSD 是压力测试，力量训练是服务器扩容。要是平时乱用资源（乱穿鞋），真到上线（比赛）的时候肯定崩。所以我才坚持跑鞋轮换，日常 LSD 训练只穿 Asics Kayano 30，那双珍贵的 Nike Vaporfly 3 必须留到比赛日或强度课才能登场。",
+        "timestamp": "2024-03-25T08:05:15+08:00",
+        "planted_pairs": [
+          "behavior_10"
+        ],
+        "mentioned_entities": [
+          "跑鞋轮换",
+          "Asics Kayano 30",
+          "Nike Vaporfly 3",
+          "比赛日"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "逻辑满分！看来不管是写代码还是跑步，底层逻辑都是相通的：科学规划、严格执行、适时恢复。说到恢复，昨晚泡沫轴滚得怎么样？",
+        "timestamp": "2024-03-25T08:10:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "恢复",
+          "泡沫轴"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "滚了半小时，髂胫束还是有点紧，看来上次 ITBS 的阴影还在，不敢大意。不过只要想到穿着那双 Nike Vaporfly 3 冲线的感觉，这点酸痛也算是一种勋章吧。毕竟那双 Nike Vaporfly 3 是我的比赛专用鞋，穿着它跑出了 3 小时 45 分的全马 PB，平时训练我可舍不得穿，只敢用 Asics Kayano 30。",
+        "timestamp": "2024-03-25T20:30:22+08:00",
+        "planted_pairs": [
+          "entity_03"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "全马 PB",
+          "Asics Kayano 30",
+          "ITBS"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": " ITBS 确实需要小心对待，宁慢勿伤。你能从那次伤病中学到这么多运动解剖知识，也算是因祸得福了。这种对身体的掌控感，是不是也加强了你的跑者身份认同？",
+        "timestamp": "2024-03-25T20:35:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "ITBS",
+          "跑者身份"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "绝对是。以前觉得能跑完就行，现在更讲究科学和效率。每次穿上 Nike Vaporfly 3 站在起跑线上，回想起 2021 年首马的蜕变，那种'我就是跑者'的身份认同感让我无视脚下的距离，只想不断向前。这种心态让我在面对 Bug 或者伤病时，都能更冷静地分析解决。",
+        "timestamp": "2024-03-26T07:00:18+08:00",
+        "planted_pairs": [
+          "emotion_11"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "起跑线",
+          "跑者身份",
+          "初心回忆"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "这就是运动带来的正向迁移吧，身心都更强大了。下周有什么训练计划？还要继续 LSD 吗？",
+        "timestamp": "2024-03-26T07:05:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "训练计划",
+          "LSD"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "下周安排了一次间歇跑，打算试试新的配速策略。鞋子的话，还是老规矩，我对跑鞋有着严格的轮换纪律，日常 LSD 训练只穿 Asics Kayano 30，那双珍贵的 Nike Vaporfly 3 必须留到比赛日或强度课才能登场。这次间歇跑可能就会让它提前热热身。",
+        "timestamp": "2024-03-26T12:15:30+08:00",
+        "planted_pairs": [
+          "behavior_10"
+        ],
+        "mentioned_entities": [
+          "跑鞋轮换",
+          "Asics Kayano 30",
+          "Nike Vaporfly 3",
+          "装备爱惜"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "间歇跑穿 Vaporfly 3 确实能更好地适应比赛脚感，只要注意别过度使用导致中底衰减太快就行。期待你下次比赛刷新 PB！",
+        "timestamp": "2024-03-26T12:20:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Vaporfly 3",
+          "PB"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "借你吉言！其实不管 PB 是多少，只要还能穿着跑鞋在路上，就觉得挺幸福的。特别是当我为了保护好 Nike Vaporfly 3 留给比赛日，平时拉练都用 Asics Kayano 30，这种对装备的爱惜让我站在起跑线时总能回忆起最初成为跑者的那份初心。这就够了。",
+        "timestamp": "2024-03-26T18:45:55+08:00",
+        "planted_pairs": [
+          "entity_03",
+          "behavior_10",
+          "emotion_11"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "Asics Kayano 30",
+          "装备爱惜",
+          "初心",
+          "跑者"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "说得太好了，不忘初心，方得始终。无论是代码还是跑道，愿你一直享受这份热爱和掌控感。加油，林跑者！",
+        "timestamp": "2024-03-26T18:50:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "初心",
+          "跑者"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "entity_03": 4,
+      "behavior_10": 5,
+      "emotion_11": 4
+    }
+  },
+  {
+    "session_id": 4,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "早啊，刚在公司楼下喝完那杯黑咖啡，看着文三路的车流，突然有点感慨。想起 2021 年首次完赛杭州马拉松是我人生的转折点，从那刻起我不再只是为了减肥而跑，而是真正认同了自己‘跑者’的身份。",
+        "timestamp": "2024-04-02T06:45:12+08:00",
+        "planted_pairs": [
+          "entity_11"
+        ],
+        "mentioned_entities": [
+          "2021 杭州马拉松",
+          "跑者身份认同",
+          "黑咖啡"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "早！这种清晨的仪式感确实能让人瞬间清醒。从体测不及格到全马破 4，这三年你的变化太大了。那个‘跑者’的标签，现在是不是已经像代码里的核心依赖库一样，不可或缺了？",
+        "timestamp": "2024-04-02T06:47:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "跑者",
+          "全马"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "哈哈，比喻很极客，但差不多就是这个意思。不过你也知道，这条路不是一直向上的。2023 年遭遇右膝髂胫束综合征停训两个月，那段时间真的挺煎熬的，差点觉得自己是不是要告别跑步了。",
+        "timestamp": "2024-04-02T06:50:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2023 年停训",
+          "髂胫束综合征",
+          "跑步"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "那次受伤确实是个大坎儿。但反过来看，也正是那次被迫停下，让你开始系统学习运动解剖，不再盲目上大重量。现在的你，比三年前那个只知猛冲的浩然更懂‘科学训练’了。",
+        "timestamp": "2024-04-02T06:52:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "科学训练",
+          "运动解剖"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "是啊，塞翁失马。现在回想起来，2021 年杭州马拉松确立的‘跑者’身份认同，是我在 2023 年遭遇 ITBS 停训两个月后能够坚持复健的精神支柱。这份信念让我如今在每次清晨 6:30 空腹喝下黑咖啡时，都充满了对新一天训练的期待而非痛苦。",
+        "timestamp": "2024-04-02T19:20:05+08:00",
+        "planted_pairs": [
+          "multihop_07"
+        ],
+        "mentioned_entities": [
+          "2021 杭马身份认同",
+          "2023 年停训挫折",
+          "复健坚持",
+          "晨间黑咖啡仪式"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这段话听得我都燃起来了。从挫折中重建，而且把复健变成了享受，这才是真正的强者心态。今晚是练腿日吗？深蹲冲击 1.5 倍体重的计划进展如何？",
+        "timestamp": "2024-04-02T19:22:18+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "练腿",
+          "深蹲"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "今晚推胸，腿还得再养养，毕竟半马 1 小时 40 分的大关还没破，不敢太冒进。不过周末打算穿上我的 Nike Vaporfly 3 去滨江跑道试试强度。",
+        "timestamp": "2024-04-03T07:10:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "推胸",
+          "半马",
+          "Nike Vaporfly 3"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "Vaporfly 3 可是神器，配上你现在的状态，破 PB 很有希望。穿上它站在起跑线上，会不会有种特别的 feeling？",
+        "timestamp": "2024-04-03T07:12:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Vaporfly 3",
+          "起跑线"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "太有了。每次穿上 Nike Vaporfly 3 站在起跑线上，回想起 2021 年首马的蜕变，那种'我就是跑者'的身份认同感让我无视脚下的距离，只想不断向前。那种感觉，就像代码编译一次通过一样爽。",
+        "timestamp": "2024-04-03T18:30:10+08:00",
+        "planted_pairs": [
+          "emotion_11"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "起跑线",
+          "跑者身份",
+          "初心回忆"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "哈哈，‘编译一次通过’绝对是程序员能给出的最高赞誉了！看来运动和工作在你这里已经打通了任督二脉。这种心流状态，是不是也让你面对项目上线前的 Bug 没那么焦虑了？",
+        "timestamp": "2024-04-03T18:33:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "心流",
+          "Bug",
+          "焦虑"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "确实。以前遇到棘手 Bug 会烦躁得想砸键盘，现在我会戴上骨传导耳机去楼下跑个 HIIT。身体极度疲惫的时候，大脑反而清空了，回来再看问题，思路清晰很多。这大概也是‘跑者’身份带给我的隐性红利吧。",
+        "timestamp": "2024-04-04T06:40:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Bug",
+          "HIIT",
+          "跑者身份"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "用身体的痛苦换取大脑的平静，这招高！看来那两年的系统训练没白练，不仅练出了肌肉线条，还练出了强大的心理韧性。你爸最近看你跑步还唠叨吗？",
+        "timestamp": "2024-04-04T06:43:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "系统训练",
+          "心理韧性"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "哈哈，老人家现在可自豪了。上次回家把全马奖牌挂墙上，他逢人就夸。虽然还是担心我膝盖，但也会问我那些营养品安不安全了，态度大转变。我妈更是，每次回去都炖牛肉，生怕我蛋白质不够。",
+        "timestamp": "2024-04-04T12:15:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "全马奖牌",
+          "营养品",
+          "蛋白质"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "这就是典型的‘真香’定律啊！有家人的支持，再加上你自己这么自律，感觉你离深蹲 1.5 倍体重和半马 SUB140 的目标不远了。这周六的长距离拉练准备跑多少？",
+        "timestamp": "2024-04-04T12:18:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲",
+          "半马",
+          "长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "周六打算跟陈宇一起跑个 20 公里的 LSD，顺便让他帮我看看配速。周日再做个主动恢复，泡泡筋膜枪。现在的节奏感挺好的，不像以前那样盲目堆跑量，更注重质量和恢复。",
+        "timestamp": "2024-04-04T20:05:11+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "LSD",
+          "配速",
+          "主动恢复",
+          "筋膜枪"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "跟高手过招才能进步快嘛。陈宇那个配速稳定性你是知道的。对了，你那个 Excel 记录的渐进负荷曲线最近走势如何？有没有遇到平台期？",
+        "timestamp": "2024-04-04T20:08:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel",
+          "渐进负荷",
+          "平台期"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "深蹲最近在 110kg 卡了一下，可能是神经疲劳。我打算这周降降容量，做做分化训练的调整。毕竟吃过 ITBS 的亏，现在对身体的信号敏感多了，不敢硬来。",
+        "timestamp": "2024-04-05T07:20:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲",
+          "神经疲劳",
+          "ITBS"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "明智之举。有时候退一步是为了进两步。就像你说的，现在的你更懂得倾听身体的声音。这种成熟，可能比单纯举起更大的重量更珍贵。",
+        "timestamp": "2024-04-05T07:22:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "身体信号",
+          "成熟"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "没错。从 2021 年的懵懂完赛，到 2023 年的伤痛低谷，再到现在的从容复健，这一路走来，‘跑者’这两个字对我来说，不再只是一个爱好，而是一种生活方式，一种面对困难时的底气。",
+        "timestamp": "2024-04-05T19:10:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2021 年",
+          "2023 年",
+          "跑者",
+          "生活方式"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "说得太好了。这种由内而外的身份认同，是谁也拿不走的。期待你周六刷新的 LSD 数据，到时候记得在 Strava 上分享，让我们也沾沾你的‘跑者’气场！",
+        "timestamp": "2024-04-05T19:12:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "LSD",
+          "Strava",
+          "跑者"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "entity_11": true,
+      "emotion_11": true,
+      "multihop_07": true
+    }
+  },
+  {
+    "session_id": 5,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚跑完周六的 LSD，右腿外侧那种熟悉的紧绷感又出来了，瞬间让我想起 2023 年那次右膝髂胫综合征（ITBS），当时整整停训两个月，那滋味太难受了。",
+        "timestamp": "2024-04-13T18:45:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "右膝髂胫束综合征",
+          "2023 年停训经历"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "那种对伤病的记忆确实会让人产生条件反射般的警惕。不过浩然，这也正是你从单纯追求跑量转向科学训练的转折点吧？",
+        "timestamp": "2024-04-13T18:47:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "是啊，从那以后我再也不敢盲目上大重量或者硬撑了，开始死磕运动解剖学，才搞清楚髂胫束摩擦综合征的力学机制，深知恢复其实比训练本身更重要。",
+        "timestamp": "2024-04-13T18:50:30+08:00",
+        "planted_pairs": [
+          "entity_05"
+        ],
+        "mentioned_entities": [
+          "运动解剖学",
+          "2023 年停训经历"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这就是所谓的“吃一堑长一智”。所以你现在周日的主动恢复流程变得这么严格，是不是也是基于这种对身体的敬畏？",
+        "timestamp": "2024-04-13T18:52:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "没错，现在每到周日下午，我使用筋膜枪放松大腿外侧时都格外专注，生怕漏掉任何一个激痛点，这种对恢复的敬畏直接促使我养成了工作日严格 23:00 入睡的习惯。",
+        "timestamp": "2024-04-13T19:05:20+08:00",
+        "planted_pairs": [
+          "multihop_01"
+        ],
+        "mentioned_entities": [
+          "2023 年 ITBS 受伤",
+          "周日筋膜枪放松",
+          "23:00 入睡习惯"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "保证 7.5 小时的深度睡眠确实能让肌肉在夜间完成最关键的修复逻辑。除了睡眠和筋膜枪，你最近提到的冷热交替浴感觉如何？",
+        "timestamp": "2024-04-13T19:08:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "肌肉修复逻辑"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "简直是我的“精神避难所”。特别是周日下午进行冷热交替浴时，感受着肌肉从紧绷到松弛的变化，那种身心彻底放空的宁静，是对一周高强度训练最好的抚慰。",
+        "timestamp": "2024-04-13T19:15:40+08:00",
+        "planted_pairs": [
+          "emotion_10"
+        ],
+        "mentioned_entities": [
+          "冷热交替浴",
+          "肌肉放松",
+          "宁静感",
+          "主动恢复"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "听起来这不仅仅是一个物理恢复过程，更像是一种心理仪式。这种宁静感是不是也帮你缓解了平时写代码时的焦虑？",
+        "timestamp": "2024-04-13T19:18:25+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "完全正确。以前觉得受伤是倒霉，现在觉得那是身体在报警。只要周日这套流程走完，周一早上醒来那种肌肉修复到位的轻盈感，让我觉得之前的自律都值了。",
+        "timestamp": "2024-04-13T19:22:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "肌肉修复逻辑"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "从 2023 年的伤痛记忆驱动到现在形成如此系统的预防性恢复闭环，浩然，你确实已经从一个普通的跑步爱好者进化成了一名成熟的运动实践者。",
+        "timestamp": "2024-04-13T19:25:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2023 年停训经历"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "哈哈，过奖了。其实也是被那两个月停训逼出来的。现在哪怕项目上线再忙，我也不会牺牲睡眠去加班，毕竟膝盖废了就什么都跑不了了。",
+        "timestamp": "2024-04-13T19:30:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2023 年停训经历",
+          "23:00 入睡习惯"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "这种优先级排序非常明智。对了，你刚才说筋膜枪放松时格外专注，一般会重点照顾哪些部位来预防 ITBS 复发？",
+        "timestamp": "2024-04-13T19:33:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "周日筋膜枪放松"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "主要是阔筋膜张肌和臀中肌，当然还有大腿外侧的髂胫束本身。以前不懂运动解剖学只会滚大腿，现在知道源头在臀部发力不足，所以放松策略也变了。",
+        "timestamp": "2024-04-13T19:38:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "运动解剖学",
+          "右膝髂胫束综合征"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "抓到了问题的根源。看来那次受伤虽然痛苦，但也让你对身体的认知上了一个大台阶。这种由痛楚转化来的经验，可能比任何私教课都深刻。",
+        "timestamp": "2024-04-13T19:41:55+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "确实是这样。现在每次做完冷热交替浴，那种宁静感都会提醒我：慢就是快。只有把恢复做好了，才能支撑我去打破半马 1 小时 40 分的目标。",
+        "timestamp": "2024-04-13T19:45:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "冷热交替浴",
+          "宁静感"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "目标很清晰，路径也很科学。保持这种对 23:00 入睡的严格执行，再加上你现在的恢复手段，冲击 PB 应该很有希望。",
+        "timestamp": "2024-04-13T19:48:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "23:00 入睡习惯"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "借你吉言。其实有时候也会想，如果 2023 年没有那次受伤，我可能还在盲目堆跑量，说不定早就受更严重的伤了，这也算是一种因祸得福吧。",
+        "timestamp": "2024-04-13T19:52:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2023 年停训经历"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是成长的代价和收获。你把那次 2023 年的 ITBS 经历变成了一套完整的防御系统，这非常了不起。今晚准备早点休息吗？",
+        "timestamp": "2024-04-13T19:55:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "2023 年 ITBS 受伤"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "必须的，明天周一还要早起空腹有氧，23 点前必须躺下。毕竟肌肉修复逻辑告诉我，没有睡眠就没有增长，这可是我用两个月停训换来的教训。",
+        "timestamp": "2024-04-13T20:00:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "23:00 入睡习惯",
+          "肌肉修复逻辑",
+          "2023 年停训经历"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "说得太好了。带着这份对身体的敬畏和宁静感去休息吧，期待听到你下次打破 PB 的好消息，晚安浩然。",
+        "timestamp": "2024-04-13T20:02:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "宁静感"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "entity_05": true,
+      "emotion_10": true,
+      "multihop_01": true
+    }
+  },
+  {
+    "session_id": 6,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚下班到乐刻文三路店，今天状态不错，打算冲击一下深蹲的新重量，目标直指 1.5 倍体重。",
+        "timestamp": "2024-04-20T19:45:12+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "乐刻运动",
+          "深蹲目标"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然，1.5 倍体重可是个大里程碑！你现在的深蹲 1RM 是 110kg，要冲到 1.5 倍大概得 127.5kg 左右吧？今天计划直接上这个重量吗？",
+        "timestamp": "2024-04-20T19:46:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲目标"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "对，打算先热身几组，最后试一把 125kg。虽然不再买私教课了，但我常和健身房认识的王强交流动作细节，冲击深蹲 1.5 倍体重的大重量时，还得靠他在一旁给我做保护（Spot）。",
+        "timestamp": "2024-04-20T19:48:30+08:00",
+        "planted_pairs": [
+          "entity_06"
+        ],
+        "mentioned_entities": [
+          "王强",
+          "深蹲目标",
+          "动作保护"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "有王强这样的专业人士在旁边确实让人放心很多。毕竟你 23 年受过伤，现在对待大重量肯定更谨慎了，具体的准备流程是怎样的？",
+        "timestamp": "2024-04-20T19:49:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "深蹲大重量"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "那是必须的。自 2023 年受伤后，现在每次冲击深蹲大重量前，我都要花两分钟反复检查腰带松紧和膝盖热身情况，并眼神示意王强到位保护才敢起杠。",
+        "timestamp": "2024-04-20T19:52:40+08:00",
+        "planted_pairs": [
+          "behavior_05"
+        ],
+        "mentioned_entities": [
+          "深蹲大重量",
+          "装备检查",
+          "王强保护",
+          "安全确认"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这种严谨的流程是突破瓶颈的基础。那种在极限重量下，知道有人托底的安全感，是不是反而能让你更专注地发力？",
+        "timestamp": "2024-04-20T19:53:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲大重量",
+          "王强保护"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "太对了！刚才那一组，当王强在我冲击 1.5 倍体重深蹲时喊出'起'并稳稳接住杠铃，那种对力量精准掌控的兴奋感，让我确信自己正一步步接近目标。",
+        "timestamp": "2024-04-20T20:15:10+08:00",
+        "planted_pairs": [
+          "emotion_07"
+        ],
+        "mentioned_entities": [
+          "王强",
+          "深蹲 PR 尝试",
+          "保护协助",
+          "掌控兴奋感"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "听起来这次尝试非常成功！这种掌控感比单纯举起重量更珍贵。既然感觉这么好，要不要趁热打铁，把今天的训练数据记录到 Excel 里分析一下渐进负荷曲线？",
+        "timestamp": "2024-04-20T20:16:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "掌控兴奋感",
+          "深蹲目标"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "肯定的，回家就用 MyFitnessPal 复盘一下今天的摄入，再把深蹲数据填进表格。这种技术精进带来的掌控兴奋感，真的是我突破 PR 的关键动力，比喝两勺蛋白粉还管用。",
+        "timestamp": "2024-04-20T20:45:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "掌控兴奋感",
+          "深蹲 PR 尝试",
+          "技术精进"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "没错，心理层面的突破往往先于生理。看来王强不仅是你的保护者，更是你技术精进路上的重要伙伴。好好休息，明天的晨跑 LSD 也要保持这个状态！",
+        "timestamp": "2024-04-20T20:46:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "技术精进",
+          "动作保护"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "早啊，刚跑完 10 公里，膝盖感觉很好。昨晚深蹲后的恢复做得不错，泡沫轴滚了大腿外侧，今天神清气爽。",
+        "timestamp": "2024-04-21T07:15:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "恢复",
+          "深蹲大重量"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "早安！看来科学的恢复流程见效了。说到深蹲，你之前提到想打破半马 140 大关，现在力量上去了，对跑步经济性的提升有帮助吗？",
+        "timestamp": "2024-04-21T07:16:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲目标",
+          "半马目标"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "确实有感觉，核心更稳了。其实想想，要是没有王强那种专业的保护协助，我可能根本不敢在深蹲架上加那么多片，心理障碍很难克服。",
+        "timestamp": "2024-04-21T07:18:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "保护协助",
+          "深蹲大重量"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "信任是训练的一部分。你之前说每次都要眼神示意王强到位才敢起杠，这种仪式感是不是也帮你进入了专注的'心流'状态？",
+        "timestamp": "2024-04-21T07:19:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强保护",
+          "安全确认",
+          "深蹲大重量"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "完全是！那种确认安全的瞬间，大脑就清空了杂念。就像代码上线前的最后一次 Code Review，虽然不再买私教课了，但王强给我的反馈比很多付费课都实在。",
+        "timestamp": "2024-04-21T07:22:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "动作保护",
+          "深蹲目标"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "哈哈，用代码 Review 比喻很形象！这种高质量的交流确实难得。那你接下来一周的训练计划怎么安排？会继续冲击那个 1.5 倍体重的正式 PR 吗？",
+        "timestamp": "2024-04-21T07:23:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲目标",
+          "深蹲 PR 尝试"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "周三练背，周五再试一次深蹲。这次我要把那种掌控兴奋感延续下去，争取正式拿下 127.5kg。对了，我妈听说我要冲大重量，今晚又要给我炖牛肉了。",
+        "timestamp": "2024-04-21T12:30:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "掌控兴奋感",
+          "深蹲大重量",
+          "家庭关系"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "阿姨的高蛋白菜肴可是你的秘密武器！有了充足的营养支持，加上王强的保护和你的技术掌控，周五的 PR 势在必得。需要我帮你看看周五的具体热身计划吗？",
+        "timestamp": "2024-04-21T12:31:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "保护协助",
+          "深蹲 PR 尝试"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "不用啦，我自己用 Excel 排好了。只要想到自 2023 年受伤后，现在每次冲击深蹲大重量前，我都要花两分钟反复检查腰带松紧和膝盖热身情况，并眼神示意王强到位保护才敢起杠，我就觉得稳了。",
+        "timestamp": "2024-04-22T19:00:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲大重量",
+          "装备检查",
+          "王强保护",
+          "安全确认"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "这就对了，严谨的流程加上信任的伙伴，就是你突破极限的底气。期待你周五的好消息，到时候记得在 Strava 或朋友圈分享那份掌控兴奋感！",
+        "timestamp": "2024-04-22T19:01:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "掌控兴奋感",
+          "深蹲 PR 尝试",
+          "王强"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "entity_06": 2,
+      "behavior_05": 2,
+      "emotion_07": 2
+    }
+  },
+  {
+    "session_id": 7,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "哎，刚上线前又撞见个棘手的 Bug，线程死锁查了半小时没头绪，脑子现在一团浆糊。",
+        "timestamp": "2024-04-29T18:45:12+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "代码 Bug 焦虑"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "这种时候硬坐在那儿确实效率低，要不先放一放？你之前不是说运动能换换脑子吗？",
+        "timestamp": "2024-04-29T18:46:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "对，我现在的固定流程就是立刻戴上我的 Shokz OpenRun 骨传导耳机，直接开启专注模式。只要耳机一戴，周围那些键盘声、讨论声瞬间就隔离了，剩下的只有呼吸和脚步声。",
+        "timestamp": "2024-04-29T18:48:15+08:00",
+        "planted_pairs": [
+          "behavior_02"
+        ],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "专注模式",
+          "环境音隔离"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这装备确实适合户外跑，既安全又能沉浸。那你今天是打算去滨江跑道跟陈宇汇合，还是自己单独练？",
+        "timestamp": "2024-04-29T18:49:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz OpenRun"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "今天一个人，直接上高强度间歇跑（HIIT）。你知道吗，每当项目上线前遇到这种棘手的代码 Bug 感到思维混乱时，我就会立刻戴上降噪耳机去跑高强度间歇跑，用身体的极度疲惫来换取大脑的彻底清空。",
+        "timestamp": "2024-04-29T19:15:22+08:00",
+        "planted_pairs": [
+          "emotion_01"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "HIIT 训练",
+          "降噪耳机",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这听起来像是一种强制重启机制。跑完这组 HIIT 之后，那种混乱感真的能消失吗？还是说只是暂时逃避了一下？",
+        "timestamp": "2024-04-29T19:17:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "HIIT 训练",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "绝对不是逃避。当项目上线前的代码 Bug 引发焦虑时，我会立即戴上 Shokz 骨传导耳机进行 HIIT 训练，这种通过身体疲惫换取大脑清空的机制，让我能在结束后迅速回归理性，像分析渐进负荷曲线一样清晰地梳理代码逻辑。",
+        "timestamp": "2024-04-29T19:50:33+08:00",
+        "planted_pairs": [
+          "multihop_05"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "Shokz 耳机与 HIIT",
+          "大脑清空",
+          "代码逻辑梳理"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "把解 Bug 的思路比作分析渐进负荷曲线，这个类比很符合你工程师加健身爱好者的双重身份啊。看来这套'Pipeline'对你来说已经非常成熟了。",
+        "timestamp": "2024-04-29T19:52:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "代码逻辑梳理"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，是啊。刚才跑完最后一组冲刺，心跳还没完全平复，但那个死锁的问题突然就想通了，可能是之前太钻牛角尖。现在回去喝口电解质水，准备重构那部分代码。",
+        "timestamp": "2024-04-29T20:10:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "太棒了，这就是运动带来的红利。不过记得今晚别练太晚，毕竟你还要保证 23 点前入睡，肌肉恢复和代码修复一样重要。",
+        "timestamp": "2024-04-29T20:12:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "放心，生物钟雷打不动。其实有时候我觉得，写代码和练腿日挺像的，都需要极强的专注力和忍受痛苦的能力，尤其是戴着 Shokz OpenRun 骨传导耳机，我就自动进入训练模式，无论是滨江跑道的风声还是健身房的铁片撞击声，都成了我专注配速和动作的背景音。",
+        "timestamp": "2024-04-30T07:15:00+08:00",
+        "planted_pairs": [
+          "behavior_02"
+        ],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "专注模式",
+          "环境音隔离",
+          "训练状态"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "确实，这种心流状态是可迁移的。昨天那个 Bug 最后解决得顺利吗？有没有用到什么新的调试技巧？",
+        "timestamp": "2024-04-30T07:16:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "特别顺。昨晚回去后，那种因为代码 Bug 焦虑引发的烦躁感完全没了。每当项目上线前遇到棘手的代码 Bug 感到思维混乱时，我就会立刻戴上降噪耳机去跑高强度间歇跑，用身体的极度疲惫来换取大脑的彻底清空。这招百试百灵。",
+        "timestamp": "2024-04-30T12:30:15+08:00",
+        "planted_pairs": [
+          "emotion_01"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "HIIT 训练",
+          "降噪耳机",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "看来这已经是你专属的'调试器'了。不过一直靠 HIIT 会不会对膝盖压力有点大？毕竟你之前有过髂胫束综合征的经历。",
+        "timestamp": "2024-04-30T12:32:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "所以我现在很注意跑姿和恢复。而且这套机制不仅仅是跑步，当项目上线前的代码 Bug 引发焦虑时，我会立即戴上 Shokz 骨传导耳机进行 HIIT 训练，这种通过身体疲惫换取大脑清空的机制，让我能在结束后迅速回归理性，像分析渐进负荷曲线一样清晰地梳理代码逻辑。哪怕是做波比跳或者战绳，效果也一样。",
+        "timestamp": "2024-05-01T19:20:45+08:00",
+        "planted_pairs": [
+          "multihop_05"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "Shokz 耳机与 HIIT",
+          "大脑清空",
+          "代码逻辑梳理"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "明白了，核心是'高强度'带来的生理切换，而不是具体的跑步动作。这样确实能规避一些重复性损伤的风险。今天五一假期，有什么安排？",
+        "timestamp": "2024-05-01T19:22:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "上午刚跟陈宇跑了个 15 公里 LSD，现在正准备去健身房做下肢力量。只要戴上 Shokz OpenRun 骨传导耳机，我就自动进入训练模式，无论是滨江跑道的风声还是健身房的铁片撞击声，都成了我专注配速和动作的背景音。今天状态不错，想冲击一下深蹲 1.5 倍体重的目标。",
+        "timestamp": "2024-05-02T15:40:20+08:00",
+        "planted_pairs": [
+          "behavior_02"
+        ],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "专注模式",
+          "环境音隔离",
+          "训练状态"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "加油！1.5 倍体重是个大关口，记得让王强帮你保护一下。这种专注的状态下，突破 PR 的概率很大。",
+        "timestamp": "2024-05-02T15:42:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "借你吉言！其实有时候工作压力大，反而是训练的动力。每当项目上线前遇到棘手的代码 Bug 感到思维混乱时，我就会立刻戴上降噪耳机去跑高强度间歇跑，用身体的极度疲惫来换取大脑的彻底清空。现在想想，代码和肌肉纤维一样，都是在破坏与重建中变强的。",
+        "timestamp": "2024-05-02T17:30:55+08:00",
+        "planted_pairs": [
+          "emotion_01"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "HIIT 训练",
+          "降噪耳机",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "这个总结太精辟了！'代码和肌肉纤维一样，都是在破坏与重建中变强的'。看来你的这套从压力到逻辑梳理的转化 pipeline 不仅解决了 Bug，还升华了生活哲学啊。等你深蹲好消息！",
+        "timestamp": "2024-05-02T17:32:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_01": 3,
+      "multihop_05": 2,
+      "behavior_02": 3
+    }
+  },
+  {
+    "session_id": 8,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚下班到家，看着 MyFitnessPal 里今天的热量缺口刚好达标，突然觉得这种把身体当系统来调试的感觉挺上头的。特别是深夜打开 Excel 表格，看着力量训练的渐进负荷曲线稳步上升，那种逻辑清晰、付出必有回报的秩序感，是我作为程序员最享受的时刻，比修好一个线上 Bug 还爽。",
+        "timestamp": "2024-05-08T20:15:00Z",
+        "planted_pairs": [
+          "emotion_09"
+        ],
+        "mentioned_entities": [
+          "Excel 记录",
+          "负荷曲线",
+          "秩序感",
+          "程序员思维"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "哈哈，这就是典型的工程师思维红利啊！把训练数据化确实能带来很强的掌控感。既然你这么喜欢这种秩序感，那你平时对装备的管理是不是也像维护代码库一样，有严格的版本控制和轮换策略？",
+        "timestamp": "2024-05-08T20:18:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "必须的！我的跑鞋轮换纪律可是雷打不动。日常 LSD 我就穿 Asics Kayano 30，主打一个稳定保护；只有比赛或者强度课才舍得请出 Nike Vaporfly 3。正是因为平时训练严格轮换使用 Asics Kayano 30 以保护双脚，才确保了 Nike Vaporfly 3 在比赛日的最佳状态，这种对装备的爱惜如同我对待代码架构一样严谨。",
+        "timestamp": "2024-05-08T20:22:15Z",
+        "planted_pairs": [
+          "multihop_10"
+        ],
+        "mentioned_entities": [
+          "跑鞋轮换纪律",
+          "装备最佳状态"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这逻辑太通了！好的架构才能支撑高并发，好的装备状态才能支撑 PB。那这种严谨最终反馈到哪里了？是 Garmin 上的数据，还是朋友圈的点赞？",
+        "timestamp": "2024-05-08T20:25:40Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "都有吧，但最直接的还是 Strava。每次比赛完把数据同步上去，看到那个最终助我在 Strava 上不断刷新个人纪录并获得社交认同的过程，就像项目上线后收到用户好评一样，成就感爆棚。对了，说到系统运行，我现在的补剂摄入也完全流程化了。",
+        "timestamp": "2024-05-08T20:29:10Z",
+        "planted_pairs": [
+          "multihop_10"
+        ],
+        "mentioned_entities": [
+          "Strava 社交认同"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "流程化？听起来像是写了个自动化脚本。具体是怎么个流程法？不会也是按毫秒级精度来吃的吧？",
+        "timestamp": "2024-05-08T20:31:50Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "没那么夸张，但节奏很固定。随餐服用复合维生素和肌酸是我每天的固定动作，就像代码里的依赖库一样，缺了它们，我的身体系统就无法高效运行。尤其是肌酸，必须得持续加载，不然深蹲冲击 1.5 倍体重那周肯定掉链子。",
+        "timestamp": "2024-05-09T07:45:20Z",
+        "planted_pairs": [
+          "behavior_12"
+        ],
+        "mentioned_entities": [
+          "复合维生素",
+          "肌酸",
+          "随餐服用",
+          "身体系统"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "比喻很形象！依赖库确实不能少。那你妈给你准备的炖牛肉和蒸鱼，在你这个“系统”里算是核心业务逻辑还是外部 API 调用？",
+        "timestamp": "2024-05-09T07:50:05Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，那是核心业务逻辑啊！自带便当控制油盐是开发环境，我妈做的菜那就是生产环境的高可用保障。不过周末的欺骗餐算是个特殊的“压力测试”，只要周一回归正常部署就行。说起这个，这周六打算去滨江拉个 20 公里，试试新调整的配速策略。",
+        "timestamp": "2024-05-09T12:30:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "有陈宇陪你一起“压力测试”吗？你们周二周四的晨跑雷打不动，周六要是再一起，这周的跑量又要创新高了。记得跑完用泡沫轴好好放松一下大腿外侧，别又像 23 年那样搞出髂胫束综合征来。",
+        "timestamp": "2024-05-09T12:35:10Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "放心，那次 ITBS 之后我学乖了，恢复也是训练的一部分。周六陈宇有事，我打算自己戴着骨传导耳机听点播客慢跑。其实我现在觉得，不管是写代码还是跑步，本质上都是在和熵增做斗争，通过建立秩序（比如我的 Excel 曲线和装备轮换）来对抗混乱。",
+        "timestamp": "2024-05-10T19:20:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "这个观点太深刻了！在混乱中建立秩序，确实是运动和编程共同的魅力。那你有没有想过把你的这套“数据驱动训练法”整理成文章或者分享给你们跑团？感觉很多人会需要这种理性的指导。",
+        "timestamp": "2024-05-10T19:25:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "之前王强倒是怂恿过我，让我给健身房的新手讲讲怎么记录负荷。但我总觉得自己的数据样本还不够大，等我把半马破 140 的计划彻底跑通，形成一套完整的闭环再说吧。毕竟，没有经过生产环境验证的代码，我可不敢随便开源。",
+        "timestamp": "2024-05-10T21:10:40Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "严谨！不愧是浙大计算机系的。那在等待“开源”之前，今晚的恢复工作做好了吗？冷热交替浴安排上了没？",
+        "timestamp": "2024-05-10T21:15:22Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "刚做完冷热交替，现在正躺着刷 Strava 上看大神们的路线呢。看着别人在风景好的地方跑步，心里也在默默规划下次去千岛湖骑行的路线。对了，你刚才提到依赖库，其实电解质泡腾片也是我高强度间歇跑时的“紧急补丁”。",
+        "timestamp": "2024-05-11T08:05:50Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "哈哈，紧急补丁这个说法很精准！项目上线前高压跑 HIIT 的时候，确实需要这种快速响应机制。看来你的整个生活都被你重构得井井有条了，连补剂都分成了“依赖库”和“补丁”。",
+        "timestamp": "2024-05-11T08:10:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "是啊，可能这就是职业病的另一种体现吧。不过这种秩序感让我很安心。就像我知道只要按计划摄入肌酸，按计划轮换跑鞋，按计划记录数据，那个 1 小时 40 分的半马目标迟早会像预期一样交付上线。",
+        "timestamp": "2024-05-11T12:40:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这种确定性在充满不确定性的生活里太珍贵了。既然系统运行这么稳定，那这周的“迭代版本”有什么新特性吗？比如尝试新的训练动作或者调整饮食结构？",
+        "timestamp": "2024-05-11T12:45:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "新特性嘛，打算在腿部训练日加入更多的单腿动作，改善一下左右腿力量不平衡的小 Bug。毕竟深蹲要上 1.5 倍体重，底层架构不能有短板。吃完饭还得去检查一下我的 Vaporfly 3，看看中底回弹有没有衰减，这可是冲击 PB 的关键组件。",
+        "timestamp": "2024-05-11T18:30:25Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "完美！从底层的力量平衡到顶层的装备性能，全链路优化。祝你的“系统”运行流畅，早日在那个充满秩序感的 Excel 表格里，写下新的 PB 纪录！到时候记得在 Strava 上晒图，让我们也沾沾光。",
+        "timestamp": "2024-05-11T18:35:50Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_09": 1,
+      "multihop_10": 1,
+      "behavior_12": 1
+    }
+  },
+  {
+    "session_id": 9,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚到家，一开门就闻到我妈张慧炖牛肉的香味了，瞬间觉得这一周写代码的疲惫都散了。",
+        "timestamp": "2024-05-17T19:45:12+08:00",
+        "planted_pairs": [
+          "emotion_08"
+        ],
+        "mentioned_entities": [
+          "张慧",
+          "炖牛肉"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "哈哈，这就是传说中的“顶级恢复餐”吧！阿姨这手艺可是你保持低体脂又能增肌的秘密武器啊。今天训练状态怎么样？",
+        "timestamp": "2024-05-17T19:46:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "状态还行，就是深蹲有点心理障碍。其实每次回家闻到母亲张慧炖牛肉的香气，那种被无条件支持的安全感，让我觉得无论工作多累、训练多苦，身后总有坚实的后盾。但这重量要是上不去，总觉得对不起这碗肉。",
+        "timestamp": "2024-05-17T19:48:30+08:00",
+        "planted_pairs": [
+          "emotion_08"
+        ],
+        "mentioned_entities": [
+          "母亲张慧",
+          "炖牛肉",
+          "家庭支持",
+          "安全感"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "别给自己太大压力，深蹲 1.5 倍体重是个大坎儿，心理建设很重要。既然家里后勤这么给力，接下来就是技术环节了。最近有找王强帮你看看动作吗？",
+        "timestamp": "2024-05-17T19:49:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "正想跟你说呢。以前我爸林建国总担心跑步伤膝盖，劝我少练点，结果上次我把全马奖牌拿回去，他态度大转变。现在不仅不拦着，甚至敢问我要不要买营养品了，哈哈。",
+        "timestamp": "2024-05-18T08:15:20+08:00",
+        "planted_pairs": [
+          "entity_04"
+        ],
+        "mentioned_entities": [
+          "林建国",
+          "马拉松奖牌",
+          "营养品"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这说明叔叔也是“实力派”粉丝啊！看到实打实的成绩和奖牌，传统的担忧自然就变成自豪了。家庭氛围轻松了，你训练起来肯定更没包袱。",
+        "timestamp": "2024-05-18T08:17:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "是啊，现在感觉浑身是劲。你看啊，母亲张慧精心炖煮的牛肉提供了优质蛋白，父亲林建国从担忧到自豪的态度转变消除了我的心理负担，这两股家庭力量共同支撑我敢于在健身房向王强寻求保护，去冲击深蹲 1.5 倍体重的极限目标。",
+        "timestamp": "2024-05-18T20:30:45+08:00",
+        "planted_pairs": [
+          "multihop_04"
+        ],
+        "mentioned_entities": [
+          "母亲张慧",
+          "牛肉",
+          "父亲林建国",
+          "王强",
+          "深蹲 1.5 倍体重目标"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这逻辑链条太完美了！有营养摄入，有心理减压，还有专业伙伴（王强）做 Spot（保护），这下冲击 PR（个人纪录）的条件全具备了。打算什么时候去乐刻挑战一下？",
+        "timestamp": "2024-05-18T20:32:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "乐刻"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "就这周六上午吧，练完长距离跑之后，状态应该不错。到时候让王强帮我盯着点，要是能蹲起 1.5 倍体重，回家必须让我妈再炖锅牛肉庆祝下！顺便也给我爸科普下，这营养品到底该咋选，省得他瞎操心。",
+        "timestamp": "2024-05-19T10:05:33+08:00",
+        "planted_pairs": [
+          "entity_04"
+        ],
+        "mentioned_entities": [
+          "王强",
+          "我妈",
+          "牛肉",
+          "我爸",
+          "营养品"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "哈哈，安排得明明白白！周六加油，期待你的好消息。记得冲大重量前充分热身，毕竟之前有过 ITBS 的经历，科学训练才能长久嘛。",
+        "timestamp": "2024-05-19T10:07:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "放心，热身肯定做足。其实想想，每次回家，我妈张慧总会特意炖好牛肉或蒸条鱼给我补蛋白，虽然我爸林建国以前总担心跑步伤膝盖，但现在看到我奖牌也敢问我要不要买营养品了。这种全家总动员的感觉，比喝多少氮泵都管用。",
+        "timestamp": "2024-05-19T21:15:22+08:00",
+        "planted_pairs": [
+          "entity_04"
+        ],
+        "mentioned_entities": [
+          "张慧",
+          "牛肉",
+          "林建国",
+          "奖牌",
+          "营养品"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "确实，家人的理解和支持是最好的“天然氮泵”。有了这份底气，再加上你这三年的系统训练经验，深蹲 1.5 倍体重指日可待！周六等你捷报。",
+        "timestamp": "2024-05-19T21:16:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "借你吉言！刚才还在 Excel 里复盘了一下最近的渐进负荷曲线，感觉腿部力量积累得差不多了。现在万事俱备，就差最后那一口气了。",
+        "timestamp": "2024-05-20T07:30:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "数据不会骗人，既然曲线向好，那就相信自己。记得周六带上你的 Garmin 手表，把这次挑战的数据完整记录下来，这可是里程碑时刻。",
+        "timestamp": "2024-05-20T07:32:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Garmin"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "必须的！到时候拍个视频发 Strava，让陈宇他们也羡慕一下。不过说真的，要是没有家里这口热乎饭，我真不一定能坚持到现在。",
+        "timestamp": "2024-05-20T12:45:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Strava",
+          "陈宇"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "没错，健身不仅是身体的修行，也是生活的平衡。阿姨的炖牛肉就是你的能量源泉。好好享受这顿午餐，为周六蓄力！",
+        "timestamp": "2024-05-20T12:47:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "嗯嗯，今天中午吃的就是昨天剩下的炖牛肉，味道更入味了。感觉充满了力量，恨不得现在就去健身房试一把，但还是得听你的，攒到周六。",
+        "timestamp": "2024-05-20T13:05:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "炖牛肉"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "哈哈，克制力也是强者的一种素质！把这份渴望留到周六，在王强的保护下一次性爆发出来，效果绝对更好。",
+        "timestamp": "2024-05-20T13:06:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "有道理。那就这么说定了，周六见真章！到时候要是成功了，第一时间告诉你，也让我爸看看，他儿子的膝盖好着呢，还能蹲更重的！",
+        "timestamp": "2024-05-20T18:20:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "爸"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "没问题，坐等你的好消息！祝你周六状态爆棚，安全解锁 1.5 倍体重深蹲，用实力让家人更放心、更自豪！",
+        "timestamp": "2024-05-20T18:21:35+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "entity_04": 3,
+      "emotion_08": 2,
+      "multihop_04": 1
+    }
+  },
+  {
+    "session_id": 10,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚跑完 12 公里 LSD，第一反应不是拉伸，而是抬手看 Garmin Forerunner 265 同步没。看到 Strava 上轨迹图生成的那一刻，才觉得这顿跑没白挨，心里踏实了。",
+        "timestamp": "2024-05-26T07:45:12Z",
+        "planted_pairs": [
+          "behavior_04"
+        ],
+        "mentioned_entities": [
+          "Garmin Forerunner 265",
+          "Strava",
+          "数据同步",
+          "训练完成感"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "哈哈，太真实了！那种‘数据落袋为安’的感觉确实是跑者的仪式感。这次配速稳吗？有没有突破之前的区间？",
+        "timestamp": "2024-05-26T07:46:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "配速还行，平均 4'50''。不过我现在更关注身体反馈。你知道的，23 年那次髂胫束综合征让我学乖了，现在我不光看跑步数据，还得结合我那个 Excel 表。",
+        "timestamp": "2024-05-26T07:48:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel 记录表"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "对，那个 Excel 表可是你的‘第二大脑’。你是把力量训练的数据也记在里面做交叉分析吗？",
+        "timestamp": "2024-05-26T07:49:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel 记录表"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "没错。我习惯用 Excel 手动记录每周深蹲、硬拉的重量和组数，专门用来分析渐进负荷曲线。日常跑步数据则同步到 Garmin 手表和 Strava 社区打卡，两边数据对一下，才能看清整体负荷。",
+        "timestamp": "2024-05-26T07:51:22Z",
+        "planted_pairs": [
+          "entity_08"
+        ],
+        "mentioned_entities": [
+          "Excel 记录表",
+          "Garmin Forerunner 265",
+          "Strava",
+          "渐进负荷"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这种‘双轨制’追踪确实科学。那今天的数据分析结果如何？有没有显示疲劳累积？",
+        "timestamp": "2024-05-26T07:52:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "刚做完分析，Garmin 记录的跑步数据同步到 Strava 后，我结合 Excel 里的力量训练负荷曲线一看，发现腿部疲劳值有点偏高。看来得立刻调整下周计划了，不能硬撑。",
+        "timestamp": "2024-05-26T08:05:10Z",
+        "planted_pairs": [
+          "multihop_06"
+        ],
+        "mentioned_entities": [
+          "Garmin 数据",
+          "Excel 负荷曲线",
+          "疲劳分析"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "明智之举！毕竟预防胜于治疗。那你今晚打算怎么安排恢复？",
+        "timestamp": "2024-05-26T08:06:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "基于刚才的疲劳分析结果，我决定今晚就进行冷热交替浴。虽然有点麻烦，但为了防止 2023 年的伤病重演，这点投入是必须的，得把炎症压下去。",
+        "timestamp": "2024-05-26T08:08:45Z",
+        "planted_pairs": [
+          "multihop_06"
+        ],
+        "mentioned_entities": [
+          "疲劳分析",
+          "冷热交替浴"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "专业！这种数据驱动的恢复策略才是长久之道。对了，这周二的晨跑陈宇来了吗？",
+        "timestamp": "2024-05-26T08:10:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "他来了，不过今天我没跟他拼速度，主要保心率。回到家我妈又炖了牛肉，非让我多吃点，说是补蛋白。",
+        "timestamp": "2024-05-26T12:30:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "阿姨的后勤支持太到位了。那你晚上做冷热交替浴的时候，要不要顺便用筋膜枪放松一下大腿外侧？",
+        "timestamp": "2024-05-26T12:32:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "肯定的，流程我都固定了：先冷热浴，再泡沫轴滚 IT 带，最后筋膜枪打小腿。这一套下来，基本能缓解 80% 的酸痛。",
+        "timestamp": "2024-05-26T18:20:10Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "这执行力没谁了。说到数据，你最近深蹲重量有变化吗？离 1.5 倍体重目标还差多少？",
+        "timestamp": "2024-05-26T18:22:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "目前 1RM 是 110kg，离 1.5 倍（大概 127kg）还有段距离。所以我才那么在意 Excel 里的渐进负荷曲线，不敢盲目加量，怕动作变形受伤。",
+        "timestamp": "2024-05-27T07:15:40Z",
+        "planted_pairs": [
+          "entity_08"
+        ],
+        "mentioned_entities": [
+          "Excel 记录表",
+          "渐进负荷"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "稳扎稳打是对的。王强最近还在健身房吗？冲击大重量的时候有人保护会安心很多。",
+        "timestamp": "2024-05-27T07:17:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "在的，昨晚还跟他聊了会儿技术动作。对了，刚看了一眼手机，Garmin 的数据已经完全同步到 Strava 了，今晚的冷热交替浴可以安排上了，数据不会骗人。",
+        "timestamp": "2024-05-27T19:45:20Z",
+        "planted_pairs": [
+          "behavior_04",
+          "multihop_06"
+        ],
+        "mentioned_entities": [
+          "Garmin",
+          "Strava",
+          "数据同步",
+          "冷热交替浴"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "哈哈，看来‘看到轨迹图’这个动作已经刻进 DNA 了。那你好好恢复，明天还要早起写代码吧？",
+        "timestamp": "2024-05-27T19:47:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "是啊，项目上线前压力大，要是代码出 Bug 我就去跑 HIIT 清空大脑。不过今天既然分析了疲劳度，还是乖乖洗澡睡觉，保证 23 点前入睡。",
+        "timestamp": "2024-05-28T21:30:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "这才是成熟跑者的自律。祝今晚好梦，肌肉好好生长，下周 PB 见！",
+        "timestamp": "2024-05-28T21:32:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "entity_08": 2,
+      "behavior_04": 2,
+      "multihop_06": 3
+    }
+  },
+  {
+    "session_id": 11,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚下班，今天代码重构搞得头大，不过看到 Excel 里这周的深蹲负荷曲线完美拟合线性增长，瞬间又爽了。作为浙大计算机出身的，我就喜欢把训练当算法跑，输入输出都得精准。",
+        "timestamp": "2024-06-04T19:45:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel",
+          "深蹲负荷曲线",
+          "浙大计算机"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "哈哈，这就是程序员的浪漫吧！把身体当成一个需要不断调试和优化的系统。既然负荷曲线这么漂亮，那离你深蹲 1.5 倍体重的目标应该不远了吧？现在的 1RM 是 110kg，体重没变的话，还得再涨不少呢。",
+        "timestamp": "2024-06-04T19:47:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲 1.5 倍体重",
+          "1RM"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "没错，所以我现在连补剂都不瞎吃了。我把 MyFitnessPal 里的每日热量和宏量营养素数据直接导出，当作输入参数喂给 Excel 写的脚本，算出每天到底该补多少肌酸和蛋白粉，简直像调试代码一样精准调整摄入量。",
+        "timestamp": "2024-06-04T20:05:30+08:00",
+        "planted_pairs": [
+          "multihop_12"
+        ],
+        "mentioned_entities": [
+          "MyFitnessPal",
+          "Excel",
+          "肌酸",
+          "蛋白粉",
+          "计算机专业背景"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "太硬核了！这种量化思维确实能避免很多盲目训练带来的坑。说到蛋白粉，你昨晚在乐刻练完腿之后，是不是又雷打不动地摇了一杯？",
+        "timestamp": "2024-06-04T20:08:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "乐刻运动",
+          "蛋白粉"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "必须的啊。每晚在乐刻运动结束 90 分钟的力量训练后，无论多累，我都会立刻摇一杯 ON 品牌的乳清蛋白粉喝下。这是肌肉恢复的黄金窗口期，绝不错过，就像服务器宕机后必须马上执行恢复脚本一样。",
+        "timestamp": "2024-06-04T20:12:10+08:00",
+        "planted_pairs": [
+          "behavior_03"
+        ],
+        "mentioned_entities": [
+          "力量训练结束",
+          "ON 乳清蛋白粉",
+          "黄金窗口期",
+          "肌肉恢复"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这执行力没谁了，难怪你全马能跑进 345。不过马上要冲击半马 1 小时 40 分的大关了，光靠力量恢复够吗？周末的跑步计划是怎么安排的？",
+        "timestamp": "2024-06-04T20:15:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "半马 1 小时 40 分",
+          "全马"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "这就是我的周期化策略了。为了在穿着 Nike Vaporfly 3 冲击半马 PB 时发挥极致性能，我必须在周六长距离拉练中穿着 Asics Kayano 30 积累足够的耐力底子，毕竟缓震和保护更重要，不能为了爽把膝盖跑废了。",
+        "timestamp": "2024-06-05T07:30:00+08:00",
+        "planted_pairs": [
+          "multihop_02"
+        ],
+        "mentioned_entities": [
+          "Nike Vaporfly 3",
+          "半马 PB 目标",
+          "Asics Kayano 30",
+          "周六长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "非常科学！Vaporfly 3 确实是比赛神器，但日常 LSD 用 Kayano 30 更稳妥，尤其你之前有过髂胫束综合征的伤病史。那这么艰苦的周六拉练完之后，周日有什么奖励机制吗？",
+        "timestamp": "2024-06-05T07:35:18+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Vaporfly 3",
+          "Kayano 30",
+          "髂胫束综合征"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，被你看穿了。拉练后的周日欺骗餐则是对这一周艰苦备战的必要能量补偿嘛。不然光输出不输入，系统迟早崩盘。这周打算去吃顿好的，补充一下糖原。",
+        "timestamp": "2024-06-05T12:20:45+08:00",
+        "planted_pairs": [
+          "multihop_02"
+        ],
+        "mentioned_entities": [
+          "周日欺骗餐",
+          "周六拉练"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "完全合理，碳水循环也是训练的一部分。看来你的“人体算法”已经闭环了：从 MyFitnessPal 的数据输入，到 Excel 的负荷计算，再到 Nike 和 Asics 的装备切换，最后连 ON 蛋白粉和欺骗餐的时间点都卡得死死的。",
+        "timestamp": "2024-06-05T12:25:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "MyFitnessPal",
+          "Excel",
+          "Nike",
+          "Asics",
+          "ON 蛋白粉"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "是啊，其实这套逻辑跟我爸以前说的完全相反。他总觉得运动伤膝盖，现在看我拿了马拉松奖牌，还问我那些瓶瓶罐罐的补剂安不安全。我只能跟他解释，这也是经过“单元测试”和“压力测试”的。",
+        "timestamp": "2024-06-06T19:10:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "父亲",
+          "马拉松奖牌",
+          "补剂"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "老人家也是关心则乱，看到成绩和科学的规划自然就放心了。对了，明天早上还要跟陈宇去滨江跑道刷 10 公里 LSD 吧？最近配速稳定吗？",
+        "timestamp": "2024-06-06T19:15:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "LSD"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "挺稳定的，多亏了 Garmin 265 实时反馈配速数据。我现在就把每次跑步的数据同步到 Strava，再手动录入 Excel 分析渐进负荷，感觉比写后端接口还有成就感，尤其是看到曲线往上走的时候。",
+        "timestamp": "2024-06-06T20:30:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Garmin 265",
+          "Strava",
+          "Excel",
+          "渐进负荷"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "这种正向反馈确实让人上瘾。不过别忘了主动恢复，这周日除了欺骗餐，泡沫轴和筋膜枪安排上了吗？毕竟大腿外侧和小腿的放松对于预防 ITBS 复发至关重要。",
+        "timestamp": "2024-06-06T20:35:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "主动恢复",
+          "泡沫轴",
+          "筋膜枪",
+          "ITBS"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "放心，周日晚上雷打不动的。我会边看技术博客边滚泡沫轴，顺便规划下周的训练参数。对了，王强上次帮我深蹲保护的时候，还夸我动作轨迹越来越像教科书了，看来之前的解剖学没白学。",
+        "timestamp": "2024-06-07T08:00:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "王强",
+          "深蹲",
+          "解剖学"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "有专业私教朋友把关确实安全很多。既然状态这么好，有没有想过下半年报名哪个马拉松？还是继续死磕半马 PB？",
+        "timestamp": "2024-06-07T08:05:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "马拉松",
+          "半马 PB"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "下半年先保半马进 140，如果状态好就报杭州马拉松试试刷新全马成绩。毕竟 2021 年首马之后，我就确立了跑者身份，这种挑战自我的感觉，跟解决一个复杂的并发 Bug 一样爽。",
+        "timestamp": "2024-06-07T12:45:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "杭州马拉松",
+          "跑者身份",
+          "并发 Bug"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是热爱的力量吧！把工作里的逻辑思维用到爱好上，再用爱好的成就感反哺工作，完美的正循环。今晚要是项目上线顺利，要不要去文三路店加练一组核心？",
+        "timestamp": "2024-06-07T12:50:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "文三路店",
+          "核心训练"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "哈哈，要是上线顺利，我就奖励自己一顿高质量的欺骗餐提前到今晚，然后回家好好睡个觉。毕竟 23 点前入睡保证 7.5 小时睡眠，才是最高效的“系统维护”手段。",
+        "timestamp": "2024-06-07T18:20:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "欺骗餐",
+          "睡眠",
+          "系统维护"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "没毛病，睡眠是最好的恢复补剂。那就祝你今晚项目顺利上线，周末拉练 PB 在望，继续用你的工程师思维征服跑道和铁馆吧！",
+        "timestamp": "2024-06-07T18:25:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "项目上线",
+          "拉练",
+          "工程师思维"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "multihop_02": 2,
+      "multihop_12": 1,
+      "behavior_03": 1
+    }
+  },
+  {
+    "session_id": 12,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚到家，今天代码改得头都大了。还是下班后直接去文三路那边的乐刻运动爽，离公司就五百米，换身衣服就能开练，推/拉/腿分化走起，出完汗整个人都清醒了。",
+        "timestamp": "2024-06-13T20:15:00+08:00",
+        "planted_pairs": [
+          "entity_02"
+        ],
+        "mentioned_entities": [
+          "乐刻运动文三路店",
+          "力量训练",
+          "下班后时段"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "这种地理位置优势太关键了，减少了去健身房的心理阻力。看你今天练得这么投入，明天的饮食计划也安排好了吗？",
+        "timestamp": "2024-06-13T20:18:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "早安排好了。其实这都是周日晚上雷打不动的仪式，我会把糙米饭、鸡胸肉和牛肉一次性煮熟，分装进五个便当盒。这样工作日中午就不用纠结吃什么，也能严格控制油盐，毕竟增肌期饮食不能乱。",
+        "timestamp": "2024-06-13T20:22:10+08:00",
+        "planted_pairs": [
+          "behavior_06"
+        ],
+        "mentioned_entities": [
+          "周日晚上",
+          "备餐分装",
+          "工作日便当",
+          "饮食控制"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这就是典型的“决策疲劳”规避策略啊，把意志力留给训练而不是浪费在选外卖上。不过坚持这种高强度的训练和严格的饮食，对恢复要求很高吧？",
+        "timestamp": "2024-06-13T20:25:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "对，恢复才是重中之重。所以我有个死规矩：为了保证 23:00 准时入睡让肌肉好好生长，我会在 22:00 准时放下手机，连代码都不看了。这个作息雷打不动，哪怕项目再忙也不熬夜，不然第二天训练状态肯定掉链子。",
+        "timestamp": "2024-06-13T20:30:20+08:00",
+        "planted_pairs": [
+          "behavior_09"
+        ],
+        "mentioned_entities": [
+          "23:00 入睡",
+          "肌肉生长",
+          "22:00 断网",
+          "作息纪律"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "22 点断网这个执行力太强了，很多程序员这时候可能还在修 Bug。这种纪律性是不是也帮你避免了之前那种因过度训练导致的伤病？",
+        "timestamp": "2024-06-13T20:33:55+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "是啊，自从去年得了髂胫束综合征停训两个月后，我就学乖了。现在觉得，能严格执行作息和备餐，比盲目上大重量更重要。就像我去乐刻练腿，如果前一天没睡够 7.5 小时，我绝对会降低重量，安全第一。",
+        "timestamp": "2024-06-14T07:10:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "乐刻运动文三路店"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这种心态转变很成熟。说到备餐，周日晚上花几个小时准备五天的饭，会不会觉得有点枯燥？有没有想过换个花样？",
+        "timestamp": "2024-06-14T07:15:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "偶尔也会换个口味，比如把牛肉换成深海鱼，但流程不变。毕竟周日晚上把这一周的健康餐分装好，心里就踏实了。这就像写代码前的架构设计，基础打好了，后面运行起来才顺畅，不用每天中午为了吃啥发愁。",
+        "timestamp": "2024-06-14T12:45:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "周日晚上",
+          "备餐分装",
+          "工作日便当"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "哈哈，用架构设计比喻备餐很形象。那如果遇到周五晚上有聚餐或者突发情况，打乱了你的 22 点断网计划怎么办？",
+        "timestamp": "2024-06-14T12:50:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "尽量不安排周五晚上的局，大家都知道我这个“养生”作息。万一真有急事晚了，周末我就得多做一次冷热交替浴来补救。不过核心原则不变，23 点必须躺下，这是为了肌肉生长的底线，没得商量。",
+        "timestamp": "2024-06-15T09:20:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "23:00 入睡",
+          "肌肉生长",
+          "作息纪律"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "这种底线思维确实能保障长期的训练效果。看你这么规律，是不是连周末的长距离拉练时间也都固定死了？",
+        "timestamp": "2024-06-15T09:25:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "差不多，周六上午雷打不动。其实这一套下来，从周日备餐到工作日去文三路乐刻训练，再到晚上 22 点准时断网，已经形成闭环了。打破任何一个环节，整个系统的效率都会下降。",
+        "timestamp": "2024-06-15T18:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "乐刻运动文三路店",
+          "周日晚上",
+          "22:00 断网"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "这就是系统化的力量啊。把生活像代码一样模块化、自动化执行，确实能减少很多内耗。最近深蹲重量有进步吗？",
+        "timestamp": "2024-06-15T18:35:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "稳步上升中，最近刚冲到 115kg 了。感觉只要睡得好，吃得好（多亏周日备餐），训练时的神经募集能力都强很多。要是像以前那样熬夜改代码，第二天腿都是软的，哪敢冲击大重量。",
+        "timestamp": "2024-06-16T07:05:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "备餐分装",
+          "23:00 入睡"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "115kg 很不错了，离你 1.5 倍体重的目标越来越近！看来这个“早睡早起 + 自带便当 + 楼下健身”的铁三角模式非常适合你。",
+        "timestamp": "2024-06-16T07:10:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "确实是铁三角。特别是 22 点断网这个习惯，刚开始挺难戒掉睡前刷手机的习惯，但坚持下来发现，第二天早上 6 点半起床喝黑咖啡的时候，精神头完全不一样，这才是高质量生活的开始。",
+        "timestamp": "2024-06-16T10:20:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "22:00 断网",
+          "作息纪律"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "早起的精神状态确实决定了一天的效率。那你这周日晚上备餐的时候，要不要试试加一点新的香料或者配菜，给味蕾一点小惊喜？",
+        "timestamp": "2024-06-16T10:25:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "好主意，这周日试试加点迷迭香烤鸡胸。不过不管怎么变，分装五个盒子的流程不会变，毕竟工作日中午那口严格控制油盐的饭，是我下午能保持专注写代码的能量来源。",
+        "timestamp": "2024-06-16T14:40:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "周日晚上",
+          "备餐分装",
+          "工作日便当",
+          "饮食控制"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "看来这不仅仅是吃饭，更是你维持高强度工作和训练的能量基石。保持这个节奏，你的半马 PB 和深蹲目标肯定都能拿下！",
+        "timestamp": "2024-06-16T14:45:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "entity_02": 3,
+      "behavior_06": 4,
+      "behavior_09": 4
+    }
+  },
+  {
+    "session_id": 13,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚跑完周二早上和陈宇在滨江的 LSD，配速终于稳在 4 分 45 了。说实话，要是没他在旁边盯着，我最后两公里肯定想降速，这种不想在队友面前掉队的感觉，比什么鸡血都管用。",
+        "timestamp": "2024-06-22T07:15:00Z",
+        "planted_pairs": [
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道 LSD",
+          "同伴压力"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "这就是典型的同伴压力转化为正向动力啊！有个靠谱的跑友互相监督，确实能克服很多惰性。看来你们周二周四的晨跑约定已经形成很强的约束力了，这种自律感是不是也影响到你工作状态了？",
+        "timestamp": "2024-06-22T07:18:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "同伴压力",
+          "互相监督"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "太有了！昨天项目上线前有个 Bug 搞得我特别烦躁，但想到早上没在陈宇面前拉胯，那种掌控感让我很快冷静下来。而且我现在习惯晚上回家把当天的训练数据导出来，用 Excel 跟他的数据做个对比分析，看看渐进负荷曲线。",
+        "timestamp": "2024-06-22T20:45:00Z",
+        "planted_pairs": [
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "Excel 数据分析",
+          "掌控感"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "把健身的严谨劲儿用到数据分析上，很符合你后端工程师的思维啊！这种深夜复盘的习惯，是不是也让你对打破 PB 更有信心了？毕竟数据不会撒谎。",
+        "timestamp": "2024-06-22T20:48:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel 数据分析",
+          "打破 PB"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "没错！说到 PB，上周六我半马终于跑进 1 小时 40 分了！当 Garmin Forerunner 265 表盘上跳出'New PB'那一刻，那种强烈的成就感简直爆棚，我立马就掏出手机截图，必须在 Strava 上打卡。",
+        "timestamp": "2024-06-23T09:30:00Z",
+        "planted_pairs": [
+          "emotion_02"
+        ],
+        "mentioned_entities": [
+          "打破半马 PB",
+          "Garmin 数据",
+          "Strava 打卡",
+          "社交认同"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "恭喜啊！1 小时 40 分是个大坎儿，跨过去了绝对值得庆祝。那种迫不及待想分享的心情太真实了，是不是发完动态后，看着跑友们一个个点赞评论，心里特别爽？",
+        "timestamp": "2024-06-23T09:33:20Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Strava 打卡",
+          "社交认同"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "何止是爽，简直是精神燃料。我现在有个习惯，每当在 Strava 上打破纪录或者完成长距离拉练，我一定会截图发朋友圈。这不只是记录，更像是通过大家的点赞和评论，来不断强化自己'跑者'这个身份认同。",
+        "timestamp": "2024-06-23T12:15:00Z",
+        "planted_pairs": [
+          "behavior_11"
+        ],
+        "mentioned_entities": [
+          "Strava 数据截图",
+          "朋友圈分享",
+          "社交认同",
+          "身份强化"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这种正向反馈循环真的很重要。外界的认可能让你更坚定地维持这种健康的生活方式。对了，陈宇看到你新 PB 的数据分析后，有没有受到刺激，打算挑战一下自己的极限？",
+        "timestamp": "2024-06-23T12:18:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "陈宇",
+          "数据分析",
+          "PB"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，他当然不服输！昨晚我们就在微信上约好了，下周二继续滨江见，他要拿我的 Excel 分析表当目标来追。这种良性竞争让我觉得，哪怕周三项目压力再大，只要想到这群人在推着我走，我就不会松懈。",
+        "timestamp": "2024-06-24T08:00:00Z",
+        "planted_pairs": [
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道 LSD",
+          "同伴压力",
+          "Excel 数据分析"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "看来你们的'跑步搭子'关系已经升华成'人生战友'了。这种从跑道延伸到生活的互相支撑，确实难得。那你接下来是不是要把深蹲 1.5 倍体重的目标也提上日程，到时候再发个朋友圈立个 Flag？",
+        "timestamp": "2024-06-24T08:05:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "朋友圈分享",
+          "身份强化"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "必须的！深蹲现在 110kg，离 1.5 倍体重还差一点。等哪天突破了，我肯定第一时间把 Garmin 上的力量训练数据和 Strava 的跑步 PB 拼个图，来个双重打卡。那种被认可的感觉，真的能让人上瘾。",
+        "timestamp": "2024-06-24T19:20:00Z",
+        "planted_pairs": [
+          "emotion_02",
+          "behavior_11"
+        ],
+        "mentioned_entities": [
+          "Garmin 数据",
+          "Strava 打卡",
+          "社交认同",
+          "朋友圈分享"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "期待你的双重喜报！其实这种'打卡 - 认同 - 再努力'的循环，本质上是你自己在构建一个积极的能量场。不管是陈宇的陪伴，还是网友们的点赞，都是你维持这个能量场的重要部分。",
+        "timestamp": "2024-06-24T19:25:10Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "陈宇",
+          "社交认同"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "是啊，以前一个人瞎跑容易放弃，现在有了陈宇这个'监工'，还有朋友圈这群'云私教'，想偷懒都难。甚至我爸最近看我奖牌多了，都不念叨伤膝盖了，反而问我需不需要买点什么营养品支持一下。",
+        "timestamp": "2024-06-25T07:30:00Z",
+        "planted_pairs": [
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "同伴压力",
+          "社交认同"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "连叔叔的态度都转变了，看来你的坚持真的感染了身边的人。这就是社交认同的辐射效应吧，从跑友圈扩散到了家庭圈。那你这周六的长距离拉练，是准备继续刷新数据，还是稍微放松一下？",
+        "timestamp": "2024-06-25T07:35:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "社交认同",
+          "Strava 数据"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "周六打算来个轻松跑，恢复为主。不过周日晚上我会把这周的 Excel 训练日志整理一下，看看配速和心率的趋势。毕竟要想在 Strava 上持续获得那种'被仰望'的感觉，背后的数据支撑可不能马虎。",
+        "timestamp": "2024-06-25T12:10:00Z",
+        "planted_pairs": [
+          "behavior_11",
+          "emotion_02"
+        ],
+        "mentioned_entities": [
+          "Excel 数据分析",
+          "Strava 打卡",
+          "社交认同",
+          "Garmin 数据"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "严谨！果然是一丝不苟的浙大计算机系高材生。用数据驱动训练，用社交反馈驱动心态，你这套打法简直是教科书级别的。感觉你现在的状态，全马破 3 半也不是遥不可及的梦想了。",
+        "timestamp": "2024-06-25T12:15:20Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Excel 数据分析",
+          "身份强化"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "借你吉言！其实每次在 Strava 上看到那些大神的数据，我也会焦虑，但转头看看陈宇还在旁边喘着气陪我跑，就觉得踏实多了。这种具体的、身边的同伴压力，比网上虚无的点赞更让我有动力。",
+        "timestamp": "2024-06-25T18:00:00Z",
+        "planted_pairs": [
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "Strava 打卡",
+          "陈宇",
+          "滨江跑道 LSD",
+          "同伴压力"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "说得真好，线上的认同是锦上添花，线下的陪伴才是雪中送炭。你们这种'线上晒数据，线下互虐'的模式，完美闭环了。今晚是继续去乐刻推腿，还是早点休息备战周末？",
+        "timestamp": "2024-06-25T18:05:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Strava 数据",
+          "同伴压力"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "今晚去乐刻文三路店练背，明天还得早起跟陈宇碰头呢。对了，等我练完回去，还得把今天的重量录入 Excel，这可是我下次在朋友圈'凡尔赛'的资本，哈哈。",
+        "timestamp": "2024-06-25T20:30:00Z",
+        "planted_pairs": [
+          "behavior_11",
+          "multihop_03"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "Excel 数据分析",
+          "朋友圈分享",
+          "社交认同"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "哈哈，已经能想象到你下次朋友圈的文案了！去吧，享受训练，期待看到你新的数据图表和满满的点赞。保持这种热爱和自律，你就是自己生活里的 PB 打破者！",
+        "timestamp": "2024-06-25T20:35:15Z",
+        "planted_pairs": [
+          "emotion_02"
+        ],
+        "mentioned_entities": [
+          "打破半马 PB",
+          "Garmin 数据",
+          "社交认同"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "emotion_02": 4,
+      "behavior_11": 5,
+      "multihop_03": 6
+    }
+  },
+  {
+    "session_id": 14,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "早啊，刚喝完黑咖啡，准备开始今天的核心激活。这几天早上 06:30 起床感觉特别有劲，不像以前还要跟被窝斗争半天。",
+        "timestamp": "2024-07-01T06:45:12+08:00",
+        "planted_pairs": [
+          "entity_12"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "核心激活",
+          "06:30 起床"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "早！看来状态不错啊。是不是因为最近家里有什么好消息，让你这晨练的启动开关更灵敏了？",
+        "timestamp": "2024-07-01T06:46:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "哈哈，被你猜到了。周末回家，我爸居然拿着我的杭马奖牌跟邻居炫耀。要知道以前他总觉得跑步伤膝盖，拼命劝我少跑。现在那种被家人理解和支持的自豪感，说实话，比我上次硬拉拉起 140kg 还要温暖。",
+        "timestamp": "2024-07-01T06:48:15+08:00",
+        "planted_pairs": [
+          "emotion_04"
+        ],
+        "mentioned_entities": [
+          "父亲林建国",
+          "态度转变",
+          "马拉松奖牌",
+          "家庭自豪感"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这转变太难得了！老人的观念一旦扭转，那种认可度是加倍的。这种情感动力有没有影响到你最近的训练计划？比如对技术动作的要求是不是更高了？",
+        "timestamp": "2024-07-01T06:50:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "确实有。我现在对深蹲的技术细节抠得更细了，毕竟要想达到 1.5 倍体重的目标，动作质量是第一位的。而且这种严谨劲儿还延伸到了生活里，前两天我爸问我那些蛋白粉、肌酸安不安全，我直接用了王强教我的那些解剖学和生理学逻辑给他解释，他听得一愣一愣的，最后完全放心了。",
+        "timestamp": "2024-07-01T12:30:22+08:00",
+        "planted_pairs": [
+          "multihop_08"
+        ],
+        "mentioned_entities": [
+          "王强的保护",
+          "深蹲技术精进",
+          "动作细节",
+          "父亲的营养品疑问"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这就是所谓的“教学相长”吧，能把专业知识转化成家人能听懂的语言，说明你是真的吃透了。王强那个私教朋友确实有点东西，不仅能做保护，还能帮你理清逻辑链条。",
+        "timestamp": "2024-07-01T12:32:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "是啊，虽然我现在不买他的课了，但每次去乐刻文三路店冲大重量，他还是会来给我做 Spot。有他在旁边，我心里踏实，敢去打磨那些细微的动作角度。这种安全感让我觉得，无论是对待训练还是对待家人的疑问，都要有科学依据兜底。",
+        "timestamp": "2024-07-02T19:45:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "有个靠谱的搭档太重要了。说到科学依据，你最近晨练的内容有调整吗？还是维持原来的节奏？",
+        "timestamp": "2024-07-02T19:47:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "节奏没变，还是雷打不动的 06:30 起床。我现在发现，早起那杯黑咖啡加上 30 分钟的核心激活，简直是我一天高效写代码的启动开关。特别是想到晚上还要去健身房练腿，早上的激活做得更认真了。",
+        "timestamp": "2024-07-03T06:55:18+08:00",
+        "planted_pairs": [
+          "entity_12"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "核心激活",
+          "06:30 起床"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "看来这个 Morning Routine 已经刻进 DNA 了。这种自律带来的掌控感，是不是也让你在面对项目上线压力时更从容了？",
+        "timestamp": "2024-07-03T07:00:42+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "绝对是的。其实前两天有个 Bug 搞得我很烦躁，但我戴上耳机跑了个 HIIT，大汗淋漓之后脑子瞬间清醒了。而且现在想到我爸拿着我奖牌的样子，我就觉得这点代码问题不算啥，这种家庭自豪感是我额外的 Buff。",
+        "timestamp": "2024-07-03T20:15:50+08:00",
+        "planted_pairs": [
+          "emotion_04"
+        ],
+        "mentioned_entities": [
+          "父亲林建国",
+          "态度转变",
+          "马拉松奖牌",
+          "家庭自豪感"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "这就是运动带来的正向反馈循环啊。身体疲惫换大脑清空，情感支持换动力满满。那你跟你爸解释营养品的时候，具体是从哪个角度切入的？",
+        "timestamp": "2024-07-03T20:18:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "我就跟他讲，就像我深蹲需要精准的动作细节来保护膝盖一样，营养品也是为了给肌肉修复提供精准的原料。我还拿王强平时给我做保护时的观察举例，说专业的人都在用科学方法，不是乱吃。这一套“技术安全反馈逻辑”下来，老爷子彻底服气了。",
+        "timestamp": "2024-07-04T08:20:11+08:00",
+        "planted_pairs": [
+          "multihop_08"
+        ],
+        "mentioned_entities": [
+          "王强的保护",
+          "深蹲技术精进",
+          "动作细节",
+          "父亲的营养品疑问"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "哈哈，这个类比太形象了！把健身房的经验迁移到家庭沟通中，高！看来你现在的状态是身心都在上升期啊。",
+        "timestamp": "2024-07-04T08:22:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "是啊，感觉整个人都通透了。连我妈炖牛肉的时候我都敢多要两勺汤了，哈哈。不过今晚还是得老实去健身房，深蹲日，得好好打磨一下技术细节，争取早日突破 1.5 倍体重。",
+        "timestamp": "2024-07-04T12:10:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "阿姨的高蛋白菜肴可是你的强力后盾。祝你今晚深蹲顺利！对了，明早的 06:30 闹钟定好了吗？",
+        "timestamp": "2024-07-04T12:12:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "必须的，生物钟比闹钟还准。明天早上依旧是黑咖啡配核心激活，这套流程现在缺了哪一步我都觉得不对劲。",
+        "timestamp": "2024-07-04T18:30:05+08:00",
+        "planted_pairs": [
+          "entity_12"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "核心激活",
+          "06:30 起床"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是习惯的力量。保持这个节奏，半马破 140 和深蹲新 PR 应该都不远了。",
+        "timestamp": "2024-07-04T18:32:18+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "借你吉言！其实想想，要是没有我爸现在的态度转变给我的那份自豪感，我可能还真没这么大动力去死磕这些技术细节。这种情感上的支撑，有时候比蛋白粉还管用。",
+        "timestamp": "2024-07-04T21:45:29+08:00",
+        "planted_pairs": [
+          "emotion_04"
+        ],
+        "mentioned_entities": [
+          "父亲林建国",
+          "态度转变",
+          "马拉松奖牌",
+          "家庭自豪感"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "没错，家人的认可往往是最高级的“氮泵”。好好享受这种被理解和支持的感觉，继续在你的赛道上奔跑吧！晚安。",
+        "timestamp": "2024-07-04T21:47:55+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_04": 3,
+      "multihop_08": 3,
+      "entity_12": 3
+    }
+  },
+  {
+    "session_id": 15,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "早啊，刚跑完回来。这周二和周四清晨 6:30，我都会和前端同事陈宇在滨江跑道碰头，雷打不动地进行 10 公里 LSD 拉练，互相盯着配速表谁也不敢偷懒。",
+        "timestamp": "2024-07-10T07:45:12+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "LSD 训练",
+          "周二/周四早晨"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "早！这种有人互相监督的节奏确实很难得。有个靠谱的跑友带着，配速稳定性肯定比一个人瞎跑要强多了。今天状态怎么样？",
+        "timestamp": "2024-07-10T07:46:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "状态还行，其实为了跟上他的节奏，我现在每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式。",
+        "timestamp": "2024-07-10T07:48:15+08:00",
+        "planted_pairs": [
+          "behavior_01"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "空腹状态",
+          "06:30 起床",
+          "核心激活"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "空腹黑咖啡加核心激活，这套流程很专业啊，既能唤醒神经系统又能保护关节。看来你是为了那 10 公里做了不少前置准备，陈宇知道你这么‘卷’吗？",
+        "timestamp": "2024-07-10T07:49:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "哈哈，他可能不知道我私下练这么多，但到了场上就能感觉到。周二清晨在滨江跑道，当看到陈宇在配速表上紧追不舍的眼神，那种不想拖累队友的责任心瞬间驱散了我想减速的懒惰念头。",
+        "timestamp": "2024-07-10T12:20:10+08:00",
+        "planted_pairs": [
+          "emotion_06"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "同伴压力",
+          "坚持配速"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这就是同伴压力的正面效应吧，有时候自己容易松懈，但有人看着就不好意思掉链子。这种‘被需要’的感觉是不是让你最近半马训练更有动力了？",
+        "timestamp": "2024-07-10T12:22:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "确实是，以前一个人跑容易随缘配速，现在为了不破 1 小时 40 分的大关，必须得稳。而且早上那杯黑咖啡喝完，身体热得快，核心激活做完再去跑，膝盖感觉也比之前稳多了，毕竟吃过 ITBS 的亏，不敢乱来。",
+        "timestamp": "2024-07-11T06:55:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "吃一堑长一智，现在的科学训练理念确实更注重恢复和激活。你这套晨间仪式坚持下来，感觉对全天的工作状态有影响吗？毕竟你是做后端的，上午精力很关键。",
+        "timestamp": "2024-07-11T06:57:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "影响挺大的，反而更清醒了。以前可能还要靠上午的茶来续命，现在跑完洗个澡去公司，代码思路都清晰不少。陈宇也是，我们俩现在成了公司的‘晨练标杆’，搞得其他同事都有点压力了。",
+        "timestamp": "2024-07-11T18:30:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "哈哈，你这是把健身房的卷文化带到办公室了啊。不过能带动身边人一起动起来也是好事。这周四的 LSD 计划还是老时间老地点吗？",
+        "timestamp": "2024-07-11T18:32:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "对，还是老规矩。其实有时候早上闹钟响的时候也挺想按掉的，但一想到每周二和周四清晨 6:30，我都会和前端同事陈宇在滨江跑道碰头，雷打不动地进行 10 公里 LSD 拉练，互相盯着配速表谁也不敢偷懒，就不得不起来了。",
+        "timestamp": "2024-07-12T06:40:22+08:00",
+        "planted_pairs": [
+          "entity_01"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "LSD 训练",
+          "周二/周四早晨"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "契约精神满分！这种外部约束力在建立习惯的初期特别重要。那你那杯‘灵魂黑咖啡’今天喝了吗？空腹状态身体吃得消吗？",
+        "timestamp": "2024-07-12T06:42:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "喝了喝了，每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式。要是没喝这口，感觉整个人都还没开机，跑起来脚步也是沉的。",
+        "timestamp": "2024-07-12T06:45:33+08:00",
+        "planted_pairs": [
+          "behavior_01"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "空腹状态",
+          "06:30 起床",
+          "核心激活"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "看来这已经不仅是生理需求，更是一种心理暗示了。仪式感拉满，训练效果自然差不了。今天陈宇有没有给你什么新的配速挑战？",
+        "timestamp": "2024-07-12T06:47:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "今天风有点大，他提议后半程加速。说实话，跑到 8 公里的时候腿有点酸，但周二清晨在滨江跑道，当看到陈宇在配速表上紧追不舍的眼神，那种不想拖累队友的责任心瞬间驱散了我想减速的懒惰念头，最后硬是顶住了。",
+        "timestamp": "2024-07-12T08:10:05+08:00",
+        "planted_pairs": [
+          "emotion_06"
+        ],
+        "mentioned_entities": [
+          "陈宇",
+          "滨江跑道",
+          "同伴压力",
+          "坚持配速"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "太燃了！这种关键时刻的咬牙坚持，才是突破 PB 的关键。看来你的意志力比肌肉耐力提升得更快。回去记得好好补充碳水和蛋白质，别亏待了自己。",
+        "timestamp": "2024-07-12T08:12:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "必须的，中午自带了糙米饭和炖牛肉，我妈特意准备的。现在想想，要是没有陈宇这种同伴激励，我可能还在被窝里挣扎，根本不会有这么规律的晨间仪式。",
+        "timestamp": "2024-07-12T12:30:18+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "家人的后勤保障加上朋友的同伴激励，你这是占据了天时地利人和啊。这种良性循环保持下去，深蹲 1.5 倍体重和半马破 140 的目标估计不远了。",
+        "timestamp": "2024-07-12T12:32:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "借你吉言！其实现在每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式，已经变成像写代码一样自然的习惯了，不做反而难受。",
+        "timestamp": "2024-07-13T06:35:10+08:00",
+        "planted_pairs": [
+          "behavior_01"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "空腹状态",
+          "06:30 起床",
+          "核心激活"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "当自律变成本能，就是高手的境界了。祝你周末的长距离拉练也能顺利，保持这个节奏，期待听到你打破半马纪录的好消息！",
+        "timestamp": "2024-07-13T06:37:25+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_06": 3,
+      "entity_01": 3,
+      "behavior_01": 4
+    }
+  },
+  {
+    "session_id": 16,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "王强，今天腿日，我打算冲击一下 115kg 的深蹲，试试能不能突破之前的 1RM。",
+        "timestamp": "2024-07-19T19:35:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然，115kg 是个好目标，毕竟你现在的深蹲已经是 110kg 了。不过上次看你状态有点紧，今天热身做得怎么样？",
+        "timestamp": "2024-07-19T19:36:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "热身做了二十分钟，泡沫轴把大腿外侧滚得透透的。说实话，虽然数据上准备好了，但心里还是有点虚。你也知道，2023 年那次右膝髂胫束综合征让我停训了两个月，从那以后我再也不敢盲目上大重量，开始死磕运动解剖学，深知恢复比训练更重要。",
+        "timestamp": "2024-07-19T19:38:30Z",
+        "planted_pairs": [
+          "entity_05"
+        ],
+        "mentioned_entities": [
+          "右膝髂胫束综合征",
+          "2023 年停训经历",
+          "运动解剖学"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "确实，那次 ITBS 让你吃了不少苦头。那种剧痛我也听你描述过，换谁都会有阴影。那你现在准备怎么上这个重量？",
+        "timestamp": "2024-07-19T19:39:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "所以我现在格外谨慎。每次深蹲加重前，那种对再次停训的恐惧都会让我反复检查动作细节和热身是否充分。哪怕是一点点膝盖内侧的不适，我都会立刻停下来调整。",
+        "timestamp": "2024-07-19T19:41:10Z",
+        "planted_pairs": [
+          "emotion_03"
+        ],
+        "mentioned_entities": [
+          "ITBS 受伤记忆",
+          "深蹲加重",
+          "恐惧心理",
+          "动作检查"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "谨慎是好事，说明你现在更成熟了。那装备呢？腰带和护膝都检查了吗？",
+        "timestamp": "2024-07-19T19:42:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "早就检查过了。自 2023 年受伤后，现在每次冲击深蹲大重量前，我都要花两分钟反复检查腰带松紧和膝盖热身情况，并眼神示意你到位保护才敢起杠。没你在旁边盯着，我真不敢一个人干。",
+        "timestamp": "2024-07-19T19:43:25Z",
+        "planted_pairs": [
+          "behavior_05"
+        ],
+        "mentioned_entities": [
+          "深蹲大重量",
+          "装备检查",
+          "王强保护",
+          "安全确认"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "哈哈，放心吧，我今天全程给你 Spot。既然装备和热身都到位了，心态也调整好了，咱们先来个 100kg 找找感觉？",
+        "timestamp": "2024-07-19T19:44:10Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "行，听你的。100kg 起步，感觉膝盖轨迹没问题再加重。其实我现在觉得，能无伤地持续训练，比偶尔冲个大重量更有成就感。",
+        "timestamp": "2024-07-19T19:45:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "没错，这也是你从那次受伤中学到的最宝贵的经验。来，起杠，背挺住，下蹲速度控制一下……好，起！",
+        "timestamp": "2024-07-19T19:46:45Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "呼……100kg 感觉很稳，膝盖没有那种熟悉的刺痛感了。看来之前的解剖学功课没白做，发力模式修正后确实安全很多。",
+        "timestamp": "2024-07-19T19:48:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "轨迹很完美！看来你的核心收紧做得很到位。接下来直接加到 110kg 还是慢慢来？",
+        "timestamp": "2024-07-19T19:49:15Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "直接上 110kg 吧，这是我的旧 PB，找找自信。不过我还是得再确认一下你的站位，咱们眼神对一下？",
+        "timestamp": "2024-07-19T19:50:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "没问题，我已经站好位了，手虚扶着你，随时准备接应。你只管专注动作，安全交给我。",
+        "timestamp": "2024-07-19T19:51:20Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "好嘞！起……（用力声）……稳！110kg 轻松搞定。那种掌控感回来了，之前的恐惧感消散了不少。",
+        "timestamp": "2024-07-19T19:53:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "漂亮！动作标准，起身也很有力。看来今天的状态非常适合冲击新重量。最后一组，115kg 准备好了吗？",
+        "timestamp": "2024-07-19T19:54:10Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "准备好了。虽然心里那根弦还是绷着，毕竟 2023 年右膝髂胫束综合征的剧痛让我至今心有余悸，但现在的严格流程让我有底气去尝试。",
+        "timestamp": "2024-07-19T19:55:40Z",
+        "planted_pairs": [
+          "emotion_03"
+        ],
+        "mentioned_entities": [
+          "ITBS 受伤记忆",
+          "深蹲加重",
+          "恐惧心理",
+          "动作检查"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是科学训练的意义，用流程和知识去对抗不确定性。来吧，深呼吸，憋住气，下蹲！我在！",
+        "timestamp": "2024-07-19T19:56:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "（沉重的呼吸声）……起来了！115kg 达成！王强，谢了，没你这个保护，我刚才最后那一下肯定不敢这么拼。",
+        "timestamp": "2024-07-19T19:58:00Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "客气啥，咱们兄弟互相照应是应该的。你看，只要做好充分的装备检查和热身，加上正确的动作模式，受伤也没那么可怕。今晚回去记得好好放松，明天咱们看看 Strava 上的数据记录。",
+        "timestamp": "2024-07-19T19:59:30Z",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_03": 2,
+      "entity_05": 1,
+      "behavior_05": 1
+    }
+  },
+  {
+    "session_id": 17,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚把下周的便当盒都洗好晾着了。这周项目上线前有点忙，但我还是雷打不动地准备了糙米饭和鸡胸肉，油盐放得极少。",
+        "timestamp": "2024-07-28T19:45:00+08:00",
+        "planted_pairs": [
+          "entity_09"
+        ],
+        "mentioned_entities": [
+          "自带便当",
+          "糙米饭",
+          "鸡胸肉"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然你这自律性真没话说，浙大计算机出来的果然逻辑严密，连饮食都像写代码一样严谨。不过天天吃这么清淡，会不会觉得嘴里淡出鸟来？",
+        "timestamp": "2024-07-28T19:47:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "哈哈，其实也不是硬扛。我把这看作是在‘存钱’。工作日每天严格控油盐，其实是在积攒‘代谢额度’。",
+        "timestamp": "2024-07-28T19:50:30+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "工作日自带便当",
+          "代谢额度积累"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "‘代谢额度’？这个说法挺新颖的。所以你是打算把这周攒下的额度，一次性挥霍掉？",
+        "timestamp": "2024-07-28T19:52:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "对头！目标就是周六上午跟陈宇跑完那个 25 公里的 LSD 长距离拉练。只有那时候，我才敢安排一顿欺骗餐奖励自己。",
+        "timestamp": "2024-07-28T19:55:45+08:00",
+        "planted_pairs": [
+          "entity_09",
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "周六长距离拉练",
+          "周六欺骗餐",
+          "长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "原来如此，先苦后甜。那你周六打算吃什么？火锅还是烧烤？毕竟攒了一周的额度呢。",
+        "timestamp": "2024-07-28T19:57:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "可能去吃那家新开的日式烧肉吧。说实话，有时候想着周六那顿饭，周一到周五的每一克糙米饭和鸡胸肉都觉得吃得特别有动力。",
+        "timestamp": "2024-07-28T20:01:05+08:00",
+        "planted_pairs": [
+          "emotion_05"
+        ],
+        "mentioned_entities": [
+          "饮食控制",
+          "自我奖励"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这就是正向反馈闭环啊。不像我，经常忍不住周三就破戒了，结果周末跑步状态也不好。你这种‘无负罪感’的满足感，是不是特别爽？",
+        "timestamp": "2024-07-28T20:03:40+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "欺骗餐满足感"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "太爽了！你是不知道，周六晚上吃完那顿精心安排的欺骗餐，那种在严格控油盐一周后获得的美食满足感，真的让我觉得之前的自律都值了。",
+        "timestamp": "2024-07-28T20:06:15+08:00",
+        "planted_pairs": [
+          "emotion_05"
+        ],
+        "mentioned_entities": [
+          "周六欺骗餐",
+          "满足感"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "听得我都饿了。这种心理博弈被你玩明白了。那这周攒的额度，够不够你加两份牛舌？",
+        "timestamp": "2024-07-28T20:08:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "哈哈，必须够！而且吃完第二天周日，我会乖乖做主动恢复，泡沫轴滚一滚，把心态调整回来，准备迎接下一周的‘存钱’计划。",
+        "timestamp": "2024-07-29T07:30:20+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "工作日自带便当",
+          "代谢额度积累"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "这才是长期主义者的玩法。不像那些节食减肥的，一旦破戒就自暴自弃。你这个‘积累 - 释放 - 再积累’的循环很健康。",
+        "timestamp": "2024-07-29T07:33:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "是啊，我觉得这种无负罪感的满足感，才是我能坚持三年系统训练的核心。要是天天苦行僧，早就放弃了。",
+        "timestamp": "2024-07-29T12:15:45+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "欺骗餐满足感"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "确实，情绪价值也是训练的一部分。对了，你妈最近看你这么吃，没念叨你营养不够吗？",
+        "timestamp": "2024-07-29T12:18:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "我妈反而挺支持，每次回家都给我炖牛肉。但她只关心我周六那顿欺骗餐会不会吃坏肚子，毕竟我工作日都自带便当，肠胃都习惯了清淡。",
+        "timestamp": "2024-07-29T18:40:10+08:00",
+        "planted_pairs": [
+          "entity_09"
+        ],
+        "mentioned_entities": [
+          "自带便当",
+          "周六欺骗餐"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "阿姨这是怕你‘报复性进食’伤身呢。不过有你这个‘代谢额度’理论在，应该心里有数。这周六跑完打算几点去吃？",
+        "timestamp": "2024-07-29T18:42:55+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "代谢额度积累",
+          "周六长距离拉练"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "大概中午一点吧。跑完长距离拉练，洗完澡，那时候饥饿感达到巅峰，吃什么都香。那种满足感，真的是对一周饮食控制最好的奖赏。",
+        "timestamp": "2024-07-30T08:20:00+08:00",
+        "planted_pairs": [
+          "emotion_05"
+        ],
+        "mentioned_entities": [
+          "长距离拉练",
+          "饮食控制",
+          "满足感",
+          "自我奖励"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "画面感太强了。感觉你这不是在吃饭，是在举行某种神圣的仪式。‘本周代谢额度清算大会’。",
+        "timestamp": "2024-07-30T08:22:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "哈哈，差不多！只要想到周六晚上那顿欺骗餐，我现在看着盒子里的糙米饭都觉得眉清目秀的。这就是我的动力源泉。",
+        "timestamp": "2024-07-31T12:10:30+08:00",
+        "planted_pairs": [
+          "entity_09",
+          "emotion_05"
+        ],
+        "mentioned_entities": [
+          "自带便当",
+          "周六欺骗餐",
+          "满足感"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "行，那就祝你周六 LSD 顺利，PB 不敢说，但那顿欺骗餐绝对吃得理直气壮！到时候记得在 Strava 上晒图，让我们也云享受一下你的‘代谢额度’。",
+        "timestamp": "2024-07-31T12:13:15+08:00",
+        "planted_pairs": [
+          "multihop_09"
+        ],
+        "mentioned_entities": [
+          "周六长距离拉练",
+          "欺骗餐满足感",
+          "代谢额度积累"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "multihop_09": 6,
+      "entity_09": 4,
+      "emotion_05": 4
+    }
+  },
+  {
+    "session_id": 18,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "刚搞定一个上线前的棘手 Bug，脑子现在还有点嗡嗡的。赶紧戴上我的 Shokz 骨传导耳机，准备去楼下滨江跑道来组 HIIT 清空一下大脑，不然这思维混乱的状态根本没法继续写代码。",
+        "timestamp": "2024-08-06T19:45:12+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "代码 Bug",
+          "Shokz 骨传导耳机",
+          "HIIT",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "浩然，这招对你来说简直是标准操作了。用身体的极度疲惫换取大脑的彻底清空，等你跑完回来，那种掌控感回来了，梳理代码逻辑肯定像分析你的渐进负荷曲线一样清晰。",
+        "timestamp": "2024-08-06T19:46:30+08:00",
+        "planted_pairs": [
+          "emotion_01"
+        ],
+        "mentioned_entities": [
+          "大脑清空",
+          "代码逻辑",
+          "渐进负荷曲线"
+        ]
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "确实，跑完那一身汗出来，焦虑感基本就没了。对了，刚才出门前我顺手把随餐的补剂吃了。现在对我来说，随餐服用复合维生素和肌酸就是我每天的固定动作，就像代码里的依赖库一样，缺了它们，我的身体系统就无法高效运行。",
+        "timestamp": "2024-08-06T20:15:45+08:00",
+        "planted_pairs": [
+          "behavior_12"
+        ],
+        "mentioned_entities": [
+          "随餐服用",
+          "复合维生素",
+          "肌酸",
+          "依赖库",
+          "身体系统"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这个比喻很极客也很精准！毕竟你还要支撑那个从代码 Bug 焦虑到 HIIT 清空大脑的压力转化管道。如果基础营养跟不上，这个‘管道’的压力承受能力肯定会下降，思维也没法那么快回归理性。",
+        "timestamp": "2024-08-06T20:17:10+08:00",
+        "planted_pairs": [
+          "multihop_05"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "HIIT",
+          "大脑清空",
+          "压力转化管道"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "是啊，自从去年膝盖髂胫束综合征停训那次后，我就特别在意科学恢复和系统支撑。现在只要项目一忙，我就更得保证肌酸和维素的摄入，不然真怕身体系统先于精神崩溃。",
+        "timestamp": "2024-08-07T08:30:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "肌酸",
+          "身体系统",
+          "项目"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "没错，那次 ITBS 的经历让你深刻认识到科学训练的重要性。其实你现在的策略很成熟：早上随餐补充营养打底，晚上遇到代码 Bug 焦虑就用 HIIT 做情绪出口。这一套组合拳下来，既保护了膝盖，又维持了高效率。",
+        "timestamp": "2024-08-07T08:32:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "随餐",
+          "代码 Bug 焦虑",
+          "HIIT"
+        ]
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "哈哈，被你发现了。其实我昨晚跑完 HIIT 回来，重新看那个 Bug，果然像分析渐进负荷曲线一样，一眼就看出是并发处理的问题。这种大脑清空后的理性状态，真的是我最依赖的‘超频’模式。",
+        "timestamp": "2024-08-07T12:10:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "HIIT",
+          "大脑清空",
+          "渐进负荷曲线"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "这就是‘压力转化管道’运转良好的证明啊。如果没有之前随餐服用的复合维生素和肌酸打好身体底子，你可能根本扛不住这种高强度的身心切换。你的身体系统现在就是你的最强服务器。",
+        "timestamp": "2024-08-07T12:12:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "压力转化管道",
+          "随餐服用",
+          "复合维生素",
+          "肌酸",
+          "身体系统"
+        ]
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "服务器这个说法我喜欢！只要‘依赖库’——也就是我的补剂按时到位，再加上定期的 HIIT 维护，我觉得我能一直跑下去。哪怕下周又要上线新项目，我也不慌了。",
+        "timestamp": "2024-08-08T07:45:50+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "依赖库",
+          "补剂",
+          "HIIT"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "保持这个节奏，浩然。记住，当代码 Bug 焦虑再次来袭，你的 Shokz 耳机和 HIIT 计划随时待命；而日常的随餐补充则是你隐形的护盾。这套系统能让你在高压下依然保持思维清晰，稳步冲击半马 140 的目标。",
+        "timestamp": "2024-08-08T07:47:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "Shokz 耳机",
+          "HIIT",
+          "随餐"
+        ]
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "借你吉言！其实我现在觉得，健身和写代码底层逻辑是通的。就像我坚持随餐服用复合维生素和肌酸，不仅是为了肌肉，更是为了支撑那个从焦虑到清空的压力管道，让整个人都处于最佳编译状态。",
+        "timestamp": "2024-08-08T19:20:11+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "随餐服用",
+          "复合维生素",
+          "肌酸",
+          "压力管道"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "总结得太到位了。这种身心协同的‘最佳编译状态’，正是你作为中级健身爱好者和资深工程师的独特优势。无论是深蹲冲击 1.5 倍体重，还是解决复杂的后端架构，都需要这种清晰的头脑和强健的体魄。",
+        "timestamp": "2024-08-08T19:21:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "深蹲",
+          "后端架构"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "对了，明天周二，早上 6:30 还要和陈宇去跑 LSD。今晚得早点睡，确保 7.5 小时睡眠。毕竟要是休息不好，明天的‘压力转化管道’效率可就低了，万一遇到 Bug 可跑不动 HIIT 了。",
+        "timestamp": "2024-08-08T22:30:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "LSD",
+          "睡眠",
+          "压力转化管道",
+          "Bug",
+          "HIIT"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "明智的选择。充足的睡眠也是你‘身体系统’依赖库的一部分。好好休息，明天和陈宇的 10 公里 LSD 跑完，一周的精力条就又充满了，随时准备应对新的代码挑战。",
+        "timestamp": "2024-08-08T22:31:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "身体系统",
+          "依赖库",
+          "LSD"
+        ]
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "早啊！刚跑完 10 公里，和陈宇互相监督配速，感觉不错。现在回到工位，喝一杯黑咖啡，再检查一下昨晚的补剂记录。随餐服用复合维生素和肌酸这种固定动作，真是雷打不动。",
+        "timestamp": "2024-08-09T08:15:40+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "随餐服用",
+          "复合维生素",
+          "肌酸"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "早安，浩然！晨跑后的多巴胺加上黑咖啡，简直是程序员的黄金启动组合。你这种把随餐补充视为‘代码依赖库’的态度，保证了你的身体系统始终在线，随时能处理高并发的工作需求。",
+        "timestamp": "2024-08-09T08:17:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "随餐",
+          "代码依赖库",
+          "身体系统"
+        ]
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "哈哈，刚产品经理又提了个新需求，要是放在以前我早就烦躁了。但现在我心态很稳，想着大不了晚上再去戴 Shokz 耳机跑个 HIIT。毕竟我知道怎么通过身体疲惫换取大脑清空，这点小 Bug 不算啥。",
+        "timestamp": "2024-08-09T10:45:22+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz 耳机",
+          "HIIT",
+          "身体疲惫",
+          "大脑清空",
+          "Bug"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是成长的体现啊！你已经构建了一套完整的闭环：从随餐的营养输入，到压力下的 HIIT 输出，再到思维的重启。这套从代码 Bug 焦虑到 HIIT 清空大脑的压力转化管道，让你在职场和跑场上都游刃有余。",
+        "timestamp": "2024-08-09T10:47:05+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "随餐",
+          "HIIT",
+          "代码 Bug 焦虑",
+          "压力转化管道"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "是啊，感觉现在自己就像一台调试良好的机器。只要按时加载‘依赖库’（补剂），定期清理缓存（HIIT），就能一直高效运行。哪怕是为了打破半马 140 的目标，这套系统也得转起来。",
+        "timestamp": "2024-08-09T14:20:33+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "依赖库",
+          "补剂",
+          "HIIT",
+          "半马 140"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "完全同意。你的身体系统和精神意志已经形成了完美的共振。继续保持随餐服用复合维生素和肌酸的习惯，守护好你的压力转化管道，相信半马 140 和深蹲 1.5 倍体重的目标都会水到渠成！加油，林工！",
+        "timestamp": "2024-08-09T14:22:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "身体系统",
+          "随餐服用",
+          "复合维生素",
+          "肌酸",
+          "压力转化管道",
+          "半马 140",
+          "深蹲"
+        ]
+      }
+    ],
+    "pair_coverage": {
+      "behavior_12": 3,
+      "multihop_05": 2,
+      "emotion_01": 1
+    }
+  },
+  {
+    "session_id": 19,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "唉，这周项目上线前夜，后端接口又爆出几个隐蔽的 Bug，改得我头都要炸了，思维完全混乱。",
+        "timestamp": "2024-08-15T19:45:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "项目上线压力",
+          "代码 Bug 焦虑"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "听起来压力很大啊，这种时候硬盯着屏幕效率反而低。浩然你之前不是说遇到这种情况会去运动吗？",
+        "timestamp": "2024-08-15T19:46:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "对，我现在就准备换装备。说实话，项目上线前代码 Bug 多得让人烦躁时，我就戴上 Shokz 骨传导耳机去跑 HIIT，直到身体极度疲惫，大脑才能彻底清空平静下来。",
+        "timestamp": "2024-08-15T19:48:30+08:00",
+        "planted_pairs": [
+          "entity_07"
+        ],
+        "mentioned_entities": [
+          "项目上线压力",
+          "Shokz OpenRun",
+          "HIIT 训练",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "这个 coping mechanism 很适合你。Shokz OpenRun 是骨传导的吧？在滨江跑道夜跑用这个安全吗？",
+        "timestamp": "2024-08-15T19:49:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz OpenRun"
+        ]
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "挺安全的，而且它有个特点。只要戴上 Shokz OpenRun 骨传导耳机，我就自动进入训练模式，无论是滨江跑道的风声还是健身房的铁片撞击声，都成了我专注配速和动作的背景音。",
+        "timestamp": "2024-08-15T20:05:10+08:00",
+        "planted_pairs": [
+          "behavior_02"
+        ],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "专注模式",
+          "环境音隔离",
+          "训练状态"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这种‘自动进入状态’的感觉太棒了，相当于一个仪式感开关。那你今晚打算跑多少个间歇？",
+        "timestamp": "2024-08-15T20:06:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "计划是 8 组 400 米快跑。其实每当项目上线前遇到棘手的代码 Bug 感到思维混乱时，我就会立刻戴上降噪耳机去跑高强度间歇跑，用身体的极度疲惫来换取大脑的彻底清空。",
+        "timestamp": "2024-08-15T20:08:00+08:00",
+        "planted_pairs": [
+          "emotion_01"
+        ],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "HIIT 训练",
+          "降噪耳机",
+          "大脑清空"
+        ]
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "看来这已经是你固定的情绪急救包了。跑完这组 HIIT，估计那些 Bug 在你眼里也没那么可怕了。",
+        "timestamp": "2024-08-15T20:09:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "刚跑完，浑身湿透，但脑子确实清醒多了。刚才那几组冲刺的时候，周围的声音好像都被过滤了，只剩下呼吸和心跳，那种专注感真的救命。",
+        "timestamp": "2024-08-15T20:45:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "专注模式",
+          "HIIT 训练"
+        ]
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "这就是运动带来的心流体验吧。既然状态回来了，要不要趁热打铁回去看看那个最棘手的 Bug？或者先补充点电解质休息下？",
+        "timestamp": "2024-08-15T20:46:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "先喝口电解质水。今天要是没戴 Shokz 出来跑这一趟，我估计还在工位上死磕，越改越错。这耳机的环境音隔离功能虽然不如入耳式那么绝对，但刚好能让我保持对周边的警觉，又能隔绝掉心里的杂音。",
+        "timestamp": "2024-08-16T07:15:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "环境音隔离"
+        ]
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "确实，对于夜跑或者路跑来说，安全是第一位的。看来 Shokz 不仅是你的训练装备，更是你的心理调节器。",
+        "timestamp": "2024-08-16T07:16:35+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz OpenRun"
+        ]
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "哈哈，可以这么说。昨晚回去后，趁着大脑清空的状态，半小时就定位到了那个该死的空指针异常。看来以后上线压力大，更得严格执行我的 HIIT 疗法。",
+        "timestamp": "2024-08-16T12:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "大脑清空",
+          "项目上线压力",
+          "HIIT 训练"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "太棒了！这就是所谓的‘磨刀不误砍柴工’。你那个 Excel 表里是不是也该记上一笔：‘心理调节成功率 100%'？",
+        "timestamp": "2024-08-16T12:31:10+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "必须的，我已经记下来了。其实有时候不用听歌，就开着专注模式，听着自己的脚步声和呼吸声，反而更容易进入那种忘我的训练状态，什么 KPI、Bug 全都抛脑后了。",
+        "timestamp": "2024-08-17T06:40:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "专注模式",
+          "训练状态",
+          "代码 Bug 焦虑"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "这种纯粹的听觉反馈确实很强大。今天早晨也是按计划进行核心激活吗？",
+        "timestamp": "2024-08-17T06:41:15+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "对，做了 20 分钟核心。现在感觉整个人都掌控在自己手里了。之前那种一遇到 Bug 就慌乱的感觉，现在只要一想到戴上耳机去跑步，就能迅速平复下来。",
+        "timestamp": "2024-08-17T18:20:30+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "代码 Bug 焦虑",
+          "Shokz OpenRun"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是建立起了稳固的条件反射啊。看来这套组合拳（Shokz+HIIT）已经成为你应对高压工作的标准 SOP 了。",
+        "timestamp": "2024-08-17T18:21:45+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "Shokz OpenRun",
+          "HIIT 训练"
+        ]
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "没错，就是我的救命稻草。不管代码多乱，只要身体动起来，汗水一流，那些焦虑好像也就顺着毛孔排出去了。今晚准备早点睡，明天全力冲刺上线。",
+        "timestamp": "2024-08-18T21:00:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": [
+          "项目上线压力",
+          "代码 Bug 焦虑"
+        ]
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "祝明天上线顺利！保持好这个节奏，相信你的系统和你的人一样，都能扛住压力，稳定运行。晚安，跑者。",
+        "timestamp": "2024-08-18T21:01:20+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "entity_07": true,
+      "behavior_02": true,
+      "emotion_01": true
+    }
+  },
+  {
+    "session_id": 20,
+    "turns": [
+      {
+        "turn_id": 1,
+        "role": "user",
+        "content": "早啊，刚搞定晨练。不得不说，每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式。喝完那口苦味下去，整个人瞬间就醒了。",
+        "timestamp": "2024-08-24T07:15:00+08:00",
+        "planted_pairs": [
+          "behavior_01"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "空腹状态",
+          "06:30 起床",
+          "核心激活"
+        ]
+      },
+      {
+        "turn_id": 2,
+        "role": "assistant",
+        "content": "早！这种仪式感太重要了。对于你这种系统训练三年的人来说，这杯咖啡不仅仅是饮料，更像是个开关。那你今天核心激活做了什么动作？平板支撑还是死虫式？",
+        "timestamp": "2024-08-24T07:18:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 3,
+        "role": "user",
+        "content": "做了一组死虫式和鸟狗式，激活深层腹肌。其实我最享受的就是那个瞬间：清晨 6:30 空腹喝下第一口黑咖啡，随着咖啡因生效和核心激活的开始，那种从沉睡到清醒的切换感，让我对即将到来的一天充满掌控力。今天有个大版本要上线，这种心态太关键了。",
+        "timestamp": "2024-08-24T07:25:00+08:00",
+        "planted_pairs": [
+          "emotion_12"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "核心激活",
+          "清醒切换",
+          "晨间掌控力"
+        ]
+      },
+      {
+        "turn_id": 4,
+        "role": "assistant",
+        "content": "确实，代码上线前的焦虑有时候挺搞心态的，但这种身体先于大脑醒来的感觉能帮你稳住阵脚。看来今天的效率会很高啊，是不是已经想好晚上去乐刻练哪个部位了？",
+        "timestamp": "2024-08-24T07:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 5,
+        "role": "user",
+        "content": "必须的，今晚练腿，想冲一下深蹲的新重量。现在的节奏挺好的，清晨 6:30 的黑咖啡与核心激活为一天的工作注入了高效能，使我能准时在 19:30 下班前往乐刻运动完成高质量的力量训练，进而保证了睡前有充足的精力进行泡沫轴放松，形成从唤醒到恢复的完美闭环。要是早上没那一下，晚上估计累得只想躺平。",
+        "timestamp": "2024-08-24T12:45:00+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "高效工作",
+          "晚间力量训练",
+          "睡前泡沫轴放松"
+        ]
+      },
+      {
+        "turn_id": 6,
+        "role": "assistant",
+        "content": "这个逻辑链条很完整啊！特别是考虑到你之前有过髂胫束综合征的经历，现在这么重视从早到晚的闭环管理，说明真的学聪明了。今晚深蹲打算上多少？还是维持在 110kg 做组吗？",
+        "timestamp": "2024-08-24T12:50:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 7,
+        "role": "user",
+        "content": "今天状态好，想试试 115kg 做 5x5。王强今晚也在，让他帮我 spot 一下。只要白天工作效率高，不拖堂，晚上就能专心举铁。对了，你早上一般喝什么？也喝咖啡吗？",
+        "timestamp": "2024-08-24T13:10:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 8,
+        "role": "assistant",
+        "content": "我也喝咖啡，不过没你那么严格的时间表。看你这么注重晨间那杯黑咖啡带来的清醒切换，感觉这已经是你生活的一部分了。要是哪天没喝，会不会觉得一天都少了点什么？",
+        "timestamp": "2024-08-24T13:15:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 9,
+        "role": "user",
+        "content": "哈哈，还真会。有一次出差忘了带挂耳，早上整个人都是懵的，核心激活都做不下去，感觉少了那种掌控力。还是在家好，6:30 起床，咖啡机一按，那个味道一出来，就知道今天稳了。晚上练完腿，回去还得好好用筋膜枪打一下大腿外侧。",
+        "timestamp": "2024-08-24T18:30:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 10,
+        "role": "assistant",
+        "content": "这就是习惯的力量。从早晨的咖啡到晚上的泡沫轴，这一套流程下来，身体都知道该什么时候兴奋，什么时候放松。祝你今晚深蹲 PR 成功！记得练后补充点碳水和蛋白粉。",
+        "timestamp": "2024-08-24T18:35:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 11,
+        "role": "user",
+        "content": "借你吉言！刚练完，115kg 推起来了，虽然最后两个有点吃力，但王强保护得很到位。现在回到家，准备洗个冷热交替浴，然后开始今天的最后一步：泡沫轴放松。想想早上那杯黑咖啡带来的能量一直延续到现在，挺神奇的。",
+        "timestamp": "2024-08-24T21:45:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 12,
+        "role": "assistant",
+        "content": "太棒了！恭喜解锁新重量！这种从早到晚的连贯性，其实就是你最擅长的“系统化思维”在健身上的体现吧？既然早上靠咖啡和核心激活启动，晚上靠泡沫轴收尾，这一天算是完美闭环了。",
+        "timestamp": "2024-08-24T21:50:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 13,
+        "role": "user",
+        "content": "没错，就是这个意思。以前大二刚开始健身瞎练，不懂恢复，现在明白了，晨间的唤醒和晚间的恢复同样重要。特别是那种清晨 6:30 空腹喝下第一口黑咖啡，随着咖啡因生效和核心激活的开始，那种从沉睡到清醒的切换感，真的能定调一整天。",
+        "timestamp": "2024-08-25T07:20:00+08:00",
+        "planted_pairs": [
+          "emotion_12"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "核心激活",
+          "清醒切换",
+          "晨间掌控力"
+        ]
+      },
+      {
+        "turn_id": 14,
+        "role": "assistant",
+        "content": "看来昨天的成功让你今天更有动力了。今天是周日，按照你的计划，上午应该是长距离拉练？还是说因为昨晚练腿了，今天改做主动恢复？",
+        "timestamp": "2024-08-25T07:25:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 15,
+        "role": "user",
+        "content": "今天腿有点酸，改成骑行吧，绕着西湖骑一圈，强度不大，算是主动恢复。不过早上的仪式不能少，每天清晨 6:30 起床后的第一件事，就是空腹冲一杯黑咖啡，这不仅是提神，更是我开启 30 分钟核心激活或有氧训练的固定仪式。哪怕只是骑骑车，也得先把状态找回来。",
+        "timestamp": "2024-08-25T07:40:00+08:00",
+        "planted_pairs": [
+          "behavior_01"
+        ],
+        "mentioned_entities": [
+          "黑咖啡",
+          "空腹状态",
+          "06:30 起床",
+          "核心激活"
+        ]
+      },
+      {
+        "turn_id": 16,
+        "role": "assistant",
+        "content": "哈哈，雷打不动的仪式感。骑行也是很好的恢复方式，对膝盖冲击小，又能活动开僵硬的肌肉。那你慢慢骑，享受一下西湖的晨风。晚上是不是该准备明天的便当了？",
+        "timestamp": "2024-08-25T09:00:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 17,
+        "role": "user",
+        "content": "刚骑回来，正在备餐。下周又要忙了，得提前把糙米饭和鸡胸肉准备好。其实我挺依赖这个节奏的，毕竟清晨 6:30 的黑咖啡与核心激活为一天的工作注入了高效能，使我能准时在 19:30 下班前往乐刻运动完成高质量的力量训练，进而保证了睡前有充足的精力进行泡沫轴放松，形成从唤醒到恢复的完美闭环。要是周末乱了，周一肯定废。",
+        "timestamp": "2024-08-25T11:30:00+08:00",
+        "planted_pairs": [
+          "multihop_11"
+        ],
+        "mentioned_entities": [
+          "晨间黑咖啡与激活",
+          "高效工作",
+          "晚间力量训练",
+          "睡前泡沫轴放松"
+        ]
+      },
+      {
+        "turn_id": 18,
+        "role": "assistant",
+        "content": "这就是高手的自律啊。把健身和生活完全融合在一起了。对了，你妈最近有没有再给你做什么特别的“高蛋白菜肴”？上次听你说她炖牛肉很有一手。",
+        "timestamp": "2024-08-25T11:35:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 19,
+        "role": "user",
+        "content": "哈哈，别提了，昨天回家我妈又端出一大盘蒸鱼，说我最近训练辛苦得多补补。我爸倒是没那么唠叨了，看到我马拉松奖牌后，现在只关心我吃的营养品安不安全。不过说到底，还是早上的那杯咖啡最让我安心，那种晨间掌控力是谁也给不了的。",
+        "timestamp": "2024-08-25T18:00:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      },
+      {
+        "turn_id": 20,
+        "role": "assistant",
+        "content": "家人的支持加上自己的节奏，这才是可持续发展的关键。看来你这“全天候流”已经运行得非常稳定了。周一见，期待听到你新的训练数据！",
+        "timestamp": "2024-08-25T18:10:00+08:00",
+        "planted_pairs": [],
+        "mentioned_entities": []
+      }
+    ],
+    "pair_coverage": {
+      "emotion_12": 2,
+      "behavior_01": 2,
+      "multihop_11": 2
+    }
+  }
+]

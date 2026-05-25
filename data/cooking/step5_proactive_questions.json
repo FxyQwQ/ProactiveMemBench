@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "q_001",
+    "trigger_type": "时间相关记忆联想",
+    "question": "又是周三晚上了，正琢磨冰箱里还剩点什么呢。",
+    "trigger_concept": "周三晚上",
+    "candidate_set": [
+      {
+        "concept": "清空冰箱挑战",
+        "reason": "用户习惯在每周三晚进行利用剩余食材即兴创作的挑战。"
+      },
+      {
+        "concept": "Fusion 料理",
+        "reason": "周三晚上的挑战核心是创作融合菜（Fusion）。"
+      },
+      {
+        "concept": "食谱笔记",
+        "reason": "用户会在周三挑战后记录即兴创作的食谱。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从‘周三晚上’这一时间点联想到用户特定的‘清空冰箱’习惯及其相关的创作类型和记录行为。"
+  },
+  {
+    "id": "q_002",
+    "trigger_type": "时间相关记忆联想",
+    "question": "周日上午该去采购了，清单还没列好呢。",
+    "trigger_concept": "周日上午",
+    "candidate_set": [
+      {
+        "concept": "双流白家批发市场",
+        "reason": "用户习惯在周日上午前往该批发市场采购核心食材。"
+      },
+      {
+        "concept": "极致新鲜",
+        "reason": "用户周日采购的核心标准是追求食材的极致新鲜度。"
+      },
+      {
+        "concept": "核心食材",
+        "reason": "周日采购的目标是本周的核心食材，而非急用调料。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由‘周日上午’联想到用户固定的采购地点、标准及目标对象。"
+  },
+  {
+    "id": "q_003",
+    "trigger_type": "时间相关记忆联想",
+    "question": "周五晚上的这两个小时，正打算把手机静音呢。",
+    "trigger_concept": "周五晚上",
+    "candidate_set": [
+      {
+        "concept": "治愈时刻",
+        "reason": "周五晚上是用户专属的‘治愈时刻’。"
+      },
+      {
+        "concept": "关闭音乐",
+        "reason": "用户在此期间不听播客或音乐，只专注食物声音。"
+      },
+      {
+        "concept": "慢炖汤",
+        "reason": "用户常在此时段花 2 小时慢炖汤或烤制甜点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从‘周五晚上’联想到用户特殊的感官专注习惯（关闭音频）及具体的烹饪活动。"
+  },
+  {
+    "id": "q_004",
+    "trigger_type": "时间相关记忆联想",
+    "question": "突然想起 2021 年年会那道让大家惊艳的菜了。",
+    "trigger_concept": "2021 年年会",
+    "candidate_set": [
+      {
+        "concept": "川味鹅肝酱",
+        "reason": "用户在 2021 年年会制作的伴手礼是川味鹅肝酱。"
+      },
+      {
+        "concept": "设计师厨神",
+        "reason": "此次事件确立了用户在公司‘设计师里的厨神’的人设。"
+      },
+      {
+        "concept": "职业自信",
+        "reason": "这次成功极大地增强了用户的职业自信。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "由具体年份事件联想到具体的菜品名称、由此建立的人设标签及情感影响。"
+  },
+  {
+    "id": "q_005",
+    "trigger_type": "时间相关记忆联想",
+    "question": "还在回味 2023 年那次挑战惠灵顿牛排的结果呢。",
+    "trigger_concept": "2023 年里程碑",
+    "candidate_set": [
+      {
+        "concept": "失败与成功",
+        "reason": "该次挑战经历了一次失败，但最终成品完美。"
+      },
+      {
+        "concept": "技艺融合",
+        "reason": "此次成功标志着用户烘焙与西餐技艺的成熟融合。"
+      },
+      {
+        "concept": "惠灵顿牛排",
+        "reason": "2023 年的标志性事件是制作复杂的惠灵顿牛排。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从年份里程碑联想到具体菜品的制作过程波折（失败后成功）及技能层面的意义。"
+  },
+  {
+    "id": "q_006",
+    "trigger_type": "时间相关记忆联想",
+    "question": "每次方案被改得心烦时，总得找点事来解压。",
+    "trigger_concept": "工作压力大",
+    "candidate_set": [
+      {
+        "concept": "销魂豌杂面",
+        "reason": "用户压力大时会拒绝外卖，动手做重口味的豌杂面。"
+      },
+      {
+        "concept": "切菜节奏",
+        "reason": "用户通过切菜的节奏感来释放压力。"
+      },
+      {
+        "concept": "辛辣味觉",
+        "reason": "用户利用辛辣的味觉刺激来宣泄情绪。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由负面情绪触发点联想到具体的解压菜品、动作细节及味觉偏好。"
+  },
+  {
+    "id": "q_007",
+    "trigger_type": "时间相关记忆联想",
+    "question": "感到孤独想家的时候，厨房里总会飘起熟悉的味道。",
+    "trigger_concept": "思乡/孤独",
+    "candidate_set": [
+      {
+        "concept": "简化版开水白菜",
+        "reason": "用户思乡时会复刻母亲拿手的开水白菜（简化版）。"
+      },
+      {
+        "concept": "慢火吊汤",
+        "reason": "制作该菜品的过程涉及慢火吊汤，是情感连接的时刻。"
+      },
+      {
+        "concept": "母亲张慧",
+        "reason": "这道菜是连接用户与母亲味觉记忆的纽带。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从孤独情绪联想到特定的慰藉菜品、烹饪工艺及背后的人物关系。"
+  },
+  {
+    "id": "q_008",
+    "trigger_type": "时间相关记忆联想",
+    "question": "刚做完一道颜值爆表的菜，正想着接下来该干嘛呢。",
+    "trigger_concept": "成就感",
+    "candidate_set": [
+      {
+        "concept": "菜品摄影",
+        "reason": "用户获得成就感后会拍摄精心摆盘的菜品。"
+      },
+      {
+        "concept": "修图调色",
+        "reason": "用户习惯在发布前对照片进行修图和调色。"
+      },
+      {
+        "concept": "小红书发布",
+        "reason": "用户会将修好的大片发布在小红书以获取社区认同。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由成就感这一情绪状态联想到用户标志性的分享流程（拍照、修图、发帖）。"
+  },
+  {
+    "id": "q_009",
+    "trigger_type": "时间相关记忆联想",
+    "question": "周末除了去批发市场，还在琢磨去哪寻找灵感。",
+    "trigger_concept": "周末",
+    "candidate_set": [
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "用户常周末与闺蜜一起探店寻找灵感。"
+      },
+      {
+        "concept": "探店",
+        "reason": "周末活动包括与朋友一起探访餐厅。"
+      },
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "用户偏好的探店类型是隐蔽的 Bistro 而非网红店。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从宽泛的‘周末’时间概念联想到具体的社交对象、活动类型及偏好场所。"
+  },
+  {
+    "id": "q_010",
+    "trigger_type": "时间相关记忆联想",
+    "question": "想起独居第一年改造厨房时，最得意的就是那个投资了。",
+    "trigger_concept": "2018",
+    "candidate_set": [
+      {
+        "concept": "Le Creuset 铸铁锅",
+        "reason": "2018 年用户花费 2 万购置专业设备，Le Creuset 是代表装备之一。"
+      },
+      {
+        "concept": "Siemens 蒸烤箱",
+        "reason": "嵌入式蒸烤箱是当时购置的核心专业设备。"
+      },
+      {
+        "concept": "低温慢煮机",
+        "reason": "低温慢煮机是用户系统自学烹饪后购置的专业工具。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "由起始年份联想到用户厨房升级时的具体高端设备清单。"
+  },
+  {
+    "id": "q_011",
+    "trigger_type": "时间相关记忆联想",
+    "question": "每次收到父亲寄来的包裹，里面装的东西都让人期待。",
+    "trigger_concept": "父亲林建国",
+    "candidate_set": [
+      {
+        "concept": "新鲜土鸡",
+        "reason": "父亲每周会特意挑选新鲜土鸡寄给用户。"
+      },
+      {
+        "concept": "野生菌菇",
+        "reason": "父亲是用户高品质菌菇的主要供应源。"
+      },
+      {
+        "concept": "郊区批发市场",
+        "reason": "父亲采购食材的地点是成都郊区的批发市场。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由人物关系联想到具体的食材种类及采购来源地。"
+  },
+  {
+    "id": "q_012",
+    "trigger_type": "时间相关记忆联想",
+    "question": "和陈思思一起吃饭时，她总是那个活跃气氛的角色。",
+    "trigger_concept": "闺蜜陈思思",
+    "candidate_set": [
+      {
+        "concept": "头号试吃员",
+        "reason": "陈思思是用户菜品的头号试吃员。"
+      },
+      {
+        "concept": "便当搭子",
+        "reason": "两人是固定的便当分享伙伴。"
+      },
+      {
+        "concept": "朋友圈点赞",
+        "reason": "陈思思负责在朋友圈为用户提供第一波点赞评论。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由特定人物联想到其在用户烹饪生活中的多重功能角色。"
+  },
+  {
+    "id": "q_013",
+    "trigger_type": "时间相关记忆联想",
+    "question": "邻居王浩然总想着拿什么东西来换我的面包。",
+    "trigger_concept": "邻居王浩然",
+    "candidate_set": [
+      {
+        "concept": "进口牛肉",
+        "reason": "邻居常用进口牛肉交换用户的全麦面包。"
+      },
+      {
+        "concept": "自制全麦面包",
+        "reason": "用户用来交换的自制食品是全麦面包。"
+      },
+      {
+        "concept": "高蛋白低脂",
+        "reason": "交换的基础是邻居对高蛋白低脂饮食的需求。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "由人物关系联想到具体的物品交换细节及背后的饮食需求逻辑。"
+  },
+  {
+    "id": "q_014",
+    "trigger_type": "时间相关记忆联想",
+    "question": "视频通话里，妈妈总嫌弃我做的菜缺了点什么。",
+    "trigger_concept": "母亲张慧",
+    "candidate_set": [
+      {
+        "concept": "正宗回锅肉",
+        "reason": "母亲常指导用户做正宗回锅肉，是味觉记忆的根基。"
+      },
+      {
+        "concept": "太精致不够下饭",
+        "reason": "母亲抱怨用户做的菜过于精致，缺乏下饭的烟火气。"
+      },
+      {
+        "concept": "视频争论",
+        "reason": "母女间常因烹饪理念不同在视频中进行友好的争论。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "由母亲这一角色联想到具体的菜品争议点及评价风格。"
+  },
+  {
+    "id": "q_015",
+    "trigger_type": "时间相关记忆联想",
+    "question": "作为设计师，我常把烹饪看作是一种设计思维的体现。",
+    "trigger_concept": "设计思维",
+    "candidate_set": [
+      {
+        "concept": "可食用的产品设计",
+        "reason": "用户将烹饪视为‘可食用的产品设计’。"
+      },
+      {
+        "concept": "色彩构成",
+        "reason": "用户极度重视摆盘的色彩构成，这是设计专业的体现。"
+      },
+      {
+        "concept": "器皿搭配",
+        "reason": "用户注重器皿与食物的搭配，如同产品包装。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "由职业背景联想到用户对烹饪的独特定义及具体的设计要素应用。"
+  },
+  {
+    "id": "q_016",
+    "trigger_type": "时间相关记忆联想",
+    "question": "突然想起那家不需要排队的隐蔽餐厅了。",
+    "trigger_concept": "外出就餐",
+    "candidate_set": [
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "用户偏好隐蔽的 Bistro，对网红排队店兴趣寥寥。"
+      },
+      {
+        "concept": "主厨餐桌",
+        "reason": "用户偏好 Omakase 或主厨餐桌形式的用餐体验。"
+      },
+      {
+        "concept": "撰写长评",
+        "reason": "用户习惯在大众点评上为这类餐厅写详细长评。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "由外出就餐行为联想到具体的餐厅类型偏好及后续的评论行为。"
+  },
+  {
+    "id": "q_017",
+    "trigger_type": "时间相关记忆联想",
+    "question": "厨房里那件能精确控制温度的工具真好用。",
+    "trigger_concept": "厨房设备",
+    "candidate_set": [
+      {
+        "concept": "低温慢煮机",
+        "reason": "用户拥有并使用低温慢煮机进行精准温控烹饪。"
+      },
+      {
+        "concept": "精密电子秤",
+        "reason": "用户使用 0.1g 精度的电子秤，体现对配比的严谨。"
+      },
+      {
+        "concept": "Siemens 蒸烤箱",
+        "reason": "嵌入式蒸烤箱是用户进行专业烘焙和蒸制的核心设备。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "由厨房设备这一泛指概念联想到用户具体的专业工具及其功能特点。"
+  },
+  {
+    "id": "q_018",
+    "trigger_type": "时间相关记忆联想",
+    "question": "我做的川菜跟传统做法确实不太一样。",
+    "trigger_concept": "新派川菜",
+    "candidate_set": [
+      {
+        "concept": "低油版川菜",
+        "reason": "用户擅长制作低油版的改良新派川菜。"
+      },
+      {
+        "concept": "味型重构",
+        "reason": "用户在保留味型的基础上进行了健康化的重构。"
+      },
+      {
+        "concept": "少油少盐",
+        "reason": "用户的烹饪风格偏好少油少盐但味型丰富。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "由菜系风格联想到具体的改良方向（低油）及设计理念（味型重构）。"
+  },
+  {
+    "id": "q_019",
+    "trigger_type": "时间相关记忆联想",
+    "question": "周一早上带到公司的午餐总能引起大家的注意。",
+    "trigger_concept": "周一早上",
+    "candidate_set": [
+      {
+        "concept": "精致便当",
+        "reason": "用户喜欢给同事带精心制作的精致便当。"
+      },
+      {
+        "concept": "惊喜反应",
+        "reason": "同事对用户的高颜值便当通常报以惊喜的反应。"
+      },
+      {
+        "concept": "首席品鉴官",
+        "reason": "同事（如陈思思）扮演着用户作品的品鉴官角色。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "由工作日早晨的时间点联想到用户的分享行为、他人反应及社交角色。"
+  },
+  {
+    "id": "q_020",
+    "trigger_type": "时间相关记忆联想",
+    "question": "写大众点评长评时，我最关注的还是餐厅的那几个方面。",
+    "trigger_concept": "撰写长评",
+    "candidate_set": [
+      {
+        "concept": "食材原产地",
+        "reason": "用户在外就餐时高度关注食材的原产地信息。"
+      },
+      {
+        "concept": "烹饪创意",
+        "reason": "用户评价餐厅时看重其烹饪的创意程度。"
+      },
+      {
+        "concept": "网红店对比",
+        "reason": "用户常将隐蔽好店与网红店进行对比分析。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "由写评论这一行为联想到用户作为专业食客的具体评价维度和对比视角。"
+  },
+  {
+    "id": "q_021",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今天周五晚上，我想好好放松一下。",
+    "trigger_concept": "周五晚上",
+    "candidate_set": [
+      {
+        "concept": "治愈时刻",
+        "reason": "用户习惯在周五晚上进行两小时的专注烹饪作为治愈时刻。"
+      },
+      {
+        "concept": "关闭音乐",
+        "reason": "用户在该时段特意不听播客或音乐，只专注食物声音。"
+      },
+      {
+        "concept": "慢炖汤",
+        "reason": "用户常在此时花 2 小时慢炖一锅汤或烤制甜点。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从时间点联想到特定的放松仪式、感官偏好及具体烹饪行为。"
+  },
+  {
+    "id": "q_022",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚被甲方改了一版方案，心里好烦。",
+    "trigger_concept": "方案修改",
+    "candidate_set": [
+      {
+        "concept": "销魂豌杂面",
+        "reason": "用户压力大时会做重口味的豌杂面来释放情绪。"
+      },
+      {
+        "concept": "切菜节奏",
+        "reason": "用户通过切菜的节奏感来缓解心烦。"
+      },
+      {
+        "concept": "辛辣解压",
+        "reason": "用户利用辛辣味觉作为情绪宣泄的出口。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从工作压力触发词联想到特定的减压菜品、动作细节及味觉机制。"
+  },
+  {
+    "id": "q_023",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "这周冰箱里剩了不少边角料，不想浪费。",
+    "trigger_concept": "剩余食材",
+    "candidate_set": [
+      {
+        "concept": "周三晚上",
+        "reason": "用户固定每周三晚进行清空冰箱挑战。"
+      },
+      {
+        "concept": "Fusion 料理",
+        "reason": "用户习惯利用剩余食材即兴创作融合菜。"
+      },
+      {
+        "concept": "食谱笔记",
+        "reason": "用户会在挑战后记录即兴创作的食谱。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从处理剩菜的需求联想到固定的时间习惯、创作风格及记录行为。"
+  },
+  {
+    "id": "q_024",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "突然特别想家，有点孤独。",
+    "trigger_concept": "思乡/孤独",
+    "candidate_set": [
+      {
+        "concept": "简化版开水白菜",
+        "reason": "用户思乡时会复刻母亲拿手的这道菜。"
+      },
+      {
+        "concept": "慢火吊汤",
+        "reason": "用户在制作过程中通过慢火吊汤感受情感连接。"
+      },
+      {
+        "concept": "母亲张慧",
+        "reason": "这道菜是母亲张慧的拿手菜，是味觉记忆的根基。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从孤独情绪联想到特定的慰藉菜品、烹饪过程及关键人物关联。"
+  },
+  {
+    "id": "q_025",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚做好这道新菜，摆盘完美，必须发出去。",
+    "trigger_concept": "创意摆盘",
+    "candidate_set": [
+      {
+        "concept": "小红书发布",
+        "reason": "用户重度依赖小红书分享精美菜品。"
+      },
+      {
+        "concept": "修图调色",
+        "reason": "用户发布前会进行专业的修图和调色。"
+      },
+      {
+        "concept": "社区认同",
+        "reason": "用户通过回复评论获得社区认同感和成就感。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从摆盘行为联想到分享平台、后期处理动作及心理满足来源。"
+  },
+  {
+    "id": "q_026",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "明天周日，得去囤点好货了。",
+    "trigger_concept": "周日上午",
+    "candidate_set": [
+      {
+        "concept": "双流白家批发市场",
+        "reason": "用户习惯周日上午前往该地采购核心食材。"
+      },
+      {
+        "concept": "极致新鲜",
+        "reason": "用户采购的核心标准是严格筛选蔬果的新鲜度。"
+      },
+      {
+        "concept": "核心食材",
+        "reason": "用户在此时段主要采购本周的核心食材而非急用调料。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从时间节点联想到特定的采购地点、筛选标准及采购对象。"
+  },
+  {
+    "id": "q_027",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "邻居王浩然又拿牛肉来换面包了。",
+    "trigger_concept": "邻居王浩然",
+    "candidate_set": [
+      {
+        "concept": "自制全麦面包",
+        "reason": "用户用自制全麦面包与邻居交换食材。"
+      },
+      {
+        "concept": "进口牛肉",
+        "reason": "邻居常用进口牛肉作为交换物。"
+      },
+      {
+        "concept": "高蛋白低脂",
+        "reason": "邻居作为健身教练，对食材有高蛋白低脂的特定需求。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从人物互动联想到具体的交换物品及对方的饮食偏好背景。"
+  },
+  {
+    "id": "q_028",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "妈妈又在视频里说我做的菜太精致了。",
+    "trigger_concept": "母亲张慧",
+    "candidate_set": [
+      {
+        "concept": "正宗回锅肉",
+        "reason": "母亲常云指导用户做这道传统川菜。"
+      },
+      {
+        "concept": "视频通话",
+        "reason": "母子间通过视频通话进行烹饪指导和交流。"
+      },
+      {
+        "concept": "不够下饭",
+        "reason": "母亲抱怨用户菜品的主要理由是‘太精致不够下饭’。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从人物反馈联想到具体的指导菜品、沟通方式及冲突点。"
+  },
+  {
+    "id": "q_029",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "这周的新鲜菌菇到了，得赶紧处理。",
+    "trigger_concept": "新鲜菌菇",
+    "candidate_set": [
+      {
+        "concept": "父亲林建国",
+        "reason": "这些菌菇通常由父亲从郊区批发市场挑选寄来。"
+      },
+      {
+        "concept": "郊区批发市场",
+        "reason": "父亲采购菌菇的具体地点。"
+      },
+      {
+        "concept": "亲手挑选",
+        "reason": "父亲会特意亲自挑选最新鲜的食材寄给女儿。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从特定食材联想到供应者、采购地点及背后的亲情行为。"
+  },
+  {
+    "id": "q_030",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "思思下周要来做我的便当搭子。",
+    "trigger_concept": "闺蜜陈思思",
+    "candidate_set": [
+      {
+        "concept": "头号试吃员",
+        "reason": "思思是用户菜品的头号试吃员。"
+      },
+      {
+        "concept": "朋友圈点赞",
+        "reason": "思思负责在朋友圈为用户提供第一波点赞和评论。"
+      },
+      {
+        "concept": "探店",
+        "reason": "两人常周末一起探店寻找烹饪灵感。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从人物关系联想到其在用户烹饪生活中的多重角色及共同活动。"
+  },
+  {
+    "id": "q_031",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "我想尝试做一道复杂的西餐大菜挑战自己。",
+    "trigger_concept": "设计挑战",
+    "candidate_set": [
+      {
+        "concept": "惠灵顿牛排",
+        "reason": "用户曾在 2023 年成功挑战过这道复杂菜品。"
+      },
+      {
+        "concept": "2023 年里程碑",
+        "reason": "制作惠灵顿牛排标志着用户技艺融合的成熟，是重要里程碑。"
+      },
+      {
+        "concept": "失败与成功",
+        "reason": "用户在制作该菜时经历过一次失败最终才完美成功。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从挑战意愿联想到具体的历史挑战案例、时间节点及过程细节。"
+  },
+  {
+    "id": "q_032",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "公司年会快到了，准备点小礼物送同事。",
+    "trigger_concept": "伴手礼",
+    "candidate_set": [
+      {
+        "concept": "川味鹅肝酱",
+        "reason": "用户曾在 2021 年年会自制此菜作为伴手礼。"
+      },
+      {
+        "concept": "2021 年年会",
+        "reason": "这是用户确立‘设计师厨神’人设的关键事件时间点。"
+      },
+      {
+        "concept": "满堂彩",
+        "reason": "当年的伴手礼获得了全公司的好评和满堂彩。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从送礼场景联想到历史成功案例、具体菜品及当时的反响。"
+  },
+  {
+    "id": "q_033",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚不想听任何声音，只想静静做饭。",
+    "trigger_concept": "专注当下",
+    "candidate_set": [
+      {
+        "concept": "周五晚上",
+        "reason": "用户习惯在周五晚上进行这种无干扰的烹饪。"
+      },
+      {
+        "concept": "食物声音",
+        "reason": "用户此时只专注聆听食物变化的声音。"
+      },
+      {
+        "concept": "治愈时刻",
+        "reason": "这种静默烹饪是用户定义的治愈时刻的一部分。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从感官偏好联想到特定的时间段、关注焦点及情感定义。"
+  },
+  {
+    "id": "q_034",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "最近工作压力太大，完全不想点外卖。",
+    "trigger_concept": "拒绝外卖",
+    "candidate_set": [
+      {
+        "concept": "工作压力大",
+        "reason": "这是用户拒绝外卖并选择亲自下厨的主要触发情绪。"
+      },
+      {
+        "concept": "销魂豌杂面",
+        "reason": "用户在此情境下的首选解压菜品。"
+      },
+      {
+        "concept": "情绪释放",
+        "reason": "用户通过烹饪和食用重口味食物达到情绪释放的目的。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [],
+    "reasoning": "从拒绝外卖的行为联想到背后的情绪动因、具体替代方案及心理目的。"
+  },
+  {
+    "id": "q_035",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "这道菜的摆盘还需要最后调整一下细节。",
+    "trigger_concept": "镊子调整",
+    "candidate_set": [
+      {
+        "concept": "色彩构成",
+        "reason": "用户作为设计师，极度重视摆盘的色彩构成。"
+      },
+      {
+        "concept": "视觉传达设计",
+        "reason": "用户的专业背景影响其将烹饪视为可食用的产品设计。"
+      },
+      {
+        "concept": "器皿搭配",
+        "reason": "用户在选择摆盘时同样重视器皿的搭配。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从精细动作联想到背后的设计理念、专业背景及关联的审美要素。"
+  },
+  {
+    "id": "q_036",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "周末打算去试试那家新开的隐蔽小店。",
+    "trigger_concept": "探店",
+    "candidate_set": [
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "用户偏好的餐厅类型，非网红排队店。"
+      },
+      {
+        "concept": "撰写长评",
+        "reason": "用户习惯在大众点评写详细的长评。"
+      },
+      {
+        "concept": "食材原产地",
+        "reason": "用户外出就餐时重点关注食材原产地和创意。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从外出就餐行为联想到偏好类型、后续反馈行为及关注重点。"
+  },
+  {
+    "id": "q_037",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "看着这口锅，得好好保养一下。",
+    "trigger_concept": "Le Creuset 铸铁锅",
+    "candidate_set": [
+      {
+        "concept": "养锅检查",
+        "reason": "用户拥有专业设备，会有意识地保养锅具。"
+      },
+      {
+        "concept": "油膜状态",
+        "reason": "铸铁锅保养的关键在于维护其油膜状态。"
+      },
+      {
+        "concept": "最佳导热",
+        "reason": "用户购置专业设备是为了追求最佳导热和烹饪效果。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从特定厨具联想到维护行为、技术细节及购置初衷。"
+  },
+  {
+    "id": "q_038",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "我想把这道川菜做得更健康一点，少油少盐。",
+    "trigger_concept": "低油版川菜",
+    "candidate_set": [
+      {
+        "concept": "新派川菜",
+        "reason": "用户擅长的菜系风格，即低油版的改良川菜。"
+      },
+      {
+        "concept": "味型重构",
+        "reason": "用户在减少油盐的同时，通过重构味型保持丰富口感。"
+      },
+      {
+        "concept": "风味补偿",
+        "reason": "健康改良中常用的技术手段，用其他风味补偿油脂的缺失。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从健康改良需求联想到用户的专长风格、技术理念及具体手段。"
+  },
+  {
+    "id": "q_039",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "每次做完饭都要把台面擦得干干净净。",
+    "trigger_concept": "台面整洁",
+    "candidate_set": [
+      {
+        "concept": "秩序感",
+        "reason": "用户作为设计师，对厨房环境有强烈的秩序感需求。"
+      },
+      {
+        "concept": "随手清洁",
+        "reason": "用户的高效厨房习惯，保持烹饪过程中的整洁。"
+      },
+      {
+        "concept": "Mise en place",
+        "reason": "用户受专业烹饪理论影响，讲究一切就位和整洁。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [],
+    "reasoning": "从清洁行为联想到心理需求、操作习惯及专业术语背景。"
+  },
+  {
+    "id": "q_040",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "这道甜点的口感层次还不够丰富。",
+    "trigger_concept": "法式甜点",
+    "candidate_set": [
+      {
+        "concept": "烘焙理论",
+        "reason": "用户系统学习过烘焙理论，对口感有科学追求。"
+      },
+      {
+        "concept": "精密电子秤",
+        "reason": "用户使用 0.1g 精度的电子秤来确保配方精准。"
+      },
+      {
+        "concept": "实验乐趣",
+        "reason": "用户将烹饪视为产品设计，享受不断实验改进的乐趣。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [],
+    "reasoning": "从对成品的不满联想到背后的理论支撑、工具依赖及心态特征。"
+  },
+  {
+    "id": "q_041",
+    "trigger_type": "实体相关记忆联想",
+    "question": "每当周末和闺蜜陈思思一起探店寻找灵感时，我总会想起我们之间关于精致便当的默契互动。",
+    "trigger_concept": "闺蜜陈思思",
+    "candidate_set": [
+      {
+        "concept": "头号试吃员",
+        "reason": "用户画像中明确定义陈思思为晓雅的'头号试吃员'，这是两人美食互动的核心角色定位。"
+      },
+      {
+        "concept": "朋友圈互动",
+        "reason": "陈思思负责在朋友圈为晓雅的菜品提供第一波点赞和评论，是晓雅社交媒体反馈链的第一环。"
+      },
+      {
+        "concept": "首席品鉴官",
+        "reason": "在晓雅心中，陈思思不仅是朋友，更是新菜品的'首席品鉴官'，体现了其在晓雅烹饪创作中的权威地位。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_07",
+      "entity_07"
+    ],
+    "reasoning": "基于人物关系（闺蜜）的直接联想，考察用户对陈思思在晓雅美食生活中多重角色（试吃员、品鉴官、社交反馈者）的记忆。"
+  },
+  {
+    "id": "q_042",
+    "trigger_type": "实体相关记忆联想",
+    "question": "邻居王浩然用进口牛肉交换我自制的全麦面包时，这种独特的邻里默契让我想到了他对高蛋白饮食的执着。",
+    "trigger_concept": "邻居王浩然",
+    "candidate_set": [
+      {
+        "concept": "健身教练",
+        "reason": "王浩然的职业是健身教练，这是他需求高蛋白低脂饮食并寻求晓雅帮助的根本原因。"
+      },
+      {
+        "concept": "高蛋白低脂",
+        "reason": "这是王浩然饮食的核心诉求，也是他向晓雅请教如何制作美味健康料理的出发点。"
+      },
+      {
+        "concept": "食材交换",
+        "reason": "两人关系的建立基础是'进口牛肉'与'全麦面包'的实物交换，这是一种非货币的邻里交易模式。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_08",
+      "entity_03"
+    ],
+    "reasoning": "考察对邻居王浩然职业背景、饮食需求及两人互动模式（交换）的关联记忆。"
+  },
+  {
+    "id": "q_043",
+    "trigger_type": "实体相关记忆联想",
+    "question": "收到父亲林建国从郊区寄来的新鲜土鸡和菌菇时，我会立刻想到母亲张慧在视频那头的云指导。",
+    "trigger_concept": "父亲林建国",
+    "candidate_set": [
+      {
+        "concept": "郊区批发市场",
+        "reason": "父亲每周特意去双流区白家批发市场或郊区批发市场挑选最新鲜食材，这是高品质食材的来源地。"
+      },
+      {
+        "concept": "食材采购顾问",
+        "reason": "父亲在家庭烹饪分工中扮演'资深食材采购顾问'的角色，负责提供顶级原料。"
+      },
+      {
+        "concept": "视频通话",
+        "reason": "收到父亲食材后，晓雅的习惯是视频连线母亲，形成'父供材、母传技'的家庭协作场景。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_09",
+      "entity_02"
+    ],
+    "reasoning": "需要联想父亲的行动地点（批发市场）、角色定位（采购顾问）以及与母亲互动的媒介（视频通话），构建完整的家庭协作链条。"
+  },
+  {
+    "id": "q_044",
+    "trigger_type": "实体相关记忆联想",
+    "question": "母亲张慧总吐槽我做的低油版回锅肉不够下饭，这让我回忆起我们之间关于味觉记忆与改良创新的永恒争论。",
+    "trigger_concept": "母亲张慧",
+    "candidate_set": [
+      {
+        "concept": "传统川菜启蒙者",
+        "reason": "母亲是晓雅烹饪之路的起点，代表了正宗的传统川菜口味标准。"
+      },
+      {
+        "concept": "视频争论",
+        "reason": "母女之间关于'正宗'与'健康改良'的口味差异，常通过视频通话演变为友好的争论话题。"
+      },
+      {
+        "concept": "味觉记忆",
+        "reason": "母亲做的菜是晓雅味觉记忆的根基，也是晓雅进行所有改良尝试的参照原点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_01",
+      "time_09"
+    ],
+    "reasoning": "考察对母子/母女关系中情感连接点（味觉记忆）、冲突点（视频争论）及母亲角色定位（启蒙者）的深度理解。"
+  },
+  {
+    "id": "q_045",
+    "trigger_type": "实体相关记忆联想",
+    "question": "在使用 Vitamix 料理机和精密电子秤处理新派川菜时，我将设计思维注入到了传统的味型重构之中。",
+    "trigger_concept": "Vitamix 料理机",
+    "candidate_set": [
+      {
+        "concept": "精密电子秤",
+        "reason": "晓雅极度重视精准度，常用 0.1g 精度的电子秤配合料理机，体现其'可食用的产品设计'理念。"
+      },
+      {
+        "concept": "设计思维",
+        "reason": "晓雅将 UX 设计思维应用于烹饪，视工具为实现'味型重构'和精确控制的手段。"
+      },
+      {
+        "concept": "味型重构",
+        "reason": "使用专业工具的目的就是为了在低油少盐的前提下，重新构建传统川菜的丰富味型。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_04",
+      "time_10"
+    ],
+    "reasoning": "需要抽象出工具背后的方法论（设计思维）和目标（味型重构），考察对晓雅'设计师厨神'人设内核的理解。"
+  },
+  {
+    "id": "q_046",
+    "trigger_type": "实体相关记忆联想",
+    "question": "闺蜜陈思思作为我的头号试吃员，她在朋友圈的点赞是我发布小红书前重要的信心来源。",
+    "trigger_concept": "头号试吃员",
+    "candidate_set": [
+      {
+        "concept": "精致便当",
+        "reason": "陈思思是晓雅精致便当的主要分享对象，两人是固定的'便当搭子'。"
+      },
+      {
+        "concept": "小红书发布",
+        "reason": "陈思思的反馈是晓雅在小红书正式发布菜品前的最后一道质检和心理建设环节。"
+      },
+      {
+        "concept": "首席品鉴官",
+        "reason": "这一概念与'头号试吃员'互为补充，强调了陈思思在晓雅创作闭环中的专业评审地位。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_07",
+      "entity_07"
+    ],
+    "reasoning": "考察对'试吃员'这一角色在晓雅社交分享流程（便当制作->试吃->朋友圈反馈->小红书发布）中具体作用的联想。"
+  },
+  {
+    "id": "q_047",
+    "trigger_type": "实体相关记忆联想",
+    "question": "父亲林建国寄来的新鲜土鸡和野生菌菇，只有搭配我的 Le Creuset 铸铁锅才能发挥极致风味。",
+    "trigger_concept": "新鲜土鸡",
+    "candidate_set": [
+      {
+        "concept": "Le Creuset 铸铁锅",
+        "reason": "晓雅认为只有用父亲提供的顶级食材，才配得上她珍贵的 Le Creuset 锅具，体现对器材的珍视。"
+      },
+      {
+        "concept": "野生菌菇",
+        "reason": "这是父亲每周从批发市场特意挑选的另一类核心食材，常与土鸡一同寄送。"
+      },
+      {
+        "concept": "郊区批发市场",
+        "reason": "这些极致新鲜食材的唯一来源地，体现了父亲对食材质量的严格把控。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_02",
+      "time_09"
+    ],
+    "reasoning": "基于食材来源（父亲/批发市场）与烹饪器具（铸铁锅）之间的匹配逻辑进行联想。"
+  },
+  {
+    "id": "q_048",
+    "trigger_type": "实体相关记忆联想",
+    "question": "邻居王浩然提供的进口牛肉品质极佳，这种高蛋白食材的交换让我们建立了独特的邻里默契。",
+    "trigger_concept": "进口牛肉",
+    "candidate_set": [
+      {
+        "concept": "自制全麦面包",
+        "reason": "这是晓雅用来交换进口牛肉的筹码，体现了双方在饮食需求上的互补性。"
+      },
+      {
+        "concept": "邻里交换",
+        "reason": "定义了两人关系的本质，一种基于实物互换而非金钱交易的社区互动模式。"
+      },
+      {
+        "concept": "健身教练",
+        "reason": "王浩然的职业背景解释了他为何需要进口牛肉以及他对食材高蛋白特性的关注。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_03",
+      "time_08"
+    ],
+    "reasoning": "考察对'进口牛肉'这一实体在邻里关系网中的流向（来自邻居）、交换物（面包）及背后的人物动机（健身教练）的联想。"
+  },
+  {
+    "id": "q_049",
+    "trigger_type": "实体相关记忆联想",
+    "question": "为了将设计思维注入传统味型，我依赖精密电子秤和 Vitamix 料理机来实现新派川菜的精准控制。",
+    "trigger_concept": "设计思维",
+    "candidate_set": [
+      {
+        "concept": "新派川菜",
+        "reason": "这是设计思维应用的具体场景，即对传统川菜进行健康化和创意化的改良。"
+      },
+      {
+        "concept": "精密电子秤",
+        "reason": "实现设计思维中'精准'要求的关键工具，用于控制 0.1g 级别的误差。"
+      },
+      {
+        "concept": "味型重构",
+        "reason": "设计思维在烹饪中的最终产出目标，即在减少油盐的同时重构丰富的味道层次。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_04",
+      "time_10"
+    ],
+    "reasoning": "从抽象理念（设计思维）出发，联想其应用场景（新派川菜）、工具支撑（电子秤）及最终目标（味型重构），难度较高。"
+  },
+  {
+    "id": "q_050",
+    "trigger_type": "实体相关记忆联想",
+    "question": "母亲张慧对我低油改良版回锅肉的吐槽，反而加深了我对味觉记忆与传统口味之间差异的思考。",
+    "trigger_concept": "低油改良版",
+    "candidate_set": [
+      {
+        "concept": "正宗回锅肉",
+        "reason": "这是改良版的对照物，代表了母亲坚持的传统标准和晓雅的味觉根源。"
+      },
+      {
+        "concept": "视频争论",
+        "reason": "改良版与传统版的冲突主要通过视频通话中的争论表现出来，是母女互动的特色。"
+      },
+      {
+        "concept": "传统川菜启蒙者",
+        "reason": "母亲的这一身份决定了她对'改良'持保留态度，是冲突产生的根源。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_01",
+      "time_09"
+    ],
+    "reasoning": "需要理解'改良版'背后的冲突逻辑，联想到其对立面（正宗）、表现形式（争论）及冲突对象（启蒙者母亲）。"
+  },
+  {
+    "id": "q_051",
+    "trigger_type": "实体相关记忆联想",
+    "question": "周末和闺蜜陈思思探店找灵感时，她作为首席品鉴官的角色让我对每一道精致便当都充满期待。",
+    "trigger_concept": "精致便当",
+    "candidate_set": [
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "便当的主要接收者和反馈者，是晓雅制作便当的直接动力之一。"
+      },
+      {
+        "concept": "探店",
+        "reason": "两人共同的活动，既是社交也是寻找便当和烹饪灵感的来源。"
+      },
+      {
+        "concept": "朋友圈互动",
+        "reason": "便当制作完成后，陈思思在朋友圈的互动是晓雅获得满足感的重要环节。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_07",
+      "entity_07"
+    ],
+    "reasoning": "围绕'精致便当'这一核心产物，联想其相关人物（闺蜜）、来源活动（探店）及后续反馈（朋友圈）。"
+  },
+  {
+    "id": "q_052",
+    "trigger_type": "实体相关记忆联想",
+    "question": "父亲林建国从郊区批发市场亲手挑选的新鲜食材，是我使用 Le Creuset 铸铁锅进行烹饪的前提。",
+    "trigger_concept": "郊区批发市场",
+    "candidate_set": [
+      {
+        "concept": "父亲林建国",
+        "reason": "执行采购行动的主体，每周专程前往市场为女儿挑选食材。"
+      },
+      {
+        "concept": "新鲜土鸡",
+        "reason": "从该市场采购的代表性食材之一，体现了'极致新鲜'的标准。"
+      },
+      {
+        "concept": "Le Creuset 铸铁锅",
+        "reason": "晓雅认为只有源自该市场的顶级食材，才值得动用这口珍贵的锅具进行烹饪。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_02",
+      "time_09"
+    ],
+    "reasoning": "以地点（批发市场）为触发点，联想人物（父亲）、物品（土鸡）及后续使用的器具（铸铁锅），构建供应链条。"
+  },
+  {
+    "id": "q_053",
+    "trigger_type": "实体相关记忆联想",
+    "question": "邻居王浩然用进口牛肉交换自制全麦面包的行为，体现了我们之间基于高蛋白低脂需求的邻里默契。",
+    "trigger_concept": "邻里默契",
+    "candidate_set": [
+      {
+        "concept": "邻居王浩然",
+        "reason": "默契的另一方参与者，健身教练身份驱动了这种交换。"
+      },
+      {
+        "concept": "食材交换",
+        "reason": "默契的具体表现形式，通过实物互换满足双方需求。"
+      },
+      {
+        "concept": "高蛋白低脂",
+        "reason": "达成默契的共同价值观和饮食基础，解释了交换发生的合理性。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_08",
+      "entity_03"
+    ],
+    "reasoning": "从抽象关系（邻里默契）出发，联想具体人物、行为模式及背后的饮食理念。"
+  },
+  {
+    "id": "q_054",
+    "trigger_type": "实体相关记忆联想",
+    "question": "在使用精密电子秤控制 0.1 克误差时，我正试图用设计思维完成对新派川菜的味型重构。",
+    "trigger_concept": "精密电子秤",
+    "candidate_set": [
+      {
+        "concept": "设计思维",
+        "reason": "指导使用精密工具的核心方法论，将烹饪视为产品设计过程。"
+      },
+      {
+        "concept": "新派川菜",
+        "reason": "精密称量所服务的具体菜系，旨在实现健康与美味的平衡。"
+      },
+      {
+        "concept": "Vitamix 料理机",
+        "reason": "与电子秤并列的另一关键工具，共同服务于酱汁细腻度和风味补偿的技术目标。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_04",
+      "time_10"
+    ],
+    "reasoning": "从具体工具（电子秤）联想到其背后的理念（设计思维）、应用对象（新派川菜）及协同工具（料理机），考察技术细节记忆。"
+  },
+  {
+    "id": "q_055",
+    "trigger_type": "实体相关记忆联想",
+    "question": "母亲张慧作为传统川菜启蒙者，她在视频通话中对回锅肉的指导是我味觉记忆的根基。",
+    "trigger_concept": "味觉记忆",
+    "candidate_set": [
+      {
+        "concept": "母亲张慧",
+        "reason": "味觉记忆的创造者和守护者，代表了家的味道。"
+      },
+      {
+        "concept": "正宗回锅肉",
+        "reason": "承载味觉记忆的具体菜品，是母女情感连接的媒介。"
+      },
+      {
+        "concept": "视频通话",
+        "reason": "唤醒和传承味觉记忆的主要沟通方式，即使相隔两地也能'云指导'。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_01",
+      "time_09"
+    ],
+    "reasoning": "围绕情感核心（味觉记忆），联想其来源人物、载体菜品及传递方式。"
+  },
+  {
+    "id": "q_056",
+    "trigger_type": "实体相关记忆联想",
+    "question": "闺蜜陈思思在朋友圈的点赞和评论，是我将精心制作的精致便当拍照发布小红书前的信心来源。",
+    "trigger_concept": "朋友圈互动",
+    "candidate_set": [
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "互动的主要对象，她的反馈对晓雅至关重要。"
+      },
+      {
+        "concept": "精致便当",
+        "reason": "互动内容的主体，晓雅为之投入心血的创作成果。"
+      },
+      {
+        "concept": "小红书发布",
+        "reason": "朋友圈互动后的下一步行动，构成了完整的社交分享闭环。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_07",
+      "entity_07"
+    ],
+    "reasoning": "考察对社交分享流程中'朋友圈互动'这一环节的前后关联（人物、内容、后续动作）的记忆。"
+  },
+  {
+    "id": "q_057",
+    "trigger_type": "实体相关记忆联想",
+    "question": "父亲林建国每周从郊区批发市场寄来的野生菌菇，让我觉得必须用 Le Creuset 铸铁锅来对待这份心意。",
+    "trigger_concept": "野生菌菇",
+    "candidate_set": [
+      {
+        "concept": "父亲林建国",
+        "reason": "菌菇的提供者，体现了父亲对女儿饮食质量的关心。"
+      },
+      {
+        "concept": "郊区批发市场",
+        "reason": "菌菇的产地，代表了'极致新鲜'的采购标准。"
+      },
+      {
+        "concept": "Le Creuset 铸铁锅",
+        "reason": "晓雅心中配得上这种顶级食材的唯一炊具，体现了对食材的尊重。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_02",
+      "time_09"
+    ],
+    "reasoning": "以具体食材（菌菇）为触发点，联想其来源（父亲/市场）及处理方式（锅具），逻辑链条清晰。"
+  },
+  {
+    "id": "q_058",
+    "trigger_type": "实体相关记忆联想",
+    "question": "邻居王浩然作为健身教练，他对高蛋白低脂饮食的需求促成了我们用进口牛肉交换自制全麦面包的约定。",
+    "trigger_concept": "高蛋白低脂",
+    "candidate_set": [
+      {
+        "concept": "邻居王浩然",
+        "reason": "这一饮食需求的提出者，其健身教练职业背景决定了这一需求。"
+      },
+      {
+        "concept": "进口牛肉",
+        "reason": "满足高蛋白需求的食材，是交换关系中的输入端。"
+      },
+      {
+        "concept": "自制全麦面包",
+        "reason": "晓雅提供的健康碳水来源，是交换关系中的输出端。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_08",
+      "entity_03"
+    ],
+    "reasoning": "从饮食理念（高蛋白低脂）出发，联想相关人物及具体的交换物品，考察对邻里关系建立基础的理解。"
+  },
+  {
+    "id": "q_059",
+    "trigger_type": "实体相关记忆联想",
+    "question": "通过 Vitamix 料理机打出的细腻酱汁，我成功地将设计思维应用到了新派川菜的味型重构中。",
+    "trigger_concept": "味型重构",
+    "candidate_set": [
+      {
+        "concept": "设计思维",
+        "reason": "指导味型重构的理论框架，强调逻辑、精准和用户体验（口味）。"
+      },
+      {
+        "concept": "Vitamix 料理机",
+        "reason": "实现味型重构的关键技术手段，用于解决低油条件下的风味融合问题。"
+      },
+      {
+        "concept": "新派川菜",
+        "reason": "味型重构的具体实践领域，目标是创造健康且美味的改良川菜。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_04",
+      "time_10"
+    ],
+    "reasoning": "从最终目标（味型重构）反向联想其理论依据、技术工具和适用场景，考察对晓雅烹饪哲学的深度掌握。"
+  },
+  {
+    "id": "q_060",
+    "trigger_type": "实体相关记忆联想",
+    "question": "母亲张慧在视频通话中对我低油版回锅肉的吐槽，让我更加珍惜那份源自正宗回锅肉的味觉记忆。",
+    "trigger_concept": "视频争论",
+    "candidate_set": [
+      {
+        "concept": "母亲张慧",
+        "reason": "争论的另一方，代表了传统口味的坚守者。"
+      },
+      {
+        "concept": "低油改良版",
+        "reason": "引发争论的焦点，代表了晓雅的健康创新尝试。"
+      },
+      {
+        "concept": "正宗回锅肉",
+        "reason": "争论的参照标准，也是晓雅心中不可磨灭的味觉原点。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_01",
+      "time_09"
+    ],
+    "reasoning": "从冲突事件（视频争论）出发，联想冲突双方（母亲）、冲突对象（改良版）及冲突背后的文化根基（正宗回锅肉），难度较高。"
+  },
+  {
+    "id": "q_061",
+    "trigger_type": "情感相关记忆联想",
+    "question": "当被需求方反复修改方案搞得焦头烂额时，你会拒绝外卖并立刻动手做一碗重口味的销魂豌杂面，用切菜的节奏和辛辣的味觉来释放压力。",
+    "trigger_concept": "工作压力大",
+    "candidate_set": [
+      {
+        "concept": "方案修改",
+        "reason": "这是触发该情绪的具体工作场景，直接导致了心烦意乱的状态。"
+      },
+      {
+        "concept": "切菜节奏",
+        "reason": "这是用户在解压过程中依赖的具体感官行为，通过机械动作抚平心绪。"
+      },
+      {
+        "concept": "拒绝外卖",
+        "reason": "这是用户在压力状态下坚持的特定行为准则，认为外卖无法替代手作的疗愈感。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_04",
+      "emotion_01",
+      "entity_05"
+    ],
+    "reasoning": "基于用户画像中明确的情感映射，直接关联工作压力与特定的解压烹饪行为，实体重合度高，逻辑直观。"
+  },
+  {
+    "id": "q_062",
+    "trigger_type": "情感相关记忆联想",
+    "question": "感到孤独或深深思乡时，你会复刻母亲张慧拿手的简化版开水白菜，在慢火吊汤的静谧中感受与家人的情感连接。",
+    "trigger_concept": "思乡之情",
+    "candidate_set": [
+      {
+        "concept": "母亲张慧",
+        "reason": "母亲是这道菜的味道源头和情感纽带，通过视频‘云指导’建立连接。"
+      },
+      {
+        "concept": "慢火吊汤",
+        "reason": "这是制作该菜品的核心工艺，也是用户享受独处、沉淀情绪的特定时间段。"
+      },
+      {
+        "concept": "简化版开水白菜",
+        "reason": "这是用户为适应独居生活而对传统家传菜进行的特定改良版本。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_05",
+      "emotion_02"
+    ],
+    "reasoning": "关联了特定的情感状态（思乡）与具体的人物（母亲）及菜品（开水白菜），属于用户核心记忆点。"
+  },
+  {
+    "id": "q_063",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每当完成一道创意摆盘完美的菜品，成就感爆棚的你一定会拍摄大片修图发布小红书，通过回复每一条评论来获取社区认同感。",
+    "trigger_concept": "成就感",
+    "candidate_set": [
+      {
+        "concept": "创意摆盘",
+        "reason": "作为 UX 设计师，用户极度重视视觉呈现，这是触发分享欲的前提条件。"
+      },
+      {
+        "concept": "小红书分享",
+        "reason": "这是用户获取外部反馈和社区认同的主要渠道，也是其社交习惯的核心。"
+      },
+      {
+        "concept": "社区认同",
+        "reason": "这是用户进行分享行为后所追求的核心心理满足感。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_06",
+      "emotion_03"
+    ],
+    "reasoning": "描述了从制作完成到社交分享的完整行为链条，实体关系紧密且符合用户‘重度社交媒体分享者’的设定。"
+  },
+  {
+    "id": "q_064",
+    "trigger_type": "情感相关记忆联想",
+    "question": "周五晚上卸下了一周的设计重担，你会进入‘治愈时刻’，花两小时专注慢炖一锅汤或烤制法式甜点，只聆听食物变化的声音。",
+    "trigger_concept": "治愈时刻",
+    "candidate_set": [
+      {
+        "concept": "周五晚上",
+        "reason": "这是用户固定的放松时间模式，标志着工作周的结束和自我时间的开始。"
+      },
+      {
+        "concept": "法式甜点",
+        "reason": "这是用户在‘治愈时刻’常选择的烹饪品类之一，体现其技能多样性。"
+      },
+      {
+        "concept": "关闭音乐",
+        "reason": "用户在此时刻特意选择不听播客或音乐，只专注食物声音，是一种独特的感官沉浸方式。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_04",
+      "entity_06"
+    ],
+    "reasoning": "需要联想到特定的时间习惯以及反直觉的‘关闭音乐’细节，考察对用户独特生活习惯的理解。"
+  },
+  {
+    "id": "q_065",
+    "trigger_type": "情感相关记忆联想",
+    "question": "收到父亲林建国从郊区寄来的新鲜土鸡和菌菇时，那份被关爱的温暖会驱使你视频连线母亲，在她的‘云指导’下烹饪正宗回锅肉。",
+    "trigger_concept": "被关爱感",
+    "candidate_set": [
+      {
+        "concept": "父亲林建国",
+        "reason": "父亲是高品质食材的主要供应者，其行为直接触发了用户的被关爱感。"
+      },
+      {
+        "concept": "新鲜土鸡",
+        "reason": "这是父亲每周特意挑选并寄送的典型食材，代表了父爱的具体载体。"
+      },
+      {
+        "concept": "正宗回锅肉",
+        "reason": "这是连接父母双方的菜品，用父亲提供的食材，在母亲指导下制作，象征家庭团聚。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_05",
+      "entity_10"
+    ],
+    "reasoning": "涉及多个人物关系（父、母）和具体的食材流转，需要理解家庭成员在用户烹饪生活中的不同角色。"
+  },
+  {
+    "id": "q_066",
+    "trigger_type": "情感相关记忆联想",
+    "question": "看到闺蜜陈思思对你做的精致便当露出惊喜表情时，那种分享的快乐让你觉得所有的备料辛苦都化作了友情的甜蜜。",
+    "trigger_concept": "分享快乐",
+    "candidate_set": [
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "她是用户的‘头号试吃员’和便当搭子，是分享行为的核心对象。"
+      },
+      {
+        "concept": "精致便当",
+        "reason": "这是用户用于维系友情、展示厨艺的具体媒介。"
+      },
+      {
+        "concept": "惊喜反应",
+        "reason": "朋友的正向反馈是用户获得‘分享快乐’这一情感体验的关键触发点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_06",
+      "time_06"
+    ],
+    "reasoning": "关联了社交互动中的具体人物、物品和情感反馈，体现了用户通过食物建立人际连接的价值观。"
+  },
+  {
+    "id": "q_067",
+    "trigger_type": "情感相关记忆联想",
+    "question": "当对某种新食材产生强烈好奇心时，你会像对待设计项目一样，利用低温慢煮机和精密电子秤进行实验，享受探索未知的极客乐趣。",
+    "trigger_concept": "好奇心",
+    "candidate_set": [
+      {
+        "concept": "低温慢煮机",
+        "reason": "这是用户进行精准烹饪实验的核心设备，体现了其‘极客’般的烹饪态度。"
+      },
+      {
+        "concept": "精密电子秤",
+        "reason": "配合低温慢煮机，用于严格控制食材配比，反映用户将烹饪视为‘产品设计’的思维。"
+      },
+      {
+        "concept": "实验乐趣",
+        "reason": "这是用户面对新食材时产生的特定情感体验，区别于常规的烹饪满足感。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_07",
+      "time_11"
+    ],
+    "reasoning": "需要结合用户的专业背景（设计思维）和高端厨具，理解其将烹饪科学化的独特心理动机。"
+  },
+  {
+    "id": "q_068",
+    "trigger_type": "情感相关记忆联想",
+    "question": "回忆起 2023 年挑战惠灵顿牛排从失败到成功的经历，那种克服困难后的自豪感会激励你尝试更复杂的融合菜式。",
+    "trigger_concept": "自豪感",
+    "candidate_set": [
+      {
+        "concept": "惠灵顿牛排",
+        "reason": "这是用户厨艺进阶的标志性事件，代表了烘焙与西餐技艺的融合。"
+      },
+      {
+        "concept": "失败与成功",
+        "reason": "该事件的过程特征，先失败后成功的经历增强了用户的抗挫能力和自信。"
+      },
+      {
+        "concept": "融合菜挑战",
+        "reason": "这是自豪感带来的后续行为驱动，促使用户不断拓展烹饪边界。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_11",
+      "emotion_08",
+      "entity_08"
+    ],
+    "reasoning": "涉及具体的里程碑事件及其对用户心理和后续行为的深远影响，需要综合时间线和技能发展路径。"
+  },
+  {
+    "id": "q_069",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在拥挤的网红店感到烦躁时，你会选择躲进隐蔽的 Bistro，通过细细品味食材原产地的美味来平复心情，并构思大众点评长评。",
+    "trigger_concept": "烦躁情绪",
+    "candidate_set": [
+      {
+        "concept": "网红店对比",
+        "reason": "用户对跟风排队店的排斥是产生烦躁情绪的对比背景。"
+      },
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "这是用户偏好的避世就餐场所，符合其追求品质和安静的性格。"
+      },
+      {
+        "concept": "撰写长评",
+        "reason": "这是用户平复心情后的输出行为，通过专业点评重新获得掌控感和表达欲。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_09"
+    ],
+    "reasoning": "考察用户对餐饮场所的偏好差异（网红店 vs Bistro）以及情绪调节的独特方式（写长评），逻辑链条较长。"
+  },
+  {
+    "id": "q_070",
+    "trigger_type": "情感相关记忆联想",
+    "question": "当邻居王浩然用进口牛肉交换你的全麦面包时，这种基于健康理念的邻里互动让你感受到城市生活中难得的温情与默契。",
+    "trigger_concept": "温情互动",
+    "candidate_set": [
+      {
+        "concept": "邻居王浩然",
+        "reason": "互动的另一方，健身教练的身份解释了其对高蛋白低脂饮食的需求。"
+      },
+      {
+        "concept": "进口牛肉",
+        "reason": "交换物之一，体现了邻居的专业资源和对用户厨艺的认可。"
+      },
+      {
+        "concept": "自制全麦面包",
+        "reason": "用户提供的交换物，展示了其健康烘焙能力及乐于分享的特质。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_10",
+      "entity_03"
+    ],
+    "reasoning": "涉及较为边缘的社会关系（邻居）和具体的物物交换细节，需要理解用户社交圈层的多样性及互动逻辑。"
+  },
+  {
+    "id": "q_071",
+    "trigger_type": "情感相关记忆联想",
+    "question": "周三晚上面对冰箱里的剩余食材，那种‘变废为宝’的创作冲动让你兴奋，立刻开始即兴创作一道 Fusion 料理并记录笔记。",
+    "trigger_concept": "创作冲动",
+    "candidate_set": [
+      {
+        "concept": "周三晚上",
+        "reason": "用户固定的‘清空冰箱’挑战时间，是触发即兴创作的时间锚点。"
+      },
+      {
+        "concept": "剩余食材",
+        "reason": "创作的原材料来源，限制了条件反而激发了用户的 design thinking。"
+      },
+      {
+        "concept": "食谱笔记",
+        "reason": "创作过程的沉淀方式，体现了用户系统化学习和记录的习惯。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_11"
+    ],
+    "reasoning": "关联了特定的时间习惯、约束条件（剩余食材）和用户的职业思维（创作/记录），体现其生活规律。"
+  },
+  {
+    "id": "q_072",
+    "trigger_type": "情感相关记忆联想",
+    "question": "想起 2021 年年会那 50 份川味鹅肝酱获得的满堂彩，那份职业自信会让你在面对新的设计挑战时，也像对待美食一样充满创意与底气。",
+    "trigger_concept": "职业自信",
+    "candidate_set": [
+      {
+        "concept": "2021 年年会",
+        "reason": "确立用户‘设计师里的厨神’人设的关键事件节点。"
+      },
+      {
+        "concept": "川味鹅肝酱",
+        "reason": "该事件中的核心作品，代表了用户融合菜技艺的高光时刻。"
+      },
+      {
+        "concept": "设计挑战",
+        "reason": "烹饪上的成功转化为职场上的心理资源，帮助用户应对本职工作压力。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_12",
+      "entity_09"
+    ],
+    "reasoning": "需要跨越领域（烹饪成就->职场心态）进行联想，理解用户如何将生活爱好转化为职业赋能的深层心理机制。"
+  },
+  {
+    "id": "q_073",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每当完成一道创意摆盘完美的菜品，你会立刻拍摄大片修图发布小红书，而闺蜜陈思思的惊喜反应往往是你发布前最重要的信心来源。",
+    "trigger_concept": "信心来源",
+    "candidate_set": [
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "作为‘头号试吃员’，她的反馈是用户建立分享自信的关键环节。"
+      },
+      {
+        "concept": "精致便当",
+        "reason": "闺蜜经常品尝的作品形式，是两人互动和反馈的主要载体。"
+      },
+      {
+        "concept": "小红书发布",
+        "reason": "最终的行为出口，之前的信心积累是为了这一步的公开分享。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_06",
+      "emotion_06",
+      "multihop_07"
+    ],
+    "reasoning": "这是一个多跳推理，将‘摆盘成就’、‘闺蜜反馈’和‘社交媒体发布’串联起来，揭示了用户行为背后的完整心理闭环。"
+  },
+  {
+    "id": "q_074",
+    "trigger_type": "情感相关记忆联想",
+    "question": "2023 年那次惠灵顿牛排的挑战，从失败到完美成品的过程，标志着你正式将烘焙理论与西餐技艺融合，成为了你厨艺进阶的转折点。",
+    "trigger_concept": "技艺融合",
+    "candidate_set": [
+      {
+        "concept": "2023 年里程碑",
+        "reason": "该事件在用户个人成长时间轴上的定位，标志着成熟期的到来。"
+      },
+      {
+        "concept": "烘焙理论",
+        "reason": "用户系统学习过的知识体系，在此事件中与西餐实践得到了验证。"
+      },
+      {
+        "concept": "西餐融合",
+        "reason": "事件的结果，证明了用户具备跨菜系整合的能力。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_11",
+      "entity_08",
+      "multihop_05"
+    ],
+    "reasoning": "深入考察用户对自身技能发展路径的认知，需要理解‘理论’与‘实践’在特定事件中的交汇点。"
+  },
+  {
+    "id": "q_075",
+    "trigger_type": "情感相关记忆联想",
+    "question": "周五晚上卸下了一周的设计重担，你会进入‘治愈时刻’，此时 Siemens 蒸烤箱里飘出的法式甜点香气，是你独居生活中最安静的陪伴。",
+    "trigger_concept": "独居治愈",
+    "candidate_set": [
+      {
+        "concept": "Siemens 蒸烤箱",
+        "reason": "用户厨房中的核心设备，是制作法式甜点的工具，也是‘治愈时刻’的物理中心。"
+      },
+      {
+        "concept": "法式甜点",
+        "reason": "治愈时刻的具体产出物，其香气和制作过程构成了疗愈体验。"
+      },
+      {
+        "concept": "卸下重担",
+        "reason": "进入该情感状态的前置心理条件，即从工作状态切换到生活状态。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_06",
+      "emotion_04"
+    ],
+    "reasoning": "将抽象的情感（独居治愈）具象化为特定的设备、食物和状态，考察对生活场景细节的捕捉。"
+  },
+  {
+    "id": "q_076",
+    "trigger_type": "情感相关记忆联想",
+    "question": "当被需求方反复修改方案搞得焦头烂额时，你会拒绝外卖，因为外卖的豌杂面无法替代你自己手做的版本，只有那口重油重辣的刺激和切菜的节奏感，才能瞬间抚平被方案修改搞乱的心绪。",
+    "trigger_concept": "辛辣解压",
+    "candidate_set": [
+      {
+        "concept": "拒绝外卖",
+        "reason": "用户在压力下的坚定选择，认为工业化食品无法提供情感抚慰。"
+      },
+      {
+        "concept": "切菜节奏",
+        "reason": "通过肢体动作的重复性和节奏感来转移注意力，是解压机制的重要组成部分。"
+      },
+      {
+        "concept": "方案修改",
+        "reason": "压力的具体来源，直接导致了需要‘销魂豌杂面’来进行情绪宣泄。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_05",
+      "emotion_01"
+    ],
+    "reasoning": "再次强化工作压力与特定解压方式的关联，但侧重于解释‘为什么’拒绝外卖，逻辑更深层一点。"
+  },
+  {
+    "id": "q_077",
+    "trigger_type": "情感相关记忆联想",
+    "question": "收到父亲林建国从郊区寄来的新鲜土鸡和菌菇时，你会视频连线母亲张慧，在她的‘云指导’下烹饪正宗回锅肉，以此回应那份被关爱的温暖。",
+    "trigger_concept": "情感连接",
+    "candidate_set": [
+      {
+        "concept": "父亲寄来的土鸡",
+        "reason": "父爱的物质载体，触发整个家庭互动流程的起点。"
+      },
+      {
+        "concept": "视频通话",
+        "reason": "连接母亲的技术手段，实现了‘云指导’和跨越空间的家庭团聚感。"
+      },
+      {
+        "concept": "正宗回锅肉",
+        "reason": "母亲味觉记忆的根基，是连接两代人情感的味觉符号。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_05",
+      "multihop_01"
+    ],
+    "reasoning": "聚焦于家庭内部的情感流动，需要理解食材、通讯工具和传统菜肴在维系亲情中的共同作用。"
+  },
+  {
+    "id": "q_078",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在拥挤的网红店感到烦躁时，你会选择躲进隐蔽的 Bistro，关注食材原产地和烹饪创意，并通过撰写大众点评长评来平复心情。",
+    "trigger_concept": "品味美食",
+    "candidate_set": [
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "用户偏好的就餐环境，与嘈杂的网红店形成鲜明对比，提供宁静空间。"
+      },
+      {
+        "concept": "食材原产地",
+        "reason": "用户在 Bistr 就餐时的关注焦点，体现其对食物本质的追求。"
+      },
+      {
+        "concept": "大众点评长评",
+        "reason": "用户表达专业见解、重构秩序感的方式，是情绪平复后的理性输出。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_09"
+    ],
+    "reasoning": "考察用户在外出就餐时的复杂心理活动和行为模式，涉及环境偏好、关注点和后续行动。"
+  },
+  {
+    "id": "q_079",
+    "trigger_type": "情感相关记忆联想",
+    "question": "周三晚上面对冰箱里的剩余食材，那种‘变废为宝’的创作冲动让你兴奋，你会利用设计思维进行味型重构，即兴创作一道 Fusion 料理并记录笔记。",
+    "trigger_concept": "Fusion 料理",
+    "candidate_set": [
+      {
+        "concept": "清空冰箱挑战",
+        "reason": "用户周三晚上的固定活动名称，定义了创作的场景和约束。"
+      },
+      {
+        "concept": "设计思维",
+        "reason": "用户将烹饪视为‘可食用的产品设计’的核心理念，指导其进行味型重构。"
+      },
+      {
+        "concept": "食谱笔记",
+        "reason": "将即兴创作转化为系统知识的步骤，体现了用户严谨的学习态度。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_11"
+    ],
+    "reasoning": "将具体的烹饪行为（Fusion 料理）上升到方法论（设计思维）和习惯（记录笔记）的高度，考察对用户核心特质的理解。"
+  },
+  {
+    "id": "q_080",
+    "trigger_type": "情感相关记忆联想",
+    "question": "想起 2021 年年会那 50 份川味鹅肝酱获得的满堂彩，那份职业自信会让你在面对新的设计挑战时，也像对待美食一样，运用 Mise en place 的秩序感来从容应对。",
+    "trigger_concept": "秩序感",
+    "candidate_set": [
+      {
+        "concept": "2021 年年会",
+        "reason": "自信的来源事件，证明了用户在高压下也能产出高质量作品。"
+      },
+      {
+        "concept": "Mise en place",
+        "reason": "烹饪中的备菜秩序，被用户迁移到设计工作中，作为应对挑战的方法论。"
+      },
+      {
+        "concept": "设计挑战",
+        "reason": "职场中的实际应用场景，用户将烹饪中获得的秩序感应用于此。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_12",
+      "behavior_01"
+    ],
+    "reasoning": "这是一个高阶联想，将烹饪术语（Mise en place）跨界应用到职场心态，体现了用户‘食物产品经理’的独特思维方式。"
+  },
+  {
+    "id": "q_081",
+    "trigger_type": "多跳记忆联想",
+    "question": "父亲林建国每周从郊区寄来的新鲜土鸡，最终在周五晚上的治愈时刻化作了缓解思乡之情的简化版开水白菜。",
+    "trigger_concept": "父亲林建国",
+    "candidate_set": [
+      {
+        "concept": "新鲜土鸡",
+        "reason": "这是父亲林建国专门挑选并寄给晓雅的核心食材，是连接父女情感的物质载体。"
+      },
+      {
+        "concept": "周五晚上",
+        "reason": "这是晓雅固定的‘治愈时刻’时间段，专门用于慢炖汤品以应对孤独或思乡情绪。"
+      },
+      {
+        "concept": "简化版开水白菜",
+        "reason": "这是利用父亲寄来的土鸡，在周五晚上通过慢火吊汤制作出的特定菜品，用于情感慰藉。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "multihop_01"
+    ],
+    "reasoning": "用户提到父亲寄鸡，需联想到具体的接收时间（周五）、处理方式（慢炖）及最终成品（开水白菜），路径较短且实体明确。"
+  },
+  {
+    "id": "q_082",
+    "trigger_type": "多跳记忆联想",
+    "question": "被需求方修改方案搞得心烦时，拒绝外卖并制作销魂豌杂面，通过切菜的节奏感释放压力后，才能恢复状态去记录周三的食谱笔记。",
+    "trigger_concept": "方案修改",
+    "candidate_set": [
+      {
+        "concept": "销魂豌杂面",
+        "reason": "这是晓雅在工作压力大、心情烦躁时特意制作的重口味料理，用于情绪宣泄。"
+      },
+      {
+        "concept": "切菜节奏",
+        "reason": "制作豌杂面过程中，切菜的动作节奏是晓雅释放压力、平复心情的关键感官体验。"
+      },
+      {
+        "concept": "周三晚上",
+        "reason": "压力释放后的平静状态，使她能够继续进行每周三固定的‘清空冰箱’挑战并记录食谱笔记。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_02",
+      "multihop_12"
+    ],
+    "reasoning": "需要从‘方案修改’这一压力源，跳跃到具体的解压行为（做面、切菜），再关联到后续的常规工作流（周三记笔记），涉及情绪转化链条。"
+  },
+  {
+    "id": "q_083",
+    "trigger_type": "多跳记忆联想",
+    "question": "邻居王浩然提供的进口牛肉，结合受设计思维影响而掌握的低温慢煮技术，最终变成了邻里间高蛋白换低 GI 的默契交易。",
+    "trigger_concept": "邻居王浩然",
+    "candidate_set": [
+      {
+        "concept": "进口牛肉",
+        "reason": "这是健身教练王浩然提供给晓雅的特定食材，符合其高蛋白饮食需求，也是交换的起点。"
+      },
+      {
+        "concept": "低温慢煮机",
+        "reason": "晓雅利用此设备处理进口牛肉，体现了她将设计思维与烹饪技艺融合的专业能力。"
+      },
+      {
+        "concept": "自制全麦面包",
+        "reason": "这是晓雅用来交换王浩然进口牛肉的产物，代表了低 GI 饮食，完成了邻里间的价值互换。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_03"
+    ],
+    "reasoning": "需要连接人物（邻居）、特定食材（牛肉）、技术手段（低温慢煮）以及交换物（全麦面包），涉及社交关系与技术应用的交叉。"
+  },
+  {
+    "id": "q_084",
+    "trigger_type": "多跳记忆联想",
+    "question": "母亲张慧对传统回锅肉不够下饭的吐槽，激发了利用 Vitamix 料理机和精密电子秤进行低油改良的实验，试图在健康与味觉记忆间找到平衡。",
+    "trigger_concept": "母亲张慧",
+    "candidate_set": [
+      {
+        "concept": "正宗回锅肉",
+        "reason": "这是母亲张慧擅长的传统川菜，也是母女间关于‘够不够下饭’争论的焦点菜品。"
+      },
+      {
+        "concept": "Vitamix 料理机",
+        "reason": "晓雅使用此专业设备进行食材处理，是她进行‘低油改良’实验的关键工具之一。"
+      },
+      {
+        "concept": "低油改良版",
+        "reason": "这是晓雅为了回应母亲吐槽并结合自身健康理念，通过精密计算和实验得出的新派川菜成果。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_04"
+    ],
+    "reasoning": "需要从人物关系（母女争论）跳跃到具体的技术工具（料理机、电子秤），再推导出具体的创新成果（低油版），涉及代际观念冲突与技术解决的逻辑。"
+  },
+  {
+    "id": "q_085",
+    "trigger_type": "多跳记忆联想",
+    "question": "2021 年年会制作川味鹅肝酱获得的职业自信，让其在面对 2023 年惠灵顿牛排的挑战时，敢于将烘焙理论与西餐技艺融合，实现了从设计师到厨神的跨越。",
+    "trigger_concept": "2021 年年会",
+    "candidate_set": [
+      {
+        "concept": "川味鹅肝酱",
+        "reason": "这是晓雅在 2021 年年会上制作的伴手礼，其成功获得了全公司好评，是她职业自信的起点。"
+      },
+      {
+        "concept": "惠灵顿牛排",
+        "reason": "这是 2023 年晓雅挑战的高难度菜品，标志着其技艺的成熟，是建立在之前自信基础上的进阶。"
+      },
+      {
+        "concept": "技艺融合",
+        "reason": "指晓雅将烘焙理论（甜点经验）与西餐技艺（牛排处理）相结合的能力，是完成惠灵顿牛排的关键。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_05"
+    ],
+    "reasoning": "需要跨越两年的时间线，连接两个标志性事件（鹅肝酱、惠灵顿），并抽象出内在的心理变化（自信）和能力成长（技艺融合），逻辑链条最长。"
+  },
+  {
+    "id": "q_086",
+    "trigger_type": "多跳记忆联想",
+    "question": "周日上午在双流白家批发市场亲手挑选的极致新鲜食材，经过周五晚上治愈时刻的专注慢炖，最终成为了在小红书分享并获得社区认同的高质量内容。",
+    "trigger_concept": "双流白家批发市场",
+    "candidate_set": [
+      {
+        "concept": "周日上午",
+        "reason": "这是晓雅固定的采购时间，她在此时前往批发市场严格筛选核心食材。"
+      },
+      {
+        "concept": "周五晚上",
+        "reason": "采购回来的食材在此时段被用于‘治愈时刻’的慢炖，是食材转化为成品的关键加工期。"
+      },
+      {
+        "concept": "小红书分享",
+        "reason": "经过精心采购和烹饪的成品，最终通过此平台发布，完成了从食材到社区认同的价值闭环。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_06"
+    ],
+    "reasoning": "连接了采购地点、采购时间、烹饪时间以及最终的社交分享行为，涵盖了‘从田间到社交媒体’的全流程。"
+  },
+  {
+    "id": "q_087",
+    "trigger_type": "多跳记忆联想",
+    "question": "闺蜜陈思思作为头号试吃员对精致便当的惊喜反馈，不仅验证了产品迭代思路，更成为了发布小红书前获取信心的关键一环。",
+    "trigger_concept": "闺蜜陈思思",
+    "candidate_set": [
+      {
+        "concept": "精致便当",
+        "reason": "这是晓雅专门为思思制作的午餐，也是两人互动和‘产品测试’的核心载体。"
+      },
+      {
+        "concept": "惊喜反应",
+        "reason": "思思对便当的积极反馈，是晓雅验证自己‘产品迭代’思路是否成功的直接证据。"
+      },
+      {
+        "concept": "信心来源",
+        "reason": "来自思思的正面反馈，构成了晓雅在公共平台（小红书）发布作品前的心理支撑和信心基础。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "multihop_07"
+    ],
+    "reasoning": "围绕‘闺蜜’这一核心人物，串联起她参与的活动（吃便当）、反应（惊喜）以及对主角的心理影响（信心），关系直接紧密。"
+  },
+  {
+    "id": "q_088",
+    "trigger_type": "多跳记忆联想",
+    "question": "对网红排队店的烦躁情绪，驱使其转向隐蔽的 Bistro 寻找灵感，这种对食材原产地的深度分析习惯，反过来影响了周日采购时对蔬果新鲜度的严苛标准。",
+    "trigger_concept": "烦躁情绪",
+    "candidate_set": [
+      {
+        "concept": "隐蔽 Bistro",
+        "reason": "这是晓雅为了避开网红店喧嚣、寻求烹饪灵感而偏好的就餐场所类型。"
+      },
+      {
+        "concept": "食材原产地",
+        "reason": "在 Bistro 就餐时养成的对食材来源的关注习惯，是她作为美食评论者的核心分析维度。"
+      },
+      {
+        "concept": "采购标准",
+        "reason": "受外出就餐分析习惯的影响，她在周日去批发市场采购时，对食材新鲜度有着极高的验收标准。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_08"
+    ],
+    "reasoning": "需要从负面情绪（烦躁）推导到行为改变（去 Bistro），再抽象出思维习惯（关注原产地），最后映射到另一个场景（采购标准），逻辑跨度大。"
+  },
+  {
+    "id": "q_089",
+    "trigger_type": "多跳记忆联想",
+    "question": "受视觉传达专业背景影响，将色彩构成理论应用于创意摆盘，配合 Siemens 蒸烤箱烤制的法式甜点，最终在自然光下呈现出能在朋友圈引发第一波点赞的大片。",
+    "trigger_concept": "视觉传达设计",
+    "candidate_set": [
+      {
+        "concept": "色彩构成",
+        "reason": "这是晓雅大学专业的核心理论，被她直接迁移应用到烹饪的摆盘环节中。"
+      },
+      {
+        "concept": "Siemens 蒸烤箱",
+        "reason": "这是制作法式甜点所使用的关键设备，确保了成品的质感，是视觉呈现的物质基础。"
+      },
+      {
+        "concept": "朋友圈点赞",
+        "reason": "结合专业摆盘和精良设备产出的作品，在社交圈获得的第一波正向反馈，验证了设计思维的有效性。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_09"
+    ],
+    "reasoning": "连接了专业背景、理论应用、具体设备以及社交结果，展示了‘设计思维’如何具体落地到烹饪和分享中。"
+  },
+  {
+    "id": "q_090",
+    "trigger_type": "多跳记忆联想",
+    "question": "周三晚上的清空冰箱挑战，利用剩余食材进行的 Fusion 料理实验，其产生的食谱笔记不仅记录了变废为宝的过程，更成为了作为食物产品经理的核心资产。",
+    "trigger_concept": "周三晚上",
+    "candidate_set": [
+      {
+        "concept": "清空冰箱挑战",
+        "reason": "这是晓雅在周三晚上固定的活动，旨在通过创意解决剩余食材问题。"
+      },
+      {
+        "concept": "Fusion 料理",
+        "reason": "在清空冰箱过程中，利用剩余食材进行的融合菜式创作，体现了她的即兴创新能力。"
+      },
+      {
+        "concept": "食谱笔记",
+        "reason": "记录实验过程的文档，被晓雅视为‘食物产品经理’的核心资产，超越了简单的菜谱记录。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "multihop_10"
+    ],
+    "reasoning": "围绕‘周三晚上’这一时间点，串联起活动名称、料理类型和产出物，逻辑线性清晰。"
+  },
+  {
+    "id": "q_091",
+    "trigger_type": "多跳记忆联想",
+    "question": "父亲寄来的菌菇若伞盖不完整会被拒之门外，只有达标的食材才能进入 Le Creuset 铸铁锅，这种验收标准确保了最终端给思思的便当能让她露出惊喜表情。",
+    "trigger_concept": "父亲林建国",
+    "candidate_set": [
+      {
+        "concept": "食材验收",
+        "reason": "晓雅对父亲寄来的菌菇有严格的筛选标准（如伞盖完整性），体现了她对品质的极致追求。"
+      },
+      {
+        "concept": "Le Creuset 铸铁锅",
+        "reason": "只有通过验收的优质食材才有资格进入这口昂贵的锅中进行烹饪，是品质保障的最后一环。"
+      },
+      {
+        "concept": "闺蜜陈思思",
+        "reason": "严格筛选和烹饪的最终受益者，她的‘惊喜表情’是验证这一整套严苛流程价值的终点。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_11"
+    ],
+    "reasoning": "需要连接亲情（父亲）、质量控制（验收）、硬件设备（铸铁锅）和社交反馈（闺蜜表情），构建了从源头到终端的完整质量闭环。"
+  },
+  {
+    "id": "q_092",
+    "trigger_type": "多跳记忆联想",
+    "question": "工作压力大时制作的销魂豌杂面，通过辛辣味觉释放情绪后，让人能平静下来复盘当天的设计工作，这种味觉解压法已是应对需求方修改方案的固定流程。",
+    "trigger_concept": "工作压力大",
+    "candidate_set": [
+      {
+        "concept": "辛辣味觉",
+        "reason": "制作和食用豌杂面时的强烈味觉刺激，是晓雅释放负面情绪、调节心理状态的关键媒介。"
+      },
+      {
+        "concept": "设计复盘",
+        "reason": "情绪释放后的平静状态，使晓雅能够理性地回顾和反思当天的设计工作及方案修改问题。"
+      },
+      {
+        "concept": "方案修改",
+        "reason": "这是引发工作压力的具体源头，也是整个‘味觉解压 - 复盘’流程旨在解决的最终问题。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_12"
+    ],
+    "reasoning": "从压力源出发，经过生理/心理调节机制（辛辣味觉），达到认知层面的结果（设计复盘），形成了完整的压力管理闭环。"
+  },
+  {
+    "id": "q_093",
+    "trigger_type": "多跳记忆联想",
+    "question": "大学时期因怀念家乡味道开始自学，工作后受设计思维影响将烹饪视为可食用的产品设计，系统学习过烘焙理论及分子料理基础。",
+    "trigger_concept": "四川美术学院",
+    "candidate_set": [
+      {
+        "concept": "可食用的产品设计",
+        "reason": "晓雅将视觉传达和设计思维迁移到烹饪领域形成的独特理念，是她烹饪哲学的核心。"
+      },
+      {
+        "concept": "烘焙理论",
+        "reason": "受系统化设计思维影响，她不仅凭感觉做饭，还系统学习了包括烘焙在内的科学理论基础。"
+      },
+      {
+        "concept": "分子料理基础",
+        "reason": "同样作为系统学习的一部分，体现了她对烹饪科学性和创新性的追求，超越了传统家庭料理范畴。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "basic_info",
+      "cooking_background"
+    ],
+    "reasoning": "需要从教育背景（美院）跳跃到核心理念（产品设计），再关联到具体的学习领域（烘焙、分子料理），展示了专业背景对爱好的深度重塑。"
+  },
+  {
+    "id": "q_094",
+    "trigger_type": "多跳记忆联想",
+    "question": "独居第一年因无法适应外卖的高油高盐，决定改造出租屋厨房，花费 2 万元购置专业设备，正式开启系统自学烹饪之路。",
+    "trigger_concept": "独居第一年",
+    "candidate_set": [
+      {
+        "concept": "高油高盐",
+        "reason": "这是晓雅无法适应的外卖特点，也是促使她决心自己做饭并改造厨房的直接动因。"
+      },
+      {
+        "concept": "2 万元",
+        "reason": "为了追求健康和专业度，她在厨房改造和设备购置上投入的具体金额，显示了其决心。"
+      },
+      {
+        "concept": "专业设备",
+        "reason": "用 2 万元购置的物品，包括铸铁锅、蒸烤箱等，是她从‘吃饭’转向‘系统自学烹饪’的物质基础。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "life_milestones"
+    ],
+    "reasoning": "围绕‘独居第一年’这一时间节点，串联起因（外卖问题）、果（改造厨房）、投入（金额）和结果（开启自学），叙事完整。"
+  },
+  {
+    "id": "q_095",
+    "trigger_type": "多跳记忆联想",
+    "question": "在公司年会自制了 50 份川味鹅肝酱伴手礼，获得全公司好评，由此确立了设计师里的厨神人设，增强了职业自信。",
+    "trigger_concept": "公司年会",
+    "candidate_set": [
+      {
+        "concept": "50 份",
+        "reason": "晓雅制作伴手礼的具体数量，体现了其大规模出品的能力和对活动的重视程度。"
+      },
+      {
+        "concept": "川味鹅肝酱",
+        "reason": "这是她在年会上推出的创意菜品，融合了川菜与法餐元素，是获得好评的核心产品。"
+      },
+      {
+        "concept": "设计师里的厨神",
+        "reason": "因年会伴手礼的成功，晓雅在同事心中建立起的独特个人品牌和人设标签。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "life_milestones"
+    ],
+    "reasoning": "从事件（年会）出发，关联到具体执行细节（数量、菜品）以及由此产生的社会评价（人设），逻辑顺畅。"
+  },
+  {
+    "id": "q_096",
+    "trigger_type": "多跳记忆联想",
+    "question": "成功挑战制作复杂的惠灵顿牛排，虽然过程失败一次，但最终成品完美，标志着其烘焙与西餐技艺的成熟融合。",
+    "trigger_concept": "2023 年",
+    "candidate_set": [
+      {
+        "concept": "失败一次",
+        "reason": "制作惠灵顿牛排过程中的插曲，体现了挑战的难度以及晓雅面对挫折的态度。"
+      },
+      {
+        "concept": "成品完美",
+        "reason": "最终达成的结果，证明了其技艺的稳定性，是挑战成功的标志。"
+      },
+      {
+        "concept": "技艺融合",
+        "reason": "惠灵顿牛排的制作需要同时运用烘焙（酥皮）和西餐（牛排）技艺，其成功标志着这两项技能的成熟结合。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "life_milestones"
+    ],
+    "reasoning": "围绕 2023 年的里程碑事件，串联起过程中的波折（失败）、结果（完美）以及深层意义（技艺融合）。"
+  },
+  {
+    "id": "q_097",
+    "trigger_type": "多跳记忆联想",
+    "question": "偏好主厨餐桌或隐蔽的 Bistro，关注食材原产地和烹饪创意，对网红排队店兴趣寥寥，习惯写详细的大众点评长评。",
+    "trigger_concept": "主厨餐桌",
+    "candidate_set": [
+      {
+        "concept": "食材原产地",
+        "reason": "这是晓雅在外就餐时最关注的核心要素之一，反映了她对食物本质的追求。"
+      },
+      {
+        "concept": "网红排队店",
+        "reason": "这是晓雅明确表达不感兴趣的餐厅类型，与她的偏好形成鲜明对比。"
+      },
+      {
+        "concept": "大众点评长评",
+        "reason": "基于对食材和创意的深度分析，晓雅习惯在用餐后撰写详细的评论，分享专业见解。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "preferences"
+    ],
+    "reasoning": "从就餐偏好（主厨餐桌）出发，关联到关注点（原产地）、排斥对象（网红店）以及后续行为（写长评），描绘了完整的食客画像。"
+  },
+  {
+    "id": "q_098",
+    "trigger_type": "多跳记忆联想",
+    "question": "重度社交媒体分享者，喜欢给关系好的同事带精致便当，但拒绝在公共大群发图以免引起不适，习惯在自然光下修图调色后发布。",
+    "trigger_concept": "小红书",
+    "candidate_set": [
+      {
+        "concept": "精致便当",
+        "reason": "晓雅乐于分享给特定对象（好同事）的食物形式，体现了她分享的私密性和针对性。"
+      },
+      {
+        "concept": "公共大群",
+        "reason": "晓雅刻意避免分享的场所，显示了她高情商的一面，不愿在公开场合炫耀引起他人不适。"
+      },
+      {
+        "concept": "自然光",
+        "reason": "晓雅拍摄和修图时对光线的严格要求，确保发布的图片具有高质量的视觉效果。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "preferences"
+    ],
+    "reasoning": "围绕‘分享’这一行为，区分了分享对象（同事 vs 大群）、分享内容（便当）以及分享前的准备工作（自然光修图），展现了细腻的社交策略。"
+  },
+  {
+    "id": "q_099",
+    "trigger_type": "多跳记忆联想",
+    "question": "母亲常视频通话云指导做正宗回锅肉，是味觉记忆的根基，但也常抱怨做的菜太精致不够下饭，激发了低油改良的实验。",
+    "trigger_concept": "视频通话",
+    "candidate_set": [
+      {
+        "concept": "正宗回锅肉",
+        "reason": "母亲在视频通话中重点指导的菜品，代表了传统的味觉记忆和家庭纽带。"
+      },
+      {
+        "concept": "太精致",
+        "reason": "母亲对晓雅菜品的主要批评点，反映了传统实用主义与现代精致主义之间的观念差异。"
+      },
+      {
+        "concept": "低油改良",
+        "reason": "晓雅针对母亲抱怨和自身健康需求所采取的行动，试图在传统味道和现代健康间寻找平衡。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "family_relationships",
+      "multihop_04"
+    ],
+    "reasoning": "需要从沟通方式（视频）跳跃到具体菜品（回锅肉），再提炼出冲突点（太精致），最后推导出解决方案（改良），涉及情感、观念和行动的多个层面。"
+  },
+  {
+    "id": "q_100",
+    "trigger_type": "多跳记忆联想",
+    "question": "每周三晚上下班后进行清空冰箱挑战，利用剩余食材即兴创作一道 fusion 料理，并记录食谱笔记，将其视为食物产品经理的核心资产。",
+    "trigger_concept": "周三晚上",
+    "candidate_set": [
+      {
+        "concept": "剩余食材",
+        "reason": "清空冰箱挑战的处理对象，考验的是晓雅利用有限资源进行创新的能力。"
+      },
+      {
+        "concept": "Fusion 料理",
+        "reason": "晓雅在处理剩余食材时采用的烹饪风格，体现了她不受拘束、灵活多变的创意特点。"
+      },
+      {
+        "concept": "食物产品经理",
+        "reason": "晓雅对自身角色的定位，她将记录食谱笔记视为资产管理，体现了职业思维对生活爱好的渗透。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "daily_habits",
+      "multihop_10"
+    ],
+    "reasoning": "围绕‘周三晚上’的固定习惯，串联起操作对象（剩余食材）、产出类型（Fusion 料理）以及思维升华（产品经理视角），逻辑直接。"
+  }
+]

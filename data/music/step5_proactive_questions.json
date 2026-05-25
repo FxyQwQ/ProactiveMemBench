@@ -1,0 +1,2660 @@
+[
+  {
+    "id": "q_001",
+    "trigger_type": "时间相关记忆联想",
+    "question": "又是周三晚上八点了，得去书房坐坐了。",
+    "trigger_concept": "周三晚上八点",
+    "candidate_set": [
+      {
+        "concept": "哈农指法练习",
+        "reason": "联想路径：周三晚上→固定练琴时间→热身环节是哈农"
+      },
+      {
+        "concept": "德彪西《月光》",
+        "reason": "联想路径：周三晚上→固定练琴时间→当前主攻曲目是《月光》"
+      },
+      {
+        "concept": "张教授",
+        "reason": "联想路径：周三晚上练琴→《月光》音色问题→张教授曾批评音色朦胧感不足"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_03"
+    ],
+    "reasoning": "用户仅提及时间和地点，模型需联想到该时间段特有的行为模式（哈农热身、练《月光》）以及相关的人物评价（张教授的指导意见）。"
+  },
+  {
+    "id": "q_002",
+    "trigger_type": "时间相关记忆联想",
+    "question": "早啊，刚吃完早饭，电台声音开大点。",
+    "trigger_concept": "吃完早饭",
+    "candidate_set": [
+      {
+        "concept": "BBC Radio 3",
+        "reason": "联想路径：早餐时间→固定仪式→播放 BBC Radio 3 古典电台"
+      },
+      {
+        "concept": "开启一天的工作仪式",
+        "reason": "联想路径：早餐听广播→用户定义的晨间启动仪式"
+      },
+      {
+        "concept": "调高音量至 60%",
+        "reason": "联想路径：'开大点'指令→历史偏好记忆→用户晨间听新闻时的固定音量阈值"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_01"
+    ],
+    "reasoning": "用户提到早餐，模型应直接联想到固定的电台习惯和其背后的仪式感，这是单跳的直接记忆提取。"
+  },
+  {
+    "id": "q_003",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今天地铁 1 号线人好多，有点心烦。",
+    "trigger_concept": "地铁 1 号线",
+    "candidate_set": [
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：地铁通勤 + 心烦→情绪调节策略→听极简主义（Philip Glass）平复心情"
+      },
+      {
+        "concept": "降噪耳机",
+        "reason": "联想路径：地铁通勤→标准装备→佩戴降噪耳机切换歌单"
+      },
+      {
+        "concept": "极简主义",
+        "reason": "联想路径：心烦→需要严谨结构→极简主义音乐"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_02"
+    ],
+    "reasoning": "用户表达了地点和负面情绪，模型需联想到针对该场景和情绪的特定音乐解决方案（Philip Glass）及必备硬件（降噪耳机）。"
+  },
+  {
+    "id": "q_004",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "这周方案汇报前，我打算放点音乐预热一下。",
+    "trigger_concept": "方案汇报前",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：汇报前→调节会议氛围→固定选择坂本龙一《Async》"
+      },
+      {
+        "concept": "公司会议室",
+        "reason": "联想路径：方案汇报→发生地点→公司会议室"
+      },
+      {
+        "concept": "空间节奏",
+        "reason": "联想路径：汇报前听音乐→目的→让甲方进入空间节奏"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_07"
+    ],
+    "reasoning": "用户提到汇报前的意图，模型应直接推荐其习惯使用的特定曲目和地点，属于直接的行为模式匹配。"
+  },
+  {
+    "id": "q_005",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近赶图赶得头都大了，好想躲起来。",
+    "trigger_concept": "赶图/压力大",
+    "candidate_set": [
+      {
+        "concept": "巴赫《平均律》",
+        "reason": "联想路径：焦虑/赶图→情绪调节→弹奏巴赫《平均律》利用严谨结构平复"
+      },
+      {
+        "concept": "自家书房",
+        "reason": "联想路径：躲起来/练琴→私密空间→自家书房"
+      },
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：焦虑→重复性旋律→Philip Glass 的极简主义作品"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_08"
+    ],
+    "reasoning": "用户表达压力，模型需联想到其特定的抗压音乐处方（巴赫/Philip Glass）以及进行该活动的特定场所（书房）。"
+  },
+  {
+    "id": "q_006",
+    "trigger_type": "时间相关记忆联想",
+    "question": "又是周末下午，杭州天气不错。",
+    "trigger_concept": "周末下午",
+    "candidate_set": [
+      {
+        "concept": "独立唱片店",
+        "reason": "联想路径：周末下午→固定活动→探访杭州本地独立唱片店"
+      },
+      {
+        "concept": "苏苏",
+        "reason": "联想路径：逛唱片店/黑胶→共同爱好者→室友苏苏"
+      },
+      {
+        "concept": "黑胶唱片",
+        "reason": "联想路径：独立唱片店→目标物品→淘黑胶寻找灵感"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "time_05"
+    ],
+    "reasoning": "用户提到周末下午和好天气，模型应联想到其固定的线下活动（逛唱片店）及相关人物和物品。"
+  },
+  {
+    "id": "q_007",
+    "trigger_type": "实体相关记忆联想",
+    "question": "突然好想念小时候夏天的味道。",
+    "trigger_concept": "怀念夏天/童年",
+    "candidate_set": [
+      {
+        "concept": "久石让《Summer》",
+        "reason": "直接对应'夏天'的听觉符号，联想路径最短且最具画面感。"
+      },
+      {
+        "concept": "林建国（爷爷）",
+        "reason": "将'小时候'具体化为核心人物，是情感记忆的关键载体。"
+      },
+      {
+        "concept": "旧二胡",
+        "reason": "连接爷爷与音乐的具体信物，比抽象故事更具象且有记忆点。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_10"
+    ],
+    "reasoning": "用户表达模糊的情感（怀念夏天），模型需跨越情感、曲目、人物、具体物品（二胡）和故事（二泉映月）进行多跳联想，构建完整的怀旧场景。"
+  },
+  {
+    "id": "q_008",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚不想一个人待着，想去找苏苏。",
+    "trigger_concept": "找苏苏",
+    "candidate_set": [
+      {
+        "concept": "出租屋",
+        "reason": "联想路径：找苏苏→聚会地点→出租屋"
+      },
+      {
+        "concept": "黑胶唱片鉴赏",
+        "reason": "联想路径：找苏苏→共同活动→边喝酒边听黑胶"
+      },
+      {
+        "concept": "讲解曲目背景",
+        "reason": "联想路径：和苏苏听歌→角色分工→晓芸负责讲解背景"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_12"
+    ],
+    "reasoning": "用户提到人物，模型需联想到与该人物互动的特定场景、活动形式以及用户在其中的角色（讲解者）。"
+  },
+  {
+    "id": "q_009",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚才在钢琴上随便弹了一段，感觉灵感来了。",
+    "trigger_concept": "即兴弹奏/灵感",
+    "candidate_set": [
+      {
+        "concept": "手机录音",
+        "reason": "联想路径：灵感迸发→即时行为→用手机录音记录动机"
+      },
+      {
+        "concept": "不协和和弦",
+        "reason": "联想路径：即兴演奏→尝试风格→不协和和弦"
+      },
+      {
+        "concept": "环境音乐小样",
+        "reason": "联想路径：录音→后续用途→作为建筑方案的环境音乐素材"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_11"
+    ],
+    "reasoning": "用户描述了创作状态，模型需联想到紧随其后的动作（录音）、音乐特征（不协和和弦）以及最终的应用场景（建筑小样）。"
+  },
+  {
+    "id": "q_010",
+    "trigger_type": "实体相关记忆联想",
+    "question": "两个月没见张老师了，有点紧张。",
+    "trigger_concept": "见张老师",
+    "candidate_set": [
+      {
+        "concept": "回课",
+        "reason": "定义'见张老师'的核心目的和情境，信息量最大。"
+      },
+      {
+        "concept": "肖邦《夜曲》",
+        "reason": "将抽象的'紧张'具象化为具体的考核曲目，增加叙事细节。"
+      },
+      {
+        "concept": "情感不够细腻",
+        "reason": "直接解释'紧张'的根源（怕被批评），强化人物关系张力。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_04"
+    ],
+    "reasoning": "用户提到见老师，模型需联想到见面频率、具体目的（回课）、上次的具体曲目及受到的具体批评，形成完整的叙事链。"
+  },
+  {
+    "id": "q_011",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "西湖边的风很舒服，适合发呆。",
+    "trigger_concept": "西湖边",
+    "candidate_set": [
+      {
+        "concept": "德彪西《水中倒影》",
+        "reason": "联想路径：西湖/水→通感体验→听《水中倒影》"
+      },
+      {
+        "concept": "便携蓝牙音箱",
+        "reason": "联想路径：户外听歌→携带设备→便携蓝牙音箱"
+      },
+      {
+        "concept": "建筑设计的通感",
+        "reason": "联想路径：看湖水听音乐→目的→获取设计灵感/通感"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_06"
+    ],
+    "reasoning": "用户提到地点和状态，模型需联想到在该地点进行的特定音乐活动、所需设备以及该活动对职业（建筑设计）的特殊意义。"
+  },
+  {
+    "id": "q_012",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚想出去透透气，感受点激烈的东西。",
+    "trigger_concept": "感受激烈/透透气",
+    "candidate_set": [
+      {
+        "concept": "MAO Livehouse",
+        "reason": "直接对应'激烈'和'透透气'的最佳场景，联想最自然。"
+      },
+      {
+        "concept": "低音震动",
+        "reason": "从视觉/听觉转为触觉描写，最能体现'感受激烈'的生理体验。"
+      },
+      {
+        "concept": "林子豪",
+        "reason": "引入关键人物，为'激烈'的音乐偏好提供人格化支撑。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_09"
+    ],
+    "reasoning": "用户表达模糊的需求（激烈），模型需联想到具体的场所、相关人物（表弟）、感官体验（低音）以及两人之间特有的冲突话题（古典 vs 摇滚）。"
+  },
+  {
+    "id": "q_013",
+    "trigger_type": "多跳记忆联想",
+    "question": "早上广播里好像在放印象派的作品。",
+    "trigger_concept": "广播/印象派",
+    "candidate_set": [
+      {
+        "concept": "德彪西",
+        "reason": "印象派音乐的代名词，直接锚定广播内容的具体指向。"
+      },
+      {
+        "concept": "《月光》",
+        "reason": "将流派具体化为正在练习的曲目，建立个人与广播的联系。"
+      },
+      {
+        "concept": "朦胧感",
+        "reason": "提炼印象派的核心美学特征，也是主角追求的技术目标。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_01",
+      "time_03"
+    ],
+    "reasoning": "从广播中的流派出发，关联到最爱的作曲家，再跳到正在练习的具体曲目，最后延伸到老师对该曲目特定技术指标的评价，跨越多层记忆。"
+  },
+  {
+    "id": "q_014",
+    "trigger_type": "情感相关记忆联想",
+    "question": "在地铁上听到一首 City Pop，心情变好了。",
+    "trigger_concept": "City Pop",
+    "candidate_set": [
+      {
+        "concept": "心情不错",
+        "reason": "联想路径：City Pop→触发条件→心情不错时切换的歌单"
+      },
+      {
+        "concept": "跟着节奏晃悠",
+        "reason": "联想路径：City Pop/心情好→行为反应→身体律动"
+      },
+      {
+        "concept": "极简主义",
+        "reason": "联想路径：City Pop→对比项→心情烦时听的极简主义（Philip Glass）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_02"
+    ],
+    "reasoning": "用户提到一种音乐风格，模型需联想到该风格对应的情绪状态、行为反应，以及与之相对立的另一种风格（作为对比记忆）。"
+  },
+  {
+    "id": "q_015",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚翻到一张旧黑胶，想起以前和苏苏熬夜的日子。",
+    "trigger_concept": "苏苏/黑胶",
+    "candidate_set": [
+      {
+        "concept": "出租屋",
+        "reason": "承载'熬夜'和'旧时光'的具体空间，极具怀旧氛围。"
+      },
+      {
+        "concept": "喝酒",
+        "reason": "还原'熬夜听黑胶'的典型行为场景，增强生活气息。"
+      },
+      {
+        "concept": "独立唱片店",
+        "reason": "交代'黑胶'的来源，补充了两人共同活动的背景记忆。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_12",
+      "time_05"
+    ],
+    "reasoning": "从人物和物品出发，还原出具体的场景（出租屋）、活动细节（喝酒、分工）以及物品的获取来源（唱片店），构建完整的生活片段。"
+  },
+  {
+    "id": "q_016",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "又要去会议室了，希望能顺利点。",
+    "trigger_concept": "会议室",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：会议室/汇报→预热音乐→《Async》"
+      },
+      {
+        "concept": "调节会议节奏",
+        "reason": "联想路径：放音乐→目的→让甲方静心/调节节奏"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：会议室/音效→合作伙伴→阿杰（音效设计师）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_07"
+    ],
+    "reasoning": "用户提到地点，模型需联想到在该地点执行的特定音乐操作、操作目的，以及可能涉及的相关同事（阿杰）。"
+  },
+  {
+    "id": "q_017",
+    "trigger_type": "情感相关记忆联想",
+    "question": "刚才弹巴赫的时候，感觉整个人都静下来了。",
+    "trigger_concept": "弹巴赫",
+    "candidate_set": [
+      {
+        "concept": "《平均律》",
+        "reason": "巴赫最具代表性的作品，直接对应'弹巴赫'的具体内容。"
+      },
+      {
+        "concept": "严谨的结构",
+        "reason": "解释为何巴赫能让人'静下来'的核心逻辑，信息价值高。"
+      },
+      {
+        "concept": "焦虑/压力大",
+        "reason": "提供'静下来'的对比情境，突显音乐的心理疗愈作用。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_08",
+      "entity_08"
+    ],
+    "reasoning": "从行为和感受出发，反推触发该行为的情绪状态、具体曲目、音乐特征，甚至延伸到用户作为建筑师对音乐的独特隐喻理解（哥特教堂）。"
+  },
+  {
+    "id": "q_018",
+    "trigger_type": "实体相关记忆联想",
+    "question": "表弟说古典乐都过时了，真让人无语。",
+    "trigger_concept": "表弟/古典乐过时",
+    "candidate_set": [
+      {
+        "concept": "林子豪",
+        "reason": "明确'表弟'的具体身份，是冲突的直接对象。"
+      },
+      {
+        "concept": "电吉他/摇滚乐队",
+        "reason": "具象化'古典乐过时'论调的对立面，确立冲突本质。"
+      },
+      {
+        "concept": "钢琴与电吉他合奏",
+        "reason": "展现冲突后的独特互动方式，比单纯争论更有记忆点。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_09"
+    ],
+    "reasoning": "从冲突话题出发，关联到具体人物姓名、其音乐身份、两人独特的互动方式（合奏）以及共同出现的场所，展现复杂的人物关系。"
+  },
+  {
+    "id": "q_019",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚书房灯光调暗点，想录点什么。",
+    "trigger_concept": "书房/录音",
+    "candidate_set": [
+      {
+        "concept": "即兴演奏",
+        "reason": "直接定义'录点什么'的内容形式，最符合深夜灵感情境。"
+      },
+      {
+        "concept": "不协和和弦",
+        "reason": "具体化即兴的风格特征，体现'调暗灯光'下的探索感。"
+      },
+      {
+        "concept": "雅马哈 U1",
+        "reason": "锁定书房中的核心乐器，为录音场景提供实物锚点。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "time_11",
+      "scenes"
+    ],
+    "reasoning": "用户提到地点和行为意图，模型需联想到具体的演奏方式、音乐风格特征、最终产出物以及该地点的具体乐器型号。"
+  },
+  {
+    "id": "q_020",
+    "trigger_type": "实体相关记忆联想",
+    "question": "听到《二泉映月》就想起爷爷拉琴的样子。",
+    "trigger_concept": "《二泉映月》/爷爷",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "将'爷爷'具体化为名字，增强情感连接的真实性。"
+      },
+      {
+        "concept": "旧二胡",
+        "reason": "连接《二泉映月》与爷爷的关键信物，是记忆的物理载体。"
+      },
+      {
+        "concept": "音乐不仅是竞争更是陪伴",
+        "reason": "升华回忆的主题，提取出最具情感价值的核心感悟。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "time_10",
+      "life_events"
+    ],
+    "reasoning": "从曲目和亲人称呼出发，关联到亲人的全名、职业、具体的信物（旧二胡）以及该信物背后蕴含的深刻人生哲理（竞争与陪伴），需要深层的情感记忆提取。"
+  },
+  {
+    "id": "q_021",
+    "trigger_type": "实体相关记忆联想",
+    "question": "今天练琴时突然觉得肖邦的装饰音特别有味道。",
+    "trigger_concept": "肖邦",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "联想路径：肖邦装饰音→用户曾对比东方线性旋律→爷爷拉二胡的吟唱感"
+      },
+      {
+        "concept": "二胡",
+        "reason": "联想路径：肖邦装饰音→用户认为其与二胡的滑音有异曲同工之妙"
+      },
+      {
+        "concept": "《夜曲》",
+        "reason": "联想路径：肖邦→用户最常练习且情感投射最强的曲目"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_01"
+    ],
+    "reasoning": "用户提到肖邦，模型应联想到用户独特的跨文化视角（将肖邦与爷爷的二胡联系），这是用户之前透露过的深层感悟。"
+  },
+  {
+    "id": "q_022",
+    "trigger_type": "实体相关记忆联想",
+    "question": "刚在书房弹完《月光》，感觉还是差点意思。",
+    "trigger_concept": "《月光》",
+    "candidate_set": [
+      {
+        "concept": "张教授",
+        "reason": "联想路径：《月光》练不好→用户定期回课对象→张老师曾批评技巧有余情感不足"
+      },
+      {
+        "concept": "朦胧感",
+        "reason": "联想路径：《月光》→用户追求的核心音色特质→印象派的留白"
+      },
+      {
+        "concept": "建筑师思维",
+        "reason": "联想路径：《月光》弹不好→张老师指出用户太像建筑师追求结构精准"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_04"
+    ],
+    "reasoning": "用户表达对《月光》的不满，模型应主动回忆起恩师的具体评价及用户职业习惯对演奏的影响。"
+  },
+  {
+    "id": "q_023",
+    "trigger_type": "实体相关记忆联想",
+    "question": "看到角落里那台雅马哈 U1，突然很怀念小时候。",
+    "trigger_concept": "雅马哈 U1",
+    "candidate_set": [
+      {
+        "concept": "星海牌立式钢琴",
+        "reason": "联想路径：雅马哈 U1（现用）→对比→妈妈买的旧星海钢琴（童年记忆载体）"
+      },
+      {
+        "concept": "陈秀英",
+        "reason": "联想路径：星海钢琴→妈妈省吃俭用购买→音乐改变气质的信念"
+      },
+      {
+        "concept": "纺织厂",
+        "reason": "联想路径：陈秀英→年轻时的身份背景→买琴资金来源"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_02",
+      "entity_12"
+    ],
+    "reasoning": "用户由现在的钢琴怀念过去，模型应联想到承载家族记忆的旧钢琴及其背后的母亲故事。"
+  },
+  {
+    "id": "q_024",
+    "trigger_type": "实体相关记忆联想",
+    "question": "表弟最近又在朋友圈发他乐队演出的视频了。",
+    "trigger_concept": "表弟",
+    "candidate_set": [
+      {
+        "concept": "林子豪",
+        "reason": "联想路径：表弟→具体名字→电吉他爱好者"
+      },
+      {
+        "concept": "电吉他",
+        "reason": "联想路径：表弟→常用乐器→与用户钢琴合奏产生风格碰撞"
+      },
+      {
+        "concept": "古典乐是否过时",
+        "reason": "联想路径：表弟→两人常争论的话题→代际音乐审美差异"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_03"
+    ],
+    "reasoning": "提到表弟，模型应联想到具体的名字、乐器以及两人之间特有的关于古典与现代的音乐争论。"
+  },
+  {
+    "id": "q_025",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "苏苏昨晚又给我推荐了一张很难找的黑胶。",
+    "trigger_concept": "苏苏",
+    "candidate_set": [
+      {
+        "concept": "City Pop",
+        "reason": "联想路径：苏苏→擅长挖掘的流派→弥补用户学院派视野局限"
+      },
+      {
+        "concept": "不懂乐理",
+        "reason": "联想路径：苏苏→虽然不会乐器但品味极佳→独特的选曲视角"
+      },
+      {
+        "concept": "出租屋喝酒",
+        "reason": "联想路径：苏苏→两人固定的社交场景→边听边聊曲目背景"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_05"
+    ],
+    "reasoning": "提到苏苏和黑胶，模型应联想到她独特的非专业背景带来的品味优势，以及两人特定的相处模式。"
+  },
+  {
+    "id": "q_026",
+    "trigger_type": "实体相关记忆联想",
+    "question": "正在给一个新的办公空间做声学方案，想找点灵感。",
+    "trigger_concept": "声学方案",
+    "candidate_set": [
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：声学方案→固定搭档→音效设计师"
+      },
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：阿杰→共同语言→极简电子质感"
+      },
+      {
+        "concept": "白噪音",
+        "reason": "联想路径：阿杰的项目→用户曾为其弹奏钢琴采样"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "entity_06"
+    ],
+    "reasoning": "提到工作相关的声学方案，模型应立刻联想到合作伙伴阿杰及他们共同偏好的音乐风格。"
+  },
+  {
+    "id": "q_027",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近压力好大，只想弹点结构严谨的东西。",
+    "trigger_concept": "压力大",
+    "candidate_set": [
+      {
+        "concept": "巴赫《平均律》",
+        "reason": "联想路径：压力大/求严谨→用户的首选镇定剂→对位法与数学逻辑"
+      },
+      {
+        "concept": "哥特式教堂",
+        "reason": "联想路径：巴赫→用户作为建筑师的独特比喻→秩序美感"
+      },
+      {
+        "concept": "焦虑",
+        "reason": "联想路径：压力大→用户的情绪映射→通过重复旋律平复"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_08",
+      "emotion_01"
+    ],
+    "reasoning": "用户表达情绪状态，模型需联想到特定的曲目选择及其背后独特的职业类比（建筑与音乐的通感）。"
+  },
+  {
+    "id": "q_028",
+    "trigger_type": "实体相关记忆联想",
+    "question": "刚才路过杭州少年宫，想起好多往事。",
+    "trigger_concept": "杭州少年宫",
+    "candidate_set": [
+      {
+        "concept": "业余十级证书",
+        "reason": "联想路径：少年宫→学习成果→中国音乐家协会证书"
+      },
+      {
+        "concept": "陈秀英",
+        "reason": "联想路径：证书→妈妈的骄傲→纺织女工的支持"
+      },
+      {
+        "concept": "林建国",
+        "reason": "联想路径：少年宫时期→爷爷送二胡鼓励→明白音乐是陪伴"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_09",
+      "life_events"
+    ],
+    "reasoning": "地点触发回忆，模型需串联起该地点相关的多重人物关系（妈妈的支持、爷爷的启蒙）及标志性事件（获奖、送礼）。"
+  },
+  {
+    "id": "q_029",
+    "trigger_type": "多跳记忆联想",
+    "question": "听久石让的曲子总让我想起夏天的味道。",
+    "trigger_concept": "久石让",
+    "candidate_set": [
+      {
+        "concept": "《Summer》",
+        "reason": "联想路径：久石让/夏天→具体曲目→童年记忆通道"
+      },
+      {
+        "concept": "林建国",
+        "reason": "联想路径：童年/夏天→爷爷讲述故事的季节→叙事性共鸣"
+      },
+      {
+        "concept": "《二泉映月》",
+        "reason": "联想路径：爷爷的故事→中国旋律美感启蒙→与久石让的叙事性对比"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_07",
+      "emotion_music_map"
+    ],
+    "reasoning": "从音乐家联想到特定曲目，再深入到该曲目触发的具体人物（爷爷）和另一首看似无关但情感同源的中国曲目。"
+  },
+  {
+    "id": "q_030",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "我觉得现代建筑的立面设计越来越像某种音乐了。",
+    "trigger_concept": "现代建筑立面",
+    "candidate_set": [
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：建筑立面→重复与微变→极简主义代表人物"
+      },
+      {
+        "concept": "极简主义",
+        "reason": "联想路径：Philip Glass→音乐风格→单一元素无限复制"
+      },
+      {
+        "concept": "地铁 1 号线",
+        "reason": "联想路径：Philip Glass→用户通勤时的 listening habit→辅助思考方案"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_10",
+      "behavior_02"
+    ],
+    "reasoning": "用户提出抽象的专业观点，模型需联想到具体的音乐家、风格以及用户在实际生活场景（通勤）中如何实践这一理论。"
+  },
+  {
+    "id": "q_031",
+    "trigger_type": "多跳记忆联想",
+    "question": "张教授上次说我的演奏太理性了。",
+    "trigger_concept": "张教授",
+    "candidate_set": [
+      {
+        "concept": "德彪西《月光》",
+        "reason": "联想路径：太理性/缺乏情感→具体被批评的曲目→印象派需要朦胧"
+      },
+      {
+        "concept": "建筑师思维",
+        "reason": "联想路径：理性→用户职业本能→追求结构精准而忽略留白"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：缺乏朦胧感→解决方案→与阿杰合作采样白噪音来弥补"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_04",
+      "entity_06"
+    ],
+    "reasoning": "从老师的批评出发，联想到具体的曲目背景、职业根源，甚至延伸到用户尝试解决的跨界合作方案。"
+  },
+  {
+    "id": "q_032",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "有时候真羡慕苏苏那种凭直觉选歌的能力。",
+    "trigger_concept": "苏苏",
+    "candidate_set": [
+      {
+        "concept": "黑胶唱片",
+        "reason": "联想路径：苏苏/选歌→媒介→收藏品味"
+      },
+      {
+        "concept": "独立唱片店",
+        "reason": "联想路径：黑胶→周末探访地点→寻找灵感"
+      },
+      {
+        "concept": "学院派局限",
+        "reason": "联想路径：羡慕直觉→反思自身→科班出身导致的听觉视野局限"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_05",
+      "daily_habits"
+    ],
+    "reasoning": "由对朋友的羡慕，联想到具体的音乐载体、活动地点，以及用户对自己专业背景的反思。"
+  },
+  {
+    "id": "q_033",
+    "trigger_type": "实体相关记忆联想",
+    "question": "我想试着把钢琴的声音做得更‘空间化’一点。",
+    "trigger_concept": "钢琴声音空间化",
+    "candidate_set": [
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：空间化/音效→合作伙伴→音效设计师"
+      },
+      {
+        "concept": "坂本龙一",
+        "reason": "联想路径：空间化美学→共同语言→《Async》的极简电子质感"
+      },
+      {
+        "concept": "硕士毕业展",
+        "reason": "联想路径：音乐与空间融合→历史高光时刻→曾现场弹奏建筑流线曲"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_06",
+      "life_events"
+    ],
+    "reasoning": "从技术/艺术需求出发，联想到关键人物、审美标杆，以及用户过去成功实现类似融合的重大事件。"
+  },
+  {
+    "id": "q_034",
+    "trigger_type": "实体相关记忆联想",
+    "question": "每次听到《二泉映月》的故事都很触动。",
+    "trigger_concept": "《二泉映月》",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "联想路径：故事讲述者→爷爷→启蒙者"
+      },
+      {
+        "concept": "二胡",
+        "reason": "联想路径：曲目原乐器→爷爷擅长的乐器→线性旋律美"
+      },
+      {
+        "concept": "肖邦装饰音",
+        "reason": "联想路径：二胡吟唱感→用户独特的跨文化联想→与西方浪漫主义对比"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "entity_11",
+      "entity_01"
+    ],
+    "reasoning": "从中国曲目出发，联想到亲情纽带、乐器特质，并能跨越文化边界联想到用户曾提出的中西音乐美学对比。"
+  },
+  {
+    "id": "q_035",
+    "trigger_type": "情感相关记忆联想",
+    "question": "毕业那年在台上弹琴的那一刻，至今难忘。",
+    "trigger_concept": "毕业弹琴",
+    "candidate_set": [
+      {
+        "concept": "《送别》",
+        "reason": "联想路径：毕业/台上→具体曲目→全班即兴伴奏"
+      },
+      {
+        "concept": "凝聚情感的力量",
+        "reason": "联想路径：《送别》演出→用户的核心感悟→坚定音乐伴随一生"
+      },
+      {
+        "concept": "硕士毕业展",
+        "reason": "联想路径：毕业弹琴→另一次重要演出→建筑与音乐融合的尝试"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "life_events"
+    ],
+    "reasoning": "用户模糊提及“毕业弹琴”，模型需区分并联想两次不同的毕业经历（高中 vs 硕士），提取具体曲目和深层感悟，展示对时间线的精准记忆。"
+  },
+  {
+    "id": "q_036",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "我觉得极简主义音乐和我现在的设计手法特别像。",
+    "trigger_concept": "极简主义音乐",
+    "candidate_set": [
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：极简主义→代表人物→重复与微调"
+      },
+      {
+        "concept": "现代建筑立面",
+        "reason": "联想路径：设计手法→具体应用对象→立面元素的复制与变异"
+      },
+      {
+        "concept": "地铁 1 号线",
+        "reason": "联想路径：Philip Glass→用户通勤歌单→忙碌时听极简主义辅助工作"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_10",
+      "behavior_02"
+    ],
+    "reasoning": "从抽象的理论类比出发，模型需同时联想到具体的音乐家、对应的设计领域细节，以及用户在日常通勤中实践这一理论的行为习惯，形成理论 - 实践 - 生活的闭环。"
+  },
+  {
+    "id": "q_037",
+    "trigger_type": "实体相关记忆联想",
+    "question": "有时候觉得我和林子豪的音乐观念冲突挺有意思的。",
+    "trigger_concept": "林子豪",
+    "candidate_set": [
+      {
+        "concept": "电吉他",
+        "reason": "联想路径：音乐观念冲突→具体乐器→摇滚 vs 古典"
+      },
+      {
+        "concept": "钢琴即兴伴奏",
+        "reason": "联想路径：冲突中的合作→用户用钢琴配合他的失真 riff"
+      },
+      {
+        "concept": "建筑空间感",
+        "reason": "联想路径：风格碰撞→产生的意外效果→古典和声与现代噪音构建的空间感"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_03"
+    ],
+    "reasoning": "从人物关系出发，联想到具体的冲突点（乐器）、合作形式（即兴合奏），以及用户作为建筑师对这种合作产生的独特专业解读（空间感）。"
+  },
+  {
+    "id": "q_038",
+    "trigger_type": "实体相关记忆联想",
+    "question": "妈妈以前总说音乐能改变人的气质。",
+    "trigger_concept": "妈妈",
+    "candidate_set": [
+      {
+        "concept": "陈秀英",
+        "reason": "联想路径：妈妈→具体名字→纺织厂女工"
+      },
+      {
+        "concept": "星海牌立式钢琴",
+        "reason": "联想路径：改变气质→行动证明→省吃俭用买的第一台钢琴"
+      },
+      {
+        "concept": "业余十级证书",
+        "reason": "联想路径：买琴→期望成果→妈妈最大的骄傲"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "entity_02",
+      "entity_09"
+    ],
+    "reasoning": "从母亲的一句名言出发，模型需追溯到具体的历史事件（买琴）、家庭背景（纺织厂），并关联到这一信念的最终见证物（证书），构建完整的家族叙事。"
+  },
+  {
+    "id": "q_039",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "在会议室放音乐也是有讲究的，不能随便放。",
+    "trigger_concept": "会议室",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：会议室/讲究→用户的选择→调节节奏和氛围"
+      },
+      {
+        "concept": "方案汇报",
+        "reason": "联想路径：会议室场景→具体活动→向甲方展示前"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：空间氛围/音乐搭配→经常讨论此话题的同事→音效设计师"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "scenes",
+      "entity_06"
+    ],
+    "reasoning": "从工作场景出发，联想到用户特定的音乐选择策略、具体的应用场景（汇报），以及与此相关的专业合作伙伴，体现用户将音乐融入职业细节的习惯。"
+  },
+  {
+    "id": "q_040",
+    "trigger_type": "情感相关记忆联想",
+    "question": "我想找回小时候那种纯粹的音乐感动。",
+    "trigger_concept": "小时候",
+    "candidate_set": [
+      {
+        "concept": "林建国",
+        "reason": "联想路径：小时候/感动→爷爷讲故事→《二泉映月》"
+      },
+      {
+        "concept": "旧二胡",
+        "reason": "联想路径：小时候→10 岁比赛失利后爷爷送的礼物→音乐是陪伴"
+      },
+      {
+        "concept": "久石让《Summer》",
+        "reason": "联想路径：小时候/夏天→怀旧时的首选曲目→童年记忆通道"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "life_events",
+      "emotion_music_map",
+      "entity_11"
+    ],
+    "reasoning": "用户表达抽象的情感需求，模型需跨越多个记忆片段，整合爷爷的教导、特定的礼物事件以及特定的怀旧曲目，提供多维度的情感回应。"
+  },
+  {
+    "id": "q_041",
+    "trigger_type": "情感相关记忆联想",
+    "question": "今天赶图赶到心跳加速，焦虑感爆棚，只想躲起来。",
+    "trigger_concept": "焦虑",
+    "candidate_set": [
+      {
+        "concept": "巴赫《平均律》",
+        "reason": "联想路径：焦虑 -> 用户特定的情绪调节机制 -> 弹奏巴赫《平均律》以利用其严丝合缝的结构平复心绪"
+      },
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：焦虑 -> 用户特定的情绪调节机制 -> 聆听或弹奏 Philip Glass 的极简主义重复音型"
+      },
+      {
+        "concept": "自家书房",
+        "reason": "联想路径：焦虑 -> 躲避行为 -> 用户习惯躲进放有雅马哈 U1 钢琴的书房进行自我调节"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_01"
+    ],
+    "reasoning": "用户表达了强烈的焦虑情绪，模型应主动联想到用户画像中定义的特定应对策略（巴赫/Philip Glass）和特定场所（书房），这是用户未提及但已建立的条件反射。"
+  },
+  {
+    "id": "q_042",
+    "trigger_type": "情感相关记忆联想",
+    "question": "刚才方案又被甲方否决了，心里特别失落，想一个人待会儿。",
+    "trigger_concept": "失落",
+    "candidate_set": [
+      {
+        "concept": "肖邦《夜曲》",
+        "reason": "联想路径：失落 -> 用户悲伤时的首选曲目 -> 肖邦《夜曲》"
+      },
+      {
+        "concept": "拉赫玛尼诺夫",
+        "reason": "联想路径：失落 -> 用户悲伤时的首选作曲家 -> 拉赫玛尼诺夫的慢板乐章"
+      },
+      {
+        "concept": "宣泄情绪",
+        "reason": "联想路径：失落 -> 用户处理悲伤的方式 -> 允许自己沉浸在宏大的忧郁中宣泄，而非强行振作"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_02"
+    ],
+    "reasoning": "用户表达失落，模型需联想到用户独特的‘沉浸式悲伤’习惯，即通过特定古典乐（肖邦/拉赫玛尼诺夫）来宣泄，而不是寻求安慰。"
+  },
+  {
+    "id": "q_043",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "突然想到了一个绝妙的建筑流线，兴奋得坐不住了！",
+    "trigger_concept": "灵感迸发",
+    "candidate_set": [
+      {
+        "concept": "钢琴即兴演奏",
+        "reason": "联想路径：灵感兴奋 -> 用户的捕捉方式 -> 冲到钢琴前随意敲击不协和和弦"
+      },
+      {
+        "concept": "手机录音",
+        "reason": "联想路径：灵感兴奋 -> 记录手段 -> 立刻用手机录下旋律动机作为小样核心"
+      },
+      {
+        "concept": "环境音乐小样",
+        "reason": "联想路径：灵感兴奋 -> 最终产出目的 -> 为建筑设计创作环境音乐小样"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_03"
+    ],
+    "reasoning": "用户处于灵感兴奋状态，模型应联想到用户将建筑灵感转化为音乐动机的独特工作流（即兴->录音->小样）。"
+  },
+  {
+    "id": "q_044",
+    "trigger_type": "实体相关记忆联想",
+    "question": "今晚特别想念爷爷，感觉心里空落落的。",
+    "trigger_concept": "思念",
+    "candidate_set": [
+      {
+        "concept": "久石让《Summer》",
+        "reason": "联想路径：思念爷爷 -> 触发回忆的音乐符号 -> 久石让《Summer》"
+      },
+      {
+        "concept": "旧录音",
+        "reason": "联想路径：思念爷爷 -> 触发回忆的实物 -> 小时候在少年宫练琴的旧录音"
+      },
+      {
+        "concept": "二胡",
+        "reason": "联想路径：思念爷爷 -> 爷爷的音乐符号 -> 爷爷曾拉的旧二胡及《二泉映月》的故事"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_04"
+    ],
+    "reasoning": "用户表达对他人的思念，模型需精准定位到与该人物（爷爷）强绑定的音乐记忆（《Summer》、二胡、旧录音）。"
+  },
+  {
+    "id": "q_045",
+    "trigger_type": "情感相关记忆联想",
+    "question": "准备开始画复杂的剖面图了，需要让心静下来。",
+    "trigger_concept": "平静/专注",
+    "candidate_set": [
+      {
+        "concept": "德彪西《月光》",
+        "reason": "联想路径：需要静心绘图 -> 用户的仪式感音乐 -> 德彪西《月光》"
+      },
+      {
+        "concept": "心流状态",
+        "reason": "联想路径：需要静心绘图 -> 期望达到的心理状态 -> 类似‘水中倒影’般清澈的心流"
+      },
+      {
+        "concept": "朦胧音色",
+        "reason": "联想路径：德彪西《月光》 -> 用户追求的音乐特质 -> 朦胧感以洗去杂念"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_05"
+    ],
+    "reasoning": "用户表达进入工作状态的意图，模型应联想到用户特定的‘音乐启动仪式’（听《月光》）及其背后的目的（进入心流）。"
+  },
+  {
+    "id": "q_046",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "周五晚上下班挤在地铁里，感觉整个人都被掏空了。",
+    "trigger_concept": "疲惫/需要放松",
+    "candidate_set": [
+      {
+        "concept": "City Pop",
+        "reason": "联想路径：通勤疲惫 -> 用户的解压歌单 -> City Pop"
+      },
+      {
+        "concept": "地铁 1 号线",
+        "reason": "联想路径：通勤场景 -> 用户的具体通勤路线 -> 杭州地铁 1 号线"
+      },
+      {
+        "concept": "降噪耳机",
+        "reason": "联想路径：通勤听歌 -> 用户的必备装备 -> 佩戴降噪耳机切换歌单"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_08"
+    ],
+    "reasoning": "用户描述通勤疲惫场景，模型应联想到用户在该场景下的特定解决方案（City Pop 歌单 + 降噪耳机），将拥挤转化为惬意。"
+  },
+  {
+    "id": "q_047",
+    "trigger_type": "实体相关记忆联想",
+    "question": "最近在设计上遇到了瓶颈，有点想放弃，觉得坚持好难。",
+    "trigger_concept": "动摇/想放弃",
+    "candidate_set": [
+      {
+        "concept": "陈秀英（妈妈）",
+        "reason": "联想路径：想放弃 -> 用户的动力源泉 -> 母亲陈秀英"
+      },
+      {
+        "concept": "星海牌立式钢琴",
+        "reason": "联想路径：动力源泉 -> 具体激励事件 -> 妈妈在纺织厂省吃俭用买的第一台钢琴"
+      },
+      {
+        "concept": "纺织厂",
+        "reason": "联想路径：妈妈的故事背景 -> 当年省吃俭用的工作环境 -> 纺织厂女工"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_10"
+    ],
+    "reasoning": "用户表达放弃的念头，模型需进行两跳推理：从‘放弃’联想到‘坚持的动力’，再具体化到‘母亲买琴’的感人故事，以此激励用户。"
+  },
+  {
+    "id": "q_048",
+    "trigger_type": "情感相关记忆联想",
+    "question": "深夜独自加班，看着窗外的城市灯火，感到一种说不出的疏离感。",
+    "trigger_concept": "孤独/疏离",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：城市疏离感 -> 用户的共鸣曲目 -> 坂本龙一《Async》"
+      },
+      {
+        "concept": "白噪音",
+        "reason": "联想路径：《Async》的音乐特征 -> 用户喜欢的元素 -> 破碎的电子音效和白噪音"
+      },
+      {
+        "concept": "空间美感",
+        "reason": "联想路径：孤独体验 -> 用户的独特视角 -> 认为孤独本身是一种具有美感的空间存在"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_06"
+    ],
+    "reasoning": "用户表达抽象的孤独感，模型需联想到用户特定的审美应对方式（听坂本龙一），并将这种情绪升华为‘空间美感’的职业洞察。"
+  },
+  {
+    "id": "q_049",
+    "trigger_type": "实体相关记忆联想",
+    "question": "想起上次和表弟一起玩乐器，那种感觉真奇妙。",
+    "trigger_concept": "家庭合奏回忆",
+    "candidate_set": [
+      {
+        "concept": "林子豪",
+        "reason": "联想路径：表弟 -> 具体人物 -> 林子豪（电吉他爱好者）"
+      },
+      {
+        "concept": "电吉他与钢琴合奏",
+        "reason": "联想路径：玩乐器 -> 具体形式 -> 古典钢琴与摇滚电吉他的风格碰撞"
+      },
+      {
+        "concept": "代际和谐",
+        "reason": "联想路径：合奏感受 -> 深层意义 -> 跨越代际和风格的和谐共振"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_07"
+    ],
+    "reasoning": "用户模糊提及合奏，模型需具体化到人物（林子豪）、乐器冲突（钢琴 vs 电吉他）以及这种碰撞带来的情感价值（代际和谐）。"
+  },
+  {
+    "id": "q_050",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "站在人群里感受那种强烈的震动，真的让人敬畏。",
+    "trigger_concept": "敬畏/震动",
+    "candidate_set": [
+      {
+        "concept": "MAO Livehouse",
+        "reason": "联想路径：强烈震动/人群 -> 用户常去的场所 -> MAO Livehouse"
+      },
+      {
+        "concept": "独立乐队",
+        "reason": "联想路径：震动来源 -> 用户观看的对象 -> 独立乐队的鼓点和贝斯"
+      },
+      {
+        "concept": "物理层面的冲击",
+        "reason": "联想路径：敬畏感来源 -> 用户的具体体验描述 -> 区别于古典音乐厅的原始冲击力"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_09"
+    ],
+    "reasoning": "用户描述感官体验，模型需反推场景（MAO Livehouse）和对象（独立乐队），并关联到用户对‘物理震动’与‘古典精致’对比的独特见解。"
+  },
+  {
+    "id": "q_051",
+    "trigger_type": "实体相关记忆联想",
+    "question": "看着湖面的波光，总觉得缺了点什么背景音乐。",
+    "trigger_concept": "西湖/通感",
+    "candidate_set": [
+      {
+        "concept": "德彪西《水中倒影》",
+        "reason": "联想路径：湖面波光 -> 用户的通感匹配曲目 -> 德彪西《水中倒影》"
+      },
+      {
+        "concept": "印象派音乐",
+        "reason": "联想路径：德彪西 -> 音乐流派 -> 印象派音乐对光影的塑造"
+      },
+      {
+        "concept": "建筑空间氛围",
+        "reason": "联想路径：通感体验 -> 用户的职业应用 -> 理解音乐如何像光影一样塑造建筑空间"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_11"
+    ],
+    "reasoning": "用户描述视觉场景（西湖），模型需主动补充听觉缺失（《水中倒影》），并进一步联想到用户如何将这种通感应用于建筑设计理论。"
+  },
+  {
+    "id": "q_052",
+    "trigger_type": "实体相关记忆联想",
+    "question": "有时候真怀念那次在展览上自己弹琴的经历，太难忘。",
+    "trigger_concept": "成就回忆",
+    "candidate_set": [
+      {
+        "concept": "硕士毕业展",
+        "reason": "联想路径：展览弹琴 -> 具体事件 -> 24 岁硕士毕业展"
+      },
+      {
+        "concept": "建筑流线创作",
+        "reason": "联想路径：弹琴内容 -> 曲目来源 -> 根据建筑流线创作的钢琴曲"
+      },
+      {
+        "concept": "建筑与音乐融合",
+        "reason": "联想路径：难忘原因 -> 核心价值 -> 实现了建筑与音乐的完美融合并获得评委好评"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_12"
+    ],
+    "reasoning": "用户回忆高光时刻，模型需具体化事件（毕业展）、内容（基于流线的即兴）以及其象征意义（建筑与音乐的融合），强化用户的职业成就感。"
+  },
+  {
+    "id": "q_053",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近压力大到失眠，感觉脑子里的线都乱了。",
+    "trigger_concept": "极度焦虑",
+    "candidate_set": [
+      {
+        "concept": "巴赫《平均律》的对位法",
+        "reason": "联想路径：脑子乱 -> 需要秩序 -> 巴赫严丝合缝的对位法结构"
+      },
+      {
+        "concept": "建筑骨架隐喻",
+        "reason": "联想路径：秩序需求 -> 用户的思维模型 -> 用音乐结构像建筑骨架一样支撑思绪"
+      },
+      {
+        "concept": "周三/周五练琴习惯",
+        "reason": "联想路径：压力调节 -> 用户的常规出口 -> 提醒用户雷打不动的练琴时间可能是恢复秩序的关键"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_01",
+      "time_06"
+    ],
+    "reasoning": "跨概念推理：从‘乱’联想到‘秩序’，再映射到用户特有的‘巴赫=建筑骨架’隐喻，并结合日常习惯（练琴时间）给出建议，需要整合情感、隐喻和行为模式。"
+  },
+  {
+    "id": "q_054",
+    "trigger_type": "实体相关记忆联想",
+    "question": "看着小时候的照片，突然很想听听以前的声音。",
+    "trigger_concept": "怀旧触发",
+    "candidate_set": [
+      {
+        "concept": "杭州少年宫",
+        "reason": "联想路径：小时候 -> 音乐启蒙地 -> 5 岁开始学琴的杭州少年宫"
+      },
+      {
+        "concept": "林建国讲《二泉映月》",
+        "reason": "联想路径：以前的声音 -> 核心记忆音频 -> 爷爷拉二胡讲故事的声音"
+      },
+      {
+        "concept": "久石让《Summer》的夏天",
+        "reason": "联想路径：怀旧情感 -> 关联的季节与曲目 -> 那个有爷爷和《Summer》旋律的夏天"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_04",
+      "life_events"
+    ],
+    "reasoning": "多跳推理：从‘照片’到‘声音’，需跨越时间维度定位到具体地点（少年宫）、人物活动（爷爷讲故事）和关联曲目（《Summer》），构建完整的怀旧场景。"
+  },
+  {
+    "id": "q_055",
+    "trigger_type": "实体相关记忆联想",
+    "question": "觉得现在的独立音乐现场比古典音乐厅更有生命力。",
+    "trigger_concept": "音乐现场对比",
+    "candidate_set": [
+      {
+        "concept": "MAO Livehouse 的低音震动",
+        "reason": "联想路径：独立音乐现场 -> 用户的具体体验 -> MAO Livehouse 的物理低频冲击"
+      },
+      {
+        "concept": "古典音乐厅的精致",
+        "reason": "联想路径：对比对象 -> 用户的固有认知 -> 古典音乐厅缺乏的原始冲击力"
+      },
+      {
+        "concept": "表弟林子豪的摇滚观",
+        "reason": "联想路径：独立/摇滚偏好 -> 家庭影响 -> 表弟常争论‘古典乐是否过时’的观点"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_09",
+      "family"
+    ],
+    "reasoning": "观点类触发：用户表达偏好，模型需联想到支撑该观点的具体感官体验（MAO 的低音），对比对象（古典厅），以及家庭内部的相关讨论（表弟的观点），形成多维度的对话。"
+  },
+  {
+    "id": "q_056",
+    "trigger_type": "实体相关记忆联想",
+    "question": "有时候觉得，音乐和建筑在本质上其实是相通的。",
+    "trigger_concept": "学科同构思考",
+    "candidate_set": [
+      {
+        "concept": "硕士毕业展的即兴演奏",
+        "reason": "联想路径：学科相通 -> 用户的实践验证 -> 毕业展上根据建筑流线作曲的成功案例"
+      },
+      {
+        "concept": "Philip Glass 的重复性与现代建筑",
+        "reason": "联想路径：学科相通 -> 理论支撑 -> 极简主义音乐的重复结构与建筑立面的秩序感"
+      },
+      {
+        "concept": "德彪西的通感体验",
+        "reason": "联想路径：学科相通 -> 感知基础 -> 在西湖边通过《水中倒影》体验到的视听空间重叠"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_12",
+      "emotion_11",
+      "multihop_10"
+    ],
+    "reasoning": "抽象概念触发：用户提出哲学性问题，模型需调动用户的三大核心证据（毕业展实践、极简主义理论、印象派通感体验）来佐证‘音乐与建筑相通’的观点。"
+  },
+  {
+    "id": "q_057",
+    "trigger_type": "实体相关记忆联想",
+    "question": "无论多累，只要坐上琴凳，就觉得有了依靠。",
+    "trigger_concept": "音乐依赖感",
+    "candidate_set": [
+      {
+        "concept": "妈妈陈秀英买琴的初衷",
+        "reason": "联想路径：依靠感 -> 历史根源 -> 妈妈坚信音乐能改变气质并省吃俭用买琴"
+      },
+      {
+        "concept": "18 岁《送别》的领悟",
+        "reason": "联想路径：依靠感 -> 关键转折点 -> 毕业典礼伴奏时意识到音乐凝聚情感的力量"
+      },
+      {
+        "concept": "雅马哈 U1 立式钢琴",
+        "reason": "联想路径：琴凳 -> 具体物件 -> 书房里那台陪伴多年的雅马哈 U1"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_10",
+      "life_events",
+      "scenes"
+    ],
+    "reasoning": "情感深度挖掘：从‘依靠感’出发，需回溯到母亲的期望（起源）、18 岁的觉醒（深化）以及具体的乐器载体（雅马哈 U1），构建完整的情感支持系统叙事。"
+  },
+  {
+    "id": "q_058",
+    "trigger_type": "情感相关记忆联想",
+    "question": "今天不想听太复杂的曲子，只想让耳朵休息一下。",
+    "trigger_concept": "听觉疲劳/求简",
+    "candidate_set": [
+      {
+        "concept": "阿杰的白噪音项目",
+        "reason": "联想路径：不想听复杂 -> 替代方案 -> 同事阿杰制作的白噪音/环境音项目"
+      },
+      {
+        "concept": "坂本龙一《Async》的留白",
+        "reason": "联想路径：休息耳朵 -> 用户的极简选择 -> 坂本龙一中破碎但宁静的电子音效"
+      },
+      {
+        "concept": "空间声学讨论",
+        "reason": "联想路径：白噪音/休息 -> 工作关联 -> 与阿杰常讨论的空间声学与氛围搭配"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_06",
+      "social_circle"
+    ],
+    "reasoning": "需求反向推理：用户拒绝复杂，模型需联想到用户社交圈中相关的‘简单/氛围’资源（阿杰的白噪音），以及用户对此类音乐（坂本龙一）的特殊解读（孤独的美感）。"
+  },
+  {
+    "id": "q_059",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每次听到那种重复的旋律，思绪就会慢慢沉淀下来。",
+    "trigger_concept": "重复旋律/沉淀",
+    "candidate_set": [
+      {
+        "concept": "Philip Glass 的极简主义",
+        "reason": "联想路径：重复旋律 -> 代表作曲家 -> Philip Glass"
+      },
+      {
+        "concept": "焦虑时的自救机制",
+        "reason": "联想路径：思绪沉淀 -> 应用场景 -> 用户赶图焦虑时依靠重复音型冷静"
+      },
+      {
+        "concept": "建筑结构的秩序感",
+        "reason": "联想路径：重复/沉淀 -> 职业映射 -> 音乐重复性对应建筑结构的稳定性"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_01",
+      "multihop_10"
+    ],
+    "reasoning": "特征联想：从‘重复旋律’这一特征，联想到具体作曲家（Philip Glass），再深入到用户的使用场景（抗焦虑）和职业隐喻（建筑秩序），形成闭环。"
+  },
+  {
+    "id": "q_060",
+    "trigger_type": "实体相关记忆联想",
+    "question": "有时候觉得，最打动人的不是技巧，而是背后的故事。",
+    "trigger_concept": "情感>技巧",
+    "candidate_set": [
+      {
+        "concept": "张教授的批评",
+        "reason": "联想路径：技巧 vs 故事 -> 用户的痛点 -> 恩师张教授常批评‘技巧有余，情感不足’"
+      },
+      {
+        "concept": "爷爷的二胡故事",
+        "reason": "联想路径：背后的故事 -> 核心案例 -> 爷爷讲《二泉映月》背后的故事启蒙了旋律美感"
+      },
+      {
+        "concept": "10 岁比赛银奖与二胡",
+        "reason": "联想路径：技巧非唯一 -> 人生教训 -> 10 岁没拿金奖但收到爷爷二胡，明白音乐是陪伴"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "social_circle",
+      "family",
+      "life_events"
+    ],
+    "reasoning": "价值观触发：用户表达‘重情轻技’，模型需联想到用户成长中的关键冲突（张教授的批评）、启蒙故事（爷爷的二胡）以及早期的人生教训（10 岁比赛），证明这一价值观的形成过程。"
+  },
+  {
+    "id": "q_061",
+    "trigger_type": "多跳记忆联想",
+    "question": "今天挤地铁 1 号线的时候，又靠 City Pop 续命了。",
+    "trigger_concept": "地铁 1 号线",
+    "candidate_set": [
+      {
+        "concept": "苏苏",
+        "reason": "联想路径：地铁 1 号线→City Pop→苏苏（苏苏擅长挑选 City Pop 黑胶）"
+      },
+      {
+        "concept": "黑胶唱片",
+        "reason": "联想路径：地铁 1 号线→City Pop→苏苏→黑胶唱片（苏苏淘绝版单曲的载体）"
+      },
+      {
+        "concept": "独立唱片店",
+        "reason": "联想路径：地铁 1 号线→City Pop→苏苏→黑胶唱片→独立唱片店（周末常去淘货的地方）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_01",
+      "time_05"
+    ],
+    "reasoning": "用户仅提到通勤和歌单风格，模型需跨越三层关系联想到共同欣赏该风格的朋友苏苏及其收藏习惯，体现对社交圈音乐品味的深度记忆。"
+  },
+  {
+    "id": "q_062",
+    "trigger_type": "多跳记忆联想",
+    "question": "赶图赶到焦虑发作，只能弹巴赫救急。",
+    "trigger_concept": "焦虑",
+    "candidate_set": [
+      {
+        "concept": "建筑结构",
+        "reason": "联想路径：焦虑→巴赫《平均律》→建筑结构（用户认为巴赫音乐具有建筑般的秩序感）"
+      },
+      {
+        "concept": "现代建筑设计",
+        "reason": "联想路径：焦虑→巴赫→建筑结构→现代建筑设计（用户职业核心，追求秩序美）"
+      },
+      {
+        "concept": "秩序感",
+        "reason": "联想路径：焦虑→巴赫→建筑结构→秩序感（连接音乐与建筑的核心抽象概念）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_02",
+      "entity_10"
+    ],
+    "reasoning": "从情绪调节行为出发，模型需联想到用户独特的职业视角，将音乐结构映射到建筑设计理念，展现跨领域的认知关联。"
+  },
+  {
+    "id": "q_063",
+    "trigger_type": "多跳记忆联想",
+    "question": "张教授又说我弹德彪西像在做数学题。",
+    "trigger_concept": "张教授",
+    "candidate_set": [
+      {
+        "concept": "德彪西《月光》",
+        "reason": "联想路径：张教授→德彪西（批评的具体曲目）"
+      },
+      {
+        "concept": "西湖",
+        "reason": "联想路径：张教授→德彪西《月光》→西湖（用户为寻找意境常去的地方）"
+      },
+      {
+        "concept": "通感",
+        "reason": "联想路径：张教授→德彪西→西湖→通感（用户在西湖追求的视觉听觉融合体验）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_03",
+      "emotion_11"
+    ],
+    "reasoning": "用户提到老师的批评，模型应主动联想到用户为解决此问题而采取的特定行动（去西湖）及追求的美学目标（通感），体现对用户成长路径的关注。"
+  },
+  {
+    "id": "q_064",
+    "trigger_type": "多跳记忆联想",
+    "question": "小时候爷爷拉二胡的样子，现在想起来还是很感动。",
+    "trigger_concept": "林建国",
+    "candidate_set": [
+      {
+        "concept": "二胡",
+        "reason": "联想路径：林建国→二胡（爷爷擅长的乐器）"
+      },
+      {
+        "concept": "肖邦《夜曲》",
+        "reason": "联想路径：林建国→二胡→肖邦《夜曲》（用户将二胡吟唱感与肖邦装饰音类比）"
+      },
+      {
+        "concept": "东方线性旋律",
+        "reason": "联想路径：林建国→二胡→肖邦→东方线性旋律（用户对西方古典乐的 unique 解读）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_04",
+      "emotion_02"
+    ],
+    "reasoning": "从家族记忆触发，模型需跨越乐器界限，联想到用户如何将传统民乐审美投射到西方古典乐演奏中，展示深层的艺术理解。"
+  },
+  {
+    "id": "q_065",
+    "trigger_type": "多跳记忆联想",
+    "question": "我妈当年在纺织厂真是太不容易了。",
+    "trigger_concept": "陈秀英",
+    "candidate_set": [
+      {
+        "concept": "星海牌立式钢琴",
+        "reason": "联想路径：陈秀英→纺织厂→星海牌立式钢琴（母亲省吃俭用买的第一台琴）"
+      },
+      {
+        "concept": "雅马哈 U1",
+        "reason": "联想路径：陈秀英→星海钢琴→雅马哈 U1（从旧琴到现用琴的迭代）"
+      },
+      {
+        "concept": "自家书房",
+        "reason": "联想路径：陈秀英→星海→雅马哈 U1→自家书房（现用琴的摆放地，情感承载空间）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_05",
+      "entity_12"
+    ],
+    "reasoning": "用户感叹母亲过往，模型应联想到具体的物质载体（旧钢琴与新钢琴）及其所在的空间，将抽象的亲情具象化为练琴场景的变迁。"
+  },
+  {
+    "id": "q_066",
+    "trigger_type": "多跳记忆联想",
+    "question": "表弟那个电吉他噪音有时候真让人头疼，但合奏起来又很爽。",
+    "trigger_concept": "林子豪",
+    "candidate_set": [
+      {
+        "concept": "电吉他",
+        "reason": "联想路径：林子豪→电吉他（表弟的标志性乐器）"
+      },
+      {
+        "concept": "钢琴",
+        "reason": "联想路径：林子豪→电吉他→钢琴（两者合奏产生碰撞）"
+      },
+      {
+        "concept": "即兴演奏",
+        "reason": "联想路径：林子豪→电吉他→钢琴→即兴演奏（合奏时的主要行为模式）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_06",
+      "emotion_03"
+    ],
+    "reasoning": "用户提到表弟和乐器冲突，模型需联想到两人互动的核心形式（即兴合奏）及由此激发的创作状态，体现对家庭音乐互动的记忆。"
+  },
+  {
+    "id": "q_067",
+    "trigger_type": "多跳记忆联想",
+    "question": "每次去 MAO Livehouse 站在前排，那种低音震动太震撼了。",
+    "trigger_concept": "MAO Livehouse",
+    "candidate_set": [
+      {
+        "concept": "独立乐队",
+        "reason": "联想路径：MAO Livehouse→独立乐队（观看对象）"
+      },
+      {
+        "concept": "低音震动",
+        "reason": "联想路径：MAO Livehouse→独立乐队→低音震动（物理感受）"
+      },
+      {
+        "concept": "公共空间设计",
+        "reason": "联想路径：MAO Livehouse→低音震动→公共空间设计（用户从中获取的设计灵感来源）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_08",
+      "multihop_10"
+    ],
+    "reasoning": "用户描述感官体验，模型应主动联想到其作为建筑师的专业习惯，即从音乐现场的人群动态和声波中提取空间设计灵感。"
+  },
+  {
+    "id": "q_068",
+    "trigger_type": "多跳记忆联想",
+    "question": "听到久石让的《Summer》，突然好怀念小时候。",
+    "trigger_concept": "久石让《Summer》",
+    "candidate_set": [
+      {
+        "concept": "怀旧",
+        "reason": "联想路径：久石让《Summer》→怀旧（触发的情感）"
+      },
+      {
+        "concept": "杭州少年宫",
+        "reason": "联想路径：久石让《Summer》→怀旧→杭州少年宫（怀念的具体地点）"
+      },
+      {
+        "concept": "业余十级证书",
+        "reason": "联想路径：久石让《Summer》→怀旧→杭州少年宫→业余十级证书（那段时光的成果证明）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_09",
+      "emotion_04"
+    ],
+    "reasoning": "从音乐触发怀旧情绪，模型需层层递进联想到具体的成长地标和成就里程碑，完整还原用户的童年音乐叙事。"
+  },
+  {
+    "id": "q_069",
+    "trigger_type": "多跳记忆联想",
+    "question": "半夜灵感来了，赶紧用手机录了一段钢琴即兴。",
+    "trigger_concept": "手机录音",
+    "candidate_set": [
+      {
+        "concept": "即兴演奏",
+        "reason": "联想路径：手机录音→即兴演奏（录音的内容来源）"
+      },
+      {
+        "concept": "环境音乐小样",
+        "reason": "联想路径：手机录音→即兴演奏→环境音乐小样（录音素材的后续用途）"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：手机录音→即兴→小样→阿杰（处理这些小样的合作伙伴）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_11",
+      "behavior_06"
+    ],
+    "reasoning": "用户记录创作行为，模型应联想到该行为的完整工作流终点：不仅是为了记录，更是为了与同事阿杰协作完成建筑环境音乐项目。"
+  },
+  {
+    "id": "q_070",
+    "trigger_type": "多跳记忆联想",
+    "question": "想起我妈在纺织厂的日子，我就觉得没什么过不去的坎。",
+    "trigger_concept": "纺织厂",
+    "candidate_set": [
+      {
+        "concept": "陈秀英",
+        "reason": "联想路径：纺织厂→陈秀英（母亲的工作地）"
+      },
+      {
+        "concept": "坚定",
+        "reason": "联想路径：纺织厂→陈秀英→坚定（母亲传递的精神力量）"
+      },
+      {
+        "concept": "硕士毕业展",
+        "reason": "联想路径：纺织厂→陈秀英→坚定→硕士毕业展（这种精神支撑下的高光时刻）"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "multihop_12",
+      "emotion_12"
+    ],
+    "reasoning": "从家庭背景触发情感动力，模型需联想到这种动力在用户职业生涯关键节点（毕业展）的具体体现，完成从家庭史到个人史的跨越。"
+  },
+  {
+    "id": "q_071",
+    "trigger_type": "多跳记忆联想",
+    "question": "最近一直在死磕德彪西的音色。",
+    "trigger_concept": "德彪西",
+    "candidate_set": [
+      {
+        "concept": "《月光》",
+        "reason": "联想路径：德彪西→《月光》（用户正在练习的具体曲目）"
+      },
+      {
+        "concept": "张教授",
+        "reason": "联想路径：德彪西→《月光》→张教授（指导该曲目音色的老师）"
+      },
+      {
+        "concept": "西湖",
+        "reason": "联想路径：德彪西→《月光》→西湖（用户寻找该曲目意境的地点）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_03",
+      "entity_12"
+    ],
+    "reasoning": "用户提到作曲家，模型应联想到具体的练习曲目、相关的指导人物以及为攻克难点而采取的特殊行动，形成完整的练琴情境。"
+  },
+  {
+    "id": "q_072",
+    "trigger_type": "多跳记忆联想",
+    "question": "心情低落的时候，还是肖邦最懂我。",
+    "trigger_concept": "肖邦",
+    "candidate_set": [
+      {
+        "concept": "《夜曲》",
+        "reason": "联想路径：肖邦→《夜曲》（用户悲伤时听的特定体裁）"
+      },
+      {
+        "concept": "林建国",
+        "reason": "联想路径：肖邦→《夜曲》→林建国（用户将肖邦旋律与爷爷的二胡联系起来）"
+      },
+      {
+        "concept": "东方线性旋律",
+        "reason": "联想路径：肖邦→《夜曲》→林建国→东方线性旋律（独特的审美连接点）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_04",
+      "emotion_02"
+    ],
+    "reasoning": "从情绪偏好触发，模型需联想到具体的曲目类型，并进一步挖掘用户赋予该曲目的特殊家族记忆和审美解读。"
+  },
+  {
+    "id": "q_073",
+    "trigger_type": "多跳记忆联想",
+    "question": "书房角落那架雅马哈 U1 陪我好多年了。",
+    "trigger_concept": "雅马哈 U1",
+    "candidate_set": [
+      {
+        "concept": "自家书房",
+        "reason": "联想路径：雅马哈 U1→自家书房（摆放地点）"
+      },
+      {
+        "concept": "星海牌立式钢琴",
+        "reason": "联想路径：雅马哈 U1→星海牌立式钢琴（与前一台钢琴的对比记忆）"
+      },
+      {
+        "concept": "陈秀英",
+        "reason": "联想路径：雅马哈 U1→星海钢琴→陈秀英（购买旧琴的母亲，情感源头）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_05",
+      "entity_12"
+    ],
+    "reasoning": "用户提到现有乐器，模型应反向联想到其前身（母亲买的旧琴）及背后的人物，体现对乐器更替背后情感传承的记忆。"
+  },
+  {
+    "id": "q_074",
+    "trigger_type": "多跳记忆联想",
+    "question": "和阿杰讨论空间声学总是很有共鸣。",
+    "trigger_concept": "阿杰",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：阿杰→坂本龙一《Async》（两人共同喜爱的作品）"
+      },
+      {
+        "concept": "公司会议室",
+        "reason": "联想路径：阿杰→坂本龙一→公司会议室（使用该音乐的场景）"
+      },
+      {
+        "concept": "空间氛围",
+        "reason": "联想路径：阿杰→坂本龙一→会议室→空间氛围（讨论的核心目标）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_07",
+      "behavior_04"
+    ],
+    "reasoning": "用户提到合作伙伴，模型需联想到两人合作的标志性音乐符号、应用场景及共同追求的专业目标，展现职业协作的深度。"
+  },
+  {
+    "id": "q_075",
+    "trigger_type": "多跳记忆联想",
+    "question": "Philip Glass 的重复旋律让我很平静。",
+    "trigger_concept": "Philip Glass",
+    "candidate_set": [
+      {
+        "concept": "极简主义",
+        "reason": "联想路径：Philip Glass→极简主义（音乐风格）"
+      },
+      {
+        "concept": "现代建筑立面",
+        "reason": "联想路径：Philip Glass→极简主义→现代建筑立面（用户将音乐风格类比的设计领域）"
+      },
+      {
+        "concept": "重复性",
+        "reason": "联想路径：Philip Glass→极简主义→建筑立面→重复性（连接两者的核心设计手法）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_10",
+      "emotion_06"
+    ],
+    "reasoning": "用户提到音乐家，模型应联想到其风格特征，并进一步映射到用户建筑设计中的具体应用（立面重复性），体现跨学科思维。"
+  },
+  {
+    "id": "q_076",
+    "trigger_type": "多跳记忆联想",
+    "question": "周末想去淘点黑胶唱片。",
+    "trigger_concept": "黑胶唱片",
+    "candidate_set": [
+      {
+        "concept": "苏苏",
+        "reason": "联想路径：黑胶唱片→苏苏（拥有极佳黑胶品味的朋友）"
+      },
+      {
+        "concept": "City Pop",
+        "reason": "联想路径：黑胶唱片→苏苏→City Pop（苏苏擅长的唱片类型）"
+      },
+      {
+        "concept": "地铁 1 号线",
+        "reason": "联想路径：黑胶唱片→苏苏→City Pop→地铁 1 号线（用户听这类音乐通勤的场景）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_01",
+      "time_05"
+    ],
+    "reasoning": "用户表达购物意图，模型应联想到相关的社交伙伴、特定音乐风格及该风格在日常生活中的应用场景，形成生活化联想。"
+  },
+  {
+    "id": "q_077",
+    "trigger_type": "多跳记忆联想",
+    "question": "今天在公司会议室放点音乐调节下气氛。",
+    "trigger_concept": "公司会议室",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：公司会议室→坂本龙一《Async》（用户习惯播放的曲目）"
+      },
+      {
+        "concept": "阿杰",
+        "reason": "联想路径：公司会议室→坂本龙一→阿杰（共同喜爱此曲的同事）"
+      },
+      {
+        "concept": "空间氛围",
+        "reason": "联想路径：公司会议室→坂本龙一→空间氛围（播放音乐的目的）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_07",
+      "behavior_04"
+    ],
+    "reasoning": "用户提到特定场景，模型需联想到该场景下的标志性行为（播放特定曲目）、相关人物及意图，展示对用户职业习惯的熟悉。"
+  },
+  {
+    "id": "q_078",
+    "trigger_type": "多跳记忆联想",
+    "question": "小时候在杭州少年宫练琴的日子真难忘。",
+    "trigger_concept": "杭州少年宫",
+    "candidate_set": [
+      {
+        "concept": "久石让《Summer》",
+        "reason": "联想路径：杭州少年宫→久石让《Summer》（触发该地点回忆的音乐）"
+      },
+      {
+        "concept": "怀旧",
+        "reason": "联想路径：杭州少年宫→久石让→怀旧（伴随的情感）"
+      },
+      {
+        "concept": "业余十级证书",
+        "reason": "联想路径：杭州少年宫→怀旧→业余十级证书（那段努力的成果）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_09",
+      "emotion_04"
+    ],
+    "reasoning": "用户回忆地点，模型应联想到与该地点强绑定的音乐触发器、情感状态及最终取得的成就，构建完整的成长记忆链。"
+  },
+  {
+    "id": "q_079",
+    "trigger_type": "多跳记忆联想",
+    "question": "德彪西的《月光》总是弹不出那种朦胧感。",
+    "trigger_concept": "德彪西《月光》",
+    "candidate_set": [
+      {
+        "concept": "张教授",
+        "reason": "联想路径：德彪西《月光》→张教授（指出此问题的老师）"
+      },
+      {
+        "concept": "西湖",
+        "reason": "联想路径：德彪西《月光》→张教授→西湖（用户为解决此问题去的地方）"
+      },
+      {
+        "concept": "通感",
+        "reason": "联想路径：德彪西《月光》→西湖→通感（用户在西湖追求的体验）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_03",
+      "behavior_01"
+    ],
+    "reasoning": "用户提出具体技术难题，模型应联想到对此有评价的人物以及用户为克服该难题所采取的独特方法（去西湖找通感）。"
+  },
+  {
+    "id": "q_080",
+    "trigger_type": "多跳记忆联想",
+    "question": "巴赫的《平均律》结构真严谨。",
+    "trigger_concept": "巴赫《平均律》",
+    "candidate_set": [
+      {
+        "concept": "焦虑",
+        "reason": "联想路径：巴赫《平均律》→焦虑（用户弹奏此曲时的情绪背景）"
+      },
+      {
+        "concept": "建筑结构",
+        "reason": "联想路径：巴赫《平均律》→焦虑→建筑结构（用户将音乐结构类比的对象）"
+      },
+      {
+        "concept": "现代建筑设计",
+        "reason": "联想路径：巴赫《平均律》→建筑结构→现代建筑设计（用户的职业领域）"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "multihop_02",
+      "entity_08"
+    ],
+    "reasoning": "用户评论音乐特征，模型需联想到用户弹奏此曲时的情绪动机（缓解焦虑）以及由此引发的职业联想（建筑结构），体现功能性记忆。"
+  },
+  {
+    "id": "q_081",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今早边吃早餐边听广播时，突然对图纸上的一个立面有了新想法。",
+    "trigger_concept": "早餐听广播",
+    "candidate_set": [
+      {
+        "concept": "BBC Radio 3",
+        "reason": "联想路径：早餐听广播→用户习惯播放的特定电台"
+      },
+      {
+        "concept": "建筑图纸",
+        "reason": "联想路径：早餐听广播→用户此时伴随的视觉行为"
+      },
+      {
+        "concept": "秩序感",
+        "reason": "联想路径：早餐听广播→用户追求的心理状态"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_01"
+    ],
+    "reasoning": "用户仅提到‘听广播’和‘图纸’，模型应主动补全具体的电台名称（BBC Radio 3）以及该行为背后的心理目的（建立秩序感），这是用户固定的晨间仪式。"
+  },
+  {
+    "id": "q_082",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚在地铁上被挤得头疼，赶紧切了首歌才平静下来。",
+    "trigger_concept": "地铁切歌",
+    "candidate_set": [
+      {
+        "concept": "地铁 1 号线",
+        "reason": "联想路径：地铁→用户固定的通勤路线"
+      },
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：头疼/平静→用户焦虑时听的极简主义作曲家"
+      },
+      {
+        "concept": "降噪耳机",
+        "reason": "联想路径：地铁听歌→用户隔绝喧嚣的必备设备"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_02"
+    ],
+    "reasoning": "用户描述了场景和情绪变化，模型需联想到具体的路线（1 号线）、特定的解压音乐人（Philip Glass）以及物理设备（降噪耳机），还原用户的通勤调节机制。"
+  },
+  {
+    "id": "q_083",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今晚练琴前手指有点僵，得先活动活动。",
+    "trigger_concept": "练琴前活动手指",
+    "candidate_set": [
+      {
+        "concept": "哈农指法",
+        "reason": "联想路径：练琴前热身→用户雷打不动的热身曲目"
+      },
+      {
+        "concept": "周三或周五",
+        "reason": "联想路径：今晚练琴→用户固定的练琴时间段"
+      },
+      {
+        "concept": "张教授",
+        "reason": "联想路径：练琴习惯→用户启蒙老师的教诲（技巧与情感）"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_03"
+    ],
+    "reasoning": "用户提到练琴前的热身动作，模型应联想到具体的练习教材（哈农）、固定的时间规律（周三/五）以及这一习惯背后的师承关系（张教授）。"
+  },
+  {
+    "id": "q_084",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "马上要进会议室见甲方了，我得先调一下音箱。",
+    "trigger_concept": "会议室调音箱",
+    "candidate_set": [
+      {
+        "concept": "坂本龙一《Async》",
+        "reason": "联想路径：会议室/甲方→用户汇报前固定的氛围音乐"
+      },
+      {
+        "concept": "空间氛围",
+        "reason": "联想路径：调音箱→用户想要达到的‘隐形软装’效果"
+      },
+      {
+        "concept": "提前十分钟",
+        "reason": "联想路径：见甲方前→用户固定的准备时间习惯"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_04"
+    ],
+    "reasoning": "用户触发了汇报前的准备动作，模型需联想到具体的曲目选择（坂本龙一）、操作细节（提前到场）以及该行为的专业目的（营造空间氛围）。"
+  },
+  {
+    "id": "q_085",
+    "trigger_type": "实体相关记忆联想",
+    "question": "周末去巷子里淘碟时，我又忍不住拿笔写写画画了。",
+    "trigger_concept": "淘碟写画",
+    "candidate_set": [
+      {
+        "concept": "独立唱片店",
+        "reason": "联想路径：巷子里淘碟→用户周末常去的地点类型"
+      },
+      {
+        "concept": "苏苏",
+        "reason": "联想路径：淘碟/黑胶→用户的唱片品味引导者"
+      },
+      {
+        "concept": "环境音乐线索",
+        "reason": "联想路径：写写画画→用户记录的具体内容（建筑灵感）"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_05"
+    ],
+    "reasoning": "用户描述了淘碟时的伴随行为，模型应联想到具体的地点（独立唱片店）、关键人物（苏苏）以及记录内容的实质（为建筑设计积累环境音乐素材）。"
+  },
+  {
+    "id": "q_086",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今天西湖边的风很舒服，我带着小音箱坐了一会儿。",
+    "trigger_concept": "西湖带音箱",
+    "candidate_set": [
+      {
+        "concept": "德彪西《水中倒影》",
+        "reason": "联想路径：西湖/小音箱→用户在此场景必听的曲目"
+      },
+      {
+        "concept": "通感",
+        "reason": "联想路径：看湖水听音乐→用户追求的视听重叠体验"
+      },
+      {
+        "concept": "立面设计",
+        "reason": "联想路径：印象派音乐/光影→用户试图捕捉的设计元素"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "behavior_06"
+    ],
+    "reasoning": "用户提到西湖和音箱，模型需直接联想到该场景下的固定曲目（《水中倒影》）、核心体验方式（通感）以及最终的职业应用（立面设计）。"
+  },
+  {
+    "id": "q_087",
+    "trigger_type": "情感相关记忆联想",
+    "question": "最近赶图赶得心烦意乱，今晚想弹点严谨的东西。",
+    "trigger_concept": "心烦弹严谨曲子",
+    "candidate_set": [
+      {
+        "concept": "巴赫《平均律》",
+        "reason": "联想路径：心烦/严谨→用户焦虑时的首选曲目"
+      },
+      {
+        "concept": "关闭大灯只留台灯",
+        "reason": "联想路径：焦虑弹琴→用户特定的环境设置习惯"
+      },
+      {
+        "concept": "秩序感",
+        "reason": "联想路径：严谨音乐→用户试图恢复的心理状态"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_07"
+    ],
+    "reasoning": "用户表达了情绪和音乐偏好，模型需两跳推理：从‘严谨’联想到‘巴赫’，再从‘焦虑弹琴’联想到独特的环境设置（关灯）和心理目标（秩序感）。"
+  },
+  {
+    "id": "q_088",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "刚才即兴弹了一段特别怪的旋律，差点就忘了。",
+    "trigger_concept": "即兴弹怪旋律",
+    "candidate_set": [
+      {
+        "concept": "手机录音",
+        "reason": "联想路径：怕忘/即兴→用户立刻采取的补救措施"
+      },
+      {
+        "concept": "建筑流线",
+        "reason": "联想路径：怪旋律→用户脑海中同步浮现的设计概念"
+      },
+      {
+        "concept": "口述记录",
+        "reason": "联想路径：录音后→用户习惯追加的动作"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_08"
+    ],
+    "reasoning": "用户提到即兴创作的风险，模型需联想到具体的保存手段（手机录音）、跨界的思维内容（建筑流线）以及完整的记录流程（口述）。"
+  },
+  {
+    "id": "q_089",
+    "trigger_type": "实体相关记忆联想",
+    "question": "昨晚和苏苏喝酒时，她又挑了几张我没听过的黑胶。",
+    "trigger_concept": "和苏苏喝酒听黑胶",
+    "candidate_set": [
+      {
+        "concept": "出租屋",
+        "reason": "联想路径：和苏苏聚会→固定的聚会地点"
+      },
+      {
+        "concept": "讲解曲目背景",
+        "reason": "联想路径：苏苏挑歌→用户对应的分工（讲故事）"
+      },
+      {
+        "concept": "冷门佳作",
+        "reason": "联想路径：没听过/苏苏品味→选曲的特征"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_09"
+    ],
+    "reasoning": "用户提到聚会场景，模型需联想到地点（出租屋）、两人默契的分工模式（苏苏选曲、用户讲解）以及选曲的风格特征。"
+  },
+  {
+    "id": "q_090",
+    "trigger_type": "实体相关记忆联想",
+    "question": "上次去 Livehouse 站在前排，那种震动感让我想到个公共空间的设计点子。",
+    "trigger_concept": "Livehouse 前排震动",
+    "candidate_set": [
+      {
+        "concept": "MAO Livehouse",
+        "reason": "联想路径：Livehouse→用户常去的具体场地"
+      },
+      {
+        "concept": "人群动态",
+        "reason": "联想路径：站在前排→用户观察的另一个重点对象"
+      },
+      {
+        "concept": "表弟林子豪",
+        "reason": "联想路径：摇滚乐/震动→用户与之争论或合奏的亲人"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_10"
+    ],
+    "reasoning": "用户从体验联想到设计，模型需补全具体地点（MAO）、观察细节（人群动态）以及可能的相关人物（玩摇滚的表弟），形成完整的体验 - 设计闭环。"
+  },
+  {
+    "id": "q_091",
+    "trigger_type": "实体相关记忆联想",
+    "question": "突然很想念小时候在少年宫练琴的日子。",
+    "trigger_concept": "想念少年宫练琴",
+    "candidate_set": [
+      {
+        "concept": "爷爷林建国",
+        "reason": "联想路径：少年宫/怀念→用户最思念的启蒙者"
+      },
+      {
+        "concept": "久石让《Summer》",
+        "reason": "联想路径：怀念童年/夏天→用户此时会听的音乐"
+      },
+      {
+        "concept": "旧录音",
+        "reason": "联想路径：想念练琴→用户会翻出的具体物品"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_11"
+    ],
+    "reasoning": "用户表达怀旧情绪，模型需进行多跳联想：从少年宫联想到爷爷，从童年夏天联想到《Summer》，从练琴记忆联想到旧录音，构建完整的情感场景。"
+  },
+  {
+    "id": "q_092",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "阿杰说他的白噪音项目还缺一点温暖的钢琴音色。",
+    "trigger_concept": "阿杰缺钢琴音色",
+    "candidate_set": [
+      {
+        "concept": "现场即兴弹奏采样",
+        "reason": "联想路径：阿杰/缺音色→用户习惯的协作方式"
+      },
+      {
+        "concept": "空间声学讨论",
+        "reason": "联想路径：阿杰/白噪音→两人合作的核心议题"
+      },
+      {
+        "concept": "协作设计",
+        "reason": "联想路径：演奏 + 技术→两人合作模式的定义"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_12"
+    ],
+    "reasoning": "用户提到同事的需求，模型需联想到具体的解决行动（现场即兴采样）、合作背景（空间声学）以及这种合作模式的本质（协作设计）。"
+  },
+  {
+    "id": "q_093",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "今早听广播时听到一段德彪西，感觉和我正在画的这个曲面屋顶特别搭。",
+    "trigger_concept": "广播听德彪西配屋顶",
+    "candidate_set": [
+      {
+        "concept": "BBC Radio 3",
+        "reason": "联想路径：早间广播→固定电台"
+      },
+      {
+        "concept": "《水中倒影》",
+        "reason": "联想路径：德彪西/水面感→用户常联想的具体曲目（虽此处是屋顶，但德彪西常关联水/光影）"
+      },
+      {
+        "concept": "西湖通感体验",
+        "reason": "联想路径：德彪西/建筑→用户曾在西湖边进行的类似通感训练"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_01",
+      "behavior_06"
+    ],
+    "reasoning": "用户将晨间习惯与具体作品结合，模型需联想到电台名称，并进一步跳跃到用户另一个强相关的德彪西体验场景（西湖通感），体现跨场景的知识迁移。"
+  },
+  {
+    "id": "q_094",
+    "trigger_type": "情感相关记忆联想",
+    "question": "今天在地铁上没听极简主义，反而听了些轻快的曲子，因为方案通过了。",
+    "trigger_concept": "地铁听轻快曲子",
+    "candidate_set": [
+      {
+        "concept": "City Pop",
+        "reason": "联想路径：轻快/放松→用户心情好时的固定歌单"
+      },
+      {
+        "concept": "Philip Glass",
+        "reason": "联想路径：对比项→用户平时焦虑时听的作曲家（作为反衬）"
+      },
+      {
+        "concept": "歌单切换仪式",
+        "reason": "联想路径：根据心情切歌→用户像调校灯光一样精细的习惯"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_02"
+    ],
+    "reasoning": "用户描述了反常行为（没听极简），模型需通过对比联想到平时的习惯（Philip Glass），并确认当前的选择（City Pop）及背后的行为逻辑（心情驱动的歌单切换）。"
+  },
+  {
+    "id": "q_095",
+    "trigger_type": "时间相关记忆联想",
+    "question": "这周没练哈农，直接弹了《月光》，感觉音色还是不够朦胧。",
+    "trigger_concept": "跳过哈农弹月光",
+    "candidate_set": [
+      {
+        "concept": "张教授的批评",
+        "reason": "联想路径：音色不够/月光→用户恩师常指出的问题（技巧有余情感不足）"
+      },
+      {
+        "concept": "周三或周五的破例",
+        "reason": "联想路径：跳过热身→用户通常雷打不动的习惯被打破"
+      },
+      {
+        "concept": "追求光影质感",
+        "reason": "联想路径：朦胧感→用户练琴的核心美学目标"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "behavior_03"
+    ],
+    "reasoning": "用户打破了常规（跳过哈农），模型需联想到这一行为违背了谁的教诲（张教授），并指出用户真正追求的美学目标（朦胧/光影），体现对人物关系的深度记忆。"
+  },
+  {
+    "id": "q_096",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "为了准备下周的汇报，我最近在会议室试了好多遍坂本龙一。",
+    "trigger_concept": "会议室试坂本龙一",
+    "candidate_set": [
+      {
+        "concept": "《Async》",
+        "reason": "联想路径：坂本龙一/汇报→用户固定的曲目选择"
+      },
+      {
+        "concept": "调节音量匹配空间",
+        "reason": "联想路径：试好多遍→用户具体的操作细节（像软装一样调节）"
+      },
+      {
+        "concept": "隐形软装概念",
+        "reason": "联想路径：音乐调节氛围→用户对音乐在空间中作用的独特理解"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_04"
+    ],
+    "reasoning": "用户提到反复试验，模型需联想到具体的曲目（《Async》），并深入解释用户‘试’的具体内容（音量调节）及其背后的设计理念（隐形软装），展示对专业方法论的记忆。"
+  },
+  {
+    "id": "q_097",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "在唱片店听到一首 City Pop，立刻想到苏苏上次推荐的那张，觉得适合做个儿童活动区的背景乐。",
+    "trigger_concept": "City Pop 联想儿童区",
+    "candidate_set": [
+      {
+        "concept": "灵感记录小本子",
+        "reason": "联想路径：想到适合→用户习惯立刻记录的动作"
+      },
+      {
+        "concept": "周末下午的淘碟习惯",
+        "reason": "联想路径：唱片店→用户固定的时间行为模式"
+      },
+      {
+        "concept": "建筑 - 音乐素材库",
+        "reason": "联想路径：记录适用场景→用户构建个人库的长期目标"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_05"
+    ],
+    "reasoning": "用户将音乐类型与具体建筑功能关联，模型需联想到用户的记录工具（小本子）、时间习惯（周末下午）以及这一行为在用户工作流中的宏观意义（构建素材库）。"
+  },
+  {
+    "id": "q_098",
+    "trigger_type": "行为模式相关记忆联想",
+    "question": "看着西湖的水，突然觉得德彪西写的不是音乐，是光。",
+    "trigger_concept": "西湖德彪西即光",
+    "candidate_set": [
+      {
+        "concept": "《水中倒影》",
+        "reason": "联想路径：西湖/德彪西→用户必听的具体曲目"
+      },
+      {
+        "concept": "便携蓝牙音箱",
+        "reason": "联想路径：西湖听歌→用户携带的特定设备"
+      },
+      {
+        "concept": "立面设计灵感",
+        "reason": "联想路径：光/建筑→用户试图捕捉并应用的设计元素"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_06"
+    ],
+    "reasoning": "用户表达了深刻的通感体验，模型需联想到具体的曲目（《水中倒影》）、物理媒介（便携音箱）以及这种体验最终如何转化为职业产出（立面设计），完成从感性到理性的跨越。"
+  },
+  {
+    "id": "q_099",
+    "trigger_type": "情感相关记忆联想",
+    "question": "焦虑的时候，还是只有在黑暗里弹巴赫最管用。",
+    "trigger_concept": "黑暗弹巴赫",
+    "candidate_set": [
+      {
+        "concept": "只留一盏台灯",
+        "reason": "联想路径：黑暗→用户特定的灯光设置细节"
+      },
+      {
+        "concept": "《平均律》",
+        "reason": "联想路径：巴赫/焦虑→用户具体的练习曲目"
+      },
+      {
+        "concept": "机械运动带来的秩序",
+        "reason": "联想路径：黑暗/专注→用户心理调节的核心机制"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_07"
+    ],
+    "reasoning": "用户概括了应对焦虑的方法，模型需还原具体的场景细节（一盏台灯）、具体曲目（《平均律》）以及深层的心理机制（机械运动带来的秩序感），展示对用户内心世界的理解。"
+  },
+  {
+    "id": "q_100",
+    "trigger_type": "实体相关记忆联想",
+    "question": "翻出以前的录音听，感觉爷爷拉二胡的声音还在耳边。",
+    "trigger_concept": "听旧录音想爷爷",
+    "candidate_set": [
+      {
+        "concept": "杭州少年宫",
+        "reason": "联想路径：旧录音/爷爷→录音发生的地点"
+      },
+      {
+        "concept": "久石让《Summer》",
+        "reason": "联想路径：爷爷/夏天→用户此时会搭配聆听的音乐"
+      },
+      {
+        "concept": "10 岁时的银奖与二胡礼物",
+        "reason": "联想路径：爷爷/音乐启蒙→用户与爷爷之间具体的关键事件"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "behavior_11"
+    ],
+    "reasoning": "用户触发深层情感记忆，模型需进行多跳推理：从录音联想到地点（少年宫），从情感氛围联想到配套音乐（《Summer》），并进一步提取具体的生命事件（10 岁获奖与二胡礼物），展现对人物生命史的完整记忆。"
+  },
+  {
+    "id": "q_101",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每次感到焦虑或压力爆棚的时候，我总会弹点什么来平复心绪。",
+    "trigger_concept": "焦虑/压力大",
+    "candidate_set": [
+      {
+        "concept": "爷爷林建国送的旧二胡",
+        "reason": "用户曾在 10 岁比赛失落时收到爷爷送的二胡，明白了音乐是陪伴而非竞争，这一记忆根源能深层解释为何她在焦虑时追求音乐的‘支撑感’而非单纯技巧。"
+      },
+      {
+        "concept": "建筑骨架的隐喻",
+        "reason": "用户作为建筑师，习惯将巴赫严谨的对位法结构比作‘建筑骨架’，这是她职业身份与音乐调节机制的独特连接点，问题中未提及但隐含在她的认知逻辑里。"
+      },
+      {
+        "concept": "哈农指法热身",
+        "reason": "用户有周三、周五雷打不动的练琴习惯，且以哈农指法热身，这是她建立秩序感的日常仪式，与焦虑时寻求秩序的心理机制高度同源。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_01",
+      "life_events_10 岁"
+    ],
+    "reasoning": "从表面的‘焦虑->巴赫’行为，联想到背后的家族情感支撑（爷爷的二胡）、职业思维映射（建筑骨架）以及日常习惯（哈农），构建了立体的心理画像。"
+  },
+  {
+    "id": "q_102",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每当感到悲伤或失落时，我总会选择聆听肖邦的《夜曲》或拉赫玛尼诺夫的作品。",
+    "trigger_concept": "悲伤/失落",
+    "candidate_set": [
+      {
+        "concept": "妈妈陈秀英省吃俭用买钢琴的背影",
+        "reason": "用户在感到坚定或需要力量时会想起母亲买琴的往事，而在悲伤时选择沉浸忧郁，这两者构成了‘支持’与‘宣泄’的情感闭环，母亲的形象是底层的情感锚点。"
+      },
+      {
+        "concept": "宏大的忧郁空间感",
+        "reason": "用户作为建筑师，倾向于将拉赫玛尼诺夫的音乐体验为一种‘宏大的空间存在’，这种通感是她处理悲伤的独特方式，将情绪具象化为可居住的空间。"
+      },
+      {
+        "concept": "18 岁毕业典礼的《送别》",
+        "reason": "用户曾在毕业典礼上通过音乐凝聚情感，那次经历让她意识到音乐宣泄的力量，是她现在敢于在失落时‘允许自己沉浸’的行为源头。"
+      }
+    ],
+    "difficulty": "hard",
+    "source_pairs": [
+      "emotion_02",
+      "life_events_18 岁",
+      "emotion_10"
+    ],
+    "reasoning": "不仅询问悲伤时的行为，更引导模型联想到支撑这种行为的家庭记忆（母亲）、职业视角的转化（空间感）以及关键人生节点（毕业典礼）对音乐观的塑造。"
+  },
+  {
+    "id": "q_103",
+    "trigger_type": "情感相关记忆联想",
+    "question": "当灵感迸发或感到兴奋时，我总是想方设法去捕捉那些转瞬即逝的旋律。",
+    "trigger_concept": "灵感迸发/兴奋",
+    "candidate_set": [
+      {
+        "concept": "同事阿杰的白噪音项目",
+        "reason": "用户记录的旋律动机常被用于阿杰的白噪音项目，这种‘建筑 - 音乐’的协作关系是她灵感变现的重要出口，是兴奋感延续的社会化场景。"
+      },
+      {
+        "concept": "不协和和弦的尝试",
+        "reason": "用户特意提到在兴奋时会尝试‘不协和和弦’，这与她平时练习的古典曲目形成反差，体现了她作为现代建筑设计师对非传统和谐美的追求。"
+      },
+      {
+        "concept": "硕士毕业展的现场演奏",
+        "reason": "用户曾在毕业展上将即兴创作的建筑流线音乐化并获得成功，这一高光时刻是她现在敢于在灵感来临时立刻录音并转化为作品的信心来源。"
+      }
+    ],
+    "difficulty": "medium",
+    "source_pairs": [
+      "emotion_03",
+      "life_events_24 岁",
+      "social_circle_阿杰"
+    ],
+    "reasoning": "从‘录音’这一动作，联想到其应用场景（阿杰的项目）、音乐特征（不协和和弦）以及历史验证（毕业展的成功），展示了灵感从产生到落地的完整链条。"
+  },
+  {
+    "id": "q_104",
+    "trigger_type": "情感相关记忆联想",
+    "question": "每当感到怀旧或思念亲人时，总有一些声音或旋律能把我带回到过去。",
+    "trigger_concept": "怀旧/思念",
+    "candidate_set": [
+      {
+        "concept": "爷爷讲述的《二泉映月》故事",
+        "reason": "用户思念爷爷时不仅听久石让，更深层的记忆是爷爷拉着二胡讲《二泉映月》的场景，这是她对中国旋律美感认知的启蒙，是怀旧的核心内容。"
+      },
+      {
+        "concept": "杭州少年宫的练琴时光",
+        "reason": "用户从 5 岁起在少年宫启蒙，那里的旧录音承载了她与爷爷共度的夏天，具体地点‘少年宫’是连接童年记忆与当下情感的关键空间实体。"
+      },
+      {
+        "concept": "表弟林子豪的电吉他",
+        "reason": "虽然主要思念爷爷，但用户与表弟的音乐争论与合奏也是家族记忆的一部分，代表了新一代的音乐传承，构成了‘过去（爷爷）’与‘现在（表弟）’的代际对照。"
+      }
+    ],
+    "difficulty": "easy",
+    "source_pairs": [
+      "emotion_04",
+      "family_爷爷",
+      "family_表弟"
+    ],
+    "reasoning": "从‘久石让《Summer》’这一触发点，自然联想到具体的故事内容（二泉映月）、地点（少年宫）以及家族中另一代人的音乐形象（表弟），丰富了怀旧的层次感。"
+  }
+]
